@@ -1,0 +1,74 @@
+{
+  "title": "Modelo de vistas 4+1 (Kruchten)",
+  "topic": "B2 · Arquitectura y sistemas distribuidos",
+  "order": 50,
+  "width": 1000,
+  "height": 500,
+  "fuente": "Sommerville, cap. 6 · Celina, pág. 42 · PF, págs. 33–34",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 394,
+      "y": 194,
+      "w": 212,
+      "h": 72,
+      "answer": "Escenarios",
+      "level": "clave",
+      "accept": [
+        "Casos de uso",
+        "Escenarios o casos de uso",
+        "Escenarios (casos de uso)"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 64,
+      "y": 54,
+      "w": 292,
+      "h": 36,
+      "answer": "Vista lógica",
+      "level": "clave",
+      "accept": [
+        "Lógica"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 644,
+      "y": 54,
+      "w": 292,
+      "h": 36,
+      "answer": "Vista de procesos",
+      "level": "clave",
+      "accept": [
+        "Procesos",
+        "Vista de proceso"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 64,
+      "y": 304,
+      "w": 292,
+      "h": 36,
+      "answer": "Vista de desarrollo",
+      "level": "clave",
+      "accept": [
+        "Desarrollo"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 644,
+      "y": 304,
+      "w": 292,
+      "h": 36,
+      "answer": "Vista física",
+      "level": "clave",
+      "accept": [
+        "Física",
+        "Vista de despliegue"
+      ]
+    }
+  ]
+}

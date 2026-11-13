@@ -1,0 +1,152 @@
+{
+  "title": "XP: valores, actividades básicas y diseño simple",
+  "topic": "B5 · Agilidad y XP",
+  "order": 30,
+  "width": 1040,
+  "height": 400,
+  "fuente": "Celina, págs. 150–152 · PF, págs. 329–335 · Parcial 2024 P11 · Recuperatorio 2024 P16",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 24,
+      "y": 80,
+      "w": 260,
+      "h": 40,
+      "answer": "Simplicidad",
+      "level": "clave"
+    },
+    {
+      "id": "b2",
+      "x": 24,
+      "y": 138,
+      "w": 260,
+      "h": 40,
+      "answer": "Comunicación",
+      "level": "clave"
+    },
+    {
+      "id": "b3",
+      "x": 24,
+      "y": 196,
+      "w": 260,
+      "h": 40,
+      "answer": "Retroalimentación",
+      "level": "clave",
+      "accept": [
+        "Feedback"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 24,
+      "y": 254,
+      "w": 260,
+      "h": 40,
+      "answer": "Coraje",
+      "level": "clave",
+      "accept": [
+        "Valentía"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 24,
+      "y": 312,
+      "w": 260,
+      "h": 40,
+      "answer": "Respeto",
+      "level": "clave"
+    },
+    {
+      "id": "b6",
+      "x": 304,
+      "y": 80,
+      "w": 260,
+      "h": 40,
+      "answer": "Programar",
+      "level": "clave",
+      "accept": [
+        "Codificar"
+      ]
+    },
+    {
+      "id": "b7",
+      "x": 304,
+      "y": 138,
+      "w": 260,
+      "h": 40,
+      "answer": "Probar",
+      "level": "clave"
+    },
+    {
+      "id": "b8",
+      "x": 304,
+      "y": 196,
+      "w": 260,
+      "h": 40,
+      "answer": "Escuchar",
+      "level": "clave"
+    },
+    {
+      "id": "b9",
+      "x": 304,
+      "y": 254,
+      "w": 260,
+      "h": 40,
+      "answer": "Diseñar",
+      "level": "clave",
+      "accept": [
+        "Diseño"
+      ]
+    },
+    {
+      "id": "b10",
+      "x": 584,
+      "y": 80,
+      "w": 420,
+      "h": 40,
+      "answer": "Ejecuta todas las pruebas",
+      "level": "clave",
+      "accept": [
+        "Pasa todas las pruebas"
+      ]
+    },
+    {
+      "id": "b11",
+      "x": 584,
+      "y": 138,
+      "w": 420,
+      "h": 40,
+      "answer": "No tiene lógica duplicada",
+      "level": "clave",
+      "accept": [
+        "Sin lógica duplicada",
+        "No tiene duplicación"
+      ]
+    },
+    {
+      "id": "b12",
+      "x": 584,
+      "y": 196,
+      "w": 420,
+      "h": 40,
+      "answer": "Declara las intenciones importantes",
+      "level": "clave",
+      "accept": [
+        "Declara todas las intenciones importantes de los programadores"
+      ]
+    },
+    {
+      "id": "b13",
+      "x": 584,
+      "y": 254,
+      "w": 420,
+      "h": 40,
+      "answer": "Tiene la menor cantidad de clases y métodos",
+      "level": "clave",
+      "accept": [
+        "Menor cantidad de clases y métodos"
+      ]
+    }
+  ]
+}

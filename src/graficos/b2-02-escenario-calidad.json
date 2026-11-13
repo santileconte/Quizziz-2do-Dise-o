@@ -1,0 +1,75 @@
+{
+  "title": "Las seis partes de un escenario de atributo de calidad",
+  "topic": "B2 · Arquitectura y sistemas distribuidos",
+  "order": 20,
+  "width": 1040,
+  "height": 330,
+  "fuente": "Bass et al., fig. 3.1 · Celina, págs. 26–27 · PF, pág. 49",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 34,
+      "y": 124,
+      "w": 172,
+      "h": 62,
+      "answer": "Fuente del estímulo",
+      "level": "clave",
+      "accept": [
+        "Fuente de estímulo",
+        "Fuente"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 465,
+      "y": 63,
+      "w": 140,
+      "h": 30,
+      "answer": "Entorno",
+      "level": "clave",
+      "accept": [
+        "Ambiente"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 449,
+      "y": 129,
+      "w": 172,
+      "h": 62,
+      "answer": "Artefacto",
+      "level": "clave"
+    },
+    {
+      "id": "b4",
+      "x": 844,
+      "y": 124,
+      "w": 172,
+      "h": 62,
+      "answer": "Medida de la respuesta",
+      "level": "clave",
+      "accept": [
+        "Medida de respuesta",
+        "Medida"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 248,
+      "y": 123,
+      "w": 120,
+      "h": 30,
+      "answer": "Estímulo",
+      "level": "clave"
+    },
+    {
+      "id": "b6",
+      "x": 675,
+      "y": 123,
+      "w": 120,
+      "h": 30,
+      "answer": "Respuesta",
+      "level": "clave"
+    }
+  ]
+}

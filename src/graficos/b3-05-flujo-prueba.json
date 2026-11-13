@@ -1,0 +1,125 @@
+{
+  "title": "Flujo de trabajo de Prueba",
+  "topic": "B3 · PUDS",
+  "order": 50,
+  "width": 1000,
+  "height": 546,
+  "fuente": "PUDS, cap. 11 · Celina, pág. 123",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 16,
+      "y": 72,
+      "w": 168,
+      "h": 29,
+      "answer": "Ingeniero de pruebas",
+      "level": "clave",
+      "accept": [
+        "Diseñador de pruebas"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 5,
+      "y": 190,
+      "w": 191,
+      "h": 48,
+      "answer": "Ingeniero de pruebas de integración",
+      "level": "clave"
+    },
+    {
+      "id": "b3",
+      "x": 5,
+      "y": 318,
+      "w": 191,
+      "h": 48,
+      "answer": "Ingeniero de pruebas de sistema",
+      "level": "clave"
+    },
+    {
+      "id": "b4",
+      "x": 25,
+      "y": 446,
+      "w": 150,
+      "h": 48,
+      "answer": "Ingeniero de componentes",
+      "level": "clave"
+    },
+    {
+      "id": "b5",
+      "x": 215,
+      "y": 18,
+      "w": 150,
+      "h": 29,
+      "answer": "Planificar prueba",
+      "level": "clave",
+      "accept": [
+        "Planear la prueba",
+        "Planificar la prueba"
+      ]
+    },
+    {
+      "id": "b6",
+      "x": 395,
+      "y": 18,
+      "w": 150,
+      "h": 29,
+      "answer": "Diseñar prueba",
+      "level": "clave",
+      "accept": [
+        "Diseñar la prueba"
+      ]
+    },
+    {
+      "id": "b7",
+      "x": 835,
+      "y": 18,
+      "w": 150,
+      "h": 29,
+      "answer": "Evaluar prueba",
+      "level": "clave",
+      "accept": [
+        "Evaluar la prueba"
+      ]
+    },
+    {
+      "id": "b8",
+      "x": 605,
+      "y": 136,
+      "w": 150,
+      "h": 48,
+      "answer": "Realizar prueba de integración",
+      "level": "clave",
+      "accept": [
+        "Realizar pruebas de integración",
+        "Efectuar prueba de integración"
+      ]
+    },
+    {
+      "id": "b9",
+      "x": 725,
+      "y": 264,
+      "w": 150,
+      "h": 48,
+      "answer": "Realizar prueba de sistema",
+      "level": "clave",
+      "accept": [
+        "Realizar prueba del sistema",
+        "Efectuar prueba de sistema"
+      ]
+    },
+    {
+      "id": "b10",
+      "x": 476,
+      "y": 402,
+      "w": 169,
+      "h": 29,
+      "answer": "Implementar pruebas",
+      "level": "clave",
+      "accept": [
+        "Implementar prueba",
+        "Implementar la prueba"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "title": "Arquitectura orientada a servicios (SOA)",
+  "topic": "B2 · Arquitectura y sistemas distribuidos",
+  "order": 70,
+  "width": 1040,
+  "height": 430,
+  "fuente": "Sommerville, fig. 18.2 · Celina, págs. 58–60 · PF, págs. 106–109",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 209,
+      "y": 34,
+      "w": 232,
+      "h": 54,
+      "answer": "Registro de servicios",
+      "level": "clave",
+      "accept": [
+        "Registro",
+        "Registro de servicio"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 34,
+      "y": 254,
+      "w": 232,
+      "h": 54,
+      "answer": "Solicitante del servicio",
+      "level": "clave",
+      "accept": [
+        "Solicitante",
+        "Solicitante de servicios",
+        "Cliente del servicio"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 384,
+      "y": 254,
+      "w": 232,
+      "h": 54,
+      "answer": "Proveedor del servicio",
+      "level": "clave",
+      "accept": [
+        "Proveedor",
+        "Proveedor de servicios"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 65,
+      "y": 150,
+      "w": 120,
+      "h": 29,
+      "answer": "Encontrar",
+      "level": "clave",
+      "accept": [
+        "Buscar",
+        "Find",
+        "Descubrir"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 465,
+      "y": 150,
+      "w": 120,
+      "h": 29,
+      "answer": "Publicar",
+      "level": "clave",
+      "accept": [
+        "Publish"
+      ]
+    },
+    {
+      "id": "b6",
+      "x": 250,
+      "y": 320,
+      "w": 150,
+      "h": 29,
+      "answer": "Enlazar",
+      "level": "clave",
+      "accept": [
+        "Bind",
+        "Vincular",
+        "Enlazar (SOAP)"
+      ]
+    },
+    {
+      "id": "b7",
+      "x": 685,
+      "y": 105,
+      "w": 110,
+      "h": 48,
+      "answer": "SOAP",
+      "level": "clave"
+    },
+    {
+      "id": "b8",
+      "x": 685,
+      "y": 163,
+      "w": 110,
+      "h": 48,
+      "answer": "WSDL",
+      "level": "clave"
+    },
+    {
+      "id": "b9",
+      "x": 685,
+      "y": 221,
+      "w": 110,
+      "h": 56,
+      "answer": "WS-BPEL",
+      "level": "extra",
+      "accept": [
+        "BPEL"
+      ]
+    },
+    {
+      "id": "b10",
+      "x": 685,
+      "y": 287,
+      "w": 110,
+      "h": 48,
+      "answer": "UDDI",
+      "level": "extra"
+    }
+  ]
+}

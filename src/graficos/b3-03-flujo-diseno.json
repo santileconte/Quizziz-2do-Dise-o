@@ -1,0 +1,93 @@
+{
+  "title": "Flujo de trabajo de Diseño",
+  "topic": "B3 · PUDS",
+  "order": 30,
+  "width": 1000,
+  "height": 418,
+  "fuente": "PUDS, fig. 9.16 · Celina, pág. 100 · Recuperatorio 2024, P6",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 25,
+      "y": 72,
+      "w": 150,
+      "h": 29,
+      "answer": "Arquitecto",
+      "level": "clave"
+    },
+    {
+      "id": "b2",
+      "x": 13,
+      "y": 190,
+      "w": 174,
+      "h": 48,
+      "answer": "Ingeniero de casos de uso",
+      "level": "clave",
+      "accept": [
+        "Ingeniero de CU"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 25,
+      "y": 318,
+      "w": 150,
+      "h": 48,
+      "answer": "Ingeniero de componentes",
+      "level": "clave"
+    },
+    {
+      "id": "b4",
+      "x": 203,
+      "y": 18,
+      "w": 195,
+      "h": 29,
+      "answer": "Diseño de la arquitectura",
+      "level": "clave",
+      "accept": [
+        "Diseño arquitectónico",
+        "Diseñar la arquitectura"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 568,
+      "y": 146,
+      "w": 184,
+      "h": 29,
+      "answer": "Diseñar un caso de uso",
+      "level": "clave",
+      "accept": [
+        "Diseño de un caso de uso",
+        "Diseñar caso de uso",
+        "Diseñar CU"
+      ]
+    },
+    {
+      "id": "b6",
+      "x": 405,
+      "y": 274,
+      "w": 150,
+      "h": 29,
+      "answer": "Diseñar una clase",
+      "level": "clave",
+      "accept": [
+        "Diseño de una clase",
+        "Diseñar clase"
+      ]
+    },
+    {
+      "id": "b7",
+      "x": 781,
+      "y": 274,
+      "w": 179,
+      "h": 29,
+      "answer": "Diseñar un subsistema",
+      "level": "clave",
+      "accept": [
+        "Diseño de un subsistema",
+        "Diseñar subsistema"
+      ]
+    }
+  ]
+}

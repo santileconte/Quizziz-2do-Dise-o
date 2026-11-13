@@ -1,0 +1,88 @@
+{
+  "title": "Notación de una máquina de estados",
+  "topic": "B1 · Diseño orientado a objetos",
+  "order": 30,
+  "width": 1000,
+  "height": 300,
+  "fuente": "UML · Apunte de Fidanza, págs. 46–52 · PF, págs. 8–11 y 23–25",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 7,
+      "y": 156,
+      "w": 130,
+      "h": 28,
+      "answer": "Estado inicial",
+      "level": "clave",
+      "accept": [
+        "Inicial",
+        "Pseudoestado inicial"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 194,
+      "y": 104,
+      "w": 172,
+      "h": 52,
+      "answer": "Estado",
+      "level": "extra",
+      "accept": [
+        "Estado A"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 385,
+      "y": 90,
+      "w": 90,
+      "h": 29,
+      "answer": "evento",
+      "level": "clave",
+      "accept": [
+        "Evento",
+        "disparador"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 460,
+      "y": 90,
+      "w": 90,
+      "h": 29,
+      "answer": "guarda",
+      "level": "clave",
+      "accept": [
+        "[guarda]",
+        "condición",
+        "condición de guarda"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 540,
+      "y": 90,
+      "w": 90,
+      "h": 29,
+      "answer": "acción",
+      "level": "clave",
+      "accept": [
+        "/ acción",
+        "accion",
+        "efecto"
+      ]
+    },
+    {
+      "id": "b6",
+      "x": 872,
+      "y": 156,
+      "w": 120,
+      "h": 28,
+      "answer": "Estado final",
+      "level": "clave",
+      "accept": [
+        "Final"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Las tres estructuras de una arquitectura (Bass)",
+  "topic": "B2 · Arquitectura y sistemas distribuidos",
+  "order": 10,
+  "width": 1040,
+  "height": 420,
+  "fuente": "Bass et al., cap. 1 · Celina, págs. 20–22 · Parcial 2024, P9 · Recuperatorio 2024, P10",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 225,
+      "y": 25,
+      "w": 260,
+      "h": 36,
+      "answer": "Módulos",
+      "level": "clave",
+      "accept": [
+        "Estructuras de módulos"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 495,
+      "y": 25,
+      "w": 260,
+      "h": 36,
+      "answer": "Componentes y conectores",
+      "level": "clave",
+      "accept": [
+        "C&C",
+        "Componentes y conectores (C&C)"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 765,
+      "y": 25,
+      "w": 260,
+      "h": 36,
+      "answer": "Asignación",
+      "level": "clave",
+      "accept": [
+        "Estructuras de asignación",
+        "Allocation"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 225,
+      "y": 219,
+      "w": 260,
+      "h": 72,
+      "answer": "Descomposición, usos, capas, clases",
+      "level": "extra",
+      "accept": [
+        "Descomposición, usos, capas y clases"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 495,
+      "y": 219,
+      "w": 260,
+      "h": 72,
+      "answer": "Servicios y concurrencia",
+      "level": "extra",
+      "accept": [
+        "Servicios, concurrencia"
+      ]
+    },
+    {
+      "id": "b6",
+      "x": 765,
+      "y": 219,
+      "w": 260,
+      "h": 72,
+      "answer": "Despliegue, implementación y asignación de trabajo",
+      "level": "extra",
+      "accept": [
+        "Despliegue, implementación, asignación de trabajo"
+      ]
+    }
+  ]
+}

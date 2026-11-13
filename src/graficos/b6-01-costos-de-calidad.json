@@ -1,0 +1,72 @@
+{
+  "title": "Costo de la calidad",
+  "topic": "B6 · Calidad y SQA (condicional)",
+  "order": 10,
+  "width": 1000,
+  "height": 380,
+  "fuente": "Pressman, cap. de calidad · Copia de Apunte Diseño, págs. 235–238 · PF, págs. 352–353",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 64,
+      "y": 124,
+      "w": 232,
+      "h": 42,
+      "answer": "Prevención",
+      "level": "clave",
+      "accept": [
+        "Costos de prevención"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 384,
+      "y": 124,
+      "w": 232,
+      "h": 42,
+      "answer": "Evaluación",
+      "level": "clave",
+      "accept": [
+        "Costos de evaluación"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 704,
+      "y": 124,
+      "w": 232,
+      "h": 42,
+      "answer": "Fallas",
+      "level": "clave",
+      "accept": [
+        "Costos de fallas",
+        "Falla",
+        "Fallos"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 584,
+      "y": 274,
+      "w": 182,
+      "h": 40,
+      "answer": "Internas",
+      "level": "clave",
+      "accept": [
+        "Fallas internas"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 794,
+      "y": 274,
+      "w": 182,
+      "h": 40,
+      "answer": "Externas",
+      "level": "clave",
+      "accept": [
+        "Fallas externas"
+      ]
+    }
+  ]
+}

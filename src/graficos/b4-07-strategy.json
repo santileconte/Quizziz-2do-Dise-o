@@ -1,0 +1,49 @@
+{
+  "title": "Estructura de Strategy",
+  "topic": "B4 · Patrones GoF",
+  "order": 70,
+  "width": 980,
+  "height": 360,
+  "fuente": "GoF, págs. 323–325 · Copia de Apunte Diseño, págs. 198–200 · PF, págs. 308–309 · Simulación 2024 B, P8",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 44,
+      "y": 54,
+      "w": 252,
+      "h": 32,
+      "answer": "Context",
+      "level": "clave",
+      "accept": [
+        "Contexto"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 524,
+      "y": 54,
+      "w": 292,
+      "h": 32,
+      "answer": "Strategy",
+      "level": "clave",
+      "accept": [
+        "Estrategia"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 364,
+      "y": 244,
+      "w": 187,
+      "h": 32,
+      "answer": "ConcreteStrategyA",
+      "level": "clave",
+      "accept": [
+        "ConcreteStrategy",
+        "EstrategiaConcreta",
+        "Estrategia concreta",
+        "EstrategiaConcretaA"
+      ]
+    }
+  ]
+}

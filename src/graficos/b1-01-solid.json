@@ -1,0 +1,82 @@
+{
+  "title": "Los cinco principios SOLID",
+  "topic": "B1 · Diseño orientado a objetos",
+  "order": 10,
+  "width": 1000,
+  "height": 400,
+  "fuente": "Celina, págs. 5–8 · PF, págs. 1–7",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 95,
+      "y": 67,
+      "w": 350,
+      "h": 52,
+      "answer": "Responsabilidad única",
+      "level": "clave",
+      "accept": [
+        "SRP",
+        "Single Responsibility Principle",
+        "Única responsabilidad",
+        "Principio de responsabilidad única"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 95,
+      "y": 129,
+      "w": 350,
+      "h": 52,
+      "answer": "Abierto/Cerrado",
+      "level": "clave",
+      "accept": [
+        "OCP",
+        "Open/Closed Principle",
+        "Abierto cerrado",
+        "Open Closed"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 95,
+      "y": 191,
+      "w": 350,
+      "h": 52,
+      "answer": "Sustitución de Liskov",
+      "level": "clave",
+      "accept": [
+        "LSP",
+        "Liskov Substitution Principle",
+        "Liskov"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 95,
+      "y": 253,
+      "w": 350,
+      "h": 52,
+      "answer": "Segregación de interfaces",
+      "level": "clave",
+      "accept": [
+        "ISP",
+        "Interface Segregation Principle",
+        "Segregación de interfaz"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 95,
+      "y": 315,
+      "w": 350,
+      "h": 52,
+      "answer": "Inversión de dependencias",
+      "level": "clave",
+      "accept": [
+        "DIP",
+        "Dependency Inversion Principle",
+        "Inversión de dependencia"
+      ]
+    }
+  ]
+}

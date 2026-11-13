@@ -1,0 +1,301 @@
+{
+  "title": "Catálogo GoF: propósito y alcance",
+  "topic": "B4 · Patrones GoF",
+  "order": 10,
+  "width": 1040,
+  "height": 520,
+  "fuente": "GoF, tabla 1.1 · Celina, pág. 132 · Parcial 2024 P6 · Recuperatorio 2024 P3 · Simulación 2024 A P20",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 154,
+      "y": 38,
+      "w": 282,
+      "h": 32,
+      "answer": "De creación",
+      "level": "clave",
+      "accept": [
+        "Creacional",
+        "Creacionales",
+        "Creación"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 444,
+      "y": 38,
+      "w": 282,
+      "h": 32,
+      "answer": "Estructural",
+      "level": "clave",
+      "accept": [
+        "Estructurales",
+        "De estructura"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 734,
+      "y": 38,
+      "w": 282,
+      "h": 32,
+      "answer": "De comportamiento",
+      "level": "clave",
+      "accept": [
+        "Comportamiento",
+        "Comportamental",
+        "Comportamentales"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 24,
+      "y": 78,
+      "w": 122,
+      "h": 72,
+      "answer": "Clase",
+      "level": "clave",
+      "accept": [
+        "De clase"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 24,
+      "y": 158,
+      "w": 122,
+      "h": 332,
+      "answer": "Objeto",
+      "level": "clave",
+      "accept": [
+        "De objeto"
+      ]
+    },
+    {
+      "id": "b6",
+      "x": 172,
+      "y": 86,
+      "w": 246,
+      "h": 28,
+      "answer": "Factory Method",
+      "level": "clave"
+    },
+    {
+      "id": "b7",
+      "x": 462,
+      "y": 86,
+      "w": 246,
+      "h": 28,
+      "answer": "Adapter (de clases)",
+      "level": "clave",
+      "accept": [
+        "Adapter"
+      ]
+    },
+    {
+      "id": "b8",
+      "x": 752,
+      "y": 86,
+      "w": 246,
+      "h": 28,
+      "answer": "Interpreter",
+      "level": "clave"
+    },
+    {
+      "id": "b9",
+      "x": 752,
+      "y": 122,
+      "w": 246,
+      "h": 28,
+      "answer": "Template Method",
+      "level": "clave"
+    },
+    {
+      "id": "b10",
+      "x": 172,
+      "y": 166,
+      "w": 246,
+      "h": 28,
+      "answer": "Abstract Factory",
+      "level": "clave"
+    },
+    {
+      "id": "b11",
+      "x": 172,
+      "y": 202,
+      "w": 246,
+      "h": 28,
+      "answer": "Builder",
+      "level": "extra"
+    },
+    {
+      "id": "b12",
+      "x": 172,
+      "y": 238,
+      "w": 246,
+      "h": 28,
+      "answer": "Prototype",
+      "level": "extra"
+    },
+    {
+      "id": "b13",
+      "x": 172,
+      "y": 274,
+      "w": 246,
+      "h": 28,
+      "answer": "Singleton",
+      "level": "clave"
+    },
+    {
+      "id": "b14",
+      "x": 462,
+      "y": 166,
+      "w": 246,
+      "h": 28,
+      "answer": "Adapter (de objetos)",
+      "level": "clave",
+      "accept": [
+        "Adapter"
+      ]
+    },
+    {
+      "id": "b15",
+      "x": 462,
+      "y": 202,
+      "w": 246,
+      "h": 28,
+      "answer": "Bridge",
+      "level": "extra"
+    },
+    {
+      "id": "b16",
+      "x": 462,
+      "y": 238,
+      "w": 246,
+      "h": 28,
+      "answer": "Composite",
+      "level": "clave"
+    },
+    {
+      "id": "b17",
+      "x": 462,
+      "y": 274,
+      "w": 246,
+      "h": 28,
+      "answer": "Decorator",
+      "level": "extra"
+    },
+    {
+      "id": "b18",
+      "x": 462,
+      "y": 310,
+      "w": 246,
+      "h": 28,
+      "answer": "Facade",
+      "level": "clave"
+    },
+    {
+      "id": "b19",
+      "x": 462,
+      "y": 346,
+      "w": 246,
+      "h": 28,
+      "answer": "Flyweight",
+      "level": "extra"
+    },
+    {
+      "id": "b20",
+      "x": 462,
+      "y": 382,
+      "w": 246,
+      "h": 28,
+      "answer": "Proxy",
+      "level": "clave"
+    },
+    {
+      "id": "b21",
+      "x": 752,
+      "y": 166,
+      "w": 246,
+      "h": 28,
+      "answer": "Chain of Responsibility",
+      "level": "extra",
+      "accept": [
+        "Chain of Responsability",
+        "Cadena de responsabilidad"
+      ]
+    },
+    {
+      "id": "b22",
+      "x": 752,
+      "y": 202,
+      "w": 246,
+      "h": 28,
+      "answer": "Command",
+      "level": "extra"
+    },
+    {
+      "id": "b23",
+      "x": 752,
+      "y": 238,
+      "w": 246,
+      "h": 28,
+      "answer": "Iterator",
+      "level": "clave"
+    },
+    {
+      "id": "b24",
+      "x": 752,
+      "y": 274,
+      "w": 246,
+      "h": 28,
+      "answer": "Mediator",
+      "level": "extra"
+    },
+    {
+      "id": "b25",
+      "x": 752,
+      "y": 310,
+      "w": 246,
+      "h": 28,
+      "answer": "Memento",
+      "level": "extra"
+    },
+    {
+      "id": "b26",
+      "x": 752,
+      "y": 346,
+      "w": 246,
+      "h": 28,
+      "answer": "Observer",
+      "level": "clave"
+    },
+    {
+      "id": "b27",
+      "x": 752,
+      "y": 382,
+      "w": 246,
+      "h": 28,
+      "answer": "State",
+      "level": "clave"
+    },
+    {
+      "id": "b28",
+      "x": 752,
+      "y": 418,
+      "w": 246,
+      "h": 28,
+      "answer": "Strategy",
+      "level": "clave"
+    },
+    {
+      "id": "b29",
+      "x": 752,
+      "y": 454,
+      "w": 246,
+      "h": 28,
+      "answer": "Visitor",
+      "level": "extra"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "title": "Tácticas de modificabilidad",
+  "topic": "B2 · Arquitectura y sistemas distribuidos",
+  "order": 30,
+  "width": 1040,
+  "height": 496,
+  "fuente": "Bass et al., cap. de modificabilidad · Celina, págs. 32–33 · PF, págs. 54–55",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 36,
+      "y": 104,
+      "w": 301,
+      "h": 46,
+      "answer": "Aumentar la cohesión",
+      "level": "clave"
+    },
+    {
+      "id": "b2",
+      "x": 48,
+      "y": 176,
+      "w": 277,
+      "h": 30,
+      "answer": "Dividir el módulo",
+      "level": "clave",
+      "accept": [
+        "Dividir módulo",
+        "Dividir un módulo"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 48,
+      "y": 222,
+      "w": 277,
+      "h": 30,
+      "answer": "Redistribuir responsabilidades",
+      "level": "clave"
+    },
+    {
+      "id": "b4",
+      "x": 369,
+      "y": 104,
+      "w": 301,
+      "h": 46,
+      "answer": "Reducir el acoplamiento",
+      "level": "clave"
+    },
+    {
+      "id": "b5",
+      "x": 381,
+      "y": 176,
+      "w": 277,
+      "h": 30,
+      "answer": "Encapsular",
+      "level": "clave"
+    },
+    {
+      "id": "b6",
+      "x": 381,
+      "y": 222,
+      "w": 277,
+      "h": 30,
+      "answer": "Usar un intermediario",
+      "level": "clave",
+      "accept": [
+        "Intermediario"
+      ]
+    },
+    {
+      "id": "b7",
+      "x": 381,
+      "y": 268,
+      "w": 277,
+      "h": 30,
+      "answer": "Abstraer servicios comunes",
+      "level": "clave"
+    },
+    {
+      "id": "b8",
+      "x": 381,
+      "y": 314,
+      "w": 277,
+      "h": 30,
+      "answer": "Restringir dependencias",
+      "level": "clave"
+    },
+    {
+      "id": "b9",
+      "x": 703,
+      "y": 104,
+      "w": 301,
+      "h": 46,
+      "answer": "Aplazar la vinculación",
+      "level": "clave",
+      "accept": [
+        "Diferir el enlace",
+        "Diferir enlace",
+        "Aplazar el momento de vinculación"
+      ]
+    },
+    {
+      "id": "b10",
+      "x": 715,
+      "y": 176,
+      "w": 277,
+      "h": 30,
+      "answer": "Reemplazo de componentes",
+      "level": "extra"
+    },
+    {
+      "id": "b11",
+      "x": 715,
+      "y": 222,
+      "w": 277,
+      "h": 30,
+      "answer": "Parametrización en compilación",
+      "level": "extra",
+      "accept": [
+        "Parametrización en tiempo de compilación"
+      ]
+    },
+    {
+      "id": "b12",
+      "x": 715,
+      "y": 268,
+      "w": 277,
+      "h": 30,
+      "answer": "Vinculación en configuración",
+      "level": "extra",
+      "accept": [
+        "Vinculación en tiempo de configuración"
+      ]
+    },
+    {
+      "id": "b13",
+      "x": 715,
+      "y": 314,
+      "w": 277,
+      "h": 30,
+      "answer": "Archivos de recursos",
+      "level": "extra"
+    },
+    {
+      "id": "b14",
+      "x": 715,
+      "y": 360,
+      "w": 277,
+      "h": 30,
+      "answer": "Descubrimiento",
+      "level": "extra"
+    },
+    {
+      "id": "b15",
+      "x": 715,
+      "y": 406,
+      "w": 277,
+      "h": 30,
+      "answer": "Polimorfismo",
+      "level": "extra"
+    }
+  ]
+}

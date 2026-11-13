@@ -1,0 +1,79 @@
+{
+  "title": "Topología de una arquitectura de microservicios",
+  "topic": "B2 · Arquitectura y sistemas distribuidos",
+  "order": 80,
+  "width": 1040,
+  "height": 460,
+  "fuente": "Richards y Ford (Word de la cátedra, pág. 134) · PF, pág. 112 · Celina, págs. 60–61 · Simulación 2024 A, P4",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 234,
+      "y": 24,
+      "w": 162,
+      "h": 38,
+      "answer": "Peticiones del cliente",
+      "level": "extra",
+      "accept": [
+        "Client requests",
+        "Clientes",
+        "Peticiones de clientes"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 435,
+      "y": 115,
+      "w": 170,
+      "h": 32,
+      "answer": "Capa de API",
+      "level": "clave",
+      "accept": [
+        "API Layer",
+        "API Gateway",
+        "Capa API",
+        "Puerta de enlace"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 81,
+      "y": 205,
+      "w": 130,
+      "h": 30,
+      "answer": "Servicio",
+      "level": "clave",
+      "accept": [
+        "Microservicio",
+        "Service"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 90,
+      "y": 248,
+      "w": 112,
+      "h": 28,
+      "answer": "Módulo",
+      "level": "extra",
+      "accept": [
+        "Module",
+        "Módulos"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 80,
+      "y": 338,
+      "w": 132,
+      "h": 36,
+      "answer": "Base de datos",
+      "level": "clave",
+      "accept": [
+        "Database",
+        "BD",
+        "Base de datos propia"
+      ]
+    }
+  ]
+}

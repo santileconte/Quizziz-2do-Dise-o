@@ -1,0 +1,77 @@
+{
+  "title": "Patrones arquitectónicos para sistemas distribuidos",
+  "topic": "B2 · Arquitectura y sistemas distribuidos",
+  "order": 90,
+  "width": 1040,
+  "height": 440,
+  "fuente": "Sommerville, cap. 17 · Celina, págs. 53–58 · PF, págs. 91–105",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 25,
+      "y": 67,
+      "w": 260,
+      "h": 68,
+      "answer": "Maestro-esclavo",
+      "level": "clave",
+      "accept": [
+        "Maestro esclavo",
+        "Master-slave"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 25,
+      "y": 145,
+      "w": 260,
+      "h": 64,
+      "answer": "Cliente-servidor de dos niveles",
+      "level": "clave",
+      "accept": [
+        "Cliente servidor de dos niveles",
+        "Cliente-servidor dos niveles"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 25,
+      "y": 219,
+      "w": 260,
+      "h": 58,
+      "answer": "Cliente-servidor multinivel",
+      "level": "clave",
+      "accept": [
+        "Cliente servidor multinivel",
+        "Multinivel",
+        "Multi-tier"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 25,
+      "y": 287,
+      "w": 260,
+      "h": 58,
+      "answer": "Componentes distribuidos",
+      "level": "clave",
+      "accept": [
+        "Objetos distribuidos"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 25,
+      "y": 355,
+      "w": 260,
+      "h": 58,
+      "answer": "Peer-to-peer (P2P)",
+      "level": "clave",
+      "accept": [
+        "P2P",
+        "Peer to peer",
+        "De igual a igual",
+        "Peer-to-peer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Estructura de State",
+  "topic": "B4 · Patrones GoF",
+  "order": 80,
+  "width": 980,
+  "height": 360,
+  "fuente": "GoF, pág. 315 · Celina, págs. 142–143 · Parcial 2024, P2",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 44,
+      "y": 54,
+      "w": 252,
+      "h": 32,
+      "answer": "Context",
+      "level": "clave",
+      "accept": [
+        "Contexto"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 544,
+      "y": 54,
+      "w": 272,
+      "h": 32,
+      "answer": "State",
+      "level": "clave",
+      "accept": [
+        "Estado"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 474,
+      "y": 244,
+      "w": 202,
+      "h": 32,
+      "answer": "ConcreteStateA",
+      "level": "clave",
+      "accept": [
+        "ConcreteState",
+        "EstadoConcreto",
+        "Estado concreto",
+        "EstadoConcretoA"
+      ]
+    }
+  ]
+}

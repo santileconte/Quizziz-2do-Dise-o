@@ -1,0 +1,90 @@
+{
+  "title": "Arquitectura en capas genérica",
+  "topic": "B2 · Arquitectura y sistemas distribuidos",
+  "order": 60,
+  "width": 900,
+  "height": 400,
+  "fuente": "Sommerville, fig. 6.8 · Celina, pág. 45 · PF, págs. 69–74",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 64,
+      "y": 34,
+      "w": 552,
+      "h": 54,
+      "answer": "Interfaz de usuario",
+      "level": "clave",
+      "accept": [
+        "Presentación",
+        "Capa de presentación"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 64,
+      "y": 112,
+      "w": 552,
+      "h": 54,
+      "answer": "Gestión de la interfaz de usuario · Autenticación y autorización",
+      "level": "clave",
+      "accept": [
+        "Gestión de interfaz de usuario",
+        "Autenticación y autorización",
+        "Gestión de la interfaz de usuario, autenticación y autorización"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 64,
+      "y": 190,
+      "w": 552,
+      "h": 54,
+      "answer": "Lógica de negocio · Funcionalidad de la aplicación",
+      "level": "clave",
+      "accept": [
+        "Lógica de negocio",
+        "Lógica empresarial",
+        "Funcionalidad de la aplicación",
+        "Lógica del negocio"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 64,
+      "y": 268,
+      "w": 552,
+      "h": 54,
+      "answer": "Soporte del sistema: sistema operativo, base de datos",
+      "level": "clave",
+      "accept": [
+        "Soporte del sistema",
+        "Soporte del sistema (SO, base de datos)"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 730,
+      "y": 184,
+      "w": 120,
+      "h": 29,
+      "answer": "inferior",
+      "level": "clave",
+      "accept": [
+        "de abajo"
+      ]
+    },
+    {
+      "id": "b6",
+      "x": 715,
+      "y": 252,
+      "w": 150,
+      "h": 29,
+      "answer": "Modificabilidad",
+      "level": "clave",
+      "accept": [
+        "Modificabilidad y portabilidad",
+        "Mantenibilidad"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "title": "Flujo de trabajo de Requisitos",
+  "topic": "B3 · PUDS",
+  "order": 10,
+  "width": 1000,
+  "height": 546,
+  "fuente": "PUDS, fig. 7.10 · Celina, pág. 75 · Parcial 2024, P3",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 18,
+      "y": 72,
+      "w": 163,
+      "h": 29,
+      "answer": "Analista de sistemas",
+      "level": "clave",
+      "accept": [
+        "Analista de Sistemas"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 25,
+      "y": 200,
+      "w": 150,
+      "h": 29,
+      "answer": "Arquitecto",
+      "level": "clave"
+    },
+    {
+      "id": "b3",
+      "x": 8,
+      "y": 318,
+      "w": 183,
+      "h": 48,
+      "answer": "Especificador de casos de uso",
+      "level": "clave",
+      "accept": [
+        "Especificador de CU",
+        "Especificador de caso de uso"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 15,
+      "y": 446,
+      "w": 170,
+      "h": 48,
+      "answer": "Diseñador de interfaz de usuario",
+      "level": "clave",
+      "accept": [
+        "Diseñador de interfaces",
+        "Diseñador de IU",
+        "Diseñador de interfaz"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 199,
+      "y": 8,
+      "w": 203,
+      "h": 48,
+      "answer": "Encontrar actores y casos de uso",
+      "level": "clave",
+      "accept": [
+        "Encontrar actores y CU",
+        "Buscar actores y casos de uso"
+      ]
+    },
+    {
+      "id": "b6",
+      "x": 764,
+      "y": 8,
+      "w": 192,
+      "h": 48,
+      "answer": "Estructurar el modelo de casos de uso",
+      "level": "clave",
+      "accept": [
+        "Estructurar el modelo de CU",
+        "Estructurar modelo de casos de uso"
+      ]
+    },
+    {
+      "id": "b7",
+      "x": 350,
+      "y": 146,
+      "w": 201,
+      "h": 29,
+      "answer": "Priorizar los casos de uso",
+      "level": "clave",
+      "accept": [
+        "Priorizar casos de uso",
+        "Priorizar CU"
+      ]
+    },
+    {
+      "id": "b8",
+      "x": 518,
+      "y": 274,
+      "w": 184,
+      "h": 29,
+      "answer": "Detallar un caso de uso",
+      "level": "clave",
+      "accept": [
+        "Detallar casos de uso",
+        "Detallar caso de uso",
+        "Detallar CU"
+      ]
+    },
+    {
+      "id": "b9",
+      "x": 678,
+      "y": 392,
+      "w": 184,
+      "h": 48,
+      "answer": "Prototipar la interfaz de usuario",
+      "level": "clave",
+      "accept": [
+        "Prototipar interfaz de usuario",
+        "Prototipar la UI",
+        "Prototipar interfaces",
+        "Prototipar IU"
+      ]
+    }
+  ]
+}

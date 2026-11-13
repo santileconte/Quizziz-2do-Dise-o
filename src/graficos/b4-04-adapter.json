@@ -1,0 +1,59 @@
+{
+  "title": "Estructura de Adapter (de objetos)",
+  "topic": "B4 · Patrones GoF",
+  "order": 40,
+  "width": 940,
+  "height": 340,
+  "fuente": "GoF, págs. 133–135 · Celina, págs. 136–137 · PF, págs. 300–301",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 34,
+      "y": 54,
+      "w": 162,
+      "h": 32,
+      "answer": "Client",
+      "level": "clave",
+      "accept": [
+        "Cliente"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 304,
+      "y": 54,
+      "w": 222,
+      "h": 32,
+      "answer": "Target",
+      "level": "clave",
+      "accept": [
+        "Objetivo"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 304,
+      "y": 224,
+      "w": 222,
+      "h": 32,
+      "answer": "Adapter",
+      "level": "clave",
+      "accept": [
+        "Adaptador"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 664,
+      "y": 224,
+      "w": 232,
+      "h": 32,
+      "answer": "Adaptee",
+      "level": "clave",
+      "accept": [
+        "Adaptado",
+        "Adaptable"
+      ]
+    }
+  ]
+}

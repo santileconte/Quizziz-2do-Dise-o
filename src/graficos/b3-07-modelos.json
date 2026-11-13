@@ -1,0 +1,127 @@
+{
+  "title": "Modelos del Proceso Unificado y su relación con los casos de uso",
+  "topic": "B3 · PUDS",
+  "order": 70,
+  "width": 980,
+  "height": 430,
+  "fuente": "PUDS, cap. 1 (modelos del PU) · Celina, págs. 64–65",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 44,
+      "y": 184,
+      "w": 222,
+      "h": 52,
+      "answer": "Modelo de casos de uso",
+      "level": "clave",
+      "accept": [
+        "Modelo de CU"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 694,
+      "y": 26,
+      "w": 242,
+      "h": 44,
+      "answer": "Modelo de análisis",
+      "level": "clave",
+      "accept": [
+        "análisis"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 405,
+      "y": 108,
+      "w": 150,
+      "h": 28,
+      "answer": "especificado por",
+      "level": "extra"
+    },
+    {
+      "id": "b4",
+      "x": 694,
+      "y": 102,
+      "w": 242,
+      "h": 44,
+      "answer": "Modelo de diseño",
+      "level": "clave",
+      "accept": [
+        "diseño"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 405,
+      "y": 150,
+      "w": 150,
+      "h": 28,
+      "answer": "realizado por",
+      "level": "extra"
+    },
+    {
+      "id": "b6",
+      "x": 694,
+      "y": 178,
+      "w": 242,
+      "h": 44,
+      "answer": "Modelo de despliegue",
+      "level": "clave",
+      "accept": [
+        "despliegue"
+      ]
+    },
+    {
+      "id": "b7",
+      "x": 405,
+      "y": 192,
+      "w": 150,
+      "h": 28,
+      "answer": "distribuido por",
+      "level": "extra"
+    },
+    {
+      "id": "b8",
+      "x": 694,
+      "y": 254,
+      "w": 242,
+      "h": 44,
+      "answer": "Modelo de implementación",
+      "level": "clave",
+      "accept": [
+        "implementación"
+      ]
+    },
+    {
+      "id": "b9",
+      "x": 405,
+      "y": 234,
+      "w": 150,
+      "h": 28,
+      "answer": "implementado por",
+      "level": "extra"
+    },
+    {
+      "id": "b10",
+      "x": 694,
+      "y": 330,
+      "w": 242,
+      "h": 44,
+      "answer": "Modelo de prueba",
+      "level": "clave",
+      "accept": [
+        "prueba"
+      ]
+    },
+    {
+      "id": "b11",
+      "x": 405,
+      "y": 276,
+      "w": 150,
+      "h": 28,
+      "answer": "verificado por",
+      "level": "extra"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Estructura de Composite",
+  "topic": "B4 · Patrones GoF",
+  "order": 50,
+  "width": 940,
+  "height": 400,
+  "fuente": "GoF, págs. 182–184 · Celina, págs. 138–139 · PF, págs. 310–312",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 34,
+      "y": 64,
+      "w": 152,
+      "h": 32,
+      "answer": "Client",
+      "level": "clave",
+      "accept": [
+        "Cliente"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 334,
+      "y": 34,
+      "w": 292,
+      "h": 32,
+      "answer": "Component",
+      "level": "clave",
+      "accept": [
+        "Componente"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 204,
+      "y": 284,
+      "w": 192,
+      "h": 32,
+      "answer": "Leaf",
+      "level": "clave",
+      "accept": [
+        "Hoja"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 544,
+      "y": 284,
+      "w": 292,
+      "h": 32,
+      "answer": "Composite",
+      "level": "clave",
+      "accept": [
+        "Compuesto"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 770,
+      "y": 28,
+      "w": 100,
+      "h": 28,
+      "answer": "hijos",
+      "level": "extra",
+      "accept": [
+        "children",
+        "componentes",
+        "hijo"
+      ]
+    }
+  ]
+}

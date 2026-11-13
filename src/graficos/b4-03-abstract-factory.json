@@ -1,0 +1,79 @@
+{
+  "title": "Estructura de Abstract Factory",
+  "topic": "B4 · Patrones GoF",
+  "order": 30,
+  "width": 1040,
+  "height": 460,
+  "fuente": "GoF, pág. 125 (estructura) · Celina, págs. 135–136 · PF, págs. 305–307",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 44,
+      "y": 44,
+      "w": 292,
+      "h": 32,
+      "answer": "AbstractFactory",
+      "level": "clave",
+      "accept": [
+        "FábricaAbstracta",
+        "Fábrica abstracta"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 24,
+      "y": 254,
+      "w": 192,
+      "h": 32,
+      "answer": "ConcreteFactory1",
+      "level": "clave",
+      "accept": [
+        "ConcreteFactory",
+        "FábricaConcreta",
+        "Fábrica concreta"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 824,
+      "y": 44,
+      "w": 172,
+      "h": 32,
+      "answer": "Client",
+      "level": "clave",
+      "accept": [
+        "Cliente"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 544,
+      "y": 134,
+      "w": 192,
+      "h": 32,
+      "answer": "AbstractProductA",
+      "level": "clave",
+      "accept": [
+        "AbstractProduct",
+        "ProductoAbstracto",
+        "Producto abstracto",
+        "ProductoAbstractoA"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 484,
+      "y": 234,
+      "w": 142,
+      "h": 32,
+      "answer": "ProductA1",
+      "level": "clave",
+      "accept": [
+        "ConcreteProduct",
+        "ProductoConcreto",
+        "Producto concreto",
+        "ProductoA1"
+      ]
+    }
+  ]
+}

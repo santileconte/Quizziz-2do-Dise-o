@@ -1,0 +1,166 @@
+{
+  "title": "Tácticas de rendimiento (performance)",
+  "topic": "B2 · Arquitectura y sistemas distribuidos",
+  "order": 40,
+  "width": 1040,
+  "height": 496,
+  "fuente": "Bass et al., cap. de performance · Celina, págs. 36–38 · PF, págs. 63–66",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 36,
+      "y": 104,
+      "w": 468,
+      "h": 46,
+      "answer": "Controlar la demanda de recursos",
+      "level": "clave",
+      "accept": [
+        "Controlar la demanda",
+        "Control de la demanda de recursos"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 48,
+      "y": 176,
+      "w": 444,
+      "h": 30,
+      "answer": "Gestionar las solicitudes de trabajo",
+      "level": "clave",
+      "accept": [
+        "Gestionar solicitudes de trabajo"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 48,
+      "y": 222,
+      "w": 444,
+      "h": 30,
+      "answer": "Limitar la respuesta a eventos",
+      "level": "extra"
+    },
+    {
+      "id": "b4",
+      "x": 48,
+      "y": 268,
+      "w": 444,
+      "h": 30,
+      "answer": "Priorizar eventos",
+      "level": "clave"
+    },
+    {
+      "id": "b5",
+      "x": 48,
+      "y": 314,
+      "w": 444,
+      "h": 30,
+      "answer": "Reducir la sobrecarga computacional",
+      "level": "clave",
+      "accept": [
+        "Reducir sobrecarga computacional"
+      ]
+    },
+    {
+      "id": "b6",
+      "x": 48,
+      "y": 360,
+      "w": 444,
+      "h": 30,
+      "answer": "Limitar los tiempos de ejecución",
+      "level": "extra"
+    },
+    {
+      "id": "b7",
+      "x": 48,
+      "y": 406,
+      "w": 444,
+      "h": 30,
+      "answer": "Aumentar la eficiencia en el uso de recursos",
+      "level": "extra",
+      "accept": [
+        "Aumentar la eficiencia"
+      ]
+    },
+    {
+      "id": "b8",
+      "x": 536,
+      "y": 104,
+      "w": 468,
+      "h": 46,
+      "answer": "Gestionar los recursos",
+      "level": "clave",
+      "accept": [
+        "Gestionar los recursos disponibles",
+        "Gestión de recursos"
+      ]
+    },
+    {
+      "id": "b9",
+      "x": 548,
+      "y": 176,
+      "w": 444,
+      "h": 30,
+      "answer": "Aumentar los recursos",
+      "level": "clave",
+      "accept": [
+        "Aumentar recursos"
+      ]
+    },
+    {
+      "id": "b10",
+      "x": 548,
+      "y": 222,
+      "w": 444,
+      "h": 30,
+      "answer": "Introducir concurrencia",
+      "level": "clave"
+    },
+    {
+      "id": "b11",
+      "x": 548,
+      "y": 268,
+      "w": 444,
+      "h": 30,
+      "answer": "Mantener múltiples copias de los cálculos",
+      "level": "clave",
+      "accept": [
+        "Múltiples copias de los cálculos"
+      ]
+    },
+    {
+      "id": "b12",
+      "x": 548,
+      "y": 314,
+      "w": 444,
+      "h": 30,
+      "answer": "Mantener múltiples copias de los datos",
+      "level": "clave",
+      "accept": [
+        "Múltiples copias de los datos",
+        "Replicación y caché de datos"
+      ]
+    },
+    {
+      "id": "b13",
+      "x": 548,
+      "y": 360,
+      "w": 444,
+      "h": 30,
+      "answer": "Limitar el tamaño de las colas",
+      "level": "extra"
+    },
+    {
+      "id": "b14",
+      "x": 548,
+      "y": 406,
+      "w": 444,
+      "h": 30,
+      "answer": "Programar los recursos",
+      "level": "extra",
+      "accept": [
+        "Planificar los recursos"
+      ]
+    }
+  ]
+}

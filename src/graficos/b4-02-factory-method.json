@@ -1,0 +1,62 @@
+{
+  "title": "Estructura de Factory Method",
+  "topic": "B4 · Patrones GoF",
+  "order": 20,
+  "width": 900,
+  "height": 380,
+  "fuente": "GoF, pág. 211 (estructura) · Celina, págs. 133–134",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 64,
+      "y": 44,
+      "w": 212,
+      "h": 32,
+      "answer": "Product",
+      "level": "clave",
+      "accept": [
+        "Producto"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 64,
+      "y": 244,
+      "w": 212,
+      "h": 32,
+      "answer": "ConcreteProduct",
+      "level": "clave",
+      "accept": [
+        "ProductoConcreto",
+        "Producto concreto",
+        "ConcretProduct"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 524,
+      "y": 44,
+      "w": 292,
+      "h": 32,
+      "answer": "Creator",
+      "level": "clave",
+      "accept": [
+        "Creador"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 524,
+      "y": 244,
+      "w": 292,
+      "h": 32,
+      "answer": "ConcreteCreator",
+      "level": "clave",
+      "accept": [
+        "CreadorConcreto",
+        "Creador concreto",
+        "ConcretCreator"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Flujo de trabajo de Análisis",
+  "topic": "B3 · PUDS",
+  "order": 20,
+  "width": 1000,
+  "height": 418,
+  "fuente": "PUDS, fig. 8.18 · Celina, pág. 88 · Simulación 2024 A, P1",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 25,
+      "y": 72,
+      "w": 150,
+      "h": 29,
+      "answer": "Arquitecto",
+      "level": "clave"
+    },
+    {
+      "id": "b2",
+      "x": 13,
+      "y": 190,
+      "w": 174,
+      "h": 48,
+      "answer": "Ingeniero de casos de uso",
+      "level": "clave",
+      "accept": [
+        "Ingeniero de CU"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 25,
+      "y": 318,
+      "w": 150,
+      "h": 48,
+      "answer": "Ingeniero de componentes",
+      "level": "clave"
+    },
+    {
+      "id": "b4",
+      "x": 200,
+      "y": 18,
+      "w": 201,
+      "h": 29,
+      "answer": "Análisis de la arquitectura",
+      "level": "clave",
+      "accept": [
+        "Analizar la arquitectura"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 376,
+      "y": 146,
+      "w": 187,
+      "h": 29,
+      "answer": "Analizar un caso de uso",
+      "level": "clave",
+      "accept": [
+        "Analizar los casos de uso",
+        "Análisis de casos de uso",
+        "Analizar CU"
+      ]
+    },
+    {
+      "id": "b6",
+      "x": 565,
+      "y": 274,
+      "w": 150,
+      "h": 29,
+      "answer": "Analizar una clase",
+      "level": "clave",
+      "accept": [
+        "Análisis de clases",
+        "Analizar clase"
+      ]
+    },
+    {
+      "id": "b7",
+      "x": 780,
+      "y": 274,
+      "w": 159,
+      "h": 29,
+      "answer": "Analizar un paquete",
+      "level": "clave",
+      "accept": [
+        "Análisis de paquetes",
+        "Analizar paquete"
+      ]
+    }
+  ]
+}

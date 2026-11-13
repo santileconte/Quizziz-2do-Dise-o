@@ -1,0 +1,104 @@
+{
+  "title": "Flujo de trabajo de Implementación",
+  "topic": "B3 · PUDS",
+  "order": 40,
+  "width": 1000,
+  "height": 526,
+  "fuente": "PUDS, cap. 10 · Celina, pág. 113",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 25,
+      "y": 72,
+      "w": 150,
+      "h": 29,
+      "answer": "Arquitecto",
+      "level": "clave"
+    },
+    {
+      "id": "b2",
+      "x": 10,
+      "y": 200,
+      "w": 180,
+      "h": 29,
+      "answer": "Integrador de sistemas",
+      "level": "clave",
+      "accept": [
+        "Integrador de sistema",
+        "Integrador del sistema"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 25,
+      "y": 318,
+      "w": 150,
+      "h": 48,
+      "answer": "Ingeniero de componentes",
+      "level": "clave"
+    },
+    {
+      "id": "b4",
+      "x": 215,
+      "y": 8,
+      "w": 169,
+      "h": 48,
+      "answer": "Implementación de la arquitectura",
+      "level": "clave",
+      "accept": [
+        "Implementar la arquitectura"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 365,
+      "y": 146,
+      "w": 150,
+      "h": 29,
+      "answer": "Integrar sistemas",
+      "level": "clave",
+      "accept": [
+        "Integrar sistema",
+        "Integrar el sistema"
+      ]
+    },
+    {
+      "id": "b6",
+      "x": 591,
+      "y": 274,
+      "w": 178,
+      "h": 29,
+      "answer": "Implementar una clase",
+      "level": "clave",
+      "accept": [
+        "Implementar clase"
+      ]
+    },
+    {
+      "id": "b7",
+      "x": 365,
+      "y": 424,
+      "w": 150,
+      "h": 48,
+      "answer": "Implementar un subsistema",
+      "level": "clave",
+      "accept": [
+        "Implementar subsistema"
+      ]
+    },
+    {
+      "id": "b8",
+      "x": 778,
+      "y": 434,
+      "w": 203,
+      "h": 29,
+      "answer": "Realizar prueba de unidad",
+      "level": "clave",
+      "accept": [
+        "Realizar prueba unitaria",
+        "Prueba de unidad",
+        "Prueba unitaria"
+      ]
+    }
+  ]
+}

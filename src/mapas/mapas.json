@@ -1,0 +1,4064 @@
+[
+ {
+  "id": "b1-solid",
+  "unit": "b1",
+  "num": "01",
+  "title": "Principios SOLID",
+  "subtitle": "Reconocer qué principio se viola y qué cambio lo corrige",
+  "kicker": "SOLID",
+  "center": "Cinco principios de diseño OO",
+  "recordar": "if/else por tipo → OCP. Clase que calcula, guarda e imprime → SRP. Interfaz con métodos que no uso → ISP.",
+  "left": [
+   {
+    "label": "Qué son",
+    "leaves": [
+     {
+      "term": "Origen",
+      "text": "Robert C. Martin los reunió y les dio nombre; no eran nuevos.",
+      "refs": [
+       "s01.1"
+      ]
+     },
+     {
+      "term": "Para qué",
+      "text": "Código más fácil de entender, probar y cambiar.",
+      "refs": [
+       "s01.1"
+      ]
+     },
+     {
+      "term": "En el cuestionario",
+      "text": "Dan un fragmento de código y piden el principio que incumple.",
+      "refs": [
+       "s01.8"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "S · Responsabilidad única",
+    "leaves": [
+     {
+      "term": "Regla",
+      "text": "Una clase, una sola razón para cambiar.",
+      "refs": [
+       "s01.2"
+      ]
+     },
+     {
+      "term": "Señales",
+      "text": "Mezcla dos capas, muchos métodos públicos, difícil de probar.",
+      "refs": [
+       "s01.2"
+      ]
+     },
+     {
+      "term": "Riesgo opuesto",
+      "text": "Muchas clases de una sola línea.",
+      "refs": [
+       "s01.2"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "O · Abierto/Cerrado",
+    "leaves": [
+     {
+      "term": "Regla",
+      "text": "Abierta a la extensión, cerrada a la modificación.",
+      "refs": [
+       "s01.3"
+      ]
+     },
+     {
+      "term": "Señal",
+      "text": "Un if/else o switch por tipo que se edita con cada caso nuevo.",
+      "refs": [
+       "s01.3"
+      ]
+     },
+     {
+      "term": "Solución",
+      "text": "Polimorfismo; sin forzarlo antes de necesitarlo.",
+      "refs": [
+       "s01.3"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "L · Sustitución de Liskov",
+    "leaves": [
+     {
+      "term": "Regla",
+      "text": "Donde va el tipo base debe poder ir cualquier subtipo.",
+      "refs": [
+       "s01.4"
+      ]
+     },
+     {
+      "term": "Alcance",
+      "text": "No es solo herencia: toda implementación respeta el significado de la interfaz.",
+      "refs": [
+       "s01.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "I · Segregación de interfaces",
+    "leaves": [
+     {
+      "term": "Regla",
+      "text": "Los clientes no dependen de interfaces que no usan.",
+      "refs": [
+       "s01.5"
+      ]
+     },
+     {
+      "term": "Solución",
+      "text": "Dividir la interfaz gruesa en varias pequeñas y cohesivas.",
+      "refs": [
+       "s01.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "D · Inversión de dependencias",
+    "leaves": [
+     {
+      "term": "Regla",
+      "text": "Alto y bajo nivel dependen de abstracciones.",
+      "refs": [
+       "s01.6"
+      ]
+     },
+     {
+      "term": "Efecto",
+      "text": "La lógica no queda atada a frameworks ni a la base de datos.",
+      "refs": [
+       "s01.6"
+      ]
+     },
+     {
+      "term": "Cómo",
+      "text": "Inyector de dependencias.",
+      "refs": [
+       "s01.6"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Ley de Deméter",
+    "leaves": [
+     {
+      "term": "Mínimo conocimiento",
+      "text": "Un objeto solo habla con sus amigos inmediatos.",
+      "refs": [
+       "s01.7"
+      ]
+     },
+     {
+      "term": "Alarma",
+      "text": "Encadenar llamadas a objetos obtenidos de otros.",
+      "refs": [
+       "s01.7"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b1-estados",
+  "unit": "b1",
+  "num": "02",
+  "title": "Máquina de estados",
+  "subtitle": "Estado, evento, guarda y acción; estados compuestos",
+  "kicker": "ESTADOS",
+  "center": "Ciclo de vida de un objeto",
+  "recordar": "La transición se rotula evento [guarda] / acción.",
+  "left": [
+   {
+    "label": "Elementos",
+    "leaves": [
+     {
+      "term": "Estado",
+      "text": "Situación en la que el objeto cumple una condición, hace algo o espera.",
+      "refs": [
+       "s02.2"
+      ]
+     },
+     {
+      "term": "Transición",
+      "text": "Paso de un estado a otro.",
+      "refs": [
+       "s02.3"
+      ]
+     },
+     {
+      "term": "Inicial y final",
+      "text": "Círculo lleno y círculo con borde.",
+      "refs": [
+       "s02.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Rótulo de la transición",
+    "leaves": [
+     {
+      "term": "Evento",
+      "text": "Lo que dispara la transición.",
+      "refs": [
+       "s02.4"
+      ]
+     },
+     {
+      "term": "Guarda",
+      "text": "Condición que debe ser verdadera.",
+      "refs": [
+       "s02.4"
+      ]
+     },
+     {
+      "term": "Acción",
+      "text": "Lo que se ejecuta al dispararse.",
+      "refs": [
+       "s02.4"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Casos especiales",
+    "leaves": [
+     {
+      "term": "Transición automática",
+      "text": "Sin evento: ocurre sola, por ejemplo al pasar un tiempo.",
+      "refs": [
+       "s02.6"
+      ]
+     },
+     {
+      "term": "Estado compuesto",
+      "text": "Contiene subestados; su salida vale para todos ellos.",
+      "refs": [
+       "s02.7"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Cuánto estudiar",
+    "leaves": [
+     {
+      "term": "Prioridad C",
+      "text": "Tema de práctica: leer bien un ejemplo alcanza.",
+      "refs": [
+       "s02.8"
+      ]
+     },
+     {
+      "term": "Qué describe",
+      "text": "Los estados por los que pasa un objeto y qué lo hace cambiar.",
+      "refs": [
+       "s02.1"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b1-grasp",
+  "unit": "b1",
+  "num": "03",
+  "title": "Patrones GRASP",
+  "subtitle": "Asignar responsabilidades y justificar cohesión y acoplamiento",
+  "kicker": "GRASP",
+  "center": "Nueve patrones de asignación",
+  "recordar": "Creador, Experto y Controlador dicen a quién asignar. Bajo acoplamiento y Alta cohesión evalúan. Los otros cuatro contienen el cambio.",
+  "left": [
+   {
+    "label": "A quién asignar",
+    "leaves": [
+     {
+      "term": "Creador",
+      "text": "B crea A si la contiene, la registra, la usa o tiene sus datos.",
+      "refs": [
+       "s03.2:1"
+      ]
+     },
+     {
+      "term": "Experto en información",
+      "text": "La clase que tiene la información necesaria.",
+      "refs": [
+       "s03.2:2"
+      ]
+     },
+     {
+      "term": "Controlador",
+      "text": "Recibe el evento del sistema; coordina y delega.",
+      "refs": [
+       "s03.2:4",
+       "s03.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Cómo evaluar",
+    "leaves": [
+     {
+      "term": "Bajo acoplamiento",
+      "text": "Asignar de modo que las clases dependan poco entre sí.",
+      "refs": [
+       "s03.2:3",
+       "s03.3"
+      ]
+     },
+     {
+      "term": "Alta cohesión",
+      "text": "Responsabilidades relacionadas; la clase no hace demasiado.",
+      "refs": [
+       "s03.2:5",
+       "s03.4"
+      ]
+     },
+     {
+      "term": "Yin y yang",
+      "text": "Mala cohesión suele traer mal acoplamiento.",
+      "refs": [
+       "s03.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Qué es",
+    "leaves": [
+     {
+      "term": "Responsabilidad",
+      "text": "Lo que un objeto debe conocer y hacer.",
+      "refs": [
+       "s03.1"
+      ]
+     },
+     {
+      "term": "Sigla",
+      "text": "General Responsibility Assignment Software Patterns.",
+      "refs": [
+       "s03.1"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Contener el cambio",
+    "leaves": [
+     {
+      "term": "Polimorfismo",
+      "text": "Alternativas según el tipo, sin preguntar por él.",
+      "refs": [
+       "s03.2:6"
+      ]
+     },
+     {
+      "term": "Fabricación pura",
+      "text": "Clase inventada, fuera del dominio, cuando ninguna natural sirve.",
+      "refs": [
+       "s03.2:7"
+      ]
+     },
+     {
+      "term": "Indirección",
+      "text": "Un objeto intermedio evita el acoplamiento directo.",
+      "refs": [
+       "s03.2:8"
+      ]
+     },
+     {
+      "term": "Variaciones protegidas",
+      "text": "Interfaz estable alrededor del punto que varía.",
+      "refs": [
+       "s03.2:9"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Combinaciones",
+    "leaves": [
+     {
+      "term": "Juntas, no iguales",
+      "text": "Un adaptador es indirección, puede ser fabricada y protege de variaciones.",
+      "refs": [
+       "s03.6"
+      ]
+     },
+     {
+      "term": "Controlador saturado",
+      "text": "Si hace todo, pierde cohesión.",
+      "refs": [
+       "s03.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Cómo se pregunta",
+    "leaves": [
+     {
+      "term": "Situación → patrón",
+      "text": "Ninguna clase natural puede asumirla → Fabricación pura.",
+      "refs": [
+       "s03.7"
+      ]
+     },
+     {
+      "term": "Dos diagramas",
+      "text": "Comparar el acoplamiento de dos diagramas de comunicación.",
+      "refs": [
+       "s03.7"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b2-disarq",
+  "unit": "b2",
+  "num": "01",
+  "title": "Diseño arquitectónico y vistas 4+1",
+  "subtitle": "Qué decide el arquitecto y qué muestra cada vista",
+  "kicker": "DISEÑO ARQUITECTÓNICO",
+  "center": "Decisiones y vistas",
+  "recordar": "Componentes grandes favorecen el rendimiento; pequeños, la mantenibilidad. Las cuatro vistas se unen con escenarios.",
+  "left": [
+   {
+    "label": "Qué es",
+    "leaves": [
+     {
+      "term": "Primera etapa del diseño",
+      "text": "Organiza el sistema en componentes que se comunican.",
+      "refs": [
+       "s04.1"
+      ]
+     },
+     {
+      "term": "Escalas",
+      "text": "De un programa o de sistemas empresariales distribuidos.",
+      "refs": [
+       "s04.2"
+      ]
+     },
+     {
+      "term": "Para qué documentarla",
+      "text": "Comunicar a interesados, analizar el sistema y reutilizar.",
+      "refs": [
+       "s04.3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "El RNF crítico decide",
+    "leaves": [
+     {
+      "term": "Rendimiento",
+      "text": "Operaciones críticas en pocos componentes grandes.",
+      "refs": [
+       "s04.5:1"
+      ]
+     },
+     {
+      "term": "Seguridad",
+      "text": "Capas, con lo más crítico adentro.",
+      "refs": [
+       "s04.5:2"
+      ]
+     },
+     {
+      "term": "Protección",
+      "text": "Operaciones de seguridad en uno o pocos componentes.",
+      "refs": [
+       "s04.5:3"
+      ]
+     },
+     {
+      "term": "Disponibilidad",
+      "text": "Componentes redundantes y reemplazables.",
+      "refs": [
+       "s04.5:4"
+      ]
+     },
+     {
+      "term": "Mantenibilidad",
+      "text": "Componentes pequeños y autocontenidos.",
+      "refs": [
+       "s04.5:5"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Vistas 4+1 (Kruchten)",
+    "leaves": [
+     {
+      "term": "Lógica",
+      "text": "Abstracciones clave: objetos y clases.",
+      "refs": [
+       "s04.8"
+      ]
+     },
+     {
+      "term": "De procesos",
+      "text": "Procesos en ejecución; rendimiento y disponibilidad.",
+      "refs": [
+       "s04.9"
+      ]
+     },
+     {
+      "term": "De desarrollo",
+      "text": "Módulos, capas y librerías; para programadores y gerentes.",
+      "refs": [
+       "s04.10"
+      ]
+     },
+     {
+      "term": "Física",
+      "text": "Hardware y distribución; para planear el despliegue.",
+      "refs": [
+       "s04.11"
+      ]
+     },
+     {
+      "term": "+1 Escenarios",
+      "text": "Casos de uso que vinculan las cuatro vistas.",
+      "refs": [
+       "s04.12"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Conflicto",
+    "leaves": [
+     {
+      "term": "Compromiso",
+      "text": "Los criterios chocan; a veces se usan estilos distintos por parte.",
+      "refs": [
+       "s04.6"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b2-arq",
+  "unit": "b2",
+  "num": "02",
+  "title": "Qué es la arquitectura de software",
+  "subtitle": "Definición, niveles, importancia y las tres clases de estructuras",
+  "kicker": "ARQUITECTURA",
+  "center": "Estructuras para razonar sobre el sistema",
+  "recordar": "Módulos: estático. Componentes y conectores: en ejecución. Asignación: software contra lo que no es software.",
+  "left": [
+   {
+    "label": "Definición (Bass)",
+    "leaves": [
+     {
+      "term": "Estructuras",
+      "text": "Las necesarias para razonar: elementos, relaciones y propiedades.",
+      "refs": [
+       "s05.1"
+      ]
+     },
+     {
+      "term": "Es una abstracción",
+      "text": "Muestra interfaces y omite lo privado.",
+      "refs": [
+       "s05.2"
+      ]
+     },
+     {
+      "term": "Todo sistema la tiene",
+      "text": "Documentada o no, y no todas son buenas.",
+      "refs": [
+       "s05.3"
+      ]
+     },
+     {
+      "term": "No es todo el diseño",
+      "text": "No se ocupa del diseño de cada clase.",
+      "refs": [
+       "s05.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Qué la define",
+    "leaves": [
+     {
+      "term": "Atributos de calidad",
+      "text": "Los requisitos funcionales no determinan la arquitectura.",
+      "refs": [
+       "s05.6"
+      ]
+     },
+     {
+      "term": "Patrón arquitectónico",
+      "text": "No es lo mismo que un patrón de diseño.",
+      "refs": [
+       "s05.7"
+      ]
+     },
+     {
+      "term": "Por qué importa",
+      "text": "Decisiones tempranas y difíciles de cambiar.",
+      "refs": [
+       "s05.13"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Niveles",
+    "leaves": [
+     {
+      "term": "De software",
+      "text": "El más específico: la parte lógica.",
+      "refs": [
+       "s05.9"
+      ]
+     },
+     {
+      "term": "De sistema",
+      "text": "Suma hardware, redes y personas.",
+      "refs": [
+       "s05.10"
+      ]
+     },
+     {
+      "term": "Empresarial",
+      "text": "Roles, procesos e información de la organización.",
+      "refs": [
+       "s05.11"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Estructuras de módulos",
+    "leaves": [
+     {
+      "term": "Qué son",
+      "text": "Unidades de implementación: clases, paquetes, capas.",
+      "refs": [
+       "s06.2"
+      ]
+     },
+     {
+      "term": "Preguntas",
+      "text": "¿Qué puede usar un módulo? ¿Cuáles se relacionan por herencia?",
+      "refs": [
+       "s06.2"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Componentes y conectores",
+    "leaves": [
+     {
+      "term": "Qué muestran",
+      "text": "El sistema en ejecución y cómo interactúan sus partes.",
+      "refs": [
+       "s06.3"
+      ]
+     },
+     {
+      "term": "Preguntas",
+      "text": "¿Qué corre en paralelo? ¿Qué se replica?",
+      "refs": [
+       "s06.3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Estructuras de asignación",
+    "leaves": [
+     {
+      "term": "Despliegue",
+      "text": "¿En qué procesador se ejecuta cada elemento?",
+      "refs": [
+       "s06.4"
+      ]
+     },
+     {
+      "term": "Implementación",
+      "text": "¿En qué directorios o archivos se guarda?",
+      "refs": [
+       "s06.4"
+      ]
+     },
+     {
+      "term": "Asignación de trabajo",
+      "text": "¿Qué equipo hace cada módulo?",
+      "refs": [
+       "s06.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "En los parciales",
+    "leaves": [
+     {
+      "term": "2024",
+      "text": "Preguntaron asignación en el parcial y C&C en el recuperatorio.",
+      "refs": [
+       "s06.5"
+      ]
+     },
+     {
+      "term": "Énfasis",
+      "text": "El profesor avisó que arquitectura se pregunta mucho.",
+      "refs": [
+       "s05.14"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b2-escenarios",
+  "unit": "b2",
+  "num": "03",
+  "title": "Atributos y escenarios de calidad",
+  "subtitle": "Reconstruir las seis partes de un escenario",
+  "kicker": "CALIDAD",
+  "center": "Escenario de atributo de calidad",
+  "recordar": "Fuente → estímulo → artefacto (en un entorno) → respuesta → medida.",
+  "left": [
+   {
+    "label": "Por qué escenarios",
+    "leaves": [
+     {
+      "term": "Atributo de calidad",
+      "text": "Propiedad medible más allá de la funcionalidad.",
+      "refs": [
+       "s07.1"
+      ]
+     },
+     {
+      "term": "El problema",
+      "text": "«Que sea modificable» no se puede comprobar.",
+      "refs": [
+       "s07.2"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Lo que llega",
+    "leaves": [
+     {
+      "term": "Fuente del estímulo",
+      "text": "Quién o qué lo genera.",
+      "refs": [
+       "s07.3"
+      ]
+     },
+     {
+      "term": "Estímulo",
+      "text": "Evento que llega al sistema.",
+      "refs": [
+       "s07.4"
+      ]
+     },
+     {
+      "term": "Artefacto",
+      "text": "Lo que recibe el estímulo.",
+      "refs": [
+       "s07.5"
+      ]
+     },
+     {
+      "term": "Entorno",
+      "text": "Circunstancias: operación normal, sobrecarga, desarrollo.",
+      "refs": [
+       "s07.6"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Lo que sale",
+    "leaves": [
+     {
+      "term": "Respuesta",
+      "text": "Actividad que resulta; lo que el arquitecto debe lograr.",
+      "refs": [
+       "s07.7"
+      ]
+     },
+     {
+      "term": "Medida de la respuesta",
+      "text": "Cómo se comprueba que se cumplió.",
+      "refs": [
+       "s07.8"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Tácticas y patrones",
+    "leaves": [
+     {
+      "term": "Táctica",
+      "text": "Decisión de diseño que apunta a un solo atributo.",
+      "refs": [
+       "s07.10"
+      ]
+     },
+     {
+      "term": "Patrón",
+      "text": "Solución probada; empaqueta varias tácticas.",
+      "refs": [
+       "s07.11"
+      ]
+     },
+     {
+      "term": "Para qué las tácticas",
+      "text": "Adaptar un patrón o diseñar cuando no hay uno.",
+      "refs": [
+       "s07.12"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Foco de la cátedra",
+    "leaves": [
+     {
+      "term": "Dos atributos",
+      "text": "Modificabilidad y rendimiento.",
+      "refs": [
+       "s07.13"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b2-modif",
+  "unit": "b2",
+  "num": "04",
+  "title": "Modificabilidad",
+  "subtitle": "Identificar el cambio, su costo y la táctica aplicable",
+  "kicker": "MODIFICABILIDAD",
+  "center": "Bajar el costo y el riesgo del cambio",
+  "recordar": "Tres familias de tácticas: aumentar la cohesión, reducir el acoplamiento y aplazar la vinculación.",
+  "left": [
+   {
+    "label": "De qué trata",
+    "leaves": [
+     {
+      "term": "Definición",
+      "text": "Capacidad de ser cambiado o mejorado durante su vida productiva.",
+      "refs": [
+       "s08.1"
+      ]
+     },
+     {
+      "term": "Preguntas",
+      "text": "¿Qué cambia? ¿Cuándo y quién? ¿Cuánto cuesta?",
+      "refs": [
+       "s08.2"
+      ]
+     },
+     {
+      "term": "Dos costos",
+      "text": "Introducir el mecanismo y hacer la modificación.",
+      "refs": [
+       "s08.3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Variantes",
+    "leaves": [
+     {
+      "term": "Escalabilidad",
+      "text": "Horizontal: más unidades. Vertical: más recursos a una.",
+      "refs": [
+       "s08.4"
+      ]
+     },
+     {
+      "term": "Variabilidad",
+      "text": "Variantes planificadas; líneas de productos.",
+      "refs": [
+       "s08.4"
+      ]
+     },
+     {
+      "term": "Portabilidad",
+      "text": "Y también independencia de ubicación.",
+      "refs": [
+       "s08.4"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Aumentar la cohesión",
+    "leaves": [
+     {
+      "term": "Dividir el módulo",
+      "text": "Y redistribuir responsabilidades.",
+      "refs": [
+       "s08.6"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Reducir el acoplamiento",
+    "leaves": [
+     {
+      "term": "Encapsular",
+      "text": "Y usar un intermediario.",
+      "refs": [
+       "s08.7"
+      ]
+     },
+     {
+      "term": "Abstraer servicios comunes",
+      "text": "Y restringir dependencias, como en capas.",
+      "refs": [
+       "s08.7"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Aplazar la vinculación",
+    "leaves": [
+     {
+      "term": "Idea",
+      "text": "Cuanto más tarde se fijan los valores, más barato el cambio.",
+      "refs": [
+       "s08.8"
+      ]
+     },
+     {
+      "term": "En compilación",
+      "text": "Reemplazo de componentes, parametrización.",
+      "refs": [
+       "s08.8"
+      ]
+     },
+     {
+      "term": "En despliegue",
+      "text": "Vinculación en configuración, archivos de recursos.",
+      "refs": [
+       "s08.8"
+      ]
+     },
+     {
+      "term": "En ejecución",
+      "text": "Descubrimiento, polimorfismo.",
+      "refs": [
+       "s08.8"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Patrones asociados",
+    "leaves": [
+     {
+      "term": "Cuatro",
+      "text": "Cliente-servidor, microkernel, capas y publicador-suscriptor.",
+      "refs": [
+       "s08.10"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b2-perf",
+  "unit": "b2",
+  "num": "05",
+  "title": "Rendimiento",
+  "subtitle": "Separar control de la demanda de gestión de recursos",
+  "kicker": "RENDIMIENTO",
+  "center": "Cumplir requisitos de tiempo",
+  "recordar": "Controlar la demanda actúa sobre lo que llega; gestionar recursos, sobre lo que atiende.",
+  "left": [
+   {
+    "label": "De qué trata",
+    "leaves": [
+     {
+      "term": "Tiempo",
+      "text": "Capacidad de cumplir requisitos temporales.",
+      "refs": [
+       "s09.1"
+      ]
+     },
+     {
+      "term": "Medidas",
+      "text": "Latencia, plazo o tasa de procesamiento.",
+      "refs": [
+       "s09.1"
+      ]
+     },
+     {
+      "term": "Tiempo de procesamiento",
+      "text": "El sistema trabaja y consume recursos.",
+      "refs": [
+       "s09.2"
+      ]
+     },
+     {
+      "term": "Tiempo bloqueado",
+      "text": "Espera por contención de recursos.",
+      "refs": [
+       "s09.2"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Controlar la demanda",
+    "leaves": [
+     {
+      "term": "Solicitudes",
+      "text": "Gestionar la llegada de eventos y el muestreo.",
+      "refs": [
+       "s09.4"
+      ]
+     },
+     {
+      "term": "Eventos",
+      "text": "Limitar la respuesta y priorizar.",
+      "refs": [
+       "s09.4"
+      ]
+     },
+     {
+      "term": "Sobrecarga",
+      "text": "Menos intermediarios; limitar tiempos de ejecución.",
+      "refs": [
+       "s09.4"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Gestionar los recursos",
+    "leaves": [
+     {
+      "term": "Más recursos",
+      "text": "Y concurrencia.",
+      "refs": [
+       "s09.5"
+      ]
+     },
+     {
+      "term": "Copias de cálculos",
+      "text": "Balanceo de carga.",
+      "refs": [
+       "s09.5"
+      ]
+     },
+     {
+      "term": "Copias de datos",
+      "text": "Replicación y caché.",
+      "refs": [
+       "s09.5"
+      ]
+     },
+     {
+      "term": "Colas",
+      "text": "Limitar su tamaño y programar los recursos.",
+      "refs": [
+       "s09.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Tensión",
+    "leaves": [
+     {
+      "term": "Con modificabilidad",
+      "text": "Un intermediario baja el acoplamiento pero agrega sobrecarga.",
+      "refs": [
+       "s09.6"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Patrones asociados",
+    "leaves": [
+     {
+      "term": "Cuatro",
+      "text": "Service mesh, balanceador de carga, throttling y map-reduce.",
+      "refs": [
+       "s09.8"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b2-estilos",
+  "unit": "b2",
+  "num": "06",
+  "title": "Capas, repositorio, cliente-servidor, tuberías y microkernel",
+  "subtitle": "Reconocer cada estilo por su organización",
+  "kicker": "ESTILOS",
+  "center": "Patrones arquitectónicos",
+  "recordar": "Capa es lógica, no física. Eclipse con plug-ins es microkernel.",
+  "left": [
+   {
+    "label": "En capas",
+    "leaves": [
+     {
+      "term": "Regla",
+      "text": "Cada capa depende solo de la inmediatamente inferior.",
+      "refs": [
+       "s10.1"
+      ]
+     },
+     {
+      "term": "Ventaja",
+      "text": "Se reemplaza una capa completa si se mantiene su interfaz.",
+      "refs": [
+       "s10.4"
+      ]
+     },
+     {
+      "term": "Desventajas",
+      "text": "Cuesta separarlas limpiamente; el rendimiento puede sufrir.",
+      "refs": [
+       "s10.5"
+      ]
+     },
+     {
+      "term": "Ojo",
+      "text": "Capa (layer) no es nivel (tier).",
+      "refs": [
+       "s10.6"
+      ]
+     },
+     {
+      "term": "MVC",
+      "text": "Modelo, vista y controlador.",
+      "refs": [
+       "s10.7"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Repositorio",
+    "leaves": [
+     {
+      "term": "Depósito central",
+      "text": "Los componentes solo interactúan a través de él.",
+      "refs": [
+       "s11.2"
+      ]
+     },
+     {
+      "term": "Cuándo",
+      "text": "Grandes volúmenes de datos de larga vida.",
+      "refs": [
+       "s11.3"
+      ]
+     },
+     {
+      "term": "Contra",
+      "text": "Punto único de falla; difícil de distribuir.",
+      "refs": [
+       "s11.4"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Cliente-servidor",
+    "leaves": [
+     {
+      "term": "Servicios",
+      "text": "Cada servicio lo ofrece un servidor; los clientes lo usan.",
+      "refs": [
+       "s11.6"
+      ]
+     },
+     {
+      "term": "Asimetría",
+      "text": "El cliente conoce al servidor, no al revés; hay descubrimiento.",
+      "refs": [
+       "s11.7"
+      ]
+     },
+     {
+      "term": "Estado",
+      "text": "El servidor puede ser con o sin estado.",
+      "refs": [
+       "s11.8"
+      ]
+     },
+     {
+      "term": "Contra",
+      "text": "Punto único de falla; depende de la red.",
+      "refs": [
+       "s11.9"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Tuberías y filtros",
+    "leaves": [
+     {
+      "term": "Cadena",
+      "text": "La salida de una transformación es la entrada de otra.",
+      "refs": [
+       "s12.2"
+      ]
+     },
+     {
+      "term": "Cuándo",
+      "text": "Lotes o flujos de datos; poca interacción.",
+      "refs": [
+       "s12.3"
+      ]
+     },
+     {
+      "term": "Contra",
+      "text": "Hay que acordar el formato de los datos.",
+      "refs": [
+       "s12.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Microkernel",
+    "leaves": [
+     {
+      "term": "Núcleo y plug-ins",
+      "text": "Sistema central mínimo que se amplía por interfaces fijas.",
+      "refs": [
+       "s12.6"
+      ]
+     },
+     {
+      "term": "Aporta",
+      "text": "Extensibilidad, adaptabilidad y aislamiento.",
+      "refs": [
+       "s12.7"
+      ]
+     },
+     {
+      "term": "Parcial 2024",
+      "text": "Describían Eclipse y había que reconocerlo.",
+      "refs": [
+       "s12.8"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b2-dist",
+  "unit": "b2",
+  "num": "07",
+  "title": "Sistemas distribuidos",
+  "subtitle": "Ventajas, escalabilidad y dificultades",
+  "kicker": "DISTRIBUCIÓN",
+  "center": "Varias computadoras, un sistema",
+  "recordar": "Concurrencia y escalabilidad son ventajas; la imprevisibilidad es una desventaja.",
+  "left": [
+   {
+    "label": "Qué es",
+    "leaves": [
+     {
+      "term": "Definición",
+      "text": "Computadoras independientes que se ven como un único sistema.",
+      "refs": [
+       "s13.1"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Beneficios",
+    "leaves": [
+     {
+      "term": "Recursos compartidos",
+      "text": "Y apertura: protocolos estándar.",
+      "refs": [
+       "s13.2"
+      ]
+     },
+     {
+      "term": "Concurrencia",
+      "text": "Los procesos operan a la vez.",
+      "refs": [
+       "s13.2"
+      ]
+     },
+     {
+      "term": "Escalabilidad",
+      "text": "Se agregan recursos para crecer.",
+      "refs": [
+       "s13.2"
+      ]
+     },
+     {
+      "term": "Tolerancia a fallos",
+      "text": "El sistema sigue aunque falle una parte.",
+      "refs": [
+       "s13.2"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Cuestiones de diseño",
+    "leaves": [
+     {
+      "term": "Escalabilidad",
+      "text": "Tamaño, distribución y administrabilidad.",
+      "refs": [
+       "s13.3"
+      ]
+     },
+     {
+      "term": "Seguridad",
+      "text": "Intercepción, interrupción, modificación y fabricación.",
+      "refs": [
+       "s13.4"
+      ]
+     },
+     {
+      "term": "Fallos",
+      "text": "Detectarlos, seguir dando servicio y recuperarse.",
+      "refs": [
+       "s13.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Desventajas",
+    "leaves": [
+     {
+      "term": "Cuatro",
+      "text": "Complejidad, seguridad, manejabilidad e imprevisibilidad.",
+      "refs": [
+       "s13.6"
+      ]
+     },
+     {
+      "term": "Distractores",
+      "text": "«Predictibilidad de la red» y «consistencia estricta».",
+      "refs": [
+       "s13.7"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b2-topo",
+  "unit": "b2",
+  "num": "08",
+  "title": "Patrones para sistemas distribuidos",
+  "subtitle": "Maestro-esclavo, cliente-servidor, componentes y P2P",
+  "kicker": "TOPOLOGÍAS",
+  "center": "Cómo se reparten los nodos",
+  "recordar": "Liviano: solo presentación. Pesado: procesa en el cliente. Multinivel: procesos separados.",
+  "left": [
+   {
+    "label": "Maestro-esclavo",
+    "leaves": [
+     {
+      "term": "Maestro",
+      "text": "Cómputo, coordinación y comunicaciones; controla a los esclavos.",
+      "refs": [
+       "s14.1"
+      ]
+     },
+     {
+      "term": "Esclavos",
+      "text": "Acciones específicas: sensores y actuadores.",
+      "refs": [
+       "s14.1"
+      ]
+     },
+     {
+      "term": "Cuándo",
+      "text": "Tiempo real con respuesta garantizada.",
+      "refs": [
+       "s14.1"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "C/S de dos niveles",
+    "leaves": [
+     {
+      "term": "Cliente liviano",
+      "text": "Solo presentación; carga al servidor y a la red.",
+      "refs": [
+       "s14.2"
+      ]
+     },
+     {
+      "term": "Cliente pesado",
+      "text": "Procesa en el cliente; hay que mantener cada equipo.",
+      "refs": [
+       "s14.2"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "C/S multinivel",
+    "leaves": [
+     {
+      "term": "Procesos separados",
+      "text": "Presentación, procesamiento, datos y base de datos.",
+      "refs": [
+       "s14.3"
+      ]
+     },
+     {
+      "term": "Ventaja",
+      "text": "Más escalable; para alto volumen de transacciones.",
+      "refs": [
+       "s14.3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Componentes distribuidos",
+    "leaves": [
+     {
+      "term": "Middleware",
+      "text": "Los componentes se comunican a través de él.",
+      "refs": [
+       "s14.4"
+      ]
+     },
+     {
+      "term": "Contra",
+      "text": "Complejo y sin estándares universales.",
+      "refs": [
+       "s14.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Peer-to-peer",
+    "leaves": [
+     {
+      "term": "Descentralizado",
+      "text": "No hay distinción entre cliente y servidor.",
+      "refs": [
+       "s14.5"
+      ]
+     },
+     {
+      "term": "A favor",
+      "text": "Redundante y tolerante a fallos.",
+      "refs": [
+       "s14.5"
+      ]
+     },
+     {
+      "term": "Contra",
+      "text": "Sobrecarga de comunicación y seguridad.",
+      "refs": [
+       "s14.5"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b2-soa",
+  "unit": "b2",
+  "num": "09",
+  "title": "SOA y SaaS",
+  "subtitle": "Seguir proveedor, registro y solicitante; distinguir SaaS",
+  "kicker": "SERVICIOS",
+  "center": "Arquitectura orientada a servicios",
+  "recordar": "El proveedor publica, el solicitante encuentra y se enlaza. SaaS es un modelo de entrega, no un estilo.",
+  "left": [
+   {
+    "label": "Servicios",
+    "leaves": [
+     {
+      "term": "Qué son",
+      "text": "Componentes independientes de plataforma y lenguaje.",
+      "refs": [
+       "s15.1"
+      ]
+     },
+     {
+      "term": "Solo «provee»",
+      "text": "Un servicio no requiere otros componentes presentes.",
+      "refs": [
+       "s15.2"
+      ]
+     },
+     {
+      "term": "Ventajas",
+      "text": "Cambiar de proveedor en ejecución; pago por uso.",
+      "refs": [
+       "s15.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Roles",
+    "leaves": [
+     {
+      "term": "Proveedor",
+      "text": "Publica el servicio en el registro.",
+      "refs": [
+       "s15.3"
+      ]
+     },
+     {
+      "term": "Registro",
+      "text": "Donde se publica y se encuentra.",
+      "refs": [
+       "s15.3"
+      ]
+     },
+     {
+      "term": "Solicitante",
+      "text": "Lo encuentra y se enlaza con el proveedor.",
+      "refs": [
+       "s15.3"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Estándares",
+    "leaves": [
+     {
+      "term": "SOAP",
+      "text": "Intercambio de mensajes.",
+      "refs": [
+       "s15.4:1"
+      ]
+     },
+     {
+      "term": "WSDL",
+      "text": "Definición de la interfaz.",
+      "refs": [
+       "s15.4:2"
+      ]
+     },
+     {
+      "term": "WS-BPEL",
+      "text": "Flujo de trabajo entre servicios.",
+      "refs": [
+       "s15.4:3"
+      ]
+     },
+     {
+      "term": "UDDI",
+      "text": "Descubrimiento; en desuso.",
+      "refs": [
+       "s15.4:4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "SaaS",
+    "leaves": [
+     {
+      "term": "Qué es",
+      "text": "Modelo de entrega y de negocio, no un estilo.",
+      "refs": [
+       "s17.1"
+      ]
+     },
+     {
+      "term": "Frente a SOA",
+      "text": "SOA estructura el sistema; SaaS lo ofrece.",
+      "refs": [
+       "s17.2"
+      ]
+     },
+     {
+      "term": "Prioridad C",
+      "text": "El profesor no hizo hincapié.",
+      "refs": [
+       "s17.4"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b2-micro",
+  "unit": "b2",
+  "num": "10",
+  "title": "Microservicios",
+  "subtitle": "Fronteras, datos por servicio, capa de API y coordinación",
+  "kicker": "MICROSERVICIOS",
+  "center": "Servicios pequeños y autónomos",
+  "recordar": "Cliente → capa de API → servicios, cada uno con su base de datos. Se prefiere duplicar a acoplar.",
+  "left": [
+   {
+    "label": "Idea",
+    "leaves": [
+     {
+      "term": "Definición",
+      "text": "Servicios pequeños, cada uno en su proceso.",
+      "refs": [
+       "s16.1"
+      ]
+     },
+     {
+      "term": "Problema que resuelve",
+      "text": "Reconstruir todo y escalar con servidores más grandes.",
+      "refs": [
+       "s16.2"
+      ]
+     },
+     {
+      "term": "Puntos fuertes",
+      "text": "Escalabilidad, elasticidad y capacidad evolutiva.",
+      "refs": [
+       "s16.10"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Fronteras",
+    "leaves": [
+     {
+      "term": "Contexto delimitado",
+      "text": "Cada servicio incluye todo lo que necesita.",
+      "refs": [
+       "s16.3"
+      ]
+     },
+     {
+      "term": "Granularidad",
+      "text": "El error típico es hacerlos demasiado chicos.",
+      "refs": [
+       "s16.4"
+      ]
+     },
+     {
+      "term": "Datos",
+      "text": "Cada servicio es dueño de los suyos; sin base compartida.",
+      "refs": [
+       "s16.5"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Capa de API",
+    "leaves": [
+     {
+      "term": "Qué hace",
+      "text": "Punto de entrada; opcional.",
+      "refs": [
+       "s16.6"
+      ]
+     },
+     {
+      "term": "Qué no hace",
+      "text": "No orquesta ni tiene lógica de negocio.",
+      "refs": [
+       "s16.6"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Coordinación",
+    "leaves": [
+     {
+      "term": "Coreografía",
+      "text": "Sin coordinador: cada servicio llama a los que necesita.",
+      "refs": [
+       "s16.7"
+      ]
+     },
+     {
+      "term": "Orquestación",
+      "text": "Un mediador local coordina el flujo.",
+      "refs": [
+       "s16.8"
+      ]
+     },
+     {
+      "term": "Saga",
+      "text": "Transacciones compensatorias que deshacen lo hecho.",
+      "refs": [
+       "s16.9"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "En una figura",
+    "leaves": [
+     {
+      "term": "Topología",
+      "text": "Reconocerla salió en la simulación 2024.",
+      "refs": [
+       "s16.11"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b3-puds",
+  "unit": "b3",
+  "num": "01",
+  "title": "PUDS: visión general",
+  "subtitle": "Dirigido por casos de uso, centrado en la arquitectura, iterativo e incremental",
+  "kicker": "PROCESO UNIFICADO",
+  "center": "Tres características",
+  "recordar": "Casos de uso y arquitectura evolucionan en paralelo. Cada iteración produce un incremento.",
+  "left": [
+   {
+    "label": "Qué es",
+    "leaves": [
+     {
+      "term": "Marco genérico",
+      "text": "Especializable según sistema, organización y tamaño.",
+      "refs": [
+       "s18.1"
+      ]
+     },
+     {
+      "term": "Base",
+      "text": "Componentes conectados por interfaces; usa UML.",
+      "refs": [
+       "s18.1"
+      ]
+     },
+     {
+      "term": "Innegociables",
+      "text": "No hay PU sin casos de uso.",
+      "refs": [
+       "s18.8"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Dirigido por casos de uso",
+    "leaves": [
+     {
+      "term": "Caso de uso",
+      "text": "Funcionalidad que da un resultado de valor al usuario.",
+      "refs": [
+       "s18.2"
+      ]
+     },
+     {
+      "term": "Hilo conductor",
+      "text": "Guían análisis, diseño, implementación y prueba.",
+      "refs": [
+       "s18.2"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Centrado en la arquitectura",
+    "leaves": [
+     {
+      "term": "Arquitectura",
+      "text": "Vista del diseño con lo más importante, sin detalles.",
+      "refs": [
+       "s18.3"
+      ]
+     },
+     {
+      "term": "En paralelo",
+      "text": "Los casos de uso encajan en ella y la guían.",
+      "refs": [
+       "s18.3"
+      ]
+     },
+     {
+      "term": "Desde inicio",
+      "text": "Empieza como un boceto.",
+      "refs": [
+       "s18.3"
+      ]
+     },
+     {
+      "term": "Qué influye",
+      "text": "Casos de uso clave, RNF y patrones.",
+      "refs": [
+       "s18.6"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Iterativo e incremental",
+    "leaves": [
+     {
+      "term": "Iteración",
+      "text": "Miniproyecto que produce un incremento.",
+      "refs": [
+       "s18.4"
+      ]
+     },
+     {
+      "term": "Riesgos primero",
+      "text": "Se planifica y se ataca lo más riesgoso.",
+      "refs": [
+       "s18.4"
+      ]
+     },
+     {
+      "term": "Razón principal",
+      "text": "Manejar riesgos y tener retroalimentación temprana.",
+      "refs": [
+       "s18.5"
+      ]
+     },
+     {
+      "term": "Otras ventajas",
+      "text": "Acota el riesgo a un incremento; acepta cambios.",
+      "refs": [
+       "s18.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Las 4 P + H",
+    "leaves": [
+     {
+      "term": "Cuatro P",
+      "text": "Personas, Proyecto, Producto y Proceso.",
+      "refs": [
+       "s18.7"
+      ]
+     },
+     {
+      "term": "Herramientas",
+      "text": "Automatizan el proceso.",
+      "refs": [
+       "s18.7"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b3-ciclo",
+  "unit": "b3",
+  "num": "02",
+  "title": "PUDS: ciclo de vida y conceptos",
+  "subtitle": "Ciclo, fase, iteración, trabajador, actividad y artefacto",
+  "kicker": "CICLO DE VIDA",
+  "center": "Ciclo → fase → iteración",
+  "recordar": "Un ciclo tiene cuatro fases y termina en una versión. Cada fase se divide en iteraciones.",
+  "left": [
+   {
+    "label": "El ciclo",
+    "leaves": [
+     {
+      "term": "Serie de ciclos",
+      "text": "El PU se repite a lo largo de la vida del sistema.",
+      "refs": [
+       "s19.1"
+      ]
+     },
+     {
+      "term": "Cada ciclo",
+      "text": "Cuatro fases; termina con una versión del producto.",
+      "refs": [
+       "s19.1"
+      ]
+     },
+     {
+      "term": "Jerarquía",
+      "text": "«Cada fase se divide en ciclos» es falsa.",
+      "refs": [
+       "s19.2"
+      ]
+     },
+     {
+      "term": "Producto",
+      "text": "Ejecutable más todos los modelos, con trazas.",
+      "refs": [
+       "s19.3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "PU y RUP",
+    "leaves": [
+     {
+      "term": "No son lo mismo",
+      "text": "RUP deriva del PU y es más detallado.",
+      "refs": [
+       "s19.9"
+      ]
+     },
+     {
+      "term": "Vocabulario",
+      "text": "Rol es trabajador; disciplina es flujo de trabajo.",
+      "refs": [
+       "s19.9"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Conceptos",
+    "leaves": [
+     {
+      "term": "Flujo de trabajo",
+      "text": "Actividades afines: requisitos, análisis, diseño, implementación, prueba.",
+      "refs": [
+       "s19.4"
+      ]
+     },
+     {
+      "term": "Trabajador",
+      "text": "Un rol, no una persona.",
+      "refs": [
+       "s19.5"
+      ]
+     },
+     {
+      "term": "Actividad",
+      "text": "Trabajo de un trabajador, con artefactos de entrada y salida.",
+      "refs": [
+       "s19.6"
+      ]
+     },
+     {
+      "term": "Artefacto",
+      "text": "Lo que se produce o usa; bajo control de versiones.",
+      "refs": [
+       "s19.7"
+      ]
+     },
+     {
+      "term": "Hito",
+      "text": "Punto de control para decidir si se sigue o se ajusta.",
+      "refs": [
+       "s19.8"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b3-fases",
+  "unit": "b3",
+  "num": "03",
+  "title": "PUDS: fases e hitos",
+  "subtitle": "Objetivo, hito y entregable de cada fase",
+  "kicker": "FASES",
+  "center": "Inicio, Elaboración, Construcción, Transición",
+  "recordar": "Inicio: alcance y viabilidad. Elaboración: línea base de la arquitectura. Construcción: capacidad operativa inicial. Transición: lanzamiento.",
+  "left": [
+   {
+    "label": "Inicio",
+    "leaves": [
+     {
+      "term": "Foco",
+      "text": "Delimitar el alcance y demostrar que el sistema resuelve el problema.",
+      "refs": [
+       "s20.1:1"
+      ]
+     },
+     {
+      "term": "Hito",
+      "text": "Objetivos del ciclo de vida.",
+      "refs": [
+       "s20.1:1"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Elaboración",
+    "leaves": [
+     {
+      "term": "Foco",
+      "text": "Línea base de la arquitectura; mayoría de casos de uso.",
+      "refs": [
+       "s20.1:2"
+      ]
+     },
+     {
+      "term": "Hito",
+      "text": "Arquitectura del ciclo de vida.",
+      "refs": [
+       "s20.1:2"
+      ]
+     },
+     {
+      "term": "Esqueleto",
+      "text": "La arquitectura debe quedar estable.",
+      "refs": [
+       "s20.2"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Construcción",
+    "leaves": [
+     {
+      "term": "Foco",
+      "text": "Desarrollar el producto completo.",
+      "refs": [
+       "s20.1:3"
+      ]
+     },
+     {
+      "term": "Hito",
+      "text": "Capacidad operativa inicial.",
+      "refs": [
+       "s20.1:3"
+      ]
+     },
+     {
+      "term": "Artefacto clave",
+      "text": "El software ejecutable.",
+      "refs": [
+       "s20.3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Transición",
+    "leaves": [
+     {
+      "term": "Foco",
+      "text": "Versión beta con usuarios; corregir, capacitar.",
+      "refs": [
+       "s20.1:4"
+      ]
+     },
+     {
+      "term": "Hito",
+      "text": "Lanzamiento del producto.",
+      "refs": [
+       "s20.1:4"
+      ]
+     },
+     {
+      "term": "No es mantenimiento",
+      "text": "Termina con el producto en el sitio del cliente.",
+      "refs": [
+       "s20.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Tomado en 2024",
+    "leaves": [
+     {
+      "term": "Inicio y construcción",
+      "text": "Actividades de inicio y entregables de construcción.",
+      "refs": [
+       "s20.5"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b3-req",
+  "unit": "b3",
+  "num": "04",
+  "title": "Requisitos y contexto del sistema",
+  "subtitle": "Lista de características, dominio, negocio y casos de uso",
+  "kicker": "REQUISITOS",
+  "center": "Averiguar qué se debe construir",
+  "recordar": "El modelo del negocio tiene dos modelos: casos de uso del negocio y objetos del negocio.",
+  "left": [
+   {
+    "label": "Pasos",
+    "leaves": [
+     {
+      "term": "Requisitos candidatos",
+      "text": "Lista de características para planificar.",
+      "refs": [
+       "s21.2"
+      ]
+     },
+     {
+      "term": "Contexto",
+      "text": "Con modelo del dominio o del negocio.",
+      "refs": [
+       "s21.3"
+      ]
+     },
+     {
+      "term": "Funcionales",
+      "text": "Como casos de uso del sistema.",
+      "refs": [
+       "s21.6"
+      ]
+     },
+     {
+      "term": "No funcionales",
+      "text": "Con su caso de uso, o como requisitos adicionales.",
+      "refs": [
+       "s21.7"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Contexto",
+    "leaves": [
+     {
+      "term": "Modelo del dominio",
+      "text": "Clases conceptuales del contexto.",
+      "refs": [
+       "s21.4"
+      ]
+     },
+     {
+      "term": "Modelo del negocio",
+      "text": "Casos de uso del negocio y objetos del negocio.",
+      "refs": [
+       "s21.5"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Artefactos",
+    "leaves": [
+     {
+      "term": "Modelo de casos de uso",
+      "text": "Actores y casos de uso.",
+      "refs": [
+       "s21.9"
+      ]
+     },
+     {
+      "term": "Glosario",
+      "text": "Y prototipo de interfaz de usuario.",
+      "refs": [
+       "s21.9"
+      ]
+     },
+     {
+      "term": "No es de requisitos",
+      "text": "La clase de análisis.",
+      "refs": [
+       "s21.10"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Por qué cuesta",
+    "leaves": [
+     {
+      "term": "Dificultad",
+      "text": "Los usuarios no siempre saben qué quieren.",
+      "refs": [
+       "s21.1"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b3-freq",
+  "unit": "b3",
+  "num": "05",
+  "title": "Flujo de trabajo de Requisitos",
+  "subtitle": "Cuatro trabajadores y cinco actividades",
+  "kicker": "FLUJO DE REQUISITOS",
+  "center": "PUDS, figura 7.10",
+  "recordar": "Analista encuentra y estructura; arquitecto prioriza; especificador detalla; diseñador de interfaz prototipa.",
+  "left": [
+   {
+    "label": "Analista de sistemas",
+    "leaves": [
+     {
+      "term": "Encontrar actores y casos de uso",
+      "text": "Delimita el sistema y arma el glosario.",
+      "refs": [
+       "s22.1:1"
+      ]
+     },
+     {
+      "term": "Estructurar el modelo",
+      "text": "Generalización, inclusión y extensión.",
+      "refs": [
+       "s22.1:5"
+      ]
+     },
+     {
+      "term": "Responsable",
+      "text": "Del conjunto del modelo, no del detalle.",
+      "refs": [
+       "s22.3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Arquitecto",
+    "leaves": [
+     {
+      "term": "Priorizar los casos de uso",
+      "text": "Los significativos para la arquitectura van primero.",
+      "refs": [
+       "s22.1:2"
+      ]
+     },
+     {
+      "term": "Dónde aparece",
+      "text": "En todos los flujos salvo prueba.",
+      "refs": [
+       "s22.4"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Especificador de casos de uso",
+    "leaves": [
+     {
+      "term": "Detallar un caso de uso",
+      "text": "Flujo de sucesos, pre y postcondiciones.",
+      "refs": [
+       "s22.1:3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Diseñador de interfaz",
+    "leaves": [
+     {
+      "term": "Prototipar la interfaz",
+      "text": "Valida que los casos de uso se entendieron.",
+      "refs": [
+       "s22.1:4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "La figura",
+    "leaves": [
+     {
+      "term": "Orden",
+      "text": "Encontrar → priorizar → detallar → prototipar y estructurar.",
+      "refs": [
+       "s22.2"
+      ]
+     },
+     {
+      "term": "Parcial 2024",
+      "text": "Completar trabajadores y actividades.",
+      "refs": [
+       "s22.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Práctica: CRC",
+    "leaves": [
+     {
+      "term": "Realización",
+      "text": "Parte estática y parte dinámica.",
+      "refs": [
+       "s23.1"
+      ]
+     },
+     {
+      "term": "Tarjetas CRC",
+      "text": "Clase, Responsabilidad, Colaboración.",
+      "refs": [
+       "s23.2"
+      ]
+     },
+     {
+      "term": "Acuerdos",
+      "text": "Un controlador y una interfaz; camino feliz.",
+      "refs": [
+       "s23.5",
+       "s23.6"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b3-man",
+  "unit": "b3",
+  "num": "06",
+  "title": "Modelo de análisis",
+  "subtitle": "Entidad, control e interfaz; realización de análisis",
+  "kicker": "ANÁLISIS",
+  "center": "Requisitos en lenguaje del desarrollador",
+  "recordar": "Vista interna, sin redundancias, estructurada por clases y paquetes estereotipados.",
+  "left": [
+   {
+    "label": "Frente al modelo de casos de uso",
+    "leaves": [
+     {
+      "term": "Lenguaje",
+      "text": "Del desarrollador, no del cliente.",
+      "refs": [
+       "s24.2:1"
+      ]
+     },
+     {
+      "term": "Vista",
+      "text": "Interna, no externa.",
+      "refs": [
+       "s24.2:2"
+      ]
+     },
+     {
+      "term": "Estructura",
+      "text": "Clases y paquetes estereotipados.",
+      "refs": [
+       "s24.2:3"
+      ]
+     },
+     {
+      "term": "Consistencia",
+      "text": "No debería tener redundancias.",
+      "refs": [
+       "s24.2:5"
+      ]
+     },
+     {
+      "term": "Define",
+      "text": "Realizaciones de casos de uso.",
+      "refs": [
+       "s24.2:7"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Clase del análisis",
+    "leaves": [
+     {
+      "term": "Responsabilidades",
+      "text": "Comportamiento a alto nivel.",
+      "refs": [
+       "s24.4"
+      ]
+     },
+     {
+      "term": "Interfaz",
+      "text": "Interacción entre sistema y actores.",
+      "refs": [
+       "s24.5"
+      ]
+     },
+     {
+      "term": "Entidad",
+      "text": "Información duradera.",
+      "refs": [
+       "s24.5"
+      ]
+     },
+     {
+      "term": "Control",
+      "text": "Coordinación y secuencia.",
+      "refs": [
+       "s24.5"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Realización-análisis",
+    "leaves": [
+     {
+      "term": "Qué es",
+      "text": "Una colaboración con traza directa al caso de uso.",
+      "refs": [
+       "s24.6"
+      ]
+     },
+     {
+      "term": "Diagramas",
+      "text": "Se prefieren los de colaboración.",
+      "refs": [
+       "s24.6"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Paquetes",
+    "leaves": [
+     {
+      "term": "Paquete del análisis",
+      "text": "Probable subsistema en diseño.",
+      "refs": [
+       "s24.7"
+      ]
+     },
+     {
+      "term": "Paquete de servicio",
+      "text": "Clases que dan un servicio indivisible.",
+      "refs": [
+       "s24.7"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Lo que no hay",
+    "leaves": [
+     {
+      "term": "En análisis",
+      "text": "Ni subsistemas, ni navegabilidad, ni tipos del lenguaje.",
+      "refs": [
+       "s24.9"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b3-fan",
+  "unit": "b3",
+  "num": "07",
+  "title": "Flujo de trabajo de Análisis",
+  "subtitle": "Arquitectura, caso de uso, clase y paquete con su trabajador",
+  "kicker": "FLUJO DE ANÁLISIS",
+  "center": "PUDS, figura 8.18",
+  "recordar": "Arquitecto: arquitectura. Ingeniero de casos de uso: caso de uso. Ingeniero de componentes: clase y paquete.",
+  "left": [
+   {
+    "label": "Arquitecto",
+    "leaves": [
+     {
+      "term": "Análisis de la arquitectura",
+      "text": "Paquetes, clases de entidad obvias, requisitos especiales.",
+      "refs": [
+       "s25.1:1"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Ingeniero de casos de uso",
+    "leaves": [
+     {
+      "term": "Analizar un caso de uso",
+      "text": "Identifica clases y describe interacciones.",
+      "refs": [
+       "s25.1:2"
+      ]
+     },
+     {
+      "term": "Responsable",
+      "text": "De la integridad de las realizaciones.",
+      "refs": [
+       "s25.3"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Ingeniero de componentes",
+    "leaves": [
+     {
+      "term": "Analizar una clase",
+      "text": "Responsabilidades, atributos y relaciones.",
+      "refs": [
+       "s25.1:3"
+      ]
+     },
+     {
+      "term": "Analizar un paquete",
+      "text": "Independencia y dependencias.",
+      "refs": [
+       "s25.1:4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Quién no está",
+    "leaves": [
+     {
+      "term": "Analista de sistemas",
+      "text": "No participa en este flujo.",
+      "refs": [
+       "s25.2"
+      ]
+     },
+     {
+      "term": "Simulación 2024",
+      "text": "«Realizar caso de uso» no existe.",
+      "refs": [
+       "s25.4"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b3-mdis",
+  "unit": "b3",
+  "num": "08",
+  "title": "Modelo de diseño",
+  "subtitle": "Compararlo con análisis; clases, subsistemas, despliegue",
+  "kicker": "DISEÑO",
+  "center": "Plano de la implementación",
+  "recordar": "Físico, formal, muy centrado en la secuencia y mantenido todo el ciclo de vida.",
+  "left": [
+   {
+    "label": "Frente al análisis",
+    "leaves": [
+     {
+      "term": "Naturaleza",
+      "text": "Físico, no conceptual.",
+      "refs": [
+       "s26.2:1"
+      ]
+     },
+     {
+      "term": "Estereotipos",
+      "text": "Cualquier número, según el lenguaje.",
+      "refs": [
+       "s26.2:3"
+      ]
+     },
+     {
+      "term": "Formalidad",
+      "text": "Más formal.",
+      "refs": [
+       "s26.2:4"
+      ]
+     },
+     {
+      "term": "Secuencia",
+      "text": "Muy centrado en ella.",
+      "refs": [
+       "s26.2:5"
+      ]
+     },
+     {
+      "term": "Mantenimiento",
+      "text": "Durante todo el ciclo de vida.",
+      "refs": [
+       "s26.2:6"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Clase del diseño",
+    "leaves": [
+     {
+      "term": "Lenguaje",
+      "text": "Atributos declarados con sus tipos.",
+      "refs": [
+       "s26.4"
+      ]
+     },
+     {
+      "term": "Métodos",
+      "text": "Pueden quedar en lenguaje natural o pseudocódigo.",
+      "refs": [
+       "s26.4"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Realización-diseño",
+    "leaves": [
+     {
+      "term": "Traza",
+      "text": "A la de análisis, o directa al caso de uso si no hay análisis.",
+      "refs": [
+       "s26.5"
+      ]
+     },
+     {
+      "term": "Diagramas",
+      "text": "De secuencia; pueden incluir subsistemas.",
+      "refs": [
+       "s26.5"
+      ]
+     },
+     {
+      "term": "2024",
+      "text": "Una clase participa en varias realizaciones.",
+      "refs": [
+       "s26.9"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Otros artefactos",
+    "leaves": [
+     {
+      "term": "Subsistema",
+      "text": "Cohesivo y débilmente acoplado.",
+      "refs": [
+       "s26.6"
+      ]
+     },
+     {
+      "term": "Interfaz",
+      "text": "Operaciones de clases y subsistemas.",
+      "refs": [
+       "s26.7"
+      ]
+     },
+     {
+      "term": "Despliegue",
+      "text": "Nodos y conexiones.",
+      "refs": [
+       "s26.8"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b3-fdis",
+  "unit": "b3",
+  "num": "09",
+  "title": "Flujo de trabajo de Diseño",
+  "subtitle": "Arquitectura, caso de uso, clase y subsistema con sus flechas",
+  "kicker": "FLUJO DE DISEÑO",
+  "center": "PUDS, figura 9.16",
+  "recordar": "Mismo reparto que en análisis: arquitecto, ingeniero de casos de uso e ingeniero de componentes.",
+  "left": [
+   {
+    "label": "Arquitecto",
+    "leaves": [
+     {
+      "term": "Diseño de la arquitectura",
+      "text": "Nodos, subsistemas, interfaces y mecanismos genéricos.",
+      "refs": [
+       "s27.1:1"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Ingeniero de casos de uso",
+    "leaves": [
+     {
+      "term": "Diseñar un caso de uso",
+      "text": "Clases participantes a partir de las del análisis.",
+      "refs": [
+       "s27.1:2"
+      ]
+     },
+     {
+      "term": "Variante",
+      "text": "Diseñarlo en términos de subsistemas e interfaces.",
+      "refs": [
+       "s27.3"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Ingeniero de componentes",
+    "leaves": [
+     {
+      "term": "Diseñar una clase",
+      "text": "Operaciones, atributos, métodos y estados.",
+      "refs": [
+       "s27.1:3"
+      ]
+     },
+     {
+      "term": "Diseñar un subsistema",
+      "text": "Dependencias, interfaces y contenido.",
+      "refs": [
+       "s27.1:4"
+      ]
+     },
+     {
+      "term": "Dependencias",
+      "text": "Hacia interfaces, no hacia clases internas.",
+      "refs": [
+       "s27.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "La figura",
+    "leaves": [
+     {
+      "term": "Flechas",
+      "text": "De la arquitectura salen caso de uso y clase; ambos llegan a subsistema.",
+      "refs": [
+       "s27.2"
+      ]
+     },
+     {
+      "term": "Recuperatorio 2024",
+      "text": "Completar trabajadores y actividades.",
+      "refs": [
+       "s27.5"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b3-impl",
+  "unit": "b3",
+  "num": "10",
+  "title": "Implementación",
+  "subtitle": "Componente, construcción, integrador y prueba de unidad",
+  "kicker": "IMPLEMENTACIÓN",
+  "center": "El sistema en componentes",
+  "recordar": "La prueba de unidad se hace acá, no en el flujo de prueba.",
+  "left": [
+   {
+    "label": "Propósitos",
+    "leaves": [
+     {
+      "term": "Componentes",
+      "text": "Código fuente, scripts, binarios, ejecutables.",
+      "refs": [
+       "s28.1"
+      ]
+     },
+     {
+      "term": "Distribuir",
+      "text": "Asignar componentes ejecutables a nodos.",
+      "refs": [
+       "s28.1"
+      ]
+     },
+     {
+      "term": "Probar e integrar",
+      "text": "Unidades primero, luego ejecutables.",
+      "refs": [
+       "s28.1"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Artefactos",
+    "leaves": [
+     {
+      "term": "Componente",
+      "text": "Empaquetamiento físico de elementos del diseño.",
+      "refs": [
+       "s28.3"
+      ]
+     },
+     {
+      "term": "Stub",
+      "text": "Implementación esquelética que reemplaza a otro.",
+      "refs": [
+       "s28.4"
+      ]
+     },
+     {
+      "term": "Plan de integración",
+      "text": "Secuencia de construcciones de una iteración.",
+      "refs": [
+       "s28.5"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Trabajadores",
+    "leaves": [
+     {
+      "term": "Arquitecto",
+      "text": "Implementación de la arquitectura.",
+      "refs": [
+       "s28.6:1"
+      ]
+     },
+     {
+      "term": "Integrador de sistemas",
+      "text": "Integrar el sistema.",
+      "refs": [
+       "s28.6:2"
+      ]
+     },
+     {
+      "term": "Ingeniero de componentes",
+      "text": "Subsistema, clase y prueba de unidad.",
+      "refs": [
+       "s28.6:3",
+       "s28.6:4",
+       "s28.6:5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Prueba de unidad",
+    "leaves": [
+     {
+      "term": "Dos tipos",
+      "text": "De especificación (caja negra) y de estructura (caja blanca).",
+      "refs": [
+       "s28.7"
+      ]
+     },
+     {
+      "term": "Quién",
+      "text": "El ingeniero de componentes.",
+      "refs": [
+       "s28.8"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b3-prueba",
+  "unit": "b3",
+  "num": "11",
+  "title": "Prueba",
+  "subtitle": "Roles, artefactos y trazas de caja negra y blanca",
+  "kicker": "PRUEBA",
+  "center": "Verificar cada construcción",
+  "recordar": "Caja negra sale de los casos de uso; caja blanca, de las realizaciones de diseño. El arquitecto no participa.",
+  "left": [
+   {
+    "label": "Propósitos",
+    "leaves": [
+     {
+      "term": "Tres",
+      "text": "Planificar, diseñar e implementar, y realizar las pruebas.",
+      "refs": [
+       "s29.1"
+      ]
+     },
+     {
+      "term": "Planificar",
+      "text": "Estrategia, recursos y calendario.",
+      "refs": [
+       "s29.10"
+      ]
+     },
+     {
+      "term": "Diseñar",
+      "text": "Casos y procedimientos de integración, sistema y regresión.",
+      "refs": [
+       "s29.10"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Artefactos",
+    "leaves": [
+     {
+      "term": "Modelo de pruebas",
+      "text": "Cómo se prueban los ejecutables.",
+      "refs": [
+       "s29.3"
+      ]
+     },
+     {
+      "term": "Caso de prueba",
+      "text": "Entrada, resultado esperado y condiciones.",
+      "refs": [
+       "s29.4"
+      ]
+     },
+     {
+      "term": "Procedimiento",
+      "text": "Cómo ejecutar uno o varios casos.",
+      "refs": [
+       "s29.5"
+      ]
+     },
+     {
+      "term": "Componente de prueba",
+      "text": "Automatiza procedimientos.",
+      "refs": [
+       "s29.6"
+      ]
+     },
+     {
+      "term": "Defecto y evaluación",
+      "text": "Anomalía; cobertura y estado.",
+      "refs": [
+       "s29.7"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Ingeniero de pruebas",
+    "leaves": [
+     {
+      "term": "Actividades",
+      "text": "Planificar, diseñar y evaluar prueba.",
+      "refs": [
+       "s29.8:1",
+       "s29.8:2",
+       "s29.8:6"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Otros trabajadores",
+    "leaves": [
+     {
+      "term": "Ingeniero de componentes",
+      "text": "Implementar pruebas.",
+      "refs": [
+       "s29.8:3"
+      ]
+     },
+     {
+      "term": "De integración",
+      "text": "Realizar pruebas de integración.",
+      "refs": [
+       "s29.8:4"
+      ]
+     },
+     {
+      "term": "De sistema",
+      "text": "Realizar prueba de sistema.",
+      "refs": [
+       "s29.8:5"
+      ]
+     },
+     {
+      "term": "Arquitecto",
+      "text": "No participa.",
+      "refs": [
+       "s29.9"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Clave en duda",
+    "leaves": [
+     {
+      "term": "Caja blanca",
+      "text": "La simulación 2024 la deriva de los casos de uso; el libro no.",
+      "refs": [
+       "s29.11"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b3-repaso",
+  "unit": "b3",
+  "num": "12",
+  "title": "Trabajadores a lo largo de los cinco flujos",
+  "subtitle": "Qué hace cada trabajador en cada disciplina",
+  "kicker": "REPASO",
+  "center": "Trabajador × flujo",
+  "recordar": "El ingeniero de componentes está en cuatro flujos; el arquitecto, en todos menos prueba.",
+  "left": [
+   {
+    "label": "Solo en requisitos",
+    "leaves": [
+     {
+      "term": "Analista de sistemas",
+      "text": "Encontrar actores y casos de uso; estructurar.",
+      "refs": [
+       "s30.1:1"
+      ]
+     },
+     {
+      "term": "Especificador",
+      "text": "Detallar un caso de uso.",
+      "refs": [
+       "s30.1:2"
+      ]
+     },
+     {
+      "term": "Diseñador de interfaz",
+      "text": "Prototipar la interfaz.",
+      "refs": [
+       "s30.1:3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Arquitecto",
+    "leaves": [
+     {
+      "term": "Cuatro flujos",
+      "text": "Prioriza, analiza, diseña e implementa la arquitectura.",
+      "refs": [
+       "s30.1:4"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Ingeniero de casos de uso",
+    "leaves": [
+     {
+      "term": "Dos flujos",
+      "text": "Analizar y diseñar un caso de uso.",
+      "refs": [
+       "s30.1:5"
+      ]
+     },
+     {
+      "term": "Responsabilidades",
+      "text": "Integridad y legibilidad de las realizaciones.",
+      "refs": [
+       "s30.2"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Ingeniero de componentes",
+    "leaves": [
+     {
+      "term": "Cuatro flujos",
+      "text": "Clases, paquetes, subsistemas, código y pruebas.",
+      "refs": [
+       "s30.1:6"
+      ]
+     },
+     {
+      "term": "Responsabilidades",
+      "text": "Clases de diseño y código fuente de componentes.",
+      "refs": [
+       "s30.3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Solo al final",
+    "leaves": [
+     {
+      "term": "Integrador de sistemas",
+      "text": "Integrar el sistema.",
+      "refs": [
+       "s30.1:7"
+      ]
+     },
+     {
+      "term": "Ingenieros de pruebas",
+      "text": "Planificar, diseñar, realizar y evaluar.",
+      "refs": [
+       "s30.1:8"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Formato repetido",
+    "leaves": [
+     {
+      "term": "2024",
+      "text": "Completar la figura salió en el parcial y en el recuperatorio.",
+      "refs": [
+       "s30.4"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b4-gof",
+  "unit": "b4",
+  "num": "01",
+  "title": "Patrones GoF: definición, formato y clasificación",
+  "subtitle": "Separar propósito y alcance",
+  "kicker": "PATRONES",
+  "center": "Catálogo de 23 patrones",
+  "recordar": "De comportamiento y de clase: solo Interpreter y Template Method. Creacional de clase: Factory Method.",
+  "left": [
+   {
+    "label": "Qué es un patrón",
+    "leaves": [
+     {
+      "term": "Definición GoF",
+      "text": "Clases y objetos que se comunican para resolver un problema general.",
+      "refs": [
+       "s31.1"
+      ]
+     },
+     {
+      "term": "Cuatro elementos",
+      "text": "Nombre, problema, solución y consecuencias.",
+      "refs": [
+       "s31.2"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Formato GoF",
+    "leaves": [
+     {
+      "term": "Secciones",
+      "text": "Intención, motivación, aplicabilidad, estructura, participantes…",
+      "refs": [
+       "s31.3"
+      ]
+     },
+     {
+      "term": "No son del formato",
+      "text": "«Contexto» es de Alexander; «Pautas», de ninguno.",
+      "refs": [
+       "s31.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Dos criterios",
+    "leaves": [
+     {
+      "term": "Propósito",
+      "text": "De creación, estructural o de comportamiento.",
+      "refs": [
+       "s31.5"
+      ]
+     },
+     {
+      "term": "Alcance",
+      "text": "De clase (herencia) o de objeto (composición).",
+      "refs": [
+       "s31.6"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Alcance de clase",
+    "leaves": [
+     {
+      "term": "Cuatro",
+      "text": "Factory Method, Adapter de clases, Interpreter, Template Method.",
+      "refs": [
+       "s31.7:1"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Alcance de objeto",
+    "leaves": [
+     {
+      "term": "De creación",
+      "text": "Abstract Factory, Builder, Prototype, Singleton.",
+      "refs": [
+       "s31.7:2"
+      ]
+     },
+     {
+      "term": "Estructurales",
+      "text": "Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy.",
+      "refs": [
+       "s31.7:2"
+      ]
+     },
+     {
+      "term": "De comportamiento",
+      "text": "Observer, State, Strategy, Iterator y otros cinco.",
+      "refs": [
+       "s31.7:2"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Atención",
+    "leaves": [
+     {
+      "term": "Flyweight",
+      "text": "Estructural de objeto, aunque una tabla lo corra de columna.",
+      "refs": [
+       "s31.8"
+      ]
+     },
+     {
+      "term": "Lo más tomado",
+      "text": "La clasificación salió en los tres registros de 2024.",
+      "refs": [
+       "s31.9"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b4-creac",
+  "unit": "b4",
+  "num": "02",
+  "title": "Patrones de creación",
+  "subtitle": "Factory Method, Singleton y Abstract Factory",
+  "kicker": "CREACIÓN",
+  "center": "Cómo se instancian los objetos",
+  "recordar": "Factory Method: un producto, por herencia. Abstract Factory: familias, por composición.",
+  "left": [
+   {
+    "label": "Factory Method",
+    "leaves": [
+     {
+      "term": "Intención",
+      "text": "Las subclases deciden qué clase instanciar.",
+      "refs": [
+       "s32.2"
+      ]
+     },
+     {
+      "term": "Participantes",
+      "text": "Product, ConcreteProduct, Creator, ConcreteCreator.",
+      "refs": [
+       "s32.3"
+      ]
+     },
+     {
+      "term": "Cuándo",
+      "text": "La clase no puede prever qué objetos crear.",
+      "refs": [
+       "s32.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Singleton",
+    "leaves": [
+     {
+      "term": "Intención",
+      "text": "Una única instancia con acceso global.",
+      "refs": [
+       "s32.6"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Abstract Factory",
+    "leaves": [
+     {
+      "term": "Intención",
+      "text": "Crear familias de objetos relacionados.",
+      "refs": [
+       "s32.8"
+      ]
+     },
+     {
+      "term": "Participantes",
+      "text": "AbstractFactory, ConcreteFactory, AbstractProduct, ConcreteProduct, Client.",
+      "refs": [
+       "s32.9"
+      ]
+     },
+     {
+      "term": "Consecuencia",
+      "text": "Familia nueva: fácil. Producto nuevo: cambia todo.",
+      "refs": [
+       "s32.10"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Diferencia",
+    "leaves": [
+     {
+      "term": "FM vs. AF",
+      "text": "Un producto con herencia; familias con composición.",
+      "refs": [
+       "s32.11"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b4-estruc",
+  "unit": "b4",
+  "num": "03",
+  "title": "Patrones estructurales",
+  "subtitle": "Adapter, Composite, Facade y Proxy",
+  "kicker": "ESTRUCTURA",
+  "center": "Cómo se componen clases y objetos",
+  "recordar": "Adapter compatibiliza una interfaz existente; Facade simplifica un subsistema; Proxy controla el acceso.",
+  "left": [
+   {
+    "label": "Adapter",
+    "leaves": [
+     {
+      "term": "Intención",
+      "text": "Convertir una interfaz en la que el cliente espera.",
+      "refs": [
+       "s33.2"
+      ]
+     },
+     {
+      "term": "Participantes",
+      "text": "Target, Client, Adaptee y Adapter.",
+      "refs": [
+       "s33.3"
+      ]
+     },
+     {
+      "term": "Variantes",
+      "text": "De clases (hereda) o de objetos (contiene).",
+      "refs": [
+       "s33.3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Composite",
+    "leaves": [
+     {
+      "term": "Intención",
+      "text": "Árboles parte-todo tratados de forma uniforme.",
+      "refs": [
+       "s33.5"
+      ]
+     },
+     {
+      "term": "Participantes",
+      "text": "Component, Leaf, Composite y Client.",
+      "refs": [
+       "s33.6"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Facade",
+    "leaves": [
+     {
+      "term": "Intención",
+      "text": "Interfaz unificada para un subsistema.",
+      "refs": [
+       "s33.8"
+      ]
+     },
+     {
+      "term": "Cuándo",
+      "text": "Subsistema complejo; dividir en capas.",
+      "refs": [
+       "s33.9"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Proxy",
+    "leaves": [
+     {
+      "term": "Intención",
+      "text": "Sustituto que controla el acceso a otro objeto.",
+      "refs": [
+       "s33.11"
+      ]
+     },
+     {
+      "term": "Tipos",
+      "text": "Remoto, virtual y de protección.",
+      "refs": [
+       "s33.12"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Diferencia",
+    "leaves": [
+     {
+      "term": "Adapter vs. Facade",
+      "text": "Los dos intermedian; cambia la intención.",
+      "refs": [
+       "s33.13"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b4-comport",
+  "unit": "b4",
+  "num": "04",
+  "title": "Patrones de comportamiento",
+  "subtitle": "Observer, Strategy, State e Iterator",
+  "kicker": "COMPORTAMIENTO",
+  "center": "Cómo interactúan los objetos",
+  "recordar": "Strategy: lo elige algo externo. State: depende del estado interno.",
+  "left": [
+   {
+    "label": "Observer",
+    "leaves": [
+     {
+      "term": "Intención",
+      "text": "Dependencia de uno a muchos con notificación.",
+      "refs": [
+       "s34.2"
+      ]
+     },
+     {
+      "term": "Participantes",
+      "text": "Subject, Observer y sus concretos.",
+      "refs": [
+       "s34.3"
+      ]
+     },
+     {
+      "term": "Cuándo",
+      "text": "No se sabe cuántos objetos hay que actualizar.",
+      "refs": [
+       "s34.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Strategy",
+    "leaves": [
+     {
+      "term": "Intención",
+      "text": "Familia de algoritmos intercambiables.",
+      "refs": [
+       "s34.6"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "State",
+    "leaves": [
+     {
+      "term": "Intención",
+      "text": "El comportamiento cambia con el estado interno.",
+      "refs": [
+       "s34.8"
+      ]
+     },
+     {
+      "term": "Consecuencia",
+      "text": "Una clase por estado; sin condicionales dispersos.",
+      "refs": [
+       "s34.9"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Iterator",
+    "leaves": [
+     {
+      "term": "Intención",
+      "text": "Recorrer un agregado sin exponer su representación.",
+      "refs": [
+       "s34.12"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Diferencia",
+    "leaves": [
+     {
+      "term": "Strategy vs. State",
+      "text": "Misma estructura, distinta intención.",
+      "refs": [
+       "s34.10"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b5-agil",
+  "unit": "b5",
+  "num": "01",
+  "title": "Agilidad y Manifiesto Ágil",
+  "subtitle": "Valores, principios y enfoques adaptativos",
+  "kicker": "AGILIDAD",
+  "center": "Manifiesto Ágil (2001)",
+  "recordar": "Cuatro valores «por sobre». Entregas frecuentes y trabajo diario con el negocio.",
+  "left": [
+   {
+    "label": "Origen",
+    "leaves": [
+     {
+      "term": "Contra qué",
+      "text": "Burocracia y rigidez de los métodos clásicos.",
+      "refs": [
+       "s35.1"
+      ]
+     },
+     {
+      "term": "Diferencias",
+      "text": "Menos documentación, adaptativos, orientados a personas.",
+      "refs": [
+       "s35.2"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Valores",
+    "leaves": [
+     {
+      "term": "Individuos e interacciones",
+      "text": "Por sobre procesos y herramientas.",
+      "refs": [
+       "s35.4"
+      ]
+     },
+     {
+      "term": "Software funcionando",
+      "text": "Por sobre extensa documentación.",
+      "refs": [
+       "s35.5"
+      ]
+     },
+     {
+      "term": "Colaboración del cliente",
+      "text": "Por sobre negociación contractual.",
+      "refs": [
+       "s35.6"
+      ]
+     },
+     {
+      "term": "Responder al cambio",
+      "text": "Por sobre seguir un plan.",
+      "refs": [
+       "s35.7"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Principios",
+    "leaves": [
+     {
+      "term": "Entrega frecuente",
+      "text": "De un par de semanas a un par de meses.",
+      "refs": [
+       "s35.9"
+      ]
+     },
+     {
+      "term": "Juntos a diario",
+      "text": "Negocio y desarrolladores.",
+      "refs": [
+       "s35.9"
+      ]
+     },
+     {
+      "term": "Medida de progreso",
+      "text": "El software funcionando.",
+      "refs": [
+       "s35.9"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Frameworks",
+    "leaves": [
+     {
+      "term": "Seis",
+      "text": "DSDM, Scrum, XP, FDD, Crystal y ASD.",
+      "refs": [
+       "s35.11"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Después",
+    "leaves": [
+     {
+      "term": "Agile Modeling",
+      "text": "Modelar lo justo para entender y comunicar.",
+      "refs": [
+       "s37.1"
+      ]
+     },
+     {
+      "term": "Post-agilismo",
+      "text": "Propuestas diluidas y vuelta a las raíces.",
+      "refs": [
+       "s37.2"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b5-xp",
+  "unit": "b5",
+  "num": "02",
+  "title": "Extreme Programming (XP)",
+  "subtitle": "Historia → plan → iteración → pruebas → entrega",
+  "kicker": "XP",
+  "center": "Programación extrema",
+  "recordar": "Actividades: programar, probar, escuchar y diseñar. Analizar y planificar no figuran.",
+  "left": [
+   {
+    "label": "Base",
+    "leaves": [
+     {
+      "term": "Para qué",
+      "text": "Requisitos cambiantes y equipos de 2 a 10 personas.",
+      "refs": [
+       "s36.1"
+      ]
+     },
+     {
+      "term": "Valores",
+      "text": "Simplicidad, comunicación, retroalimentación, coraje y respeto.",
+      "refs": [
+       "s36.2"
+      ]
+     },
+     {
+      "term": "Actividades",
+      "text": "Programar, probar, escuchar y diseñar.",
+      "refs": [
+       "s36.4"
+      ]
+     },
+     {
+      "term": "Prácticas",
+      "text": "Doce, de la planificación a los estándares.",
+      "refs": [
+       "s36.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Prácticas a fijar",
+    "leaves": [
+     {
+      "term": "Metáfora",
+      "text": "Historia compartida de cómo funciona el sistema.",
+      "refs": [
+       "s36.7"
+      ]
+     },
+     {
+      "term": "Diseño simple",
+      "text": "Pasa las pruebas, sin duplicación, mínimas clases.",
+      "refs": [
+       "s36.8"
+      ]
+     },
+     {
+      "term": "Refactorización",
+      "text": "Mejorar la estructura sin cambiar el comportamiento.",
+      "refs": [
+       "s36.9"
+      ]
+     },
+     {
+      "term": "TDD",
+      "text": "Las pruebas antes que el código.",
+      "refs": [
+       "s36.10"
+      ]
+     },
+     {
+      "term": "Pedido del profesor",
+      "text": "Enfocarse en las prácticas centrales.",
+      "refs": [
+       "s36.6"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "El proyecto",
+    "leaves": [
+     {
+      "term": "Recorrido",
+      "text": "Historias, plan de entregas, iteración, aceptación, entrega.",
+      "refs": [
+       "s36.12"
+      ]
+     },
+     {
+      "term": "Spike",
+      "text": "Solución simple para explorar una duda técnica.",
+      "refs": [
+       "s36.13"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Limitaciones",
+    "leaves": [
+     {
+      "term": "Cinco",
+      "text": "Sin diseño formal; exige gente muy capaz.",
+      "refs": [
+       "s36.14"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b6-calidad",
+  "unit": "b6",
+  "num": "01",
+  "title": "Calidad y costo de la calidad",
+  "subtitle": "Calidad de diseño y de conformidad; costos",
+  "kicker": "CALIDAD",
+  "center": "Calidad del software",
+  "recordar": "Prevención y evaluación cuestan menos que las fallas; las externas son las más caras.",
+  "left": [
+   {
+    "label": "Qué es calidad",
+    "leaves": [
+     {
+      "term": "Cinco puntos de vista",
+      "text": "Trascendental, usuario, fabricante, producto y valor.",
+      "refs": [
+       "s38.2"
+      ]
+     },
+     {
+      "term": "De diseño y de conformidad",
+      "text": "Cumplir los requisitos; seguir el diseño.",
+      "refs": [
+       "s38.3"
+      ]
+     },
+     {
+      "term": "Pressman",
+      "text": "Proceso eficaz, producto útil, valor medible.",
+      "refs": [
+       "s38.4"
+      ]
+     },
+     {
+      "term": "Modelos",
+      "text": "McCall e ISO 25010.",
+      "refs": [
+       "s38.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Aviso",
+    "leaves": [
+     {
+      "term": "Condicional",
+      "text": "Confirmar si entra antes de dedicarle tiempo.",
+      "refs": [
+       "s38.1"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Costos",
+    "leaves": [
+     {
+      "term": "Prevención",
+      "text": "Planificación, capacitación.",
+      "refs": [
+       "s38.8"
+      ]
+     },
+     {
+      "term": "Evaluación",
+      "text": "Revisiones y pruebas.",
+      "refs": [
+       "s38.8"
+      ]
+     },
+     {
+      "term": "Fallas",
+      "text": "Internas y externas.",
+      "refs": [
+       "s38.8"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Gestión",
+    "leaves": [
+     {
+      "term": "Dilema",
+      "text": "Equilibrar calidad, tiempo y costo.",
+      "refs": [
+       "s38.6"
+      ]
+     },
+     {
+      "term": "Decisiones",
+      "text": "Estimaciones irreales y atajos la dañan.",
+      "refs": [
+       "s38.9"
+      ]
+     },
+     {
+      "term": "Pilares",
+      "text": "Métodos, gestión, control y aseguramiento.",
+      "refs": [
+       "s38.10"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b6-sqa",
+  "unit": "b6",
+  "num": "02",
+  "title": "Revisiones y SQA",
+  "subtitle": "Revisión, control y aseguramiento de la calidad",
+  "kicker": "SQA",
+  "center": "Revisiones y aseguramiento",
+  "recordar": "Control de calidad mira el producto; aseguramiento, los procesos.",
+  "left": [
+   {
+    "label": "Revisiones",
+    "leaves": [
+     {
+      "term": "Qué son",
+      "text": "Filtro de calidad estático; no necesitan código ejecutable.",
+      "refs": [
+       "s39.1"
+      ]
+     },
+     {
+      "term": "Error y defecto",
+      "text": "Antes de entregar; después de entregar.",
+      "refs": [
+       "s39.2"
+      ]
+     },
+     {
+      "term": "Esfuerzo",
+      "text": "Preparación, evaluación y retrabajo.",
+      "refs": [
+       "s39.3"
+      ]
+     },
+     {
+      "term": "Tipos",
+      "text": "Informales y formales (RTF).",
+      "refs": [
+       "s39.4"
+      ]
+     },
+     {
+      "term": "Buenas prácticas",
+      "text": "Revisar el producto, no a la persona.",
+      "refs": [
+       "s39.5"
+      ]
+     },
+     {
+      "term": "En ágiles",
+      "text": "Planificación, diaria, pares, revisión y retrospectiva.",
+      "refs": [
+       "s39.6"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "SQA",
+    "leaves": [
+     {
+      "term": "QC y QA",
+      "text": "Producto frente a procesos.",
+      "refs": [
+       "s39.8"
+      ]
+     },
+     {
+      "term": "Elementos",
+      "text": "Estándares, auditorías, pruebas, gestión del cambio.",
+      "refs": [
+       "s39.9"
+      ]
+     },
+     {
+      "term": "Metas",
+      "text": "Calidad de requisitos, diseño y código.",
+      "refs": [
+       "s39.10"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

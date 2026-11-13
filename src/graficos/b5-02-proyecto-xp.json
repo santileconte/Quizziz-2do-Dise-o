@@ -1,0 +1,97 @@
+{
+  "title": "Cómo funciona un proyecto XP",
+  "topic": "B5 · Agilidad y XP",
+  "order": 20,
+  "width": 1040,
+  "height": 400,
+  "fuente": "extremeprogramming.org (mapa del proyecto) · Celina, págs. 153–156 · PF, pág. 339",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 24,
+      "y": 154,
+      "w": 142,
+      "h": 52,
+      "answer": "Historias de usuario",
+      "level": "clave",
+      "accept": [
+        "User Stories",
+        "Historias"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 24,
+      "y": 34,
+      "w": 142,
+      "h": 52,
+      "answer": "Spike arquitectónico",
+      "level": "clave",
+      "accept": [
+        "Architectural Spike",
+        "Spike de arquitectura"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 274,
+      "y": 154,
+      "w": 162,
+      "h": 52,
+      "answer": "Planificación de entregas",
+      "level": "clave",
+      "accept": [
+        "Release Planning",
+        "Juego de la planificación",
+        "Planificación de la entrega"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 524,
+      "y": 154,
+      "w": 122,
+      "h": 52,
+      "answer": "Iteración",
+      "level": "clave",
+      "accept": [
+        "Iteration"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 734,
+      "y": 154,
+      "w": 132,
+      "h": 52,
+      "answer": "Pruebas de aceptación",
+      "level": "clave",
+      "accept": [
+        "Acceptance Tests",
+        "Tests de aceptación"
+      ]
+    },
+    {
+      "id": "b6",
+      "x": 904,
+      "y": 154,
+      "w": 117,
+      "h": 52,
+      "answer": "Entregas pequeñas",
+      "level": "clave",
+      "accept": [
+        "Small Releases",
+        "Pequeñas entregas"
+      ]
+    },
+    {
+      "id": "b7",
+      "x": 304,
+      "y": 304,
+      "w": 102,
+      "h": 42,
+      "answer": "Spike",
+      "level": "clave"
+    }
+  ]
+}

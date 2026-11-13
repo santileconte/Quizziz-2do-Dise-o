@@ -1,0 +1,150 @@
+{
+  "title": "Ciclo de vida: fases, flujos de trabajo e hitos",
+  "topic": "B3 · PUDS",
+  "order": 60,
+  "width": 1040,
+  "height": 550,
+  "fuente": "PUDS, págs. 37 y 124 · Celina, págs. 64–67 · PF, pág. 130",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 234,
+      "y": 40,
+      "w": 187,
+      "h": 32,
+      "answer": "Inicio",
+      "level": "clave"
+    },
+    {
+      "id": "b2",
+      "x": 429,
+      "y": 40,
+      "w": 187,
+      "h": 32,
+      "answer": "Elaboración",
+      "level": "clave"
+    },
+    {
+      "id": "b3",
+      "x": 624,
+      "y": 40,
+      "w": 187,
+      "h": 32,
+      "answer": "Construcción",
+      "level": "clave"
+    },
+    {
+      "id": "b4",
+      "x": 819,
+      "y": 40,
+      "w": 187,
+      "h": 32,
+      "answer": "Transición",
+      "level": "clave"
+    },
+    {
+      "id": "b5",
+      "x": 24,
+      "y": 91,
+      "w": 182,
+      "h": 36,
+      "answer": "Requisitos",
+      "level": "clave"
+    },
+    {
+      "id": "b6",
+      "x": 24,
+      "y": 153,
+      "w": 182,
+      "h": 36,
+      "answer": "Análisis",
+      "level": "clave"
+    },
+    {
+      "id": "b7",
+      "x": 24,
+      "y": 215,
+      "w": 182,
+      "h": 36,
+      "answer": "Diseño",
+      "level": "clave"
+    },
+    {
+      "id": "b8",
+      "x": 24,
+      "y": 277,
+      "w": 182,
+      "h": 36,
+      "answer": "Implementación",
+      "level": "clave"
+    },
+    {
+      "id": "b9",
+      "x": 24,
+      "y": 339,
+      "w": 182,
+      "h": 36,
+      "answer": "Prueba",
+      "level": "clave"
+    },
+    {
+      "id": "b10",
+      "x": 40,
+      "y": 422,
+      "w": 150,
+      "h": 29,
+      "answer": "iteraciones",
+      "level": "clave",
+      "accept": [
+        "iteración"
+      ]
+    },
+    {
+      "id": "b11",
+      "x": 240,
+      "y": 454,
+      "w": 175,
+      "h": 52,
+      "answer": "Objetivos del ciclo de vida",
+      "level": "clave",
+      "accept": [
+        "Objetivos del CV"
+      ]
+    },
+    {
+      "id": "b12",
+      "x": 435,
+      "y": 454,
+      "w": 175,
+      "h": 52,
+      "answer": "Arquitectura del ciclo de vida",
+      "level": "clave",
+      "accept": [
+        "Arquitectura del CV",
+        "Línea base de la arquitectura"
+      ]
+    },
+    {
+      "id": "b13",
+      "x": 630,
+      "y": 454,
+      "w": 175,
+      "h": 52,
+      "answer": "Capacidad operativa inicial",
+      "level": "clave"
+    },
+    {
+      "id": "b14",
+      "x": 825,
+      "y": 454,
+      "w": 175,
+      "h": 52,
+      "answer": "Lanzamiento del producto",
+      "level": "clave",
+      "accept": [
+        "Release del producto",
+        "Lanzamiento"
+      ]
+    }
+  ]
+}

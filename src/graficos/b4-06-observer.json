@@ -1,0 +1,60 @@
+{
+  "title": "Estructura de Observer",
+  "topic": "B4 · Patrones GoF",
+  "order": 60,
+  "width": 960,
+  "height": 400,
+  "fuente": "GoF, págs. 278–280 · Celina, págs. 143–144 · PF, págs. 302–303",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 64,
+      "y": 44,
+      "w": 292,
+      "h": 32,
+      "answer": "Subject",
+      "level": "clave",
+      "accept": [
+        "Sujeto"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 604,
+      "y": 44,
+      "w": 272,
+      "h": 32,
+      "answer": "Observer",
+      "level": "clave",
+      "accept": [
+        "Observador"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 64,
+      "y": 284,
+      "w": 292,
+      "h": 32,
+      "answer": "ConcreteSubject",
+      "level": "clave",
+      "accept": [
+        "SujetoConcreto",
+        "Sujeto concreto"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 604,
+      "y": 284,
+      "w": 272,
+      "h": 32,
+      "answer": "ConcreteObserver",
+      "level": "clave",
+      "accept": [
+        "ObservadorConcreto",
+        "Observador concreto"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Los cuatro valores del Manifiesto Ágil",
+  "topic": "B5 · Agilidad y XP",
+  "order": 10,
+  "width": 980,
+  "height": 320,
+  "fuente": "Celina, pág. 146 · PF, pág. 316 · Parcial 2024, P4",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 25,
+      "y": 67,
+      "w": 390,
+      "h": 48,
+      "answer": "Individuos e interacciones",
+      "level": "clave",
+      "accept": [
+        "Individuos e interacción"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 565,
+      "y": 67,
+      "w": 390,
+      "h": 48,
+      "answer": "Procesos y herramientas",
+      "level": "clave"
+    },
+    {
+      "id": "b3",
+      "x": 25,
+      "y": 125,
+      "w": 390,
+      "h": 48,
+      "answer": "Software funcionando",
+      "level": "clave",
+      "accept": [
+        "Software que funciona"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 565,
+      "y": 125,
+      "w": 390,
+      "h": 48,
+      "answer": "Extensa documentación",
+      "level": "clave",
+      "accept": [
+        "Documentación extensa",
+        "Documentación exhaustiva"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 25,
+      "y": 183,
+      "w": 390,
+      "h": 48,
+      "answer": "Colaboración del cliente",
+      "level": "clave",
+      "accept": [
+        "Colaboración con el cliente"
+      ]
+    },
+    {
+      "id": "b6",
+      "x": 565,
+      "y": 183,
+      "w": 390,
+      "h": 48,
+      "answer": "Negociación contractual",
+      "level": "clave",
+      "accept": [
+        "Negociación de contratos"
+      ]
+    },
+    {
+      "id": "b7",
+      "x": 25,
+      "y": 241,
+      "w": 390,
+      "h": 48,
+      "answer": "Responder al cambio",
+      "level": "clave",
+      "accept": [
+        "Respuesta al cambio"
+      ]
+    },
+    {
+      "id": "b8",
+      "x": 565,
+      "y": 241,
+      "w": 390,
+      "h": 48,
+      "answer": "Seguir un plan",
+      "level": "clave"
+    }
+  ]
+}

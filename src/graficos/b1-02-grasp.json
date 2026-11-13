@@ -1,0 +1,120 @@
+{
+  "title": "Los nueve patrones GRASP y el problema que resuelven",
+  "topic": "B1 · Diseño orientado a objetos",
+  "order": 20,
+  "width": 1040,
+  "height": 600,
+  "fuente": "Larman · Celina, págs. 8–17 · PF, págs. 12–22",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 715,
+      "y": 67,
+      "w": 300,
+      "h": 46,
+      "answer": "Creador",
+      "level": "clave",
+      "accept": [
+        "Creator"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 715,
+      "y": 123,
+      "w": 300,
+      "h": 46,
+      "answer": "Experto en información",
+      "level": "clave",
+      "accept": [
+        "Experto",
+        "Information Expert",
+        "Experto de la información"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 715,
+      "y": 179,
+      "w": 300,
+      "h": 42,
+      "answer": "Bajo acoplamiento",
+      "level": "clave",
+      "accept": [
+        "Low Coupling"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 715,
+      "y": 231,
+      "w": 300,
+      "h": 46,
+      "answer": "Controlador",
+      "level": "clave",
+      "accept": [
+        "Controller"
+      ]
+    },
+    {
+      "id": "b5",
+      "x": 715,
+      "y": 287,
+      "w": 300,
+      "h": 42,
+      "answer": "Alta cohesión",
+      "level": "clave",
+      "accept": [
+        "High Cohesion"
+      ]
+    },
+    {
+      "id": "b6",
+      "x": 715,
+      "y": 339,
+      "w": 300,
+      "h": 42,
+      "answer": "Polimorfismo",
+      "level": "clave",
+      "accept": [
+        "Polymorphism"
+      ]
+    },
+    {
+      "id": "b7",
+      "x": 715,
+      "y": 391,
+      "w": 300,
+      "h": 56,
+      "answer": "Fabricación pura",
+      "level": "clave",
+      "accept": [
+        "Pure Fabrication"
+      ]
+    },
+    {
+      "id": "b8",
+      "x": 715,
+      "y": 457,
+      "w": 300,
+      "h": 46,
+      "answer": "Indirección",
+      "level": "clave",
+      "accept": [
+        "Indirection"
+      ]
+    },
+    {
+      "id": "b9",
+      "x": 715,
+      "y": 513,
+      "w": 300,
+      "h": 46,
+      "answer": "Variaciones protegidas",
+      "level": "clave",
+      "accept": [
+        "Protected Variations"
+      ]
+    }
+  ]
+}

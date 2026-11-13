@@ -1,0 +1,56 @@
+{
+  "title": "Estructura de Proxy",
+  "topic": "B4 · Patrones GoF",
+  "order": 90,
+  "width": 940,
+  "height": 360,
+  "fuente": "GoF, págs. 298–299 · Celina, págs. 140–141 · Recuperatorio 2024, P14",
+  "blanks": [
+    {
+      "id": "b1",
+      "x": 34,
+      "y": 54,
+      "w": 152,
+      "h": 32,
+      "answer": "Client",
+      "level": "clave",
+      "accept": [
+        "Cliente"
+      ]
+    },
+    {
+      "id": "b2",
+      "x": 384,
+      "y": 44,
+      "w": 252,
+      "h": 32,
+      "answer": "Subject",
+      "level": "clave",
+      "accept": [
+        "Sujeto"
+      ]
+    },
+    {
+      "id": "b3",
+      "x": 184,
+      "y": 244,
+      "w": 252,
+      "h": 32,
+      "answer": "RealSubject",
+      "level": "clave",
+      "accept": [
+        "SujetoReal",
+        "Sujeto real"
+      ]
+    },
+    {
+      "id": "b4",
+      "x": 604,
+      "y": 244,
+      "w": 252,
+      "h": 32,
+      "answer": "Proxy",
+      "level": "clave"
+    }
+  ]
+}
