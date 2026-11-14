@@ -156,7 +156,7 @@ for fname,(kind,qids,title,extra) in QIMG.items():
     if fname.startswith('puds-'):
         flujo={'1':'Requisitos','2':'Análisis','3':'Diseño','4':'Implementación','5':'Prueba'}[fname[5]]
         title=f'Flujo de {flujo} con casilleros numerados (práctica de la cátedra)'
-    src=re.sub(r' · también en el Quizziz.*$','',q.get('src',''))
+    src=re.sub(r' · renglón \d+','',re.sub(r' · también en el Quizziz.*$','',q.get('src','')))
     rank={'parcial':1,'sim':2,'cq':2,'pract':2}[kind]
     lab={'parcial':'Parcial real','sim':'Simulación 2024','cq':'Cuestionario 2026','pract':'Práctica de la cátedra'}[kind]
     qentries.append(dict(tema=tema,rank=rank,qfile=fname,qids=qids,title=title,src=src,extra=extra,lab=lab,
