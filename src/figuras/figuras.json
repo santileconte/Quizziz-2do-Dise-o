@@ -1,0 +1,11230 @@
+{
+"figuras": [
+{
+"id": "f01-01",
+"tema": "01",
+"orden": 1,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "DIP: ModuloDePago depende de las clases concretas",
+"w": 516,
+"h": 294,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 74
+}
+],
+"mostrada": "Fidanza, pág. 74",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f01-02",
+"tema": "01",
+"orden": 2,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "DIP: ModuloDePago depende de la interfaz IMetodoPago",
+"w": 518,
+"h": 317,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 74
+}
+],
+"mostrada": "Fidanza, pág. 74",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f02-01",
+"tema": "02",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 456,
+"h": 342,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 9
+}
+],
+"mostrada": "PF, pág. 9",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f02-02",
+"tema": "02",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 385,
+"h": 350,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 9
+}
+],
+"mostrada": "PF, pág. 9",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f02-03",
+"tema": "02",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 490,
+"h": 269,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 10
+}
+],
+"mostrada": "PF, pág. 10",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f02-04",
+"tema": "02",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 466,
+"h": 421,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 10
+}
+],
+"mostrada": "PF, pág. 10",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f02-05",
+"tema": "02",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 479,
+"h": 309,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 11
+}
+],
+"mostrada": "PF, pág. 11",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f02-06",
+"tema": "02",
+"orden": 6,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 527,
+"h": 238,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 47
+}
+],
+"mostrada": "Fidanza, pág. 47",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f02-07",
+"tema": "02",
+"orden": 7,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 376,
+"h": 129,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 51
+}
+],
+"mostrada": "Fidanza, pág. 51",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f02-08",
+"tema": "02",
+"orden": 8,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 517,
+"h": 255,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 52
+}
+],
+"mostrada": "Fidanza, pág. 52",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f03-01",
+"tema": "03",
+"orden": 1,
+"rank": 2,
+"nivel": "Cuestionario 2026",
+"title": "Dos diagramas de comunicación para comparar el acoplamiento (Cuestionario GRASP #4)",
+"qimg": "cq-02-04-diagramas.png",
+"w": 589,
+"h": 440,
+"refs": [
+{
+"archivo": "Cuestionario GRASP #4 (2026) · transcripto en «Simulacro DSI (preguntas viejas y nuevas).html», ítem 02-04 · figura tomada del Quizziz (pág. 24)",
+"nota": "La figura se tomó de la captura del Quizziz (pregunta 60)."
+}
+],
+"preguntas": [
+"cq-02-04"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f03-02",
+"tema": "03",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": "Patrones GRASP",
+"w": 734,
+"h": 497,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 13
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 106
+}
+],
+"mostrada": "Copia, pág. 106",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f03-03",
+"tema": "03",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": "Creator",
+"w": 930,
+"h": 198,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 14
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 107
+}
+],
+"mostrada": "Copia, pág. 107",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f03-04",
+"tema": "03",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1600,
+"h": 900,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 15
+}
+],
+"mostrada": "PF, pág. 15",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f03-05",
+"tema": "03",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1600,
+"h": 900,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 16
+}
+],
+"mostrada": "PF, pág. 16",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f03-06",
+"tema": "03",
+"orden": 6,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1600,
+"h": 900,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 20
+}
+],
+"mostrada": "PF, pág. 20",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f03-07",
+"tema": "03",
+"orden": 7,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1600,
+"h": 900,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 21
+}
+],
+"mostrada": "PF, pág. 21",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f03-08",
+"tema": "03",
+"orden": 8,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1600,
+"h": 900,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 21
+}
+],
+"mostrada": "PF, pág. 21",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f04-01",
+"tema": "04",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 523,
+"h": 429,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 23
+}
+],
+"mostrada": "PF, pág. 23",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f04-02",
+"tema": "04",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 536,
+"h": 402,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 25
+}
+],
+"mostrada": "PF, pág. 25",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f04-03",
+"tema": "04",
+"orden": 3,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 510,
+"h": 356,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 49
+}
+],
+"mostrada": "Fidanza, pág. 49",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f04-04",
+"tema": "04",
+"orden": 4,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 438,
+"h": 237,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 50
+}
+],
+"mostrada": "Fidanza, pág. 50",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f04-05",
+"tema": "04",
+"orden": 5,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 411,
+"h": 342,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 50
+}
+],
+"mostrada": "Fidanza, pág. 50",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f05-01",
+"tema": "05",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": "Decisiones del diseño arquitectónico",
+"w": 1007,
+"h": 551,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 29
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 41
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 156
+}
+],
+"mostrada": "Celina, pág. 41",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f05-02",
+"tema": "05",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": "Proceso de diseño: entradas, actividades y salidas",
+"w": 1600,
+"h": 900,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 29
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 155
+}
+],
+"mostrada": "PF, pág. 29",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f05-03",
+"tema": "05",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1600,
+"h": 900,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 26
+}
+],
+"mostrada": "PF, pág. 26",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f05-04",
+"tema": "05",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1600,
+"h": 900,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 32
+}
+],
+"mostrada": "PF, pág. 32",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f05-05",
+"tema": "05",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1600,
+"h": 900,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 33
+}
+],
+"mostrada": "PF, pág. 33",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f05-06",
+"tema": "05",
+"orden": 6,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1600,
+"h": 900,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 33
+}
+],
+"mostrada": "PF, pág. 33",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f05-07",
+"tema": "05",
+"orden": 7,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Arquitectura de un sistema robótico de empaquetado",
+"w": 624,
+"h": 557,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 39
+}
+],
+"mostrada": "Celina, pág. 39",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f05-08",
+"tema": "05",
+"orden": 8,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Vistas 4+1 de Kruchten",
+"w": 666,
+"h": 476,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 42
+}
+],
+"mostrada": "Celina, pág. 42",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f05-09",
+"tema": "05",
+"orden": 9,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Vistas 4+1 de Kruchten",
+"w": 537,
+"h": 438,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 157
+}
+],
+"mostrada": "Copia, pág. 157",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f06-01",
+"tema": "06",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": "Niveles de arquitecturas",
+"w": 939,
+"h": 696,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 38
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 117
+}
+],
+"mostrada": "PF, pág. 38",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f07-01",
+"tema": "07",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 922,
+"h": 581,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 44
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 22
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 114
+}
+],
+"mostrada": "Celina, pág. 22",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f07-02",
+"tema": "07",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1085,
+"h": 647,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 41
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 21
+}
+],
+"mostrada": "Celina, pág. 21",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f07-03",
+"tema": "07",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 587,
+"h": 588,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 43
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 113
+}
+],
+"mostrada": "Copia, pág. 113",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f07-04",
+"tema": "07",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": "Estructuras de componentes y conectores",
+"w": 1117,
+"h": 710,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 40
+}
+],
+"mostrada": "PF, pág. 40",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f07-05",
+"tema": "07",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 950,
+"h": 731,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 42
+}
+],
+"mostrada": "PF, pág. 42",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f07-06",
+"tema": "07",
+"orden": 6,
+"rank": 3,
+"nivel": "Clase",
+"title": "Estructuras de asignación",
+"w": 921,
+"h": 668,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 44
+}
+],
+"mostrada": "PF, pág. 44",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f07-07",
+"tema": "07",
+"orden": 7,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 502,
+"h": 565,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 20
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 112
+}
+],
+"mostrada": "Celina, pág. 20",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f07-08",
+"tema": "07",
+"orden": 8,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 664,
+"h": 371,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 20
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 112
+}
+],
+"mostrada": "Celina, pág. 20",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f07-09",
+"tema": "07",
+"orden": 9,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 507,
+"h": 585,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 113
+}
+],
+"mostrada": "Copia, pág. 113",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f08-01",
+"tema": "08",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": "Partes de un escenario de AC",
+"w": 1084,
+"h": 710,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 49
+}
+],
+"mostrada": "PF, pág. 49",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f08-02",
+"tema": "08",
+"orden": 2,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 750,
+"h": 359,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 29
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 119
+}
+],
+"mostrada": "Copia, pág. 119",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f08-03",
+"tema": "08",
+"orden": 3,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 1128,
+"h": 537,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 29
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 121
+}
+],
+"mostrada": "Celina, pág. 29",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f08-04",
+"tema": "08",
+"orden": 4,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 677,
+"h": 193,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 25
+}
+],
+"mostrada": "Celina, pág. 25",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f08-05",
+"tema": "08",
+"orden": 5,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 837,
+"h": 695,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 28
+}
+],
+"mostrada": "Celina, pág. 28",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f08-06",
+"tema": "08",
+"orden": 6,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 838,
+"h": 641,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 28
+}
+],
+"mostrada": "Celina, pág. 28",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f09-01",
+"tema": "09",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": "Escenario de modificabilidad",
+"w": 828,
+"h": 331,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 53
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 31
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 122
+}
+],
+"mostrada": "Celina, pág. 31",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f09-02",
+"tema": "09",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 508,
+"h": 420,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 55
+}
+],
+"mostrada": "PF, pág. 55",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f09-03",
+"tema": "09",
+"orden": 3,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 656,
+"h": 284,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 32
+}
+],
+"mostrada": "Celina, pág. 32",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f10-01",
+"tema": "10",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1296,
+"h": 533,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 62
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 35
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 152
+}
+],
+"mostrada": "Celina, pág. 35",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f10-02",
+"tema": "10",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1016,
+"h": 689,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 66
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 38
+}
+],
+"mostrada": "Celina, pág. 38",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f10-03",
+"tema": "10",
+"orden": 3,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 661,
+"h": 284,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 36
+}
+],
+"mostrada": "Celina, pág. 36",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f11-01",
+"tema": "11",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 588,
+"h": 393,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 70
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 44
+}
+],
+"mostrada": "Celina, pág. 44",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f11-02",
+"tema": "11",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": "En capas (layered)",
+"w": 998,
+"h": 696,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 72
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 148
+}
+],
+"mostrada": "PF, pág. 72",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": "Recorte parcial de la figura del modelo OSI."
+},
+{
+"id": "f11-03",
+"tema": "11",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1015,
+"h": 680,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 74
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 148
+}
+],
+"mostrada": "PF, pág. 74",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": "Parte de la diapositiva está tapada."
+},
+{
+"id": "f11-04",
+"tema": "11",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 806,
+"h": 628,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 72
+},
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 73
+}
+],
+"mostrada": "PF, pág. 73",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f11-05",
+"tema": "11",
+"orden": 5,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 648,
+"h": 535,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 44
+}
+],
+"mostrada": "Celina, pág. 44",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f11-06",
+"tema": "11",
+"orden": 6,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 571,
+"h": 530,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 46
+}
+],
+"mostrada": "Celina, pág. 46",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f11-07",
+"tema": "11",
+"orden": 7,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 754,
+"h": 567,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 46
+}
+],
+"mostrada": "Celina, pág. 46",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f11-08",
+"tema": "11",
+"orden": 8,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 551,
+"h": 401,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 148
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 81
+}
+],
+"mostrada": "Copia, pág. 148",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f12-01",
+"tema": "12",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 712,
+"h": 317,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 76
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 47
+}
+],
+"mostrada": "Celina, pág. 47",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f12-02",
+"tema": "12",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 884,
+"h": 462,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 77
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 48
+}
+],
+"mostrada": "Celina, pág. 48",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f12-03",
+"tema": "12",
+"orden": 3,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 789,
+"h": 442,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 146
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 84
+}
+],
+"mostrada": "Copia, pág. 146",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f12-04",
+"tema": "12",
+"orden": 4,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 657,
+"h": 306,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 148
+}
+],
+"mostrada": "Copia, pág. 148",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f13-01",
+"tema": "13",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": "Microkernel / plug-in",
+"w": 714,
+"h": 511,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 84
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 50
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 151
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 86
+}
+],
+"mostrada": "Fidanza, pág. 86",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f13-02",
+"tema": "13",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1298,
+"h": 382,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 81
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 150
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 86
+}
+],
+"mostrada": "Fidanza, pág. 86",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f13-03",
+"tema": "13",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": "Ejemplo: Visual Studio Code",
+"w": 753,
+"h": 409,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 85
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 50
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 152
+}
+],
+"mostrada": "Copia, pág. 152",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f13-04",
+"tema": "13",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 892,
+"h": 590,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 80
+}
+],
+"mostrada": "PF, pág. 80",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f13-05",
+"tema": "13",
+"orden": 5,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 1186,
+"h": 342,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 49
+}
+],
+"mostrada": "Celina, pág. 49",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f13-06",
+"tema": "13",
+"orden": 6,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 778,
+"h": 230,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 149
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 85
+}
+],
+"mostrada": "Copia, pág. 149",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f14-01",
+"tema": "14",
+"orden": 1,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 671,
+"h": 332,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 159
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 89
+}
+],
+"mostrada": "Copia, pág. 159",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-01",
+"tema": "15",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": "Maestro-esclavo",
+"w": 1229,
+"h": 499,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 93
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 53
+}
+],
+"mostrada": "Celina, pág. 53",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-02",
+"tema": "15",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": "Cliente-servidor",
+"w": 728,
+"h": 564,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 95
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 90
+}
+],
+"mostrada": "PF, pág. 95",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-03",
+"tema": "15",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 786,
+"h": 420,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 95
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 90
+}
+],
+"mostrada": "PF, pág. 95",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-04",
+"tema": "15",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": "C/S multinivel (multi-tier)",
+"w": 874,
+"h": 439,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 99
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 55
+}
+],
+"mostrada": "Celina, pág. 55",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-05",
+"tema": "15",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": "Componentes distribuidos",
+"w": 855,
+"h": 470,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 100
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 56
+}
+],
+"mostrada": "Celina, pág. 56",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-06",
+"tema": "15",
+"orden": 6,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 903,
+"h": 359,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 104
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 57
+}
+],
+"mostrada": "Celina, pág. 57",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-07",
+"tema": "15",
+"orden": 7,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 780,
+"h": 556,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 105
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 58
+}
+],
+"mostrada": "Celina, pág. 58",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-08",
+"tema": "15",
+"orden": 8,
+"rank": 3,
+"nivel": "Clase",
+"title": "Cliente-servidor",
+"w": 1025,
+"h": 629,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 93
+}
+],
+"mostrada": "PF, pág. 93",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-09",
+"tema": "15",
+"orden": 9,
+"rank": 3,
+"nivel": "Clase",
+"title": "Cliente-servidor",
+"w": 860,
+"h": 526,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 94
+}
+],
+"mostrada": "PF, pág. 94",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-10",
+"tema": "15",
+"orden": 10,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 491,
+"h": 189,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 96
+}
+],
+"mostrada": "PF, pág. 96",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-11",
+"tema": "15",
+"orden": 11,
+"rank": 3,
+"nivel": "Clase",
+"title": "C/S de 2 niveles (2-tier)",
+"w": 835,
+"h": 510,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 97
+}
+],
+"mostrada": "PF, pág. 97",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-12",
+"tema": "15",
+"orden": 12,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 807,
+"h": 442,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 102
+}
+],
+"mostrada": "PF, pág. 102",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-13",
+"tema": "15",
+"orden": 13,
+"rank": 3,
+"nivel": "Clase",
+"title": "Diferencias entre cliente-servidor y componentes distribuidos",
+"w": 742,
+"h": 513,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 102
+}
+],
+"mostrada": "PF, pág. 102",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-14",
+"tema": "15",
+"orden": 14,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 731,
+"h": 340,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 54
+}
+],
+"mostrada": "Celina, pág. 54",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-15",
+"tema": "15",
+"orden": 15,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 790,
+"h": 361,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 160
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 91
+}
+],
+"mostrada": "Copia, pág. 160",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-16",
+"tema": "15",
+"orden": 16,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Ejemplo Clásico: La Arquitectura de 3 Niveles (3-Tier)",
+"w": 774,
+"h": 378,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 162
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 93
+}
+],
+"mostrada": "Copia, pág. 162",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-17",
+"tema": "15",
+"orden": 17,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 734,
+"h": 314,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 164
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 96
+}
+],
+"mostrada": "Copia, pág. 164",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-18",
+"tema": "15",
+"orden": 18,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 722,
+"h": 329,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 161
+}
+],
+"mostrada": "Copia, pág. 161",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-19",
+"tema": "15",
+"orden": 19,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 570,
+"h": 349,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 161
+}
+],
+"mostrada": "Copia, pág. 161",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-20",
+"tema": "15",
+"orden": 20,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 715,
+"h": 346,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 163
+}
+],
+"mostrada": "Copia, pág. 163",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f15-21",
+"tema": "15",
+"orden": 21,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 247,
+"h": 198,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 91
+}
+],
+"mostrada": "Fidanza, pág. 91",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f16-01",
+"tema": "16",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": "Orientada a servicios (SOA)",
+"w": 845,
+"h": 425,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 108
+}
+],
+"mostrada": "PF, pág. 108",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f16-02",
+"tema": "16",
+"orden": 2,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 573,
+"h": 288,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 59
+}
+],
+"mostrada": "Celina, pág. 59",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f16-03",
+"tema": "16",
+"orden": 3,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 535,
+"h": 390,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 59
+}
+],
+"mostrada": "Celina, pág. 59",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f16-04",
+"tema": "16",
+"orden": 4,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 489,
+"h": 236,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 165
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 96
+}
+],
+"mostrada": "Copia, pág. 165",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f16-05",
+"tema": "16",
+"orden": 5,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 443,
+"h": 346,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 165
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 97
+}
+],
+"mostrada": "Copia, pág. 165",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-01",
+"tema": "17",
+"orden": 1,
+"rank": 2,
+"nivel": "Cátedra",
+"title": null,
+"w": 810,
+"h": 598,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 168
+}
+],
+"mostrada": "Copia, pág. 168",
+"tipo": "Figura del apunte",
+"nota": "La misma topología se usó en la Simulación A 2024 (pregunta 4).",
+"legib": null
+},
+{
+"id": "f17-02",
+"tema": "17",
+"orden": 2,
+"rank": 2,
+"nivel": "Simulación 2024",
+"title": "Diagrama de arquitectura para reconocer (Simulación A 2024)",
+"qimg": "simA-04-diagrama.png",
+"w": 672,
+"h": 472,
+"refs": [
+{
+"archivo": "Copia de Simulación Parcial 2 (IE3)_ Revisión del intento (1).pdf · pág. 3 · Pregunta 4 · también en Cuestionario Arquitectura II #4 (2026)",
+"nota": "Copia en el Quizziz: pregunta 70. Es la figura 17-1 del Word de la cátedra."
+}
+],
+"preguntas": [
+"simA-04"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f17-03",
+"tema": "17",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1353,
+"h": 644,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 111
+}
+],
+"mostrada": "PF, pág. 111",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-04",
+"tema": "17",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 851,
+"h": 499,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 113
+}
+],
+"mostrada": "PF, pág. 113",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-05",
+"tema": "17",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 689,
+"h": 484,
+"refs": [
+{
+"archivo": "WM_Microservicios_del_Word.pdf",
+"corto": "WM",
+"pag": 1
+}
+],
+"mostrada": "WM, pág. 1",
+"tipo": "Figura del Word de la cátedra",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-06",
+"tema": "17",
+"orden": 6,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 912,
+"h": 583,
+"refs": [
+{
+"archivo": "WM_Microservicios_del_Word.pdf",
+"corto": "WM",
+"pag": 7
+}
+],
+"mostrada": "WM, pág. 7",
+"tipo": "Figura del Word de la cátedra",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-07",
+"tema": "17",
+"orden": 7,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 501,
+"h": 343,
+"refs": [
+{
+"archivo": "WM_Microservicios_del_Word.pdf",
+"corto": "WM",
+"pag": 7
+}
+],
+"mostrada": "WM, pág. 7",
+"tipo": "Figura del Word de la cátedra",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-08",
+"tema": "17",
+"orden": 8,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 504,
+"h": 320,
+"refs": [
+{
+"archivo": "WM_Microservicios_del_Word.pdf",
+"corto": "WM",
+"pag": 8
+}
+],
+"mostrada": "WM, pág. 8",
+"tipo": "Figura del Word de la cátedra",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-09",
+"tema": "17",
+"orden": 9,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 864,
+"h": 557,
+"refs": [
+{
+"archivo": "WM_Microservicios_del_Word.pdf",
+"corto": "WM",
+"pag": 8
+}
+],
+"mostrada": "WM, pág. 8",
+"tipo": "Figura del Word de la cátedra",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-10",
+"tema": "17",
+"orden": 10,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 495,
+"h": 322,
+"refs": [
+{
+"archivo": "WM_Microservicios_del_Word.pdf",
+"corto": "WM",
+"pag": 9
+}
+],
+"mostrada": "WM, pág. 9",
+"tipo": "Figura del Word de la cátedra",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-11",
+"tema": "17",
+"orden": 11,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 498,
+"h": 368,
+"refs": [
+{
+"archivo": "WM_Microservicios_del_Word.pdf",
+"corto": "WM",
+"pag": 9
+}
+],
+"mostrada": "WM, pág. 9",
+"tipo": "Figura del Word de la cátedra",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-12",
+"tema": "17",
+"orden": 12,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 498,
+"h": 316,
+"refs": [
+{
+"archivo": "WM_Microservicios_del_Word.pdf",
+"corto": "WM",
+"pag": 12
+}
+],
+"mostrada": "WM, pág. 12",
+"tipo": "Figura del Word de la cátedra",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-13",
+"tema": "17",
+"orden": 13,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 501,
+"h": 409,
+"refs": [
+{
+"archivo": "WM_Microservicios_del_Word.pdf",
+"corto": "WM",
+"pag": 13
+}
+],
+"mostrada": "WM, pág. 13",
+"tipo": "Figura del Word de la cátedra",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-14",
+"tema": "17",
+"orden": 14,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 494,
+"h": 331,
+"refs": [
+{
+"archivo": "WM_Microservicios_del_Word.pdf",
+"corto": "WM",
+"pag": 14
+}
+],
+"mostrada": "WM, pág. 14",
+"tipo": "Figura del Word de la cátedra",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-15",
+"tema": "17",
+"orden": 15,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 495,
+"h": 436,
+"refs": [
+{
+"archivo": "WM_Microservicios_del_Word.pdf",
+"corto": "WM",
+"pag": 14
+}
+],
+"mostrada": "WM, pág. 14",
+"tipo": "Figura del Word de la cátedra",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-16",
+"tema": "17",
+"orden": 16,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 492,
+"h": 403,
+"refs": [
+{
+"archivo": "WM_Microservicios_del_Word.pdf",
+"corto": "WM",
+"pag": 16
+}
+],
+"mostrada": "WM, pág. 16",
+"tipo": "Figura del Word de la cátedra",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-17",
+"tema": "17",
+"orden": 17,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 678,
+"h": 516,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 61
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 168
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 100
+}
+],
+"mostrada": "Copia, pág. 168",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-18",
+"tema": "17",
+"orden": 18,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 410,
+"h": 478,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 61
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 167
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 99
+}
+],
+"mostrada": "Copia, pág. 167",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-19",
+"tema": "17",
+"orden": 19,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 382,
+"h": 512,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 61
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 167
+}
+],
+"mostrada": "Copia, pág. 167",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f17-20",
+"tema": "17",
+"orden": 20,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 995,
+"h": 757,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 169
+}
+],
+"mostrada": "Copia, pág. 169",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f18-01",
+"tema": "18",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 732,
+"h": 250,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 114
+}
+],
+"mostrada": "PF, pág. 114",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f19-01",
+"tema": "19",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": "4P + H: personas, proyecto, producto, proceso y herramientas",
+"w": 774,
+"h": 508,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 119
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 206
+}
+],
+"mostrada": "Copia, pág. 206",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f19-02",
+"tema": "19",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": "Centrado en la arquitectura",
+"w": 770,
+"h": 415,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 124
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 202
+}
+],
+"mostrada": "Copia, pág. 202",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f19-03",
+"tema": "19",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 710,
+"h": 404,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 118
+}
+],
+"mostrada": "PF, pág. 118",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f19-04",
+"tema": "19",
+"orden": 4,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Figura 4.4. La línea base de la arquitectura es una versión interna del sistema, que está centrada en la descripción de la arquitectura",
+"w": 972,
+"h": 376,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 210
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 112
+}
+],
+"mostrada": "Copia, pág. 210",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f19-05",
+"tema": "19",
+"orden": 5,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Figura 1.1. Un proceso de desarrollo de software",
+"w": 554,
+"h": 114,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 200
+}
+],
+"mostrada": "Copia, pág. 200",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f19-06",
+"tema": "19",
+"orden": 6,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 495,
+"h": 271,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 111
+}
+],
+"mostrada": "Fidanza, pág. 111",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f19-07",
+"tema": "19",
+"orden": 7,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 213,
+"h": 121,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 112
+}
+],
+"mostrada": "Fidanza, pág. 112",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f19-08",
+"tema": "19",
+"orden": 8,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 433,
+"h": 275,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 113
+}
+],
+"mostrada": "Fidanza, pág. 113",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-01",
+"tema": "20",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 5.6. El énfasis se desplaza en las iteraciones, desde la captura de requisitos y el análisis hacia el diseño, la implementación y la prueba",
+"w": 745,
+"h": 487,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 250
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 65
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 204
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 104
+}
+],
+"mostrada": "Celina, pág. 65",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-02",
+"tema": "20",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 1.4. Modelo del Proceso Unificado",
+"w": 981,
+"h": 586,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 128
+},
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 249
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 64
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 203
+}
+],
+"mostrada": "Celina, pág. 64",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-03",
+"tema": "20",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": "Ciclo de vida, fases, hitos y artefactos · gráfico del profesor",
+"w": 988,
+"h": 359,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 132
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 204
+}
+],
+"mostrada": "Copia, pág. 204",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-04",
+"tema": "20",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 2.7. La notación «en forma de pez» es la abreviatura de un flujo de trabajo",
+"w": 646,
+"h": 159,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 134
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 208
+}
+],
+"mostrada": "Copia, pág. 208",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-05",
+"tema": "20",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 673,
+"h": 509,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 139
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 208
+}
+],
+"mostrada": "Copia, pág. 208",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-06",
+"tema": "20",
+"orden": 6,
+"rank": 3,
+"nivel": "Clase",
+"title": "PUDS - ciclo de vida",
+"w": 701,
+"h": 390,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 127
+}
+],
+"mostrada": "PF, pág. 127",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-07",
+"tema": "20",
+"orden": 7,
+"rank": 3,
+"nivel": "Clase",
+"title": "Ciclo - Fase - Iteración",
+"w": 706,
+"h": 390,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 127
+}
+],
+"mostrada": "PF, pág. 127",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-08",
+"tema": "20",
+"orden": 8,
+"rank": 3,
+"nivel": "Clase",
+"title": "Release",
+"w": 737,
+"h": 457,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 128
+}
+],
+"mostrada": "PF, pág. 128",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-09",
+"tema": "20",
+"orden": 9,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 732,
+"h": 395,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 130
+}
+],
+"mostrada": "PF, pág. 130",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-10",
+"tema": "20",
+"orden": 10,
+"rank": 3,
+"nivel": "Clase",
+"title": "Mapa conceptual del PUDS",
+"w": 2048,
+"h": 2019,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 131
+}
+],
+"mostrada": "PF, pág. 131",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-11",
+"tema": "20",
+"orden": 11,
+"rank": 3,
+"nivel": "Clase",
+"title": "PUDS - conceptos clave",
+"w": 1295,
+"h": 672,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 134
+}
+],
+"mostrada": "PF, pág. 134",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-12",
+"tema": "20",
+"orden": 12,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 2.2. Trabajadores y recursos que los realizan",
+"w": 568,
+"h": 376,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 137
+}
+],
+"mostrada": "PF, pág. 137",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-13",
+"tema": "20",
+"orden": 13,
+"rank": 3,
+"nivel": "Clase",
+"title": "PUDS - conceptos clave",
+"w": 1296,
+"h": 685,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 137
+}
+],
+"mostrada": "PF, pág. 137",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-14",
+"tema": "20",
+"orden": 14,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 2.4. El conjunto fundamental de modelos del Proceso Unificado",
+"w": 684,
+"h": 139,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 138
+}
+],
+"mostrada": "PF, pág. 138",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-15",
+"tema": "20",
+"orden": 15,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 2.5. Los modelos están estrechamente enlazados unos con otros mediante trazas",
+"w": 753,
+"h": 151,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 138
+}
+],
+"mostrada": "PF, pág. 138",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-16",
+"tema": "20",
+"orden": 16,
+"rank": 3,
+"nivel": "Clase",
+"title": "PUDS/RUP: ¿diferencias?",
+"w": 1283,
+"h": 654,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 140
+}
+],
+"mostrada": "PF, pág. 140",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-17",
+"tema": "20",
+"orden": 17,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 502,
+"h": 336,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 140
+}
+],
+"mostrada": "PF, pág. 140",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-18",
+"tema": "20",
+"orden": 18,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 869,
+"h": 379,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 64
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 203
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 103
+}
+],
+"mostrada": "Celina, pág. 64",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-19",
+"tema": "20",
+"orden": 19,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 641,
+"h": 381,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 114
+}
+],
+"mostrada": "Fidanza, pág. 114",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-20",
+"tema": "20",
+"orden": 20,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 629,
+"h": 212,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 115
+}
+],
+"mostrada": "Fidanza, pág. 115",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-21",
+"tema": "20",
+"orden": 21,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 520,
+"h": 290,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 116
+}
+],
+"mostrada": "Fidanza, pág. 116",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f20-22",
+"tema": "20",
+"orden": 22,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 563,
+"h": 315,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 117
+}
+],
+"mostrada": "Fidanza, pág. 117",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f22-01",
+"tema": "22",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 918,
+"h": 286,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 154
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 212
+}
+],
+"mostrada": "Copia, pág. 212",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f22-02",
+"tema": "22",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": "Especificación de flujos de trabajo principales",
+"w": 1189,
+"h": 612,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 155
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 213
+}
+],
+"mostrada": "Copia, pág. 213",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f22-03",
+"tema": "22",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": "Captura de requisitos como casos de uso",
+"w": 873,
+"h": 698,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 156
+}
+],
+"mostrada": "PF, pág. 156",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f22-04",
+"tema": "22",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": "Requisitos - artefactos",
+"w": 1208,
+"h": 669,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 157
+}
+],
+"mostrada": "PF, pág. 157",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f22-05",
+"tema": "22",
+"orden": 5,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 650,
+"h": 330,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 69
+}
+],
+"mostrada": "Celina, pág. 69",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-01",
+"tema": "23",
+"orden": 1,
+"rank": 1,
+"nivel": "Parcial real",
+"title": "Figura 7.10. El flujo de trabajo para la captura de requisitos en forma de casos de uso, incluyendo trabajadores participantes y sus actividades",
+"w": 848,
+"h": 497,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 252
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 75
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 216
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 122
+}
+],
+"mostrada": "PF, pág. 252",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": "Su versión con casilleros vacíos se tomó en el Parcial 2024 (pregunta 3) y en la práctica de la cátedra.",
+"legib": null
+},
+{
+"id": "f23-02",
+"tema": "23",
+"orden": 2,
+"rank": 1,
+"nivel": "Parcial real",
+"title": "Flujo de Requisitos con casilleros vacíos (Parcial 2024)",
+"qimg": "p24-03-flujo-requisitos.png",
+"w": 820,
+"h": 640,
+"refs": [
+{
+"archivo": "Segundo Parcial Teoria 2024.docx · imagen 4 · Pregunta 3",
+"nota": "Copias en el Quizziz: preguntas 2, 18, 30, 38, 40, 59 y 75."
+}
+],
+"preguntas": [
+"p24-03"
+],
+"tipo": "Figura de una consigna del examen"
+},
+{
+"id": "f23-03",
+"tema": "23",
+"orden": 3,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Flujo de Requisitos con casilleros numerados (práctica de la cátedra)",
+"qimg": "puds-1-requisitos.png",
+"w": 486,
+"h": 356,
+"refs": [
+{
+"archivo": "preguntas de los diagramas.docx · figura de Requisitos · renglón 1"
+}
+],
+"preguntas": [
+"puds-01",
+"puds-02",
+"puds-03",
+"puds-04",
+"puds-05",
+"puds-06"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f23-04",
+"tema": "23",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 7.1. Los trabajadores y artefactos implicados durante la captura de los requisitos mediante casos de uso",
+"w": 1015,
+"h": 452,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 156
+},
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 251
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 71
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 213
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 119
+}
+],
+"mostrada": "Copia, pág. 213",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-05",
+"tema": "23",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": "Encontrar actores y casos de uso",
+"w": 877,
+"h": 456,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 252
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 76
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 217
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 122
+}
+],
+"mostrada": "Copia, pág. 217",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-06",
+"tema": "23",
+"orden": 6,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 7.13. Las entradas y los resultados de priorizar los casos de uso",
+"w": 664,
+"h": 405,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 253
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 78
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 219
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 123
+}
+],
+"mostrada": "PF, pág. 253",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-07",
+"tema": "23",
+"orden": 7,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 7.14. Las entradas y los resultados de detallar cada caso de uso",
+"w": 711,
+"h": 389,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 253
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 78
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 218
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 124
+}
+],
+"mostrada": "Copia, pág. 218",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-08",
+"tema": "23",
+"orden": 8,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 7.17. Las entradas y los resultados de prototipar la interfaz de usuario",
+"w": 863,
+"h": 556,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 254
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 79
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 219
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 125
+}
+],
+"mostrada": "Celina, pág. 79",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-09",
+"tema": "23",
+"orden": 9,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 7.20. Las entradas y los resultados de encontrar generalizaciones en el modelo de casos de uso",
+"w": 808,
+"h": 513,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 254
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 80
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 220
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 126
+}
+],
+"mostrada": "Celina, pág. 80",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-10",
+"tema": "23",
+"orden": 10,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 7.2. El modelo de casos de uso y sus contenidos",
+"w": 1289,
+"h": 522,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 251
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 71
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 214
+}
+],
+"mostrada": "Copia, pág. 214",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-11",
+"tema": "23",
+"orden": 11,
+"rank": 3,
+"nivel": "Clase",
+"title": "Requisitos - flujo de trabajo",
+"w": 1085,
+"h": 692,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 160
+}
+],
+"mostrada": "PF, pág. 160",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-12",
+"tema": "23",
+"orden": 12,
+"rank": 3,
+"nivel": "Clase",
+"title": "1. Buscar actores y CU",
+"w": 1209,
+"h": 675,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 161
+}
+],
+"mostrada": "PF, pág. 161",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-13",
+"tema": "23",
+"orden": 13,
+"rank": 3,
+"nivel": "Clase",
+"title": "2. Priorizar CU",
+"w": 1144,
+"h": 721,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 162
+}
+],
+"mostrada": "PF, pág. 162",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-14",
+"tema": "23",
+"orden": 14,
+"rank": 3,
+"nivel": "Clase",
+"title": "3. Detallar CU",
+"w": 1010,
+"h": 610,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 163
+}
+],
+"mostrada": "PF, pág. 163",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-15",
+"tema": "23",
+"orden": 15,
+"rank": 3,
+"nivel": "Clase",
+"title": "4. Prototipar UI",
+"w": 955,
+"h": 670,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 164
+}
+],
+"mostrada": "PF, pág. 164",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-16",
+"tema": "23",
+"orden": 16,
+"rank": 3,
+"nivel": "Clase",
+"title": "5. Estructurar el modelo de CU",
+"w": 1041,
+"h": 694,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 165
+}
+],
+"mostrada": "PF, pág. 165",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-17",
+"tema": "23",
+"orden": 17,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 546,
+"h": 370,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 74
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 216
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 121
+}
+],
+"mostrada": "Copia, pág. 216",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-18",
+"tema": "23",
+"orden": 18,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Analista de sistemas",
+"w": 392,
+"h": 284,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 74
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 215
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 120
+}
+],
+"mostrada": "Copia, pág. 215",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-19",
+"tema": "23",
+"orden": 19,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Figura 7.5. La descripción de la arquitectura",
+"w": 543,
+"h": 464,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 73
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 215
+}
+],
+"mostrada": "Copia, pág. 215",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-20",
+"tema": "23",
+"orden": 20,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 528,
+"h": 185,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 80
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 220
+}
+],
+"mostrada": "Celina, pág. 80",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-21",
+"tema": "23",
+"orden": 21,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 218,
+"h": 353,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 216
+}
+],
+"mostrada": "Copia, pág. 216",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f23-22",
+"tema": "23",
+"orden": 22,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 271,
+"h": 355,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 216
+}
+],
+"mostrada": "Copia, pág. 216",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f24-01",
+"tema": "24",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 963,
+"h": 524,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 276
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 209
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 109
+}
+],
+"mostrada": "Copia, pág. 209",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f24-02",
+"tema": "24",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 3.11. Tres subsistemas y un subsistema de servicio (en gris dentro del subsistema de Gestión de Transacciones) para nuestro ejemplo sencillo del CA",
+"w": 974,
+"h": 448,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 277
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 209
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 109
+}
+],
+"mostrada": "Copia, pág. 209",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f24-03",
+"tema": "24",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 3.4. Las clases de análisis que participan en la realización de Sacar Dinero",
+"w": 834,
+"h": 307,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 274
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 108
+}
+],
+"mostrada": "PF, pág. 274",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f24-04",
+"tema": "24",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 3.5. El diagrama muestra cómo cada caso de uso (izquierda) se realiza como una estructura de clases del análisis (derecha), Por ejemplo",
+"w": 791,
+"h": 530,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 275
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 107
+}
+],
+"mostrada": "PF, pág. 275",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f24-05",
+"tema": "24",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 3.6. Un diagrama de colaboración para la realización del caso de uso Sacar Dinero en el modelo de análisis",
+"w": 735,
+"h": 347,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 275
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 108
+}
+],
+"mostrada": "PF, pág. 275",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f24-06",
+"tema": "24",
+"orden": 6,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1055,
+"h": 678,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 167
+}
+],
+"mostrada": "PF, pág. 167",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": "El diagrama de la derecha no se lee en la foto."
+},
+{
+"id": "f24-07",
+"tema": "24",
+"orden": 7,
+"rank": 3,
+"nivel": "Clase",
+"title": "Realización de CU: aspecto estático y dinámico",
+"w": 1056,
+"h": 647,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 168
+}
+],
+"mostrada": "PF, pág. 168",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f24-08",
+"tema": "24",
+"orden": 8,
+"rank": 3,
+"nivel": "Clase",
+"title": "Pasos para la realización de un CU",
+"w": 918,
+"h": 698,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 168
+}
+],
+"mostrada": "PF, pág. 168",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f24-09",
+"tema": "24",
+"orden": 9,
+"rank": 3,
+"nivel": "Clase",
+"title": "Realización de casos de uso: tarjetas CRC, diagrama de clases y diagrama de secuencia",
+"w": 1029,
+"h": 638,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 169
+}
+],
+"mostrada": "PF, pág. 169",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f24-10",
+"tema": "24",
+"orden": 10,
+"rank": 3,
+"nivel": "Clase",
+"title": "Tarjetas CRC: clase, responsabilidad, colaboración",
+"w": 1026,
+"h": 670,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 171
+}
+],
+"mostrada": "PF, pág. 171",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f24-11",
+"tema": "24",
+"orden": 11,
+"rank": 3,
+"nivel": "Clase",
+"title": "Tarjetas CRC",
+"w": 952,
+"h": 667,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 172
+}
+],
+"mostrada": "PF, pág. 172",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f24-12",
+"tema": "24",
+"orden": 12,
+"rank": 3,
+"nivel": "Clase",
+"title": "Tarjetas CRC",
+"w": 991,
+"h": 721,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 172
+}
+],
+"mostrada": "PF, pág. 172",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f24-13",
+"tema": "24",
+"orden": 13,
+"rank": 3,
+"nivel": "Clase",
+"title": "Diagrama de clases",
+"w": 1012,
+"h": 705,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 173
+}
+],
+"mostrada": "PF, pág. 173",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": "En la foto no se leen los atributos de algunas clases; la pág. 173 también tiene una foto ampliada de la parte superior."
+},
+{
+"id": "f24-14",
+"tema": "24",
+"orden": 14,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 865,
+"h": 536,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 173
+}
+],
+"mostrada": "PF, pág. 173",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f24-15",
+"tema": "24",
+"orden": 15,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 3.9. Un diagrama de clases que es parte de la realización del caso de uso Sacar Dinero en el modelo de diseño",
+"w": 837,
+"h": 409,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 276
+}
+],
+"mostrada": "PF, pág. 276",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f24-16",
+"tema": "24",
+"orden": 16,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 3.10. Un diagrama de secuencia que es parte de la realización del caso de uso Sacar Dinero en el modelo de diseño",
+"w": 789,
+"h": 510,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 277
+}
+],
+"mostrada": "PF, pág. 277",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f24-17",
+"tema": "24",
+"orden": 17,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 575,
+"h": 343,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 278
+}
+],
+"mostrada": "PF, pág. 278",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f24-18",
+"tema": "24",
+"orden": 18,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 410,
+"h": 323,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 37
+}
+],
+"mostrada": "Fidanza, pág. 37",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-01",
+"tema": "25",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 8.1. Los trabajadores y artefactos implicados en el análisis",
+"w": 947,
+"h": 362,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 186
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 82
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 127
+}
+],
+"mostrada": "Celina, pág. 82",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-02",
+"tema": "25",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 8.3. El modelo de análisis es una jerarquía de paquetes del análisis que contienen clases del análisis y realizaciones de casos de uso",
+"w": 1126,
+"h": 548,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 255
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 83
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 127
+}
+],
+"mostrada": "Celina, pág. 83",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-03",
+"tema": "25",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 8.9. Existe una traza entre una realización de caso de uso-análisis en el modelo de análisis y un caso de uso en el modelo de casos de uso",
+"w": 837,
+"h": 217,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 279
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 85
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 129
+}
+],
+"mostrada": "PF, pág. 279",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-04",
+"tema": "25",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": "Tabla 8.1. Breve comparación del modelo de casos de uso con el modelo de análisis",
+"w": 847,
+"h": 526,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 177
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 223
+}
+],
+"mostrada": "Copia, pág. 223",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-05",
+"tema": "25",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 8.4. Los atributos esenciales y los subtipos (es decir, estereotipos) de una clase del análisis",
+"w": 769,
+"h": 471,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 279
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 84
+}
+],
+"mostrada": "PF, pág. 279",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-06",
+"tema": "25",
+"orden": 6,
+"rank": 3,
+"nivel": "Clase",
+"title": "Análisis - comparativa",
+"w": 732,
+"h": 408,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 177
+}
+],
+"mostrada": "PF, pág. 177",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-07",
+"tema": "25",
+"orden": 7,
+"rank": 3,
+"nivel": "Clase",
+"title": "Análisis: trabajadores y artefactos",
+"w": 730,
+"h": 378,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 179
+}
+],
+"mostrada": "PF, pág. 179",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-08",
+"tema": "25",
+"orden": 8,
+"rank": 3,
+"nivel": "Clase",
+"title": "Análisis - artefactos",
+"w": 720,
+"h": 409,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 179
+}
+],
+"mostrada": "PF, pág. 179",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-09",
+"tema": "25",
+"orden": 9,
+"rank": 3,
+"nivel": "Clase",
+"title": "Análisis - artefactos",
+"w": 738,
+"h": 397,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 181
+}
+],
+"mostrada": "PF, pág. 181",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-10",
+"tema": "25",
+"orden": 10,
+"rank": 3,
+"nivel": "Clase",
+"title": "Análisis - artefactos",
+"w": 706,
+"h": 374,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 182
+}
+],
+"mostrada": "PF, pág. 182",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-11",
+"tema": "25",
+"orden": 11,
+"rank": 3,
+"nivel": "Clase",
+"title": "Análisis - artefactos",
+"w": 732,
+"h": 407,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 182
+}
+],
+"mostrada": "PF, pág. 182",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-12",
+"tema": "25",
+"orden": 12,
+"rank": 3,
+"nivel": "Clase",
+"title": "Análisis - artefactos",
+"w": 734,
+"h": 393,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 183
+}
+],
+"mostrada": "PF, pág. 183",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-13",
+"tema": "25",
+"orden": 13,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 8.10. Los atributos y asociaciones fundamentales de una realización de caso de uso-análisis",
+"w": 811,
+"h": 458,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 279
+}
+],
+"mostrada": "PF, pág. 279",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-14",
+"tema": "25",
+"orden": 14,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 474,
+"h": 432,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 86
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 130
+}
+],
+"mostrada": "Celina, pág. 86",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-15",
+"tema": "25",
+"orden": 15,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 375,
+"h": 388,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 87
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 131
+}
+],
+"mostrada": "Celina, pág. 87",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-16",
+"tema": "25",
+"orden": 16,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Figura 8.2. El análisis",
+"w": 1201,
+"h": 761,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 83
+}
+],
+"mostrada": "Celina, pág. 83",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-17",
+"tema": "25",
+"orden": 17,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Figura 8.11. Un diagrama de clases de una realización del caso de uso Pagar Factura",
+"w": 601,
+"h": 363,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 85
+}
+],
+"mostrada": "Celina, pág. 85",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-18",
+"tema": "25",
+"orden": 18,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 615,
+"h": 380,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 85
+}
+],
+"mostrada": "Celina, pág. 85",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-19",
+"tema": "25",
+"orden": 19,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 395,
+"h": 176,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 129
+}
+],
+"mostrada": "Fidanza, pág. 129",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-20",
+"tema": "25",
+"orden": 20,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 262,
+"h": 221,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 132
+}
+],
+"mostrada": "Fidanza, pág. 132",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f25-21",
+"tema": "25",
+"orden": 21,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 209,
+"h": 221,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 133
+}
+],
+"mostrada": "Fidanza, pág. 133",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f26-01",
+"tema": "26",
+"orden": 1,
+"rank": 2,
+"nivel": "Cátedra",
+"title": null,
+"w": 1067,
+"h": 442,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 256
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 88
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 133
+}
+],
+"mostrada": "Celina, pág. 88",
+"tipo": "Figura del apunte",
+"nota": "Su versión con casilleros vacíos está en la práctica de diagramas de la cátedra.",
+"legib": null
+},
+{
+"id": "f26-02",
+"tema": "26",
+"orden": 2,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Flujo de Análisis con casilleros numerados (práctica de la cátedra)",
+"qimg": "puds-2-analisis.png",
+"w": 566,
+"h": 269,
+"refs": [
+{
+"archivo": "preguntas de los diagramas.docx · figura de Análisis · renglón 1"
+}
+],
+"preguntas": [
+"puds-07",
+"puds-08",
+"puds-09",
+"puds-10",
+"puds-11"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f26-03",
+"tema": "26",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 8.19. Las entradas y los resultados del análisis arquitectónico",
+"w": 729,
+"h": 548,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 188
+},
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 257
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 88
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 134
+}
+],
+"mostrada": "Celina, pág. 88",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f26-04",
+"tema": "26",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 8.26. Las entradas y los resultados del análisis de una clase",
+"w": 749,
+"h": 377,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 259
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 91
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 135
+}
+],
+"mostrada": "Celina, pág. 91",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f26-05",
+"tema": "26",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 8.29. Las entradas y los resultados del análisis de un paquete",
+"w": 888,
+"h": 502,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 259
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 92
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 136
+}
+],
+"mostrada": "Celina, pág. 92",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f26-06",
+"tema": "26",
+"orden": 6,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 8.25. Las entradas y los resultados del análisis de un caso de uso",
+"w": 888,
+"h": 562,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 258
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 89
+}
+],
+"mostrada": "Celina, pág. 89",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f26-07",
+"tema": "26",
+"orden": 7,
+"rank": 3,
+"nivel": "Clase",
+"title": "Análisis - flujo de trabajo",
+"w": 695,
+"h": 373,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 186
+}
+],
+"mostrada": "PF, pág. 186",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f26-08",
+"tema": "26",
+"orden": 8,
+"rank": 3,
+"nivel": "Clase",
+"title": "Análisis - flujo de trabajo",
+"w": 752,
+"h": 420,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 187
+}
+],
+"mostrada": "PF, pág. 187",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f26-09",
+"tema": "26",
+"orden": 9,
+"rank": 3,
+"nivel": "Clase",
+"title": "Análisis - flujo de trabajo",
+"w": 739,
+"h": 408,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 188
+}
+],
+"mostrada": "PF, pág. 188",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f26-10",
+"tema": "26",
+"orden": 10,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 470,
+"h": 223,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 189
+}
+],
+"mostrada": "PF, pág. 189",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f26-11",
+"tema": "26",
+"orden": 11,
+"rank": 3,
+"nivel": "Clase",
+"title": "Análisis - flujo de trabajo",
+"w": 747,
+"h": 416,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 190
+}
+],
+"mostrada": "PF, pág. 190",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f26-12",
+"tema": "26",
+"orden": 12,
+"rank": 3,
+"nivel": "Clase",
+"title": "Análisis - flujo de trabajo",
+"w": 720,
+"h": 398,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 190
+}
+],
+"mostrada": "PF, pág. 190",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f26-13",
+"tema": "26",
+"orden": 13,
+"rank": 3,
+"nivel": "Clase",
+"title": "Análisis - flujo de trabajo",
+"w": 741,
+"h": 372,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 191
+}
+],
+"mostrada": "PF, pág. 191",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-01",
+"tema": "27",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 9.1. Trabajadores y artefactos involucrados en el diseño",
+"w": 1398,
+"h": 497,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 194
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 93
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 138
+}
+],
+"mostrada": "Celina, pág. 93",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-02",
+"tema": "27",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 9.3. El modelo de diseño es un jerarquía de subsistemas de diseño que contienen clases del diseño",
+"w": 1014,
+"h": 519,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 260
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 95
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 138
+}
+],
+"mostrada": "Celina, pág. 95",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-03",
+"tema": "27",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 9.6. Trazas existentes entre realizaciones de caso de uso en diferentes modelos",
+"w": 614,
+"h": 206,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 280
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 96
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 140
+}
+],
+"mostrada": "Celina, pág. 96",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-04",
+"tema": "27",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 9.7. Los atributos clave y asociaciones de una realización de caso de uso-diseño",
+"w": 681,
+"h": 479,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 280
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 96
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 140
+}
+],
+"mostrada": "PF, pág. 280",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-05",
+"tema": "27",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 9.8. Los contenidos de un subsistema y sus asociaciones fundamentales",
+"w": 587,
+"h": 481,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 281
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 97
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 141
+}
+],
+"mostrada": "Celina, pág. 97",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-06",
+"tema": "27",
+"orden": 6,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 9.9. Las asociaciones fundamentales de una interfaz",
+"w": 470,
+"h": 342,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 281
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 98
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 141
+}
+],
+"mostrada": "Celina, pág. 98",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-07",
+"tema": "27",
+"orden": 7,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 9.11. El modelo de despliegue contiene nodos",
+"w": 469,
+"h": 470,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 282
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 99
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 144
+}
+],
+"mostrada": "Celina, pág. 99",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-08",
+"tema": "27",
+"orden": 8,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 891,
+"h": 639,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 260
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 224
+}
+],
+"mostrada": "Copia, pág. 224",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-09",
+"tema": "27",
+"orden": 9,
+"rank": 3,
+"nivel": "Clase",
+"title": "Diseño - comparativa",
+"w": 733,
+"h": 334,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 193
+}
+],
+"mostrada": "PF, pág. 193",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-10",
+"tema": "27",
+"orden": 10,
+"rank": 3,
+"nivel": "Clase",
+"title": "Diseño: trabajadores y artefactos",
+"w": 732,
+"h": 376,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 194
+}
+],
+"mostrada": "PF, pág. 194",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-11",
+"tema": "27",
+"orden": 11,
+"rank": 3,
+"nivel": "Clase",
+"title": "Diseño - artefactos",
+"w": 729,
+"h": 364,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 195
+}
+],
+"mostrada": "PF, pág. 195",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-12",
+"tema": "27",
+"orden": 12,
+"rank": 3,
+"nivel": "Clase",
+"title": "Diseño - artefactos",
+"w": 724,
+"h": 350,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 199
+}
+],
+"mostrada": "PF, pág. 199",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-13",
+"tema": "27",
+"orden": 13,
+"rank": 3,
+"nivel": "Clase",
+"title": "Diseño - artefactos",
+"w": 740,
+"h": 413,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 200
+}
+],
+"mostrada": "PF, pág. 200",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-14",
+"tema": "27",
+"orden": 14,
+"rank": 3,
+"nivel": "Clase",
+"title": "Diseño - artefactos",
+"w": 713,
+"h": 379,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 201
+}
+],
+"mostrada": "PF, pág. 201",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-15",
+"tema": "27",
+"orden": 15,
+"rank": 3,
+"nivel": "Clase",
+"title": "Diseño - artefactos",
+"w": 834,
+"h": 412,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 202
+}
+],
+"mostrada": "PF, pág. 202",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-16",
+"tema": "27",
+"orden": 16,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 538,
+"h": 282,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 95
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 139
+}
+],
+"mostrada": "Celina, pág. 95",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-17",
+"tema": "27",
+"orden": 17,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Ingeniero de componentes",
+"w": 475,
+"h": 364,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 99
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 145
+}
+],
+"mostrada": "Celina, pág. 99",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-18",
+"tema": "27",
+"orden": 18,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 941,
+"h": 582,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 94
+}
+],
+"mostrada": "Celina, pág. 94",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-19",
+"tema": "27",
+"orden": 19,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 244,
+"h": 376,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 99
+}
+],
+"mostrada": "Celina, pág. 99",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-20",
+"tema": "27",
+"orden": 20,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 183,
+"h": 191,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 142
+}
+],
+"mostrada": "Fidanza, pág. 142",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f27-21",
+"tema": "27",
+"orden": 21,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 199,
+"h": 199,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 143
+}
+],
+"mostrada": "Fidanza, pág. 143",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-01",
+"tema": "28",
+"orden": 1,
+"rank": 1,
+"nivel": "Parcial real",
+"title": "Figura 9.16. El flujo de trabajo en el diseño, incluyendo los trabajadores participantes y sus actividades",
+"w": 1083,
+"h": 459,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 261
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 100
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 146
+}
+],
+"mostrada": "Celina, pág. 100",
+"tipo": "Figura del apunte",
+"nota": "Su versión con casilleros vacíos se tomó en el Recuperatorio 2024 (pregunta 6) y en la práctica de la cátedra.",
+"legib": null
+},
+{
+"id": "f28-02",
+"tema": "28",
+"orden": 2,
+"rank": 1,
+"nivel": "Parcial real",
+"title": "Flujo de Diseño con casilleros vacíos (Recuperatorio 2024)",
+"qimg": "r24-06-flujo-diseno.png",
+"w": 640,
+"h": 330,
+"refs": [
+{
+"archivo": "2do recu parcial Teoria 2024.docx · imagen 7–9 · Pregunta 6",
+"nota": "Copias en el Quizziz: preguntas 19, 23, 24, 62 y 74."
+}
+],
+"preguntas": [
+"r24-06"
+],
+"tipo": "Figura de una consigna del examen"
+},
+{
+"id": "f28-03",
+"tema": "28",
+"orden": 3,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Flujo de Diseño con casilleros numerados (práctica de la cátedra)",
+"qimg": "puds-3-diseno.png",
+"w": 572,
+"h": 267,
+"refs": [
+{
+"archivo": "preguntas de los diagramas.docx · figura de Diseño · renglón 1"
+}
+],
+"preguntas": [
+"puds-12",
+"puds-13",
+"puds-14",
+"puds-15"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f28-04",
+"tema": "28",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 881,
+"h": 516,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 207
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 103
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 148
+}
+],
+"mostrada": "Celina, pág. 103",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-05",
+"tema": "28",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 9.39. La entrada y los resultados del diseño de una clase",
+"w": 771,
+"h": 533,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 208
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 105
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 149
+}
+],
+"mostrada": "Celina, pág. 105",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-06",
+"tema": "28",
+"orden": 6,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 9.17. Las entradas y los resultados del diseño de la arquitectura",
+"w": 799,
+"h": 599,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 262
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 100
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 146
+}
+],
+"mostrada": "Celina, pág. 100",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-07",
+"tema": "28",
+"orden": 7,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 9.44. Las entradas y los resultados del diseño de un subsistema",
+"w": 1032,
+"h": 648,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 264
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 107
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 150
+}
+],
+"mostrada": "Celina, pág. 107",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-08",
+"tema": "28",
+"orden": 8,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 9.19. Subsistemas en las capas específica de la aplicación y general de la aplicación",
+"w": 815,
+"h": 503,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 282
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 101
+}
+],
+"mostrada": "Celina, pág. 101",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-09",
+"tema": "28",
+"orden": 9,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 9.24. Los subsistemas de las capas intermedia y de software del sistema encapsulan productos software comprados",
+"w": 797,
+"h": 433,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 283
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 102
+}
+],
+"mostrada": "PF, pág. 283",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-10",
+"tema": "28",
+"orden": 10,
+"rank": 3,
+"nivel": "Clase",
+"title": "Diseño - flujo de trabajo",
+"w": 675,
+"h": 360,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 204
+}
+],
+"mostrada": "PF, pág. 204",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-11",
+"tema": "28",
+"orden": 11,
+"rank": 3,
+"nivel": "Clase",
+"title": "Diseño - flujo de trabajo",
+"w": 742,
+"h": 361,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 205
+}
+],
+"mostrada": "PF, pág. 205",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-12",
+"tema": "28",
+"orden": 12,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 574,
+"h": 449,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 205
+}
+],
+"mostrada": "PF, pág. 205",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-13",
+"tema": "28",
+"orden": 13,
+"rank": 3,
+"nivel": "Clase",
+"title": "Diseño - flujo de trabajo",
+"w": 761,
+"h": 332,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 206
+}
+],
+"mostrada": "PF, pág. 206",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-14",
+"tema": "28",
+"orden": 14,
+"rank": 3,
+"nivel": "Clase",
+"title": "2. Diseñar un caso de uso",
+"w": 743,
+"h": 396,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 207
+}
+],
+"mostrada": "PF, pág. 207",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-15",
+"tema": "28",
+"orden": 15,
+"rank": 3,
+"nivel": "Clase",
+"title": "Diseño - flujo de trabajo",
+"w": 756,
+"h": 392,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 208
+}
+],
+"mostrada": "PF, pág. 208",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-16",
+"tema": "28",
+"orden": 16,
+"rank": 3,
+"nivel": "Clase",
+"title": "Diseño - flujo de trabajo",
+"w": 487,
+"h": 251,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 211
+}
+],
+"mostrada": "PF, pág. 211",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-17",
+"tema": "28",
+"orden": 17,
+"rank": 3,
+"nivel": "Clase",
+"title": "Diseño - flujo de trabajo",
+"w": 433,
+"h": 253,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 212
+}
+],
+"mostrada": "PF, pág. 212",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-18",
+"tema": "28",
+"orden": 18,
+"rank": 3,
+"nivel": "Clase",
+"title": "Diseño - flujo de trabajo",
+"w": 739,
+"h": 392,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 212
+}
+],
+"mostrada": "PF, pág. 212",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-19",
+"tema": "28",
+"orden": 19,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Figura 9.37. Las líneas de vida en el centro del diagrama (a) representan subsistemas, y muestran los mensajes que se envían y reciben entre subsistemas",
+"w": 1175,
+"h": 501,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 104
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 148
+}
+],
+"mostrada": "Celina, pág. 104",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f28-20",
+"tema": "28",
+"orden": 20,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 1126,
+"h": 467,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 101
+}
+],
+"mostrada": "Celina, pág. 101",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-01",
+"tema": "29",
+"orden": 1,
+"rank": 2,
+"nivel": "Cátedra",
+"title": "Figura 10.16. Flujo de trabajo en la etapa de implementación, incluyendo los trabajadores participantes y sus actividades",
+"w": 1139,
+"h": 540,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 266
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 113
+}
+],
+"mostrada": "Celina, pág. 113",
+"tipo": "Figura del apunte",
+"nota": "Su versión con casilleros vacíos está en la práctica de diagramas de la cátedra.",
+"legib": null
+},
+{
+"id": "f29-02",
+"tema": "29",
+"orden": 2,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Flujo de Implementación con casilleros numerados (práctica de la cátedra)",
+"qimg": "puds-4-implementacion.png",
+"w": 591,
+"h": 314,
+"refs": [
+{
+"archivo": "preguntas de los diagramas.docx · figura de Implementación · renglón 1"
+}
+],
+"preguntas": [
+"puds-16",
+"puds-17",
+"puds-18",
+"puds-19",
+"puds-20"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f29-03",
+"tema": "29",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 10.3. El modelo de implementación es una jerarquía de subsistemas de implementación que contiene componentes e interfaces",
+"w": 876,
+"h": 439,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 265
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 109
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 151
+}
+],
+"mostrada": "Celina, pág. 109",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-04",
+"tema": "29",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 10.1. Los trabajadores y artefactos involucrados en la implementación",
+"w": 1484,
+"h": 463,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 265
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 108
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 151
+}
+],
+"mostrada": "Celina, pág. 108",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-05",
+"tema": "29",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 10.17. La entrada y el resultado de la implementación de la arquitectura",
+"w": 842,
+"h": 523,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 266
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 113
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 157
+}
+],
+"mostrada": "Celina, pág. 113",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-06",
+"tema": "29",
+"orden": 6,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 10.20. Entrada y resultado de la integración de sistemas",
+"w": 936,
+"h": 589,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 267
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 114
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 158
+}
+],
+"mostrada": "Celina, pág. 114",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-07",
+"tema": "29",
+"orden": 7,
+"rank": 3,
+"nivel": "Clase",
+"title": "Implementar subsistema",
+"w": 926,
+"h": 521,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 267
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 115
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 159
+}
+],
+"mostrada": "Celina, pág. 115",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-08",
+"tema": "29",
+"orden": 8,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 10.25. La entrada y el resultado de la implementación de una clase",
+"w": 757,
+"h": 407,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 268
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 117
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 159
+}
+],
+"mostrada": "Celina, pág. 117",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-09",
+"tema": "29",
+"orden": 9,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 10.26. La entrada y el resultado de la prueba de una unidad",
+"w": 780,
+"h": 387,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 268
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 118
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 160
+}
+],
+"mostrada": "Celina, pág. 118",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-10",
+"tema": "29",
+"orden": 10,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 788,
+"h": 302,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 283
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 109
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 152
+}
+],
+"mostrada": "PF, pág. 283",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-11",
+"tema": "29",
+"orden": 11,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 10.22. Las clases de diseño necesarias en una construcción se implementan como componentes",
+"w": 920,
+"h": 585,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 284
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 116
+}
+],
+"mostrada": "Celina, pág. 116",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-12",
+"tema": "29",
+"orden": 12,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 10.23. Una interfaz requerida en una construcción (2) debería ser proporcionada también por un subsistema de implementación",
+"w": 856,
+"h": 580,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 284
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 110
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 116
+}
+],
+"mostrada": "Celina, pág. 116",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-13",
+"tema": "29",
+"orden": 13,
+"rank": 3,
+"nivel": "Clase",
+"title": "Implementación: trabajadores y artefactos",
+"w": 1197,
+"h": 574,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 215
+}
+],
+"mostrada": "PF, pág. 215",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-14",
+"tema": "29",
+"orden": 14,
+"rank": 3,
+"nivel": "Clase",
+"title": "Implementación - artefactos",
+"w": 1226,
+"h": 670,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 216
+}
+],
+"mostrada": "PF, pág. 216",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-15",
+"tema": "29",
+"orden": 15,
+"rank": 3,
+"nivel": "Clase",
+"title": "Implementación - artefactos",
+"w": 724,
+"h": 412,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 217
+}
+],
+"mostrada": "PF, pág. 217",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-16",
+"tema": "29",
+"orden": 16,
+"rank": 3,
+"nivel": "Clase",
+"title": "Implementación - artefactos",
+"w": 1209,
+"h": 682,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 218
+}
+],
+"mostrada": "PF, pág. 218",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-17",
+"tema": "29",
+"orden": 17,
+"rank": 3,
+"nivel": "Clase",
+"title": "Implementación - artefactos",
+"w": 773,
+"h": 497,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 219
+}
+],
+"mostrada": "PF, pág. 219",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-18",
+"tema": "29",
+"orden": 18,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 762,
+"h": 544,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 219
+}
+],
+"mostrada": "PF, pág. 219",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-19",
+"tema": "29",
+"orden": 19,
+"rank": 3,
+"nivel": "Clase",
+"title": "Implementación - flujo de trabajo",
+"w": 732,
+"h": 393,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 222
+}
+],
+"mostrada": "PF, pág. 222",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-20",
+"tema": "29",
+"orden": 20,
+"rank": 3,
+"nivel": "Clase",
+"title": "Implementación - flujo de trabajo",
+"w": 753,
+"h": 422,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 224
+}
+],
+"mostrada": "PF, pág. 224",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-21",
+"tema": "29",
+"orden": 21,
+"rank": 3,
+"nivel": "Clase",
+"title": "Implementación - flujo de trabajo",
+"w": 730,
+"h": 405,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 224
+}
+],
+"mostrada": "PF, pág. 224",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-22",
+"tema": "29",
+"orden": 22,
+"rank": 3,
+"nivel": "Clase",
+"title": "Implementación - flujo de trabajo",
+"w": 726,
+"h": 396,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 226
+}
+],
+"mostrada": "PF, pág. 226",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-23",
+"tema": "29",
+"orden": 23,
+"rank": 3,
+"nivel": "Clase",
+"title": "Implementación - flujo de trabajo",
+"w": 742,
+"h": 401,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 227
+}
+],
+"mostrada": "PF, pág. 227",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-24",
+"tema": "29",
+"orden": 24,
+"rank": 3,
+"nivel": "Clase",
+"title": "Implementación - flujo de trabajo",
+"w": 752,
+"h": 394,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 228
+}
+],
+"mostrada": "PF, pág. 228",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-25",
+"tema": "29",
+"orden": 25,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 426,
+"h": 424,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 109
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 152
+}
+],
+"mostrada": "Celina, pág. 109",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-26",
+"tema": "29",
+"orden": 26,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 433,
+"h": 468,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 110
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 152
+}
+],
+"mostrada": "Celina, pág. 110",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-27",
+"tema": "29",
+"orden": 27,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 683,
+"h": 361,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 111
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 153
+}
+],
+"mostrada": "Celina, pág. 111",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-28",
+"tema": "29",
+"orden": 28,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 464,
+"h": 458,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 112
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 155
+}
+],
+"mostrada": "Celina, pág. 112",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-29",
+"tema": "29",
+"orden": 29,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 547,
+"h": 355,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 112
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 156
+}
+],
+"mostrada": "Celina, pág. 112",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-30",
+"tema": "29",
+"orden": 30,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 1136,
+"h": 676,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 108
+}
+],
+"mostrada": "Celina, pág. 108",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-31",
+"tema": "29",
+"orden": 31,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 204,
+"h": 315,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 112
+}
+],
+"mostrada": "Celina, pág. 112",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-32",
+"tema": "29",
+"orden": 32,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 539,
+"h": 206,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 114
+}
+],
+"mostrada": "Celina, pág. 114",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-33",
+"tema": "29",
+"orden": 33,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 537,
+"h": 235,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 114
+}
+],
+"mostrada": "Celina, pág. 114",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f29-34",
+"tema": "29",
+"orden": 34,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 191,
+"h": 216,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 154
+}
+],
+"mostrada": "Fidanza, pág. 154",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-01",
+"tema": "30",
+"orden": 1,
+"rank": 2,
+"nivel": "Cátedra",
+"title": null,
+"w": 1217,
+"h": 706,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 270
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 123
+}
+],
+"mostrada": "Celina, pág. 123",
+"tipo": "Figura del apunte",
+"nota": "Su versión con casilleros vacíos está en la práctica de diagramas de la cátedra.",
+"legib": null
+},
+{
+"id": "f30-02",
+"tema": "30",
+"orden": 2,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Flujo de Prueba con casilleros numerados (práctica de la cátedra)",
+"qimg": "puds-5-prueba.png",
+"w": 638,
+"h": 433,
+"refs": [
+{
+"archivo": "preguntas de los diagramas.docx · figura de Prueba · renglón 1"
+}
+],
+"preguntas": [
+"puds-21",
+"puds-22",
+"puds-23",
+"puds-24",
+"puds-25",
+"puds-26",
+"puds-27"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f30-03",
+"tema": "30",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 787,
+"h": 487,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 285
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 120
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 221
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 161
+}
+],
+"mostrada": "Celina, pág. 120",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-04",
+"tema": "30",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 11.1. Los trabajadores y artefactos involucrados en las pruebas",
+"w": 1332,
+"h": 360,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 269
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 119
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 160
+}
+],
+"mostrada": "Celina, pág. 119",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-05",
+"tema": "30",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 11.3. El modelo de pruebas",
+"w": 793,
+"h": 411,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 269
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 120
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 161
+}
+],
+"mostrada": "Celina, pág. 120",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-06",
+"tema": "30",
+"orden": 6,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 11.10. La entrada y el resultado del diseño de la prueba",
+"w": 706,
+"h": 657,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 271
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 124
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 165
+}
+],
+"mostrada": "Celina, pág. 124",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-07",
+"tema": "30",
+"orden": 7,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 11.13. Entrada y resultado de las pruebas de integración",
+"w": 798,
+"h": 537,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 272
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 125
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 166
+}
+],
+"mostrada": "Celina, pág. 125",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-08",
+"tema": "30",
+"orden": 8,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 11.14. Entrada y resultado de la prueba de sistema",
+"w": 813,
+"h": 536,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 273
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 126
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 167
+}
+],
+"mostrada": "Celina, pág. 126",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-09",
+"tema": "30",
+"orden": 9,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 11.15. Entrada y resultado de la evaluación de prueba",
+"w": 826,
+"h": 453,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 273
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 126
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 168
+}
+],
+"mostrada": "Celina, pág. 126",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-10",
+"tema": "30",
+"orden": 10,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 11.9. La entrada y el resultado de la planificación de la prueba",
+"w": 622,
+"h": 528,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 270
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 165
+}
+],
+"mostrada": "PF, pág. 270",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-11",
+"tema": "30",
+"orden": 11,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 11.12. La entrada y el resultado de la implementación de pruebas",
+"w": 587,
+"h": 394,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 271
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 166
+}
+],
+"mostrada": "PF, pág. 271",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-12",
+"tema": "30",
+"orden": 12,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 11.5. Hay asociaciones muchos-a-muchos entre los procedimientos de prueba y los casos de prueba",
+"w": 846,
+"h": 174,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 285
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 121
+}
+],
+"mostrada": "PF, pág. 285",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-13",
+"tema": "30",
+"orden": 13,
+"rank": 3,
+"nivel": "Clase",
+"title": "Figura 11.6. Hay asociaciones muchos-a-muchos entre los componentes de prueba y los procedimientos de prueba",
+"w": 839,
+"h": 179,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 285
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 121
+}
+],
+"mostrada": "PF, pág. 285",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-14",
+"tema": "30",
+"orden": 14,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1280,
+"h": 715,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 231
+}
+],
+"mostrada": "PF, pág. 231",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-15",
+"tema": "30",
+"orden": 15,
+"rank": 3,
+"nivel": "Clase",
+"title": "Prueba - artefactos",
+"w": 1280,
+"h": 721,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 233
+}
+],
+"mostrada": "PF, pág. 233",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-16",
+"tema": "30",
+"orden": 16,
+"rank": 3,
+"nivel": "Clase",
+"title": "Prueba - artefactos",
+"w": 1280,
+"h": 719,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 233
+}
+],
+"mostrada": "PF, pág. 233",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-17",
+"tema": "30",
+"orden": 17,
+"rank": 3,
+"nivel": "Clase",
+"title": "Prueba - artefactos",
+"w": 1280,
+"h": 723,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 236
+}
+],
+"mostrada": "PF, pág. 236",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-18",
+"tema": "30",
+"orden": 18,
+"rank": 3,
+"nivel": "Clase",
+"title": "Prueba - artefactos",
+"w": 1280,
+"h": 727,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 237
+}
+],
+"mostrada": "PF, pág. 237",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-19",
+"tema": "30",
+"orden": 19,
+"rank": 3,
+"nivel": "Clase",
+"title": "Prueba - flujo de trabajo",
+"w": 1280,
+"h": 719,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 240
+}
+],
+"mostrada": "PF, pág. 240",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-20",
+"tema": "30",
+"orden": 20,
+"rank": 3,
+"nivel": "Clase",
+"title": "Prueba - flujo de trabajo",
+"w": 1280,
+"h": 712,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 241
+}
+],
+"mostrada": "PF, pág. 241",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-21",
+"tema": "30",
+"orden": 21,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1280,
+"h": 716,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 242
+}
+],
+"mostrada": "PF, pág. 242",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-22",
+"tema": "30",
+"orden": 22,
+"rank": 3,
+"nivel": "Clase",
+"title": "Prueba - flujo de trabajo",
+"w": 1280,
+"h": 727,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 244
+}
+],
+"mostrada": "PF, pág. 244",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-23",
+"tema": "30",
+"orden": 23,
+"rank": 3,
+"nivel": "Clase",
+"title": "4. Efectuar prueba de integración",
+"w": 1280,
+"h": 727,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 245
+}
+],
+"mostrada": "PF, pág. 245",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-24",
+"tema": "30",
+"orden": 24,
+"rank": 3,
+"nivel": "Clase",
+"title": "Prueba - flujo de trabajo",
+"w": 1280,
+"h": 708,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 245
+}
+],
+"mostrada": "PF, pág. 245",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-25",
+"tema": "30",
+"orden": 25,
+"rank": 3,
+"nivel": "Clase",
+"title": "6. Evaluar la prueba",
+"w": 1280,
+"h": 713,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 246
+}
+],
+"mostrada": "PF, pág. 246",
+"tipo": "Foto de diapositiva",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-26",
+"tema": "30",
+"orden": 26,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 650,
+"h": 358,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 122
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 163
+}
+],
+"mostrada": "Celina, pág. 122",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f30-27",
+"tema": "30",
+"orden": 27,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 1063,
+"h": 610,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 119
+}
+],
+"mostrada": "Celina, pág. 119",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f32-01",
+"tema": "32",
+"orden": 1,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 1 de la práctica de patrones GoF",
+"qimg": "gof-fig-01.png",
+"w": 755,
+"h": 677,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 1"
+}
+],
+"preguntas": [
+"gof-01"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f32-02",
+"tema": "32",
+"orden": 2,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 3 de la práctica de patrones GoF",
+"qimg": "gof-fig-03.png",
+"w": 756,
+"h": 558,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 3"
+}
+],
+"preguntas": [
+"gof-03"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f32-03",
+"tema": "32",
+"orden": 3,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 4 de la práctica de patrones GoF",
+"qimg": "gof-fig-04.png",
+"w": 625,
+"h": 403,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 4"
+}
+],
+"preguntas": [
+"gof-04"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f32-04",
+"tema": "32",
+"orden": 4,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 6 de la práctica de patrones GoF",
+"qimg": "gof-fig-06.png",
+"w": 705,
+"h": 634,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 6"
+}
+],
+"preguntas": [
+"gof-06"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f32-05",
+"tema": "32",
+"orden": 5,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 10 de la práctica de patrones GoF",
+"qimg": "gof-fig-10.png",
+"w": 440,
+"h": 370,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 10"
+}
+],
+"preguntas": [
+"gof-10"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f32-06",
+"tema": "32",
+"orden": 6,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 12 de la práctica de patrones GoF",
+"qimg": "gof-fig-12.png",
+"w": 580,
+"h": 677,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 12"
+}
+],
+"preguntas": [
+"gof-12"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f32-07",
+"tema": "32",
+"orden": 7,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 13 de la práctica de patrones GoF",
+"qimg": "gof-fig-13.png",
+"w": 650,
+"h": 495,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 13"
+}
+],
+"preguntas": [
+"gof-13"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f32-08",
+"tema": "32",
+"orden": 8,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 14 de la práctica de patrones GoF",
+"qimg": "gof-fig-14.png",
+"w": 635,
+"h": 628,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 14"
+}
+],
+"preguntas": [
+"gof-14"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f32-09",
+"tema": "32",
+"orden": 9,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 16 de la práctica de patrones GoF",
+"qimg": "gof-fig-16.png",
+"w": 479,
+"h": 490,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 16"
+}
+],
+"preguntas": [
+"gof-16"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f32-10",
+"tema": "32",
+"orden": 10,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 17 de la práctica de patrones GoF",
+"qimg": "gof-fig-17.png",
+"w": 644,
+"h": 558,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 17"
+}
+],
+"preguntas": [
+"gof-17"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f32-11",
+"tema": "32",
+"orden": 11,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 19 de la práctica de patrones GoF",
+"qimg": "gof-fig-19.png",
+"w": 681,
+"h": 165,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 19"
+}
+],
+"preguntas": [
+"gof-19"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f32-12",
+"tema": "32",
+"orden": 12,
+"rank": 3,
+"nivel": "Clase",
+"title": "Patrones - propiedades",
+"w": 1145,
+"h": 594,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 289
+}
+],
+"mostrada": "PF, pág. 289",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f32-13",
+"tema": "32",
+"orden": 13,
+"rank": 3,
+"nivel": "Clase",
+"title": "Patrones - componentes",
+"w": 1049,
+"h": 546,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 290
+}
+],
+"mostrada": "PF, pág. 290",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f32-14",
+"tema": "32",
+"orden": 14,
+"rank": 3,
+"nivel": "Clase",
+"title": "Forma de Alexander (canónica)",
+"w": 1152,
+"h": 638,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 291
+}
+],
+"mostrada": "PF, pág. 291",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f32-15",
+"tema": "32",
+"orden": 15,
+"rank": 3,
+"nivel": "Clase",
+"title": "Ejemplo de la forma de Alexander",
+"w": 1181,
+"h": 645,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 292
+}
+],
+"mostrada": "PF, pág. 292",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f32-16",
+"tema": "32",
+"orden": 16,
+"rank": 3,
+"nivel": "Clase",
+"title": "Formato GoF",
+"w": 1156,
+"h": 638,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 292
+}
+],
+"mostrada": "PF, pág. 292",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f32-17",
+"tema": "32",
+"orden": 17,
+"rank": 3,
+"nivel": "Clase",
+"title": "Patrones GoF",
+"w": 702,
+"h": 413,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 294
+}
+],
+"mostrada": "PF, pág. 294",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f32-18",
+"tema": "32",
+"orden": 18,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 674,
+"h": 793,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 173
+}
+],
+"mostrada": "Copia, pág. 173",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f32-19",
+"tema": "32",
+"orden": 19,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 522,
+"h": 290,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 175
+}
+],
+"mostrada": "Fidanza, pág. 175",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f33-01",
+"tema": "33",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": "Factory Method",
+"w": 1302,
+"h": 709,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 296
+}
+],
+"mostrada": "PF, pág. 296",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f33-02",
+"tema": "33",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 730,
+"h": 425,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 297
+}
+],
+"mostrada": "PF, pág. 297",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f33-03",
+"tema": "33",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 721,
+"h": 399,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 298
+}
+],
+"mostrada": "PF, pág. 298",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f33-04",
+"tema": "33",
+"orden": 4,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Estructura del patrón",
+"w": 1002,
+"h": 362,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 134
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 177
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 179
+}
+],
+"mostrada": "Celina, pág. 134",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f33-05",
+"tema": "33",
+"orden": 5,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 847,
+"h": 328,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 177
+}
+],
+"mostrada": "Copia, pág. 177",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f33-06",
+"tema": "33",
+"orden": 6,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 1279,
+"h": 668,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 180
+}
+],
+"mostrada": "Fidanza, pág. 180",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f34-01",
+"tema": "34",
+"orden": 1,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Estructura del patrón",
+"w": 917,
+"h": 338,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 135
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 181
+}
+],
+"mostrada": "Celina, pág. 135",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f34-02",
+"tema": "34",
+"orden": 2,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Estructura del patrón",
+"w": 285,
+"h": 166,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 175
+}
+],
+"mostrada": "Copia, pág. 175",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f34-03",
+"tema": "34",
+"orden": 3,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 460,
+"h": 299,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 181
+}
+],
+"mostrada": "Fidanza, pág. 181",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f35-01",
+"tema": "35",
+"orden": 1,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 11 de la práctica de patrones GoF",
+"qimg": "gof-fig-11.png",
+"w": 751,
+"h": 448,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 11"
+}
+],
+"preguntas": [
+"gof-11"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f35-02",
+"tema": "35",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": "Adapter",
+"w": 1296,
+"h": 708,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 300
+}
+],
+"mostrada": "PF, pág. 300",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f35-03",
+"tema": "35",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 763,
+"h": 392,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 301
+}
+],
+"mostrada": "PF, pág. 301",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f35-04",
+"tema": "35",
+"orden": 4,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Adaptador de clase y adaptador de objeto",
+"w": 799,
+"h": 273,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 137
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 182
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 183
+}
+],
+"mostrada": "Celina, pág. 137",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f35-05",
+"tema": "35",
+"orden": 5,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Adaptador de clase y adaptador de objeto",
+"w": 816,
+"h": 271,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 137
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 182
+}
+],
+"mostrada": "Celina, pág. 137",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f35-06",
+"tema": "35",
+"orden": 6,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 312,
+"h": 307,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 183
+}
+],
+"mostrada": "Fidanza, pág. 183",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f35-07",
+"tema": "35",
+"orden": 7,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 637,
+"h": 290,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 184
+}
+],
+"mostrada": "Fidanza, pág. 184",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f35-08",
+"tema": "35",
+"orden": 8,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 551,
+"h": 351,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 185
+}
+],
+"mostrada": "Fidanza, pág. 185",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f36-01",
+"tema": "36",
+"orden": 1,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 18 de la práctica de patrones GoF",
+"qimg": "gof-fig-18.png",
+"w": 597,
+"h": 483,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 18"
+}
+],
+"preguntas": [
+"gof-18"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f36-02",
+"tema": "36",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 676,
+"h": 328,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 303
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 191
+}
+],
+"mostrada": "PF, pág. 303",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f36-03",
+"tema": "36",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": "Observer",
+"w": 1296,
+"h": 708,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 302
+}
+],
+"mostrada": "PF, pág. 302",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f36-04",
+"tema": "36",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1296,
+"h": 708,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 303
+}
+],
+"mostrada": "PF, pág. 303",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f36-05",
+"tema": "36",
+"orden": 5,
+"rank": 4,
+"nivel": "Apunte base",
+"title": null,
+"w": 1110,
+"h": 420,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 143
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 192
+}
+],
+"mostrada": "Celina, pág. 143",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f36-06",
+"tema": "36",
+"orden": 6,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 692,
+"h": 345,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 192
+}
+],
+"mostrada": "Copia, pág. 192",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f36-07",
+"tema": "36",
+"orden": 7,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 483,
+"h": 374,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 192
+}
+],
+"mostrada": "Fidanza, pág. 192",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f37-01",
+"tema": "37",
+"orden": 1,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 5 de la práctica de patrones GoF",
+"qimg": "gof-fig-05.png",
+"w": 812,
+"h": 574,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 5"
+}
+],
+"preguntas": [
+"gof-05"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f37-02",
+"tema": "37",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1600,
+"h": 971,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 306
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 177
+}
+],
+"mostrada": "PF, pág. 306",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f37-03",
+"tema": "37",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 688,
+"h": 718,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 305
+}
+],
+"mostrada": "PF, pág. 305",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f37-04",
+"tema": "37",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": "Abstract Factory",
+"w": 1297,
+"h": 738,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 307
+}
+],
+"mostrada": "PF, pág. 307",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f37-05",
+"tema": "37",
+"orden": 5,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Estructura y participantes del patrón",
+"w": 1422,
+"h": 655,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 135
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 179
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 176
+}
+],
+"mostrada": "Celina, pág. 135",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f37-06",
+"tema": "37",
+"orden": 6,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 702,
+"h": 505,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 178
+}
+],
+"mostrada": "Fidanza, pág. 178",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f38-01",
+"tema": "38",
+"orden": 1,
+"rank": 2,
+"nivel": "Simulación 2024",
+"title": "Estructura Duck / FlyBehavior / QuackBehavior (Simulación B 2024)",
+"qimg": "simB-08-estructura.png",
+"w": 1372,
+"h": 843,
+"refs": [
+{
+"archivo": "Copia de Simulación Parcial 2 ndfvjsnvk (IE3)_ Revisión del intento (1).pdf · pág. 4 · Pregunta 8",
+"nota": "Copia en el Quizziz: pregunta 36."
+}
+],
+"preguntas": [
+"simB-08"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f38-02",
+"tema": "38",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1565,
+"h": 862,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 308
+}
+],
+"mostrada": "PF, pág. 308",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f38-03",
+"tema": "38",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": "Strategy",
+"w": 1296,
+"h": 734,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 309
+}
+],
+"mostrada": "PF, pág. 309",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f38-04",
+"tema": "38",
+"orden": 4,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 780,
+"h": 270,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 198
+}
+],
+"mostrada": "Copia, pág. 198",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f38-05",
+"tema": "38",
+"orden": 5,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 741,
+"h": 240,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 198
+}
+],
+"mostrada": "Copia, pág. 198",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f38-06",
+"tema": "38",
+"orden": 6,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 598,
+"h": 363,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 196
+}
+],
+"mostrada": "Fidanza, pág. 196",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f38-07",
+"tema": "38",
+"orden": 7,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 849,
+"h": 372,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 197
+}
+],
+"mostrada": "Fidanza, pág. 197",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f38-08",
+"tema": "38",
+"orden": 8,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 856,
+"h": 527,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 197
+}
+],
+"mostrada": "Fidanza, pág. 197",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f38-09",
+"tema": "38",
+"orden": 9,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Estructura del patrón",
+"w": 562,
+"h": 232,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 198
+}
+],
+"mostrada": "Fidanza, pág. 198",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f39-01",
+"tema": "39",
+"orden": 1,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 8 de la práctica de patrones GoF",
+"qimg": "gof-fig-08.png",
+"w": 436,
+"h": 536,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 8"
+}
+],
+"preguntas": [
+"gof-08"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f39-02",
+"tema": "39",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1028,
+"h": 460,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 311
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 138
+}
+],
+"mostrada": "Celina, pág. 138",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f39-03",
+"tema": "39",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1590,
+"h": 1135,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 310
+}
+],
+"mostrada": "PF, pág. 310",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f39-04",
+"tema": "39",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": "Composite",
+"w": 1296,
+"h": 734,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 311
+}
+],
+"mostrada": "PF, pág. 311",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f39-05",
+"tema": "39",
+"orden": 5,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 884,
+"h": 400,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 184
+}
+],
+"mostrada": "Copia, pág. 184",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f39-06",
+"tema": "39",
+"orden": 6,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 468,
+"h": 337,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 186
+}
+],
+"mostrada": "Fidanza, pág. 186",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f40-01",
+"tema": "40",
+"orden": 1,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 2 de la práctica de patrones GoF",
+"qimg": "gof-fig-02.png",
+"w": 582,
+"h": 469,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 2"
+}
+],
+"preguntas": [
+"gof-02"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f40-02",
+"tema": "40",
+"orden": 2,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 7 de la práctica de patrones GoF",
+"qimg": "gof-fig-07.png",
+"w": 672,
+"h": 413,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 7"
+}
+],
+"preguntas": [
+"gof-07"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f40-03",
+"tema": "40",
+"orden": 3,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 9 de la práctica de patrones GoF",
+"qimg": "gof-fig-09.png",
+"w": 688,
+"h": 729,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 9"
+}
+],
+"preguntas": [
+"gof-09"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f40-04",
+"tema": "40",
+"orden": 4,
+"rank": 2,
+"nivel": "Práctica de la cátedra",
+"title": "Figura 15 de la práctica de patrones GoF",
+"qimg": "gof-fig-15.png",
+"w": 588,
+"h": 428,
+"refs": [
+{
+"archivo": "Preguntas Patrones GOF.docx · figura 15"
+}
+],
+"preguntas": [
+"gof-15"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "f40-05",
+"tema": "40",
+"orden": 5,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Estructura del patrón",
+"w": 882,
+"h": 344,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 139
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 186
+}
+],
+"mostrada": "Celina, pág. 139",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f40-06",
+"tema": "40",
+"orden": 6,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Estructura del patrón",
+"w": 1178,
+"h": 463,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 140
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 189
+}
+],
+"mostrada": "Celina, pág. 140",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f40-07",
+"tema": "40",
+"orden": 7,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Estructura del patrón",
+"w": 930,
+"h": 348,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 142
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 194
+}
+],
+"mostrada": "Celina, pág. 142",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f40-08",
+"tema": "40",
+"orden": 8,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "Estructura del patrón",
+"w": 1058,
+"h": 480,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 144
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 195
+}
+],
+"mostrada": "Celina, pág. 144",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f40-09",
+"tema": "40",
+"orden": 9,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 829,
+"h": 548,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 187
+}
+],
+"mostrada": "Copia, pág. 187",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f40-10",
+"tema": "40",
+"orden": 10,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 751,
+"h": 164,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 189
+}
+],
+"mostrada": "Copia, pág. 189",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f40-11",
+"tema": "40",
+"orden": 11,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 830,
+"h": 430,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 190
+}
+],
+"mostrada": "Copia, pág. 190",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f40-12",
+"tema": "40",
+"orden": 12,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 662,
+"h": 299,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 194
+}
+],
+"mostrada": "Copia, pág. 194",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f40-13",
+"tema": "40",
+"orden": 13,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 651,
+"h": 341,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 196
+}
+],
+"mostrada": "Copia, pág. 196",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f40-14",
+"tema": "40",
+"orden": 14,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 514,
+"h": 178,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 187
+}
+],
+"mostrada": "Fidanza, pág. 187",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f40-15",
+"tema": "40",
+"orden": 15,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 410,
+"h": 287,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 187
+}
+],
+"mostrada": "Fidanza, pág. 187",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f40-16",
+"tema": "40",
+"orden": 16,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 598,
+"h": 385,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 189
+}
+],
+"mostrada": "Fidanza, pág. 189",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f40-17",
+"tema": "40",
+"orden": 17,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Estructura del patrón",
+"w": 423,
+"h": 268,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 190
+}
+],
+"mostrada": "Fidanza, pág. 190",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f40-18",
+"tema": "40",
+"orden": 18,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 504,
+"h": 331,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 194
+}
+],
+"mostrada": "Fidanza, pág. 194",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f40-19",
+"tema": "40",
+"orden": 19,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 439,
+"h": 193,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 195
+}
+],
+"mostrada": "Fidanza, pág. 195",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f40-20",
+"tema": "40",
+"orden": 20,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Estructura del patrón",
+"w": 407,
+"h": 190,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 195
+}
+],
+"mostrada": "Fidanza, pág. 195",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f41-01",
+"tema": "41",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1280,
+"h": 823,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 315
+},
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 146
+}
+],
+"mostrada": "PF, pág. 315",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f41-02",
+"tema": "41",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": "Frameworks ágiles",
+"w": 1280,
+"h": 769,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 314
+}
+],
+"mostrada": "PF, pág. 314",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f41-03",
+"tema": "41",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": "DSDM (1994): principios · pizarrón de la clase",
+"w": 892,
+"h": 804,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 319
+},
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 324
+}
+],
+"mostrada": "PF, pág. 324",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f41-04",
+"tema": "41",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": "FDD (1997): proceso · pizarrón de la clase",
+"w": 1008,
+"h": 642,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 320
+},
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 325
+}
+],
+"mostrada": "PF, pág. 320",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f41-05",
+"tema": "41",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": "Crystal (1998): propiedades · pizarrón de la clase",
+"w": 1140,
+"h": 846,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 320
+},
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 326
+}
+],
+"mostrada": "PF, pág. 326",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f41-06",
+"tema": "41",
+"orden": 6,
+"rank": 3,
+"nivel": "Clase",
+"title": "Crystal: criticidad del sistema y tamaño del equipo",
+"w": 1072,
+"h": 732,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 321
+},
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 326
+}
+],
+"mostrada": "PF, pág. 326",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f41-07",
+"tema": "41",
+"orden": 7,
+"rank": 3,
+"nivel": "Clase",
+"title": "ASD (1999): ciclo adaptativo · pizarrón de la clase",
+"w": 1083,
+"h": 772,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 322
+},
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 327
+}
+],
+"mostrada": "PF, pág. 322",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f41-08",
+"tema": "41",
+"orden": 8,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 1227,
+"h": 587,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 228
+}
+],
+"mostrada": "Copia, pág. 228",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f41-09",
+"tema": "41",
+"orden": 9,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 1242,
+"h": 516,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 228
+}
+],
+"mostrada": "Copia, pág. 228",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f42-01",
+"tema": "42",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": "Valores de XP",
+"w": 1600,
+"h": 852,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 329
+}
+],
+"mostrada": "PF, pág. 329",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f42-02",
+"tema": "42",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": "XP - principios centrales",
+"w": 1280,
+"h": 716,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 331
+}
+],
+"mostrada": "PF, pág. 331",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f42-03",
+"tema": "42",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": "XP - actividades básicas",
+"w": 1280,
+"h": 709,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 332
+}
+],
+"mostrada": "PF, pág. 332",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f42-04",
+"tema": "42",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 807,
+"h": 689,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 337
+}
+],
+"mostrada": "PF, pág. 337",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f42-05",
+"tema": "42",
+"orden": 5,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1280,
+"h": 729,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 338
+}
+],
+"mostrada": "PF, pág. 338",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f42-06",
+"tema": "42",
+"orden": 6,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 801,
+"h": 392,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 339
+}
+],
+"mostrada": "PF, pág. 339",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f42-07",
+"tema": "42",
+"orden": 7,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 830,
+"h": 502,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 340
+}
+],
+"mostrada": "PF, pág. 340",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f42-08",
+"tema": "42",
+"orden": 8,
+"rank": 4,
+"nivel": "Apunte base",
+"title": "El proyecto XP",
+"w": 934,
+"h": 412,
+"refs": [
+{
+"archivo": "Apunte Segundo Parcial - Celina.pdf",
+"corto": "Celina",
+"pag": 153
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 172
+}
+],
+"mostrada": "Celina, pág. 153",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f43-01",
+"tema": "43",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1280,
+"h": 720,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 343
+}
+],
+"mostrada": "PF, pág. 343",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f43-02",
+"tema": "43",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1280,
+"h": 720,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 343
+}
+],
+"mostrada": "PF, pág. 343",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f43-03",
+"tema": "43",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1280,
+"h": 720,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 344
+}
+],
+"mostrada": "PF, pág. 344",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f44-01",
+"tema": "44",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1280,
+"h": 712,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 346
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 234
+}
+],
+"mostrada": "PF, pág. 346",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f44-02",
+"tema": "44",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": "Modelos y factores de calidad",
+"w": 1280,
+"h": 769,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 348
+}
+],
+"mostrada": "PF, pág. 348",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f44-03",
+"tema": "44",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": "Modelos y factores de calidad",
+"w": 1280,
+"h": 720,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 349
+}
+],
+"mostrada": "PF, pág. 349",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f44-04",
+"tema": "44",
+"orden": 4,
+"rank": 3,
+"nivel": "Clase",
+"title": null,
+"w": 1600,
+"h": 989,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 350
+}
+],
+"mostrada": "PF, pág. 350",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f44-05",
+"tema": "44",
+"orden": 5,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Factores de calidad del software de McCall",
+"w": 690,
+"h": 325,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 235
+}
+],
+"mostrada": "Copia, pág. 235",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f44-06",
+"tema": "44",
+"orden": 6,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 892,
+"h": 256,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 235
+}
+],
+"mostrada": "Copia, pág. 235",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f45-01",
+"tema": "45",
+"orden": 1,
+"rank": 3,
+"nivel": "Clase",
+"title": "Relación entre QA y QC",
+"w": 1280,
+"h": 715,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 360
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 239
+}
+],
+"mostrada": "PF, pág. 360",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f45-02",
+"tema": "45",
+"orden": 2,
+"rank": 3,
+"nivel": "Clase",
+"title": "Elementos del SQA",
+"w": 1280,
+"h": 722,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 361
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 239
+}
+],
+"mostrada": "PF, pág. 361",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f45-03",
+"tema": "45",
+"orden": 3,
+"rank": 3,
+"nivel": "Clase",
+"title": "Objetivos y métricas del SQA",
+"w": 1280,
+"h": 747,
+"refs": [
+{
+"archivo": "PF_Powers_de_Clase_364p.pdf",
+"corto": "PF",
+"pag": 363
+},
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 240
+}
+],
+"mostrada": "PF, pág. 363",
+"tipo": "Figura del libro, proyectada en clase",
+"nota": null,
+"legib": null
+},
+{
+"id": "f45-04",
+"tema": "45",
+"orden": 4,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 829,
+"h": 409,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 239
+}
+],
+"mostrada": "Copia, pág. 239",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "f45-05",
+"tema": "45",
+"orden": 5,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 790,
+"h": 461,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 240
+}
+],
+"mostrada": "Copia, pág. 240",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP1-01",
+"tema": "P1",
+"orden": 1,
+"rank": 1,
+"nivel": "Parcial real",
+"title": "Ventana emergente para clasificar según su modalidad (Parcial 2024)",
+"qimg": "p24-15-ventana.png",
+"w": 528,
+"h": 294,
+"refs": [
+{
+"archivo": "Segundo Parcial Teoria 2024.docx · imagen 12 · Pregunta 15"
+}
+],
+"preguntas": [
+"p24-15"
+],
+"tipo": "Figura de una consigna del examen"
+},
+{
+"id": "fP1-02",
+"tema": "P1",
+"orden": 2,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Elementos del diseño visual: distribución, tipografía, jerarquía, legibilidad, estética",
+"w": 680,
+"h": 309,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 16
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 204
+}
+],
+"mostrada": "Copia, pág. 16",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP1-03",
+"tema": "P1",
+"orden": 3,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 466,
+"h": 333,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 17
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 206
+}
+],
+"mostrada": "Copia, pág. 17",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP1-04",
+"tema": "P1",
+"orden": 4,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Honeycomb de la experiencia de usuario (Morville)",
+"w": 447,
+"h": 403,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 37
+},
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 214
+}
+],
+"mostrada": "Fidanza, pág. 214",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP1-05",
+"tema": "P1",
+"orden": 5,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 792,
+"h": 553,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 14
+}
+],
+"mostrada": "Copia, pág. 14",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP1-06",
+"tema": "P1",
+"orden": 6,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 706,
+"h": 433,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 16
+}
+],
+"mostrada": "Copia, pág. 16",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP1-07",
+"tema": "P1",
+"orden": 7,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 396,
+"h": 324,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 17
+}
+],
+"mostrada": "Copia, pág. 17",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP1-08",
+"tema": "P1",
+"orden": 8,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Menú desplegable (drop-down) y submenú",
+"w": 209,
+"h": 170,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 29
+}
+],
+"mostrada": "Copia, pág. 29",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP1-09",
+"tema": "P1",
+"orden": 9,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Menú desplegable (drop-down) y submenú",
+"w": 193,
+"h": 257,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 29
+}
+],
+"mostrada": "Copia, pág. 29",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP1-10",
+"tema": "P1",
+"orden": 10,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Menú desplegable (drop-down) y submenú",
+"w": 180,
+"h": 274,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 29
+}
+],
+"mostrada": "Copia, pág. 29",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP1-11",
+"tema": "P1",
+"orden": 11,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 483,
+"h": 510,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 31
+}
+],
+"mostrada": "Copia, pág. 31",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP1-12",
+"tema": "P1",
+"orden": 12,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 409,
+"h": 414,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 31
+}
+],
+"mostrada": "Copia, pág. 31",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP1-13",
+"tema": "P1",
+"orden": 13,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 348,
+"h": 162,
+"refs": [
+{
+"archivo": "Copia de Apunte Diseño.pdf",
+"corto": "Copia",
+"pag": 34
+}
+],
+"mostrada": "Copia, pág. 34",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP1-14",
+"tema": "P1",
+"orden": 14,
+"rank": 5,
+"nivel": "Complementaria",
+"title": null,
+"w": 1300,
+"h": 731,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 206
+}
+],
+"mostrada": "Fidanza, pág. 206",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP2-01",
+"tema": "P2",
+"orden": 1,
+"rank": 1,
+"nivel": "Parcial real",
+"title": "Factura de ejemplo para el diagrama de Warnier (Recuperatorio 2024)",
+"qimg": "r24-09-factura.png",
+"w": 640,
+"h": 930,
+"refs": [
+{
+"archivo": "2do recu parcial Teoria 2024.docx · imagen 12–14 · Pregunta 9"
+}
+],
+"preguntas": [
+"r24-09"
+],
+"tipo": "Figura de una consigna del examen"
+},
+{
+"id": "fP2-02",
+"tema": "P2",
+"orden": 2,
+"rank": 1,
+"nivel": "Parcial real",
+"title": "Opción a del diagrama de Warnier (Recuperatorio 2024)",
+"qimg": "r24-09-a.png",
+"w": 370,
+"h": 180,
+"refs": [
+{
+"archivo": "2do recu parcial Teoria 2024.docx · imagen 12–14 · Pregunta 9"
+}
+],
+"preguntas": [
+"r24-09"
+],
+"tipo": "Figura de una consigna del examen"
+},
+{
+"id": "fP2-03",
+"tema": "P2",
+"orden": 3,
+"rank": 1,
+"nivel": "Parcial real",
+"title": "Opción b del diagrama de Warnier (Recuperatorio 2024)",
+"qimg": "r24-09-b.png",
+"w": 570,
+"h": 180,
+"refs": [
+{
+"archivo": "2do recu parcial Teoria 2024.docx · imagen 12–14 · Pregunta 9"
+}
+],
+"preguntas": [
+"r24-09"
+],
+"tipo": "Figura de una consigna del examen"
+},
+{
+"id": "fP2-04",
+"tema": "P2",
+"orden": 4,
+"rank": 1,
+"nivel": "Parcial real",
+"title": "Opción c del diagrama de Warnier (Recuperatorio 2024)",
+"qimg": "r24-09-c.png",
+"w": 535,
+"h": 170,
+"refs": [
+{
+"archivo": "2do recu parcial Teoria 2024.docx · imagen 12–14 · Pregunta 9"
+}
+],
+"preguntas": [
+"r24-09"
+],
+"tipo": "Figura de una consigna del examen"
+},
+{
+"id": "fP2-05",
+"tema": "P2",
+"orden": 5,
+"rank": 1,
+"nivel": "Parcial real",
+"title": "Opción d del diagrama de Warnier (Recuperatorio 2024)",
+"qimg": "r24-09-d.png",
+"w": 525,
+"h": 90,
+"refs": [
+{
+"archivo": "2do recu parcial Teoria 2024.docx · imagen 12–14 · Pregunta 9"
+}
+],
+"preguntas": [
+"r24-09"
+],
+"tipo": "Figura de una consigna del examen"
+},
+{
+"id": "fP2-06",
+"tema": "P2",
+"orden": 6,
+"rank": 1,
+"nivel": "Parcial real",
+"title": "Diagrama de estructura para marcar afirmaciones (Recuperatorio 2024)",
+"qimg": "r24-15-diagrama.png",
+"w": 640,
+"h": 445,
+"refs": [
+{
+"archivo": "2do recu parcial Teoria 2024.docx · imagen 20–21 · Pregunta 15"
+}
+],
+"preguntas": [
+"r24-15"
+],
+"tipo": "Figura de una consigna del examen"
+},
+{
+"id": "fP2-07",
+"tema": "P2",
+"orden": 7,
+"rank": 1,
+"nivel": "Parcial real",
+"title": "Detalle a del diagrama (Recuperatorio 2024)",
+"qimg": "r24-15-a.png",
+"w": 315,
+"h": 210,
+"refs": [
+{
+"archivo": "2do recu parcial Teoria 2024.docx · imagen 20–21 · Pregunta 15"
+}
+],
+"preguntas": [
+"r24-15"
+],
+"tipo": "Figura de una consigna del examen"
+},
+{
+"id": "fP2-08",
+"tema": "P2",
+"orden": 8,
+"rank": 1,
+"nivel": "Parcial real",
+"title": "Detalle b del diagrama (Recuperatorio 2024)",
+"qimg": "r24-15-b.png",
+"w": 405,
+"h": 420,
+"refs": [
+{
+"archivo": "2do recu parcial Teoria 2024.docx · imagen 20–21 · Pregunta 15"
+}
+],
+"preguntas": [
+"r24-15"
+],
+"tipo": "Figura de una consigna del examen"
+},
+{
+"id": "fP2-09",
+"tema": "P2",
+"orden": 9,
+"rank": 1,
+"nivel": "Parcial real",
+"title": "Detalle c del diagrama (Recuperatorio 2024)",
+"qimg": "r24-15-c.png",
+"w": 155,
+"h": 110,
+"refs": [
+{
+"archivo": "2do recu parcial Teoria 2024.docx · imagen 20–21 · Pregunta 15"
+}
+],
+"preguntas": [
+"r24-15"
+],
+"tipo": "Figura de una consigna del examen"
+},
+{
+"id": "fP2-10",
+"tema": "P2",
+"orden": 10,
+"rank": 2,
+"nivel": "Simulación 2024",
+"title": "Diagramas de estructura 1 y 2 (Simulación B 2024)",
+"qimg": "simB-19-diagramas.png",
+"w": 696,
+"h": 404,
+"refs": [
+{
+"archivo": "Copia de Simulación Parcial 2 ndfvjsnvk (IE3)_ Revisión del intento (1).pdf · pág. 10 · Pregunta 19"
+}
+],
+"preguntas": [
+"simB-19"
+],
+"tipo": "Figura de una pregunta de la cátedra"
+},
+{
+"id": "fP2-11",
+"tema": "P2",
+"orden": 11,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Costo total según el número de módulos",
+"w": 451,
+"h": 302,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 218
+}
+],
+"mostrada": "Fidanza, pág. 218",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP2-12",
+"tema": "P2",
+"orden": 12,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Conexión normal y conexión patológica",
+"w": 504,
+"h": 288,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 218
+}
+],
+"mostrada": "Fidanza, pág. 218",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP2-13",
+"tema": "P2",
+"orden": 13,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Notación de los diagramas de flujo de control",
+"w": 637,
+"h": 460,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 219
+}
+],
+"mostrada": "Fidanza, pág. 219",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP2-14",
+"tema": "P2",
+"orden": 14,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Construcciones estructuradas",
+"w": 690,
+"h": 668,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 219
+}
+],
+"mostrada": "Fidanza, pág. 219",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP2-15",
+"tema": "P2",
+"orden": 15,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Notación de los diagramas de estructura",
+"w": 650,
+"h": 507,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 219
+}
+],
+"mostrada": "Fidanza, pág. 219",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP2-16",
+"tema": "P2",
+"orden": 16,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Diagrama de estructura y diagrama de flujo",
+"w": 558,
+"h": 249,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 219
+}
+],
+"mostrada": "Fidanza, pág. 219",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP2-17",
+"tema": "P2",
+"orden": 17,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Inclusión lexicográfica y solapamiento parcial",
+"w": 831,
+"h": 620,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 220
+}
+],
+"mostrada": "Fidanza, pág. 220",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP2-18",
+"tema": "P2",
+"orden": 18,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Determinación del nivel de cohesión",
+"w": 812,
+"h": 490,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 222
+}
+],
+"mostrada": "Fidanza, pág. 222",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+},
+{
+"id": "fP2-19",
+"tema": "P2",
+"orden": 19,
+"rank": 5,
+"nivel": "Complementaria",
+"title": "Flujo aferente, eferente, de transformación y de coordinación",
+"w": 730,
+"h": 228,
+"refs": [
+{
+"archivo": "ApunteDiseñoSistemasInformación.pdf",
+"corto": "Fidanza",
+"pag": 222
+}
+],
+"mostrada": "Fidanza, pág. 222",
+"tipo": "Figura del apunte",
+"nota": null,
+"legib": null
+}
+],
+"tambien": {
+"21": [
+"f20-18",
+"f20-01"
+],
+"31": [
+"f23-01",
+"f26-01",
+"f28-01",
+"f29-01",
+"f30-01",
+"f23-02",
+"f28-02",
+"f23-03",
+"f26-02",
+"f28-03",
+"f29-02",
+"f30-02"
+]
+}
+}

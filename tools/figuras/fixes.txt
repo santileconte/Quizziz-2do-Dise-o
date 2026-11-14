@@ -1,0 +1,143 @@
+merge 16 732
+merge 17 733
+merge 38 568 754
+merge 47 739
+merge 37 753
+merge 53 736
+merge 56 555 738
+merge 560 740
+merge 561 741
+merge 562 742
+merge 66 562
+merge 76 566
+merge 72 564
+merge 79 570
+merge 82 83
+merge 81 745
+merge 84 746
+merge 86 574
+merge 87 575
+merge 94 578 750 861
+merge 95 579 752
+merge 91 749 860
+merge 101 580
+merge 109 582
+merge 111 583
+merge 116 584
+merge 118 585
+merge 104 864
+merge 105 865
+merge 589 765
+merge 590 766
+merge 588 876
+merge 134 798
+merge 143 793
+move 20 591 794
+merge 369 591 794
+merge 154 796
+merge 592 795
+merge 595 797 370
+merge 195 807
+move 23 197
+merge 372 197
+merge 371 598
+merge 373 602
+merge 374 604
+merge 375 606
+merge 376 607
+merge 377 608
+merge 378 609
+merge 372 808 892
+merge 599 810
+merge 373 815
+merge 374 816 896
+merge 376 819 898
+merge 375 820 897
+merge 377 821
+merge 378 822 900
+merge 407 880
+merge 408 879
+merge 409 881
+merge 410 882
+merge 413 804 883
+merge 232 825
+move 24 837
+merge 379 613
+merge 415 614
+merge 416 615
+merge 611 901
+move 25 247
+merge 611 247
+merge 380 620
+merge 251 621
+merge 382 622
+merge 383 623 911
+merge 384 624 912
+merge 264 625
+merge 385 826
+merge 386 627
+merge 418 630 916
+merge 419 629
+merge 420 631 918
+merge 421 632 919
+merge 422 633 922
+merge 290 641 926
+merge 292 643 928
+merge 387 636 924
+merge 388 637 925
+merge 389 644 929
+merge 423 639
+merge 424 640
+merge 390 649
+merge 391 645
+merge 392 656
+merge 393 657
+merge 394 660
+merge 395 661
+merge 396 664
+merge 397 665
+merge 426 662
+merge 427 663
+merge 425 647 933
+merge 427 650
+merge 393 939
+merge 394 940
+merge 395 941
+merge 397 943
+merge 392 656
+merge 396 942
+merge 397 943
+merge 398 666 944
+merge 399 668 945
+merge 400 673
+merge 401 948
+merge 402 674 949
+merge 403 950
+merge 404 675 951
+merge 405 677 952
+merge 406 676 953
+merge 428 669 824 946
+merge 429 670
+merge 430 671
+merge 678 959
+merge 679 961
+move 34 961 962 771 679
+merge 681 775 963
+merge 456 783
+merge 687 784
+merge 680 774 956
+merge 461 957
+merge 471 683
+merge 477 689
+merge 523 829
+merge 548 836
+merge 544 832
+merge 545 833
+merge 713 980 981
+merge 723 984
+move 22 807
+merge 482 487
+merge 483 488
+merge 484 489
+merge 485 490
+merge 486 491

@@ -12,6 +12,8 @@ import { MindMap } from './components/MindMap'
 import { findMindMap } from './mapas'
 import { Quizzes } from './components/Quizzes'
 import { Temario } from './components/Temario'
+import { FigurasIndice, FigurasTema } from './components/Figuras'
+import { temario } from './temario'
 
 const readRoute = () => window.location.hash.replace(/^#\/?/, '').split('/').filter(Boolean)
 
@@ -36,6 +38,7 @@ export function App() {
   const group = section === 'serie' && id ? findGroup(id) : undefined
   const puzzle = section === 'cruci' && id ? findPuzzle(id) : undefined
   const mindMap = section === 'mapas' && id ? findMindMap(id) : undefined
+  const temaFig = section === 'figuras' && id ? temario.find((t) => t.n === id) : undefined
 
   return (
     <div className="app">
@@ -58,6 +61,10 @@ export function App() {
         <Quizzes />
       ) : section === 'temario' ? (
         <Temario />
+      ) : temaFig ? (
+        <FigurasTema key={temaFig.n} tema={temaFig} />
+      ) : section === 'figuras' ? (
+        <FigurasIndice />
       ) : (
         <Home />
       )}

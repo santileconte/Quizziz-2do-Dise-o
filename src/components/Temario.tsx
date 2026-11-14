@@ -1,4 +1,5 @@
 import { questions, historicas } from '../cuestionarios'
+import { figurasDe, relacionadasDe } from '../lib/figuras'
 import { quizziz, enQuizziz } from '../cuestionarios/quizziz'
 import { diagrams } from '../lib/diagrams'
 import { puntua, type Question } from '../lib/quiz'
@@ -334,6 +335,11 @@ function Fila({ t }: { t: Tema }) {
           {mapa && (
             <a className="link-quiet" href={`#/mapas/${mapa.id}`}>
               Mapa
+            </a>
+          )}
+          {figurasDe(t.n).length + relacionadasDe(t.n).length > 0 && (
+            <a className="link-quiet" href={`#/figuras/${t.n}`}>
+              Figuras ({figurasDe(t.n).length || relacionadasDe(t.n).length})
             </a>
           )}
           {graficos.map((d, i) => (

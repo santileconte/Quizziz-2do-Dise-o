@@ -9,11 +9,7 @@ npm run dev        # abre el sitio en el navegador
 npm run build      # genera dist/, que se puede abrir o subir a cualquier hosting estático
 ```
 
-**Sitio publicado:** https://santileconte.github.io/Quizziz-2do-Dise-o/
-
-Cada push a `main` lo vuelve a compilar y publicar con GitHub Pages (`.github/workflows/deploy.yml`). Si la primera publicación falla, en **Settings → Pages** elegí **Source: GitHub Actions** y volvé a correr el workflow desde **Actions**.
-
-El progreso se guarda en el navegador (localStorage, claves `repaso-dsi:*`): cada dispositivo tiene el suyo.
+El progreso se guarda en el navegador (localStorage, claves `repaso-dsi:*`).
 
 ## Secciones
 
@@ -31,6 +27,11 @@ El progreso se guarda en el navegador (localStorage, claves `repaso-dsi:*`): cad
 3. **Crucigramas.** Uno por mapa mental.
 4. **Mapas mentales.** 33 mapas, uno por tema. Al tocar un concepto se abre su explicación en el apunte de estudio, con la página del apunte, de las diapositivas o del libro de donde sale.
 5. **Temario.** Los temas en el orden de las clases, con prioridad, fuentes, evidencia de 2024, registros analizados y pendientes de verificación.
+
+
+### Figuras originales
+
+`#/figuras` reúne las 479 figuras de los apuntes, las diapositivas, el Word de la cátedra y los exámenes, separadas por tema (`#/figuras/23`, por ejemplo). Cada figura distinta aparece una sola vez con todas sus páginas de origen; las versiones con diferencias relevantes van por separado. Dentro de cada tema el orden es: tomadas en parciales reales, usadas por la cátedra (simulaciones, cuestionarios, práctica), mostradas en clase, apunte base y complementarias. Se abren en un visor con zoom (rueda, pellizco, doble clic o botones) y se pueden abrir en tamaño original. El proceso de extracción está en `tools/figuras/`.
 
 ## Dónde está el contenido
 

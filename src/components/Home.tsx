@@ -2,6 +2,8 @@ import { allGroup, diagrams, groups, levelOf, type Group } from '../lib/diagrams
 import { mastery, timeAgo, useProgress } from '../lib/storage'
 import type { Diagram } from '../lib/types'
 import { Ring } from './Ring'
+import { FigurasIndice } from './Figuras'
+import { figuras } from '../lib/figuras'
 
 export function Home() {
   const progress = useProgress()
@@ -34,12 +36,17 @@ export function Home() {
         <Stat value={configured.length} label="gráficos" />
         <Stat value={totalBlanks} label="huecos para completar" />
         <Stat value={`${Math.round(globalMastery * 100)}%`} label="dominio de conceptos clave" />
+        <Stat value={figuras.length} label="figuras originales por tema" />
       </section>
 
       <section className="home-links">
         <a className="home-link" href="#/temario">
           <b>Temario y prioridades →</b>
           <span className="muted small">Los 45 temas en el orden de las clases, con su fuente y lo que se tomó en 2024.</span>
+        </a>
+        <a className="home-link" href="#/figuras">
+          <b>Figuras originales por tema →</b>
+          <span className="muted small">Todas las figuras de los apuntes, las diapositivas y los exámenes, con su página de origen.</span>
         </a>
         <a className="home-link" href="#/serie/b3">
           <b>Los cinco flujos del PUDS →</b>
@@ -96,6 +103,8 @@ export function Home() {
           )
         })
       )}
+
+      <FigurasIndice compacto />
     </main>
   )
 }
