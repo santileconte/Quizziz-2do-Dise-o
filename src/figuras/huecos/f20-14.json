@@ -1,0 +1,65 @@
+{
+ "figura": "f20-14",
+ "title": "Figura 2.4. El conjunto fundamental de modelos del Proceso Unificado",
+ "width": 684,
+ "height": 139,
+ "order": 14,
+ "fuente": "PF, pág. 138",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 7,
+   "y": 47,
+   "w": 111,
+   "h": 29,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 130,
+   "y": 48,
+   "w": 73,
+   "h": 32,
+   "answer": "Modelo de análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 244,
+   "y": 49,
+   "w": 67,
+   "h": 31,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 338,
+   "y": 49,
+   "w": 93,
+   "h": 34,
+   "answer": "Modelo de despliegue",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 460,
+   "y": 51,
+   "w": 124,
+   "h": 33,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 603,
+   "y": 51,
+   "w": 68,
+   "h": 34,
+   "answer": "Modelo de prueba",
+   "level": "clave"
+  }
+ ]
+}

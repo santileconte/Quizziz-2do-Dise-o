@@ -1,0 +1,38 @@
+{
+ "figura": "f23-16",
+ "title": "5. Estructurar el modelo de CU",
+ "width": 1041,
+ "height": 694,
+ "order": 16,
+ "fuente": "PF, pág. 165",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 531,
+   "y": 197,
+   "w": 102,
+   "h": 62,
+   "answer": "System Analyst",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 100,
+   "y": 339,
+   "w": 197,
+   "h": 62,
+   "answer": "Supplementary Requirements",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 126,
+   "y": 492,
+   "w": 148,
+   "h": 60,
+   "answer": "Use Case [described]",
+   "level": "clave"
+  }
+ ]
+}

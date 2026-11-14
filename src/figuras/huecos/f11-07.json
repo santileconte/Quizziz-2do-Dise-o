@@ -1,0 +1,38 @@
+{
+ "figura": "f11-07",
+ "title": "Figura 7 · figura del apunte",
+ "width": 754,
+ "height": 567,
+ "order": 7,
+ "fuente": "Celina, pág. 46",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 364,
+   "y": 99,
+   "w": 284,
+   "h": 27,
+   "answer": "Servicios de red a aplicaciones",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 346,
+   "y": 274,
+   "w": 320,
+   "h": 55,
+   "answer": "Conexión de extremo a extremo y confiabilidad",
+   "level": "extra"
+  },
+  {
+   "id": "b3",
+   "x": 321,
+   "y": 224,
+   "w": 369,
+   "h": 28,
+   "answer": "Comunicación entre dispositivos de red",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "figura": "f44-03",
+ "title": "Modelos y factores de calidad",
+ "width": 1280,
+ "height": 720,
+ "order": 3,
+ "fuente": "PF, pág. 349",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 134,
+   "y": 73,
+   "w": 825,
+   "h": 64,
+   "answer": "MODELOS Y FACTORES DE CALIDAD",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 371,
+   "y": 339,
+   "w": 463,
+   "h": 32,
+   "answer": "SOFTWARE PRODUCT QUALITY",
+   "level": "extra"
+  },
+  {
+   "id": "b3",
+   "x": 421,
+   "y": 382,
+   "w": 99,
+   "h": 33,
+   "answer": "INTERACTION CAPABILITY",
+   "level": "extra"
+  },
+  {
+   "id": "b4",
+   "x": 410,
+   "y": 528,
+   "w": 83,
+   "h": 29,
+   "answer": "USER ERROR PROTECTION",
+   "level": "extra"
+  },
+  {
+   "id": "b5",
+   "x": 543,
+   "y": 429,
+   "w": 101,
+   "h": 13,
+   "answer": "FAULTLESSNESS",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 543,
+   "y": 486,
+   "w": 114,
+   "h": 14,
+   "answer": "FAULT TOLERANCE",
+   "level": "extra"
+  },
+  {
+   "id": "b7",
+   "x": 676,
+   "y": 429,
+   "w": 113,
+   "h": 12,
+   "answer": "CONFIDENTIALITY",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 147,
+   "y": 501,
+   "w": 62,
+   "h": 13,
+   "answer": "CAPACITY",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 543,
+   "y": 458,
+   "w": 85,
+   "h": 12,
+   "answer": "AVAILABILITY",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 678,
+   "y": 571,
+   "w": 78,
+   "h": 12,
+   "answer": "RESISTANCE",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 411,
+   "y": 627,
+   "w": 114,
+   "h": 12,
+   "answer": "USER ASSISTANCE",
+   "level": "extra"
+  }
+ ]
+}

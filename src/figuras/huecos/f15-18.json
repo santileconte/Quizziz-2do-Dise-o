@@ -1,0 +1,74 @@
+{
+ "figura": "f15-18",
+ "title": "Figura 18 · figura del apunte",
+ "width": 722,
+ "height": 329,
+ "order": 18,
+ "fuente": "Copia, pág. 161",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 239,
+   "y": 15,
+   "w": 104,
+   "h": 19,
+   "answer": "Presentación",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 20,
+   "y": 57,
+   "w": 118,
+   "h": 51,
+   "answer": "Modelo de cliente ligero",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 531,
+   "y": 32,
+   "w": 69,
+   "h": 19,
+   "answer": "Servidor",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 178,
+   "y": 72,
+   "w": 58,
+   "h": 19,
+   "answer": "Cliente",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 19,
+   "y": 238,
+   "w": 131,
+   "h": 50,
+   "answer": "Modelo de cliente pesado",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 531,
+   "y": 213,
+   "w": 69,
+   "h": 19,
+   "answer": "Servidor",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 178,
+   "y": 251,
+   "w": 58,
+   "h": 19,
+   "answer": "Cliente",
+   "level": "clave"
+  }
+ ]
+}

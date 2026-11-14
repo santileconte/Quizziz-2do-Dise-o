@@ -1,0 +1,38 @@
+{
+ "figura": "f29-27",
+ "title": "Figura 27 · figura del apunte",
+ "width": 683,
+ "height": 361,
+ "order": 27,
+ "fuente": "Celina, pág. 111 · Fidanza, pág. 153",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 505,
+   "y": 64,
+   "w": 177,
+   "h": 59,
+   "answer": "Subsistema de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 16,
+   "y": 198,
+   "w": 80,
+   "h": 21,
+   "answer": "Interfaz",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 523,
+   "y": 323,
+   "w": 136,
+   "h": 25,
+   "answer": "Componente",
+   "level": "clave"
+  }
+ ]
+}

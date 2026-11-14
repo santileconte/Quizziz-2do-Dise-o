@@ -1,0 +1,74 @@
+{
+ "figura": "f29-06",
+ "title": "Figura 10.20. Entrada y resultado de la integración de sistemas",
+ "width": 936,
+ "height": 589,
+ "order": 6,
+ "fuente": "PF, pág. 267 · Celina, pág. 114 · Fidanza, pág. 158",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 75,
+   "y": 79,
+   "w": 128,
+   "h": 53,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 388,
+   "y": 64,
+   "w": 134,
+   "h": 54,
+   "answer": "Integrador de sistemas",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 54,
+   "y": 252,
+   "w": 179,
+   "h": 54,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 420,
+   "y": 316,
+   "w": 90,
+   "h": 53,
+   "answer": "Integrar sistema",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 637,
+   "y": 451,
+   "w": 299,
+   "h": 61,
+   "answer": "Modelo de implementación (construcciones anteriores)",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 0,
+   "y": 523,
+   "w": 296,
+   "h": 61,
+   "answer": "Modelo de implementación (construcciones anteriores)",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 49,
+   "y": 396,
+   "w": 187,
+   "h": 21,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  }
+ ]
+}

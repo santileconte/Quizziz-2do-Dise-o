@@ -1,0 +1,47 @@
+{
+ "figura": "f30-01",
+ "title": "Figura 1 · figura del apunte",
+ "width": 1217,
+ "height": 706,
+ "order": 1,
+ "fuente": "PF, pág. 270 · Celina, pág. 123",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 225,
+   "y": 69,
+   "w": 109,
+   "h": 61,
+   "answer": "Planificar prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 1077,
+   "y": 106,
+   "w": 90,
+   "h": 61,
+   "answer": "Evaluar prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 21,
+   "y": 269,
+   "w": 168,
+   "h": 94,
+   "answer": "Ingeniero de pruebas de integración",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 394,
+   "y": 96,
+   "w": 165,
+   "h": 28,
+   "answer": "Diseñar prueba",
+   "level": "clave"
+  }
+ ]
+}

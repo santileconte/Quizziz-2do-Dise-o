@@ -1,0 +1,101 @@
+{
+ "figura": "f32-01",
+ "title": "Figura 1 de la práctica de patrones GoF",
+ "width": 755,
+ "height": 677,
+ "order": 1,
+ "fuente": "Preguntas Patrones GOF.docx · figura 1",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 134,
+   "y": 11,
+   "w": 73,
+   "h": 28,
+   "answer": "Buttons",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 128,
+   "y": 73,
+   "w": 86,
+   "h": 27,
+   "answer": "Shortcuts",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 348,
+   "y": 84,
+   "w": 116,
+   "h": 21,
+   "answer": "CopyCommand",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 152,
+   "y": 158,
+   "w": 58,
+   "h": 28,
+   "answer": "Editor",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 578,
+   "y": 158,
+   "w": 84,
+   "h": 28,
+   "answer": "Command",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 349,
+   "y": 203,
+   "w": 113,
+   "h": 28,
+   "answer": "CutCommand",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 341,
+   "y": 326,
+   "w": 130,
+   "h": 28,
+   "answer": "PasteCommand",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 110,
+   "y": 394,
+   "w": 98,
+   "h": 28,
+   "answer": "Application",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 342,
+   "y": 449,
+   "w": 128,
+   "h": 29,
+   "answer": "UndoCommand",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 548,
+   "y": 528,
+   "w": 143,
+   "h": 28,
+   "answer": "CommandHistory",
+   "level": "clave"
+  }
+ ]
+}

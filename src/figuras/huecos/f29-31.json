@@ -1,0 +1,38 @@
+{
+ "figura": "f29-31",
+ "title": "Figura 31 · figura del apunte",
+ "width": 204,
+ "height": 315,
+ "order": 31,
+ "fuente": "Celina, pág. 112",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 43,
+   "y": 24,
+   "w": 117,
+   "h": 86,
+   "answer": "Integrador de sistemas",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 18,
+   "y": 265,
+   "w": 169,
+   "h": 44,
+   "answer": "Plan de integración de construcciones",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 40,
+   "y": 145,
+   "w": 124,
+   "h": 20,
+   "answer": "responsable de",
+   "level": "clave"
+  }
+ ]
+}

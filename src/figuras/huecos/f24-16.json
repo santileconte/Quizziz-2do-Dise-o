@@ -1,0 +1,47 @@
+{
+ "figura": "f24-16",
+ "title": "Figura 3.10. Un diagrama de secuencia que es parte de la realización del caso de uso Sacar Dinero en el modelo de diseño",
+ "width": 789,
+ "height": 510,
+ "order": 16,
+ "fuente": "PF, pág. 277",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 71,
+   "y": 91,
+   "w": 61,
+   "h": 30,
+   "answer": "Introducir tarjeta",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 201,
+   "y": 114,
+   "w": 137,
+   "h": 17,
+   "answer": "Tarjeta introducida (ID)",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 112,
+   "y": 160,
+   "w": 96,
+   "h": 16,
+   "answer": "Mostrar petición",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 113,
+   "y": 271,
+   "w": 96,
+   "h": 16,
+   "answer": "Mostrar petición",
+   "level": "clave"
+  }
+ ]
+}

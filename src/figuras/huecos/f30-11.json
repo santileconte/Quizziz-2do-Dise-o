@@ -1,0 +1,65 @@
+{
+ "figura": "f30-11",
+ "title": "Figura 11.12. La entrada y el resultado de la implementación de pruebas",
+ "width": 587,
+ "height": 394,
+ "order": 11,
+ "fuente": "PF, pág. 271 · Fidanza, pág. 166",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 276,
+   "y": 59,
+   "w": 121,
+   "h": 40,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 79,
+   "y": 73,
+   "w": 110,
+   "h": 18,
+   "answer": "Caso de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 81,
+   "y": 166,
+   "w": 104,
+   "h": 39,
+   "answer": "Procedimiento de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 294,
+   "y": 173,
+   "w": 92,
+   "h": 40,
+   "answer": "Implementar prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 478,
+   "y": 172,
+   "w": 94,
+   "h": 39,
+   "answer": "Componente de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 16,
+   "y": 263,
+   "w": 207,
+   "h": 40,
+   "answer": "Modelo de implementación (construida para ser probada)",
+   "level": "extra"
+  }
+ ]
+}

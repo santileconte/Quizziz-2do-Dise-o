@@ -1,0 +1,47 @@
+{
+ "figura": "f23-09",
+ "title": "Figura 7.20. Las entradas y los resultados de encontrar generalizaciones en el modelo de casos de uso",
+ "width": 808,
+ "height": 513,
+ "order": 9,
+ "fuente": "PF, pág. 254 · Celina, pág. 80 · Copia, pág. 220 · Fidanza, pág. 126",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 624,
+   "y": 271,
+   "w": 183,
+   "h": 92,
+   "answer": "Modelo de casos de uso (estructurado)",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 42,
+   "y": 214,
+   "w": 125,
+   "h": 53,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 32,
+   "y": 346,
+   "w": 138,
+   "h": 60,
+   "answer": "Caso de uso (descrito)",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 54,
+   "y": 485,
+   "w": 90,
+   "h": 22,
+   "answer": "Glosario",
+   "level": "clave"
+  }
+ ]
+}

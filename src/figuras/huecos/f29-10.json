@@ -1,0 +1,38 @@
+{
+ "figura": "f29-10",
+ "title": "Figura 10 · figura del libro, proyectada en clase",
+ "width": 788,
+ "height": 302,
+ "order": 10,
+ "fuente": "PF, pág. 283 · Celina, pág. 109 · Fidanza, pág. 152",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 112,
+   "y": 10,
+   "w": 153,
+   "h": 18,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 327,
+   "y": 9,
+   "w": 231,
+   "h": 21,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 297,
+   "y": 116,
+   "w": 50,
+   "h": 14,
+   "answer": "«trace»",
+   "level": "clave"
+  }
+ ]
+}

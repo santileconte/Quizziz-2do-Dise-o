@@ -1,0 +1,38 @@
+{
+ "figura": "f30-13",
+ "title": "Figura 11.6. Hay asociaciones muchos-a-muchos entre los componentes de prueba y los procedimientos de prueba",
+ "width": 839,
+ "height": 179,
+ "order": 13,
+ "fuente": "PF, pág. 285 · Celina, pág. 121",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 374,
+   "y": 7,
+   "w": 87,
+   "h": 15,
+   "answer": "automatiza",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 158,
+   "y": 87,
+   "w": 160,
+   "h": 19,
+   "answer": "Componente de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 510,
+   "y": 89,
+   "w": 173,
+   "h": 18,
+   "answer": "Procedimiento de prueba",
+   "level": "clave"
+  }
+ ]
+}

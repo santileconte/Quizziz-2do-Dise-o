@@ -1,0 +1,56 @@
+{
+ "figura": "f05-08",
+ "title": "Vistas 4+1 de Kruchten",
+ "width": 666,
+ "height": 476,
+ "order": 8,
+ "fuente": "Celina, pág. 42",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 71,
+   "y": 127,
+   "w": 77,
+   "h": 56,
+   "answer": "Logical view",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 517,
+   "y": 127,
+   "w": 88,
+   "h": 56,
+   "answer": "Physical view",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 277,
+   "y": 211,
+   "w": 128,
+   "h": 55,
+   "answer": "System architecture",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 18,
+   "y": 297,
+   "w": 145,
+   "h": 56,
+   "answer": "Development view",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 519,
+   "y": 305,
+   "w": 85,
+   "h": 55,
+   "answer": "Process view",
+   "level": "clave"
+  }
+ ]
+}

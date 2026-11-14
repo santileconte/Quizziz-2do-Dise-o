@@ -1,0 +1,47 @@
+{
+ "figura": "f29-01",
+ "title": "Figura 10.16. Flujo de trabajo en la etapa de implementación, incluyendo los trabajadores participantes y sus actividades",
+ "width": 1139,
+ "height": 540,
+ "order": 1,
+ "fuente": "PF, pág. 266 · Celina, pág. 113",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 71,
+   "y": 87,
+   "w": 103,
+   "h": 23,
+   "answer": "Arquitecto",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 63,
+   "y": 221,
+   "w": 123,
+   "h": 50,
+   "answer": "Integrador de sistemas",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 506,
+   "y": 217,
+   "w": 94,
+   "h": 49,
+   "answer": "Integrar sistemas",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 36,
+   "y": 382,
+   "w": 167,
+   "h": 54,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  }
+ ]
+}

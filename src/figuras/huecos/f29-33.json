@@ -1,0 +1,38 @@
+{
+ "figura": "f29-33",
+ "title": "Figura 33 · figura del apunte",
+ "width": 537,
+ "height": 235,
+ "order": 33,
+ "fuente": "Celina, pág. 114",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 106,
+   "y": 6,
+   "w": 115,
+   "h": 30,
+   "answer": "Nodos y sus objetos activos",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 357,
+   "y": 5,
+   "w": 126,
+   "h": 30,
+   "answer": "Nodos y sus instancias de componentes",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 371,
+   "y": 153,
+   "w": 70,
+   "h": 12,
+   "answer": "«executable»",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "figura": "f26-11",
+ "title": "Análisis - flujo de trabajo",
+ "width": 747,
+ "height": 416,
+ "order": 11,
+ "fuente": "PF, pág. 190",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 4,
+   "y": 3,
+   "w": 562,
+   "h": 51,
+   "answer": "ANÁLISIS - FLUJO DE TRABAJO",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 366,
+   "y": 304,
+   "w": 77,
+   "h": 34,
+   "answer": "Business Model [or domain model]",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 380,
+   "y": 203,
+   "w": 48,
+   "h": 21,
+   "answer": "Use-Case Model",
+   "level": "clave"
+  }
+ ]
+}

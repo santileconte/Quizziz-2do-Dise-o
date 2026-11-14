@@ -1,0 +1,47 @@
+{
+ "figura": "f30-16",
+ "title": "Prueba - artefactos",
+ "width": 1280,
+ "height": 719,
+ "order": 16,
+ "fuente": "PF, pág. 233",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 669,
+   "y": 346,
+   "w": 245,
+   "h": 44,
+   "answer": "Use Case (from the use-case model]",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 1044,
+   "y": 209,
+   "w": 131,
+   "h": 21,
+   "answer": "Test Model",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 1003,
+   "y": 294,
+   "w": 48,
+   "h": 16,
+   "answer": "«trace»",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 1006,
+   "y": 468,
+   "w": 48,
+   "h": 14,
+   "answer": "«trace»",
+   "level": "clave"
+  }
+ ]
+}

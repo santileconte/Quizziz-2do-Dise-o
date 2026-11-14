@@ -1,0 +1,56 @@
+{
+ "figura": "f02-06",
+ "title": "Figura 6 · figura del apunte",
+ "width": 527,
+ "height": 238,
+ "order": 6,
+ "fuente": "Fidanza, pág. 47",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 28,
+   "y": 17,
+   "w": 81,
+   "h": 14,
+   "answer": "estado inicial",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 23,
+   "y": 90,
+   "w": 77,
+   "h": 18,
+   "answer": "Disponible",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 272,
+   "y": 59,
+   "w": 44,
+   "h": 14,
+   "answer": "estado",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 289,
+   "y": 145,
+   "w": 59,
+   "h": 14,
+   "answer": "transición",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 318,
+   "y": 213,
+   "w": 41,
+   "h": 14,
+   "answer": "efecto",
+   "level": "clave"
+  }
+ ]
+}

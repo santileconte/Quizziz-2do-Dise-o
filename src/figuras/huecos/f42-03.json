@@ -1,0 +1,38 @@
+{
+ "figura": "f42-03",
+ "title": "XP - actividades básicas",
+ "width": 1280,
+ "height": 709,
+ "order": 3,
+ "fuente": "PF, pág. 332",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 102,
+   "y": 421,
+   "w": 226,
+   "h": 34,
+   "answer": "PROGRAMAR",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 659,
+   "y": 432,
+   "w": 201,
+   "h": 34,
+   "answer": "ESCUCHAR",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 412,
+   "y": 427,
+   "w": 144,
+   "h": 32,
+   "answer": "PROBAR",
+   "level": "clave"
+  }
+ ]
+}

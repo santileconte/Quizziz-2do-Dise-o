@@ -1,0 +1,47 @@
+{
+ "figura": "f15-11",
+ "title": "C/S de 2 niveles (2-tier)",
+ "width": 835,
+ "height": 510,
+ "order": 11,
+ "fuente": "PF, pág. 97",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 354,
+   "y": 233,
+   "w": 68,
+   "h": 32,
+   "answer": "Thin-client model",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 491,
+   "y": 199,
+   "w": 73,
+   "h": 14,
+   "answer": "Presentation",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 727,
+   "y": 217,
+   "w": 38,
+   "h": 14,
+   "answer": "Server",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 727,
+   "y": 405,
+   "w": 38,
+   "h": 13,
+   "answer": "Server",
+   "level": "clave"
+  }
+ ]
+}

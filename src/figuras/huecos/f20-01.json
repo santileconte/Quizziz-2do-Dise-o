@@ -1,0 +1,110 @@
+{
+ "figura": "f20-01",
+ "title": "Figura 5.6. El énfasis se desplaza en las iteraciones, desde la captura de requisitos y el análisis hacia el diseño, la implementación y la prueba",
+ "width": 745,
+ "height": 487,
+ "order": 1,
+ "fuente": "PF, pág. 250 · Celina, pág. 65 · Copia, pág. 204 · Fidanza, pág. 104",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 412,
+   "y": 1,
+   "w": 62,
+   "h": 21,
+   "answer": "Fases",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 0,
+   "y": 28,
+   "w": 186,
+   "h": 52,
+   "answer": "Flujos de Trabajo fundamentales",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 214,
+   "y": 41,
+   "w": 46,
+   "h": 17,
+   "answer": "Inicio",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 604,
+   "y": 42,
+   "w": 86,
+   "h": 17,
+   "answer": "Transición",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 436,
+   "y": 42,
+   "w": 109,
+   "h": 16,
+   "answer": "Construcción",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 51,
+   "y": 93,
+   "w": 87,
+   "h": 19,
+   "answer": "Requisitos",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 51,
+   "y": 156,
+   "w": 66,
+   "h": 16,
+   "answer": "Análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 51,
+   "y": 293,
+   "w": 128,
+   "h": 20,
+   "answer": "Implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 51,
+   "y": 225,
+   "w": 58,
+   "h": 16,
+   "answer": "Diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 51,
+   "y": 351,
+   "w": 58,
+   "h": 16,
+   "answer": "Prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 400,
+   "y": 464,
+   "w": 116,
+   "h": 20,
+   "answer": "Iteraciones",
+   "level": "clave"
+  }
+ ]
+}

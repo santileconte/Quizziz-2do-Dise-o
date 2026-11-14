@@ -1,0 +1,65 @@
+{
+ "figura": "f04-03",
+ "title": "Figura 3 · figura del apunte",
+ "width": 510,
+ "height": 356,
+ "order": 3,
+ "fuente": "Fidanza, pág. 49",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 232,
+   "y": 3,
+   "w": 107,
+   "h": 32,
+   "answer": "transición desde el estado compuesto",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 121,
+   "y": 13,
+   "w": 105,
+   "h": 31,
+   "answer": "transición hacia el estado compuesto",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 298,
+   "y": 71,
+   "w": 36,
+   "h": 13,
+   "answer": "Activo",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 306,
+   "y": 227,
+   "w": 77,
+   "h": 16,
+   "answer": "[no continuar]",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 11,
+   "y": 199,
+   "w": 55,
+   "h": 13,
+   "answer": "mantener",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 143,
+   "y": 339,
+   "w": 166,
+   "h": 14,
+   "answer": "transición desde el subestado",
+   "level": "clave"
+  }
+ ]
+}

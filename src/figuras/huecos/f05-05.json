@@ -1,0 +1,74 @@
+{
+ "figura": "f05-05",
+ "title": "Figura 5 · foto de diapositiva",
+ "width": 1600,
+ "height": 900,
+ "order": 5,
+ "fuente": "PF, pág. 33",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 413,
+   "y": 341,
+   "w": 114,
+   "h": 48,
+   "answer": "End-user Functionality",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 749,
+   "y": 424,
+   "w": 175,
+   "h": 60,
+   "answer": "Development View",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 415,
+   "y": 695,
+   "w": 120,
+   "h": 73,
+   "answer": "Integrators Performance Scalability",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 817,
+   "y": 697,
+   "w": 164,
+   "h": 71,
+   "answer": "System engineers Topology Communications",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 475,
+   "y": 443,
+   "w": 163,
+   "h": 32,
+   "answer": "Logical View",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 755,
+   "y": 609,
+   "w": 177,
+   "h": 32,
+   "answer": "Physical View",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 473,
+   "y": 612,
+   "w": 172,
+   "h": 25,
+   "answer": "Process View",
+   "level": "clave"
+  }
+ ]
+}

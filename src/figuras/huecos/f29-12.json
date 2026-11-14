@@ -1,0 +1,68 @@
+{
+ "figura": "f29-12",
+ "title": "Figura 10.23. Una interfaz requerida en una construcción (2) debería ser proporcionada también por un subsistema de implementación",
+ "width": 856,
+ "height": 580,
+ "order": 12,
+ "fuente": "PF, pág. 284 · Celina, pág. 110 · Celina, pág. 116",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 9,
+   "y": 14,
+   "w": 207,
+   "h": 22,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 479,
+   "y": 11,
+   "w": 315,
+   "h": 30,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 46,
+   "y": 95,
+   "w": 200,
+   "h": 30,
+   "answer": "«design subsystem»",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 482,
+   "y": 95,
+   "w": 276,
+   "h": 30,
+   "answer": "«implementation subsystem»",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 364,
+   "y": 162,
+   "w": 117,
+   "h": 41,
+   "answer": "«trace» (1:1)",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 16,
+   "y": 512,
+   "w": 233,
+   "h": 52,
+   "answer": "Interfaz requerida por la contrucción actual",
+   "level": "clave",
+   "accept": [
+    "Interfaz requerida por la construcción actual"
+   ]
+  }
+ ]
+}

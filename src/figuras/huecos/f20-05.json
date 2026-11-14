@@ -1,0 +1,101 @@
+{
+ "figura": "f20-05",
+ "title": "Figura 5 · figura del apunte",
+ "width": 673,
+ "height": 509,
+ "order": 5,
+ "fuente": "PF, pág. 139 · Copia, pág. 208",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 176,
+   "y": 80,
+   "w": 114,
+   "h": 33,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 45,
+   "y": 61,
+   "w": 75,
+   "h": 17,
+   "answer": "Requisitos",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 259,
+   "y": 179,
+   "w": 76,
+   "h": 33,
+   "answer": "Modelo de análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 322,
+   "y": 276,
+   "w": 71,
+   "h": 34,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 413,
+   "y": 279,
+   "w": 101,
+   "h": 37,
+   "answer": "Modelo de despliegue",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 490,
+   "y": 371,
+   "w": 134,
+   "h": 38,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 64,
+   "y": 159,
+   "w": 57,
+   "h": 15,
+   "answer": "Análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 583,
+   "y": 468,
+   "w": 71,
+   "h": 39,
+   "answer": "Modelo de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 73,
+   "y": 254,
+   "w": 49,
+   "h": 15,
+   "answer": "Diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 71,
+   "y": 447,
+   "w": 50,
+   "h": 16,
+   "answer": "Prueba",
+   "level": "clave"
+  }
+ ]
+}

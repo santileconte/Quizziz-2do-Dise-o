@@ -1,0 +1,38 @@
+{
+ "figura": "f16-05",
+ "title": "Figura 5 · figura del apunte",
+ "width": 443,
+ "height": 346,
+ "order": 5,
+ "fuente": "Copia, pág. 165 · Fidanza, pág. 97",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 143,
+   "y": 130,
+   "w": 149,
+   "h": 21,
+   "answer": "Proceso (WS-BPEL)",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 80,
+   "y": 184,
+   "w": 278,
+   "h": 22,
+   "answer": "Definición de servicio (UDDI, WSDL)",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 145,
+   "y": 240,
+   "w": 147,
+   "h": 22,
+   "answer": "Mensajería (SOAP)",
+   "level": "clave"
+  }
+ ]
+}

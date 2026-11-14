@@ -1,0 +1,38 @@
+{
+ "figura": "f29-08",
+ "title": "Figura 10.25. La entrada y el resultado de la implementación de una clase",
+ "width": 757,
+ "height": 407,
+ "order": 8,
+ "fuente": "PF, pág. 268 · Celina, pág. 117 · Fidanza, pág. 159",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 1,
+   "y": 326,
+   "w": 229,
+   "h": 81,
+   "answer": "Interfaz (proporcionada por la clase de diseño)",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 347,
+   "y": 229,
+   "w": 127,
+   "h": 50,
+   "answer": "Implementar una clase",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 592,
+   "y": 238,
+   "w": 157,
+   "h": 52,
+   "answer": "Componente (implementado)",
+   "level": "clave"
+  }
+ ]
+}

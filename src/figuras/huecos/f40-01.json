@@ -1,0 +1,56 @@
+{
+ "figura": "f40-01",
+ "title": "Figura 2 de la práctica de patrones GoF",
+ "width": 582,
+ "height": 469,
+ "order": 1,
+ "fuente": "Preguntas Patrones GOF.docx · figura 2",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 287,
+   "y": 44,
+   "w": 99,
+   "h": 51,
+   "answer": "ThirdParty YouTubeLib",
+   "level": "clave",
+   "accept": [
+    "ThirdPartyYouTubeLib"
+   ]
+  },
+  {
+   "id": "b2",
+   "x": 32,
+   "y": 40,
+   "w": 138,
+   "h": 23,
+   "answer": "YouTubeManager",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 138,
+   "y": 237,
+   "w": 116,
+   "h": 54,
+   "answer": "Cached YouTubeClass",
+   "level": "clave",
+   "accept": [
+    "CachedYouTubeClass"
+   ]
+  },
+  {
+   "id": "b4",
+   "x": 402,
+   "y": 237,
+   "w": 116,
+   "h": 54,
+   "answer": "ThirdParty YouTubeClass",
+   "level": "clave",
+   "accept": [
+    "ThirdPartyYouTubeClass"
+   ]
+  }
+ ]
+}

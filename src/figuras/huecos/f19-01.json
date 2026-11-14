@@ -1,0 +1,65 @@
+{
+ "figura": "f19-01",
+ "title": "4P + H: personas, proyecto, producto, proceso y herramientas",
+ "width": 774,
+ "height": 508,
+ "order": 1,
+ "fuente": "PF, pág. 119 · Copia, pág. 206",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 321,
+   "y": 102,
+   "w": 109,
+   "h": 27,
+   "answer": "Proceso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 316,
+   "y": 290,
+   "w": 121,
+   "h": 33,
+   "answer": "Proyecto",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 21,
+   "y": 291,
+   "w": 119,
+   "h": 25,
+   "answer": "Personas",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 576,
+   "y": 292,
+   "w": 183,
+   "h": 27,
+   "answer": "Herramientas",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 318,
+   "y": 481,
+   "w": 123,
+   "h": 24,
+   "answer": "Producto",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 400,
+   "y": 351,
+   "w": 86,
+   "h": 18,
+   "answer": "resulta en",
+   "level": "clave"
+  }
+ ]
+}

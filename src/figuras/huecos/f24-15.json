@@ -1,0 +1,38 @@
+{
+ "figura": "f24-15",
+ "title": "Figura 3.9. Un diagrama de clases que es parte de la realización del caso de uso Sacar Dinero en el modelo de diseño",
+ "width": 837,
+ "height": 409,
+ "order": 15,
+ "fuente": "PF, pág. 276",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 137,
+   "y": 7,
+   "w": 74,
+   "h": 34,
+   "answer": "Lector de Tarjetas",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 22,
+   "y": 126,
+   "w": 64,
+   "h": 32,
+   "answer": "Cliente de Banco",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 612,
+   "y": 135,
+   "w": 74,
+   "h": 32,
+   "answer": "Clase Persistente",
+   "level": "clave"
+  }
+ ]
+}

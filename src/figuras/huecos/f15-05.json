@@ -1,0 +1,47 @@
+{
+ "figura": "f15-05",
+ "title": "Componentes distribuidos",
+ "width": 855,
+ "height": 470,
+ "order": 5,
+ "fuente": "PF, pág. 100 · Celina, pág. 56",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 38,
+   "y": 67,
+   "w": 105,
+   "h": 59,
+   "answer": "Common services",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 261,
+   "y": 69,
+   "w": 103,
+   "h": 55,
+   "answer": "Common services",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 477,
+   "y": 67,
+   "w": 105,
+   "h": 59,
+   "answer": "Common services",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 688,
+   "y": 67,
+   "w": 106,
+   "h": 59,
+   "answer": "Common services",
+   "level": "clave"
+  }
+ ]
+}

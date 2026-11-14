@@ -1,0 +1,56 @@
+{
+ "figura": "f08-02",
+ "title": "Figura 2 · figura del apunte",
+ "width": 750,
+ "height": 359,
+ "order": 2,
+ "fuente": "Celina, pág. 29 · Copia, pág. 119",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 40,
+   "y": 70,
+   "w": 59,
+   "h": 20,
+   "answer": "Source",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 500,
+   "y": 94,
+   "w": 82,
+   "h": 24,
+   "answer": "Response",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 640,
+   "y": 201,
+   "w": 88,
+   "h": 52,
+   "answer": "Response Measure",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 132,
+   "y": 136,
+   "w": 73,
+   "h": 20,
+   "answer": "Stimulus",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 317,
+   "y": 207,
+   "w": 103,
+   "h": 20,
+   "answer": "Environment",
+   "level": "clave"
+  }
+ ]
+}

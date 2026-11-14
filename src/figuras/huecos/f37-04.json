@@ -1,0 +1,113 @@
+{
+ "figura": "f37-04",
+ "title": "Abstract Factory",
+ "width": 1297,
+ "height": 738,
+ "order": 4,
+ "fuente": "PF, pág. 307",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 144,
+   "y": 46,
+   "w": 532,
+   "h": 63,
+   "answer": "ABSTRACT FACTORY",
+   "level": "extra",
+   "accept": [
+    "Abstract Factory"
+   ]
+  },
+  {
+   "id": "b2",
+   "x": 353,
+   "y": 285,
+   "w": 131,
+   "h": 27,
+   "answer": "AbstractFactory",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 818,
+   "y": 330,
+   "w": 143,
+   "h": 27,
+   "answer": "AbstractProductA",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 773,
+   "y": 420,
+   "w": 91,
+   "h": 27,
+   "answer": "ProductA2",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 919,
+   "y": 420,
+   "w": 89,
+   "h": 27,
+   "answer": "ProductA1",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 221,
+   "y": 493,
+   "w": 138,
+   "h": 27,
+   "answer": "ConcreteFactory1",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 818,
+   "y": 538,
+   "w": 143,
+   "h": 27,
+   "answer": "AbstractProductB",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 1073,
+   "y": 289,
+   "w": 45,
+   "h": 16,
+   "answer": "Client",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 773,
+   "y": 629,
+   "w": 91,
+   "h": 27,
+   "answer": "ProductB2",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 919,
+   "y": 629,
+   "w": 89,
+   "h": 27,
+   "answer": "ProductB1",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 457,
+   "y": 499,
+   "w": 128,
+   "h": 20,
+   "answer": "ConcreteFactory2",
+   "level": "clave"
+  }
+ ]
+}

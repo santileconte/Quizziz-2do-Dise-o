@@ -1,0 +1,74 @@
+{
+ "figura": "f20-17",
+ "title": "Figura 17 · foto de diapositiva",
+ "width": 502,
+ "height": 336,
+ "order": 17,
+ "fuente": "PF, pág. 140",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 273,
+   "y": 4,
+   "w": 60,
+   "h": 18,
+   "answer": "Phases",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 47,
+   "y": 29,
+   "w": 81,
+   "h": 17,
+   "answer": "Disciplines",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 0,
+   "y": 58,
+   "w": 125,
+   "h": 17,
+   "answer": "Business Modeling",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 37,
+   "y": 84,
+   "w": 92,
+   "h": 17,
+   "answer": "Requirements",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 23,
+   "y": 142,
+   "w": 105,
+   "h": 17,
+   "answer": "Implementation",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 48,
+   "y": 174,
+   "w": 81,
+   "h": 17,
+   "answer": "Deployment",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 264,
+   "y": 303,
+   "w": 83,
+   "h": 18,
+   "answer": "Iterations",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "figura": "f32-10",
+ "title": "Figura 17 de la práctica de patrones GoF",
+ "width": 644,
+ "height": 558,
+ "order": 10,
+ "fuente": "Preguntas Patrones GOF.docx · figura 17",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 88,
+   "y": 41,
+   "w": 58,
+   "h": 24,
+   "answer": "Visitor",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 398,
+   "y": 41,
+   "w": 54,
+   "h": 24,
+   "answer": "Shape",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 44,
+   "y": 232,
+   "w": 146,
+   "h": 24,
+   "answer": "XMLExportVisitor",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 424,
+   "y": 298,
+   "w": 139,
+   "h": 27,
+   "answer": "CompoundShape",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 429,
+   "y": 393,
+   "w": 135,
+   "h": 27,
+   "answer": "accept(v: Visitor)",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 266,
+   "y": 513,
+   "w": 95,
+   "h": 24,
+   "answer": "Application",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "figura": "f28-01",
+ "title": "Figura 9.16. El flujo de trabajo en el diseño, incluyendo los trabajadores participantes y sus actividades",
+ "width": 1083,
+ "height": 459,
+ "order": 1,
+ "fuente": "PF, pág. 261 · Celina, pág. 100 · Fidanza, pág. 146",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 669,
+   "y": 203,
+   "w": 163,
+   "h": 51,
+   "answer": "Diseñar un caso de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 26,
+   "y": 218,
+   "w": 164,
+   "h": 50,
+   "answer": "Ingeniero de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 580,
+   "y": 409,
+   "w": 100,
+   "h": 50,
+   "answer": "Diseñar una clase",
+   "level": "clave"
+  }
+ ]
+}

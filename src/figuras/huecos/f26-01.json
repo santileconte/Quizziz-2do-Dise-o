@@ -1,0 +1,47 @@
+{
+ "figura": "f26-01",
+ "title": "Figura 1 · figura del apunte",
+ "width": 1067,
+ "height": 442,
+ "order": 1,
+ "fuente": "PF, pág. 256 · Celina, pág. 88 · Fidanza, pág. 133",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 257,
+   "y": 61,
+   "w": 175,
+   "h": 54,
+   "answer": "Análisis de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 448,
+   "y": 208,
+   "w": 167,
+   "h": 49,
+   "answer": "Analizar un caso de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 894,
+   "y": 364,
+   "w": 115,
+   "h": 53,
+   "answer": "Analizar un paquete",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 663,
+   "y": 367,
+   "w": 99,
+   "h": 49,
+   "answer": "Analizar una clase",
+   "level": "clave"
+  }
+ ]
+}

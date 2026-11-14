@@ -1,0 +1,38 @@
+{
+ "figura": "f25-12",
+ "title": "Análisis - artefactos",
+ "width": 734,
+ "height": 393,
+ "order": 12,
+ "fuente": "PF, pág. 183",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 8,
+   "y": 5,
+   "w": 449,
+   "h": 51,
+   "answer": "ANÁLISIS - ARTEFACTOS",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 12,
+   "y": 76,
+   "w": 217,
+   "h": 28,
+   "answer": "Paquete del análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 512,
+   "y": 159,
+   "w": 110,
+   "h": 15,
+   "answer": "Analysis Package",
+   "level": "clave"
+  }
+ ]
+}

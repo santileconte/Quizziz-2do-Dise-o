@@ -1,0 +1,74 @@
+{
+ "figura": "f07-01",
+ "title": "Figura 1 · figura del apunte",
+ "width": 922,
+ "height": 581,
+ "order": 1,
+ "fuente": "PF, pág. 44 · Celina, pág. 22 · Copia, pág. 114",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 89,
+   "y": 56,
+   "w": 82,
+   "h": 49,
+   "answer": "Internet user PC",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 707,
+   "y": 204,
+   "w": 153,
+   "h": 48,
+   "answer": "«Linux server» Database server",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 239,
+   "y": 124,
+   "w": 84,
+   "h": 18,
+   "answer": "«internet»",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 604,
+   "y": 163,
+   "w": 82,
+   "h": 19,
+   "answer": "«intranet»",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 423,
+   "y": 337,
+   "w": 77,
+   "h": 32,
+   "answer": "«deploy»",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 713,
+   "y": 460,
+   "w": 81,
+   "h": 44,
+   "answer": "Notation: UML",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 252,
+   "y": 282,
+   "w": 82,
+   "h": 18,
+   "answer": "«intranet»",
+   "level": "clave"
+  }
+ ]
+}

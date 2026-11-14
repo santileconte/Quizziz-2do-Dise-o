@@ -1,0 +1,56 @@
+{
+ "figura": "f40-02",
+ "title": "Figura 7 de la práctica de patrones GoF",
+ "width": 672,
+ "height": 413,
+ "order": 2,
+ "fuente": "Preguntas Patrones GOF.docx · figura 7",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 124,
+   "y": 21,
+   "w": 59,
+   "h": 28,
+   "answer": "Player",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 485,
+   "y": 21,
+   "w": 48,
+   "h": 28,
+   "answer": "State",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 371,
+   "y": 282,
+   "w": 95,
+   "h": 28,
+   "answer": "ReadyState",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 545,
+   "y": 282,
+   "w": 107,
+   "h": 28,
+   "answer": "PlayingState",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 457,
+   "y": 349,
+   "w": 102,
+   "h": 28,
+   "answer": "LockedState",
+   "level": "clave"
+  }
+ ]
+}

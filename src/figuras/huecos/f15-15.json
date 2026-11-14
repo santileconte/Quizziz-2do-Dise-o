@@ -1,0 +1,101 @@
+{
+ "figura": "f15-15",
+ "title": "Figura 15 · figura del apunte",
+ "width": 790,
+ "height": 361,
+ "order": 15,
+ "fuente": "Copia, pág. 160 · Fidanza, pág. 91",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 313,
+   "y": 11,
+   "w": 128,
+   "h": 38,
+   "answer": "Procesador de sala de control",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 329,
+   "y": 71,
+   "w": 95,
+   "h": 62,
+   "answer": "Proceso de coordinación y despliegue",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 170,
+   "y": 151,
+   "w": 83,
+   "h": 60,
+   "answer": "Proceso de control de sensores",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 175,
+   "y": 94,
+   "w": 77,
+   "h": 35,
+   "answer": "Procesador de sensor",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 470,
+   "y": 94,
+   "w": 147,
+   "h": 35,
+   "answer": "Procesador de control de semáforos",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 350,
+   "y": 156,
+   "w": 55,
+   "h": 15,
+   "answer": "Maestro",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 304,
+   "y": 271,
+   "w": 146,
+   "h": 20,
+   "answer": "Consolas de operador",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 192,
+   "y": 237,
+   "w": 50,
+   "h": 17,
+   "answer": "Esclavo",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 513,
+   "y": 237,
+   "w": 50,
+   "h": 17,
+   "answer": "Esclavo",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 687,
+   "y": 312,
+   "w": 72,
+   "h": 16,
+   "answer": "Semáforos",
+   "level": "clave"
+  }
+ ]
+}

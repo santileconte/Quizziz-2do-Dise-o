@@ -1,0 +1,74 @@
+{
+ "figura": "f13-01",
+ "title": "Microkernel / plug-in",
+ "width": 714,
+ "height": 511,
+ "order": 1,
+ "fuente": "PF, pág. 84 · Celina, pág. 50 · Copia, pág. 151 · Fidanza, pág. 86",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 158,
+   "y": 134,
+   "w": 126,
+   "h": 70,
+   "answer": "Plug-in component",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 531,
+   "y": 134,
+   "w": 128,
+   "h": 70,
+   "answer": "Plug-in component",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 158,
+   "y": 252,
+   "w": 130,
+   "h": 89,
+   "answer": "Plug-in component",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 365,
+   "y": 253,
+   "w": 90,
+   "h": 71,
+   "answer": "Core system",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 536,
+   "y": 254,
+   "w": 128,
+   "h": 71,
+   "answer": "Plug-in component",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 162,
+   "y": 376,
+   "w": 128,
+   "h": 71,
+   "answer": "Plug-in component",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 541,
+   "y": 377,
+   "w": 129,
+   "h": 70,
+   "answer": "Plug-in component",
+   "level": "clave"
+  }
+ ]
+}

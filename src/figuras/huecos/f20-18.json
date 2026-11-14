@@ -1,0 +1,47 @@
+{
+ "figura": "f20-18",
+ "title": "Figura 18 · figura del apunte",
+ "width": 869,
+ "height": 379,
+ "order": 18,
+ "fuente": "Celina, pág. 64 · Copia, pág. 203 · Fidanza, pág. 103",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 755,
+   "y": 14,
+   "w": 63,
+   "h": 19,
+   "answer": "Tiempo",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 465,
+   "y": 79,
+   "w": 109,
+   "h": 17,
+   "answer": "Construcción",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 706,
+   "y": 78,
+   "w": 86,
+   "h": 18,
+   "answer": "Transición",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 428,
+   "y": 355,
+   "w": 82,
+   "h": 17,
+   "answer": "Versiones",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "figura": "f27-11",
+ "title": "Diseño - artefactos",
+ "width": 729,
+ "height": 364,
+ "order": 11,
+ "fuente": "PF, pág. 195",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 14,
+   "y": 7,
+   "w": 407,
+   "h": 51,
+   "answer": "DISEÑO - ARTEFACTOS",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 329,
+   "y": 147,
+   "w": 87,
+   "h": 15,
+   "answer": "Design System",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 140,
+   "y": 147,
+   "w": 78,
+   "h": 14,
+   "answer": "Design Model",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 514,
+   "y": 147,
+   "w": 109,
+   "h": 14,
+   "answer": "Design Subsystem",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 376,
+   "y": 314,
+   "w": 75,
+   "h": 14,
+   "answer": "Design Class",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 667,
+   "y": 317,
+   "w": 53,
+   "h": 12,
+   "answer": "Interface",
+   "level": "clave"
+  }
+ ]
+}

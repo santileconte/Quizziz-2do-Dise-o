@@ -1,0 +1,74 @@
+{
+ "figura": "f42-05",
+ "title": "Figura 5 · figura del libro, proyectada en clase",
+ "width": 1280,
+ "height": 729,
+ "order": 5,
+ "fuente": "PF, pág. 338",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 366,
+   "y": 216,
+   "w": 583,
+   "h": 44,
+   "answer": "Extreme Programming Project",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 122,
+   "y": 433,
+   "w": 175,
+   "h": 72,
+   "answer": "Architectural Spike",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 508,
+   "y": 344,
+   "w": 150,
+   "h": 48,
+   "answer": "New User Story, Project Velocity",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 1090,
+   "y": 436,
+   "w": 117,
+   "h": 63,
+   "answer": "Small Releases",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 134,
+   "y": 354,
+   "w": 154,
+   "h": 24,
+   "answer": "User Stories",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 328,
+   "y": 376,
+   "w": 135,
+   "h": 21,
+   "answer": "Requirements",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 439,
+   "y": 579,
+   "w": 72,
+   "h": 32,
+   "answer": "Spike",
+   "level": "clave"
+  }
+ ]
+}

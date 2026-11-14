@@ -1,0 +1,47 @@
+{
+ "figura": "f25-17",
+ "title": "Figura 8.11. Un diagrama de clases de una realización del caso de uso Pagar Factura",
+ "width": 601,
+ "height": 363,
+ "order": 17,
+ "fuente": "Celina, pág. 85",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 208,
+   "y": 99,
+   "w": 70,
+   "h": 33,
+   "answer": "Gestor de pedidos",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 501,
+   "y": 284,
+   "w": 57,
+   "h": 33,
+   "answer": "Solicitud de pago",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 42,
+   "y": 211,
+   "w": 70,
+   "h": 16,
+   "answer": "Comprador",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 346,
+   "y": 170,
+   "w": 48,
+   "h": 13,
+   "answer": "Factura",
+   "level": "clave"
+  }
+ ]
+}

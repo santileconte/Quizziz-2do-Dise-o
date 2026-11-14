@@ -1,0 +1,92 @@
+{
+ "figura": "f08-03",
+ "title": "Figura 3 · figura del apunte",
+ "width": 1128,
+ "height": 537,
+ "order": 3,
+ "fuente": "Celina, pág. 29 · Copia, pág. 121",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 96,
+   "y": 36,
+   "w": 82,
+   "h": 30,
+   "answer": "Source",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 497,
+   "y": 34,
+   "w": 86,
+   "h": 30,
+   "answer": "Artifact",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 728,
+   "y": 69,
+   "w": 115,
+   "h": 38,
+   "answer": "Response",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 674,
+   "y": 309,
+   "w": 170,
+   "h": 110,
+   "answer": "Prevent the fault from becoming a failure",
+   "level": "extra"
+  },
+  {
+   "id": "b5",
+   "x": 921,
+   "y": 228,
+   "w": 121,
+   "h": 75,
+   "answer": "Response Measure",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 222,
+   "y": 131,
+   "w": 100,
+   "h": 30,
+   "answer": "Stimulus",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 679,
+   "y": 462,
+   "w": 163,
+   "h": 66,
+   "answer": "Recover from the fault",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 476,
+   "y": 269,
+   "w": 142,
+   "h": 29,
+   "answer": "Environment",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 683,
+   "y": 424,
+   "w": 138,
+   "h": 28,
+   "answer": "Detect the fault",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "figura": "f32-06",
+ "title": "Figura 12 de la práctica de patrones GoF",
+ "width": 580,
+ "height": 677,
+ "order": 6,
+ "fuente": "Preguntas Patrones GOF.docx · figura 12",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 246,
+   "y": 116,
+   "w": 52,
+   "h": 23,
+   "answer": "Client",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 67,
+   "y": 381,
+   "w": 71,
+   "h": 54,
+   "answer": "Car Builder",
+   "level": "clave",
+   "accept": [
+    "CarBuilder"
+   ]
+  },
+  {
+   "id": "b3",
+   "x": 228,
+   "y": 381,
+   "w": 96,
+   "h": 54,
+   "answer": "CarManual Builder",
+   "level": "clave",
+   "accept": [
+    "CarManualBuilder"
+   ]
+  },
+  {
+   "id": "b4",
+   "x": 394,
+   "y": 172,
+   "w": 68,
+   "h": 24,
+   "answer": "Director",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 155,
+   "y": 195,
+   "w": 63,
+   "h": 24,
+   "answer": "Builder",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 87,
+   "y": 634,
+   "w": 34,
+   "h": 25,
+   "answer": "Car",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 245,
+   "y": 634,
+   "w": 64,
+   "h": 25,
+   "answer": "Manual",
+   "level": "clave"
+  }
+ ]
+}

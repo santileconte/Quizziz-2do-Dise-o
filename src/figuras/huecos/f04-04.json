@@ -1,0 +1,38 @@
+{
+ "figura": "f04-04",
+ "title": "Figura 4 · figura del apunte",
+ "width": 438,
+ "height": 237,
+ "order": 4,
+ "fuente": "Fidanza, pág. 50",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 155,
+   "y": 18,
+   "w": 206,
+   "h": 17,
+   "answer": "estado inicial para la primera entrada",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 60,
+   "y": 81,
+   "w": 37,
+   "h": 14,
+   "answer": "Orden",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 42,
+   "y": 184,
+   "w": 159,
+   "h": 16,
+   "answer": "estado de historia superficial",
+   "level": "clave"
+  }
+ ]
+}

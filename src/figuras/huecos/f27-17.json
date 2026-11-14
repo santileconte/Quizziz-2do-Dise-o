@@ -1,0 +1,38 @@
+{
+ "figura": "f27-17",
+ "title": "Ingeniero de componentes",
+ "width": 475,
+ "height": 364,
+ "order": 17,
+ "fuente": "Celina, pág. 99 · Fidanza, pág. 145",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 15,
+   "y": 305,
+   "w": 112,
+   "h": 55,
+   "answer": "Clase de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 170,
+   "y": 309,
+   "w": 132,
+   "h": 55,
+   "answer": "Subsistema de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 366,
+   "y": 315,
+   "w": 81,
+   "h": 21,
+   "answer": "Interfaz",
+   "level": "clave"
+  }
+ ]
+}

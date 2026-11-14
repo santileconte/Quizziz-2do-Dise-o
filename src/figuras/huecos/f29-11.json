@@ -1,0 +1,47 @@
+{
+ "figura": "f29-11",
+ "title": "Figura 10.22. Las clases de diseño necesarias en una construcción se implementan como componentes",
+ "width": 920,
+ "height": 585,
+ "order": 11,
+ "fuente": "PF, pág. 284 · Celina, pág. 116",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 10,
+   "y": 10,
+   "w": 218,
+   "h": 24,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 503,
+   "y": 16,
+   "w": 333,
+   "h": 30,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 79,
+   "y": 525,
+   "w": 265,
+   "h": 54,
+   "answer": "Clases necesarias para la construcción actual",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 425,
+   "y": 408,
+   "w": 70,
+   "h": 19,
+   "answer": "«trace»",
+   "level": "clave"
+  }
+ ]
+}

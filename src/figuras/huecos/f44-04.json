@@ -1,0 +1,227 @@
+{
+ "figura": "f44-04",
+ "title": "Figura 4 · figura del libro, proyectada en clase",
+ "width": 1600,
+ "height": 989,
+ "order": 4,
+ "fuente": "PF, pág. 350",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 836,
+   "y": 392,
+   "w": 205,
+   "h": 64,
+   "answer": "INTERACTION CAPABILITY",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 294,
+   "y": 398,
+   "w": 212,
+   "h": 55,
+   "answer": "PERFORMANCE EFFICIENCY",
+   "level": "extra"
+  },
+  {
+   "id": "b3",
+   "x": 3,
+   "y": 484,
+   "w": 205,
+   "h": 54,
+   "answer": "FUNCTIONAL COMPLETENESS",
+   "level": "extra"
+  },
+  {
+   "id": "b4",
+   "x": 277,
+   "y": 535,
+   "w": 168,
+   "h": 54,
+   "answer": "RESOURCE UTILIZATION",
+   "level": "extra"
+  },
+  {
+   "id": "b5",
+   "x": 2,
+   "y": 563,
+   "w": 192,
+   "h": 53,
+   "answer": "FUNCTIONAL CORRECTNESS",
+   "level": "extra"
+  },
+  {
+   "id": "b6",
+   "x": 1,
+   "y": 642,
+   "w": 245,
+   "h": 53,
+   "answer": "FUNCTIONAL APPROPRIATENESS",
+   "level": "extra"
+  },
+  {
+   "id": "b7",
+   "x": 817,
+   "y": 667,
+   "w": 168,
+   "h": 53,
+   "answer": "USER ERROR PROTECTION",
+   "level": "extra"
+  },
+  {
+   "id": "b8",
+   "x": 555,
+   "y": 411,
+   "w": 229,
+   "h": 28,
+   "answer": "COMPATIBILITY",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 1412,
+   "y": 411,
+   "w": 145,
+   "h": 25,
+   "answer": "SECURITY",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 1119,
+   "y": 412,
+   "w": 183,
+   "h": 23,
+   "answer": "RELIABILITY",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 1089,
+   "y": 484,
+   "w": 205,
+   "h": 21,
+   "answer": "FAULTLESSNESS",
+   "level": "clave"
+  },
+  {
+   "id": "b12",
+   "x": 1362,
+   "y": 484,
+   "w": 234,
+   "h": 21,
+   "answer": "CONFIDENTIALITY",
+   "level": "clave"
+  },
+  {
+   "id": "b13",
+   "x": 548,
+   "y": 537,
+   "w": 238,
+   "h": 22,
+   "answer": "INTEROPERABILITY",
+   "level": "clave"
+  },
+  {
+   "id": "b14",
+   "x": 1089,
+   "y": 537,
+   "w": 173,
+   "h": 21,
+   "answer": "AVAILABILITY",
+   "level": "clave"
+  },
+  {
+   "id": "b15",
+   "x": 1365,
+   "y": 537,
+   "w": 138,
+   "h": 21,
+   "answer": "INTEGRITY",
+   "level": "clave"
+  },
+  {
+   "id": "b16",
+   "x": 818,
+   "y": 564,
+   "w": 179,
+   "h": 21,
+   "answer": "LEARNABILITY",
+   "level": "clave"
+  },
+  {
+   "id": "b17",
+   "x": 1091,
+   "y": 590,
+   "w": 232,
+   "h": 22,
+   "answer": "FAULT TOLERANCE",
+   "level": "extra"
+  },
+  {
+   "id": "b18",
+   "x": 280,
+   "y": 618,
+   "w": 123,
+   "h": 21,
+   "answer": "CAPACITY",
+   "level": "clave"
+  },
+  {
+   "id": "b19",
+   "x": 1366,
+   "y": 644,
+   "w": 223,
+   "h": 21,
+   "answer": "ACCOUNTABILITY",
+   "level": "clave"
+  },
+  {
+   "id": "b20",
+   "x": 819,
+   "y": 617,
+   "w": 164,
+   "h": 20,
+   "answer": "OPERABILITY",
+   "level": "clave"
+  },
+  {
+   "id": "b21",
+   "x": 1368,
+   "y": 698,
+   "w": 189,
+   "h": 21,
+   "answer": "AUTHENTICITY",
+   "level": "clave"
+  },
+  {
+   "id": "b22",
+   "x": 1370,
+   "y": 752,
+   "w": 159,
+   "h": 21,
+   "answer": "RESISTANCE",
+   "level": "clave"
+  },
+  {
+   "id": "b23",
+   "x": 820,
+   "y": 750,
+   "w": 249,
+   "h": 20,
+   "answer": "USER ENGAGEMENT",
+   "level": "extra"
+  },
+  {
+   "id": "b24",
+   "x": 822,
+   "y": 857,
+   "w": 232,
+   "h": 20,
+   "answer": "USER ASSISTANCE",
+   "level": "extra"
+  }
+ ]
+}

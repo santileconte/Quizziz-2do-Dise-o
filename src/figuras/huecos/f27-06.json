@@ -1,0 +1,38 @@
+{
+ "figura": "f27-06",
+ "title": "Figura 9.9. Las asociaciones fundamentales de una interfaz",
+ "width": 470,
+ "height": 342,
+ "order": 6,
+ "fuente": "PF, pág. 281 · Celina, pág. 98 · Fidanza, pág. 141",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 340,
+   "y": 58,
+   "w": 102,
+   "h": 49,
+   "answer": "Clase de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 333,
+   "y": 286,
+   "w": 121,
+   "h": 50,
+   "answer": "Subsistema de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 32,
+   "y": 183,
+   "w": 74,
+   "h": 19,
+   "answer": "Interfaz",
+   "level": "clave"
+  }
+ ]
+}

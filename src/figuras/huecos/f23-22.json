@@ -1,0 +1,38 @@
+{
+ "figura": "f23-22",
+ "title": "Figura 22 · figura del apunte",
+ "width": 271,
+ "height": 355,
+ "order": 22,
+ "fuente": "Copia, pág. 216",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 14,
+   "y": 61,
+   "w": 251,
+   "h": 53,
+   "answer": "Diseñador de interfaces de usuario",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 30,
+   "y": 299,
+   "w": 213,
+   "h": 53,
+   "answer": "Prototipo de interfaz de usuario",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 66,
+   "y": 158,
+   "w": 145,
+   "h": 23,
+   "answer": "responsable de",
+   "level": "clave"
+  }
+ ]
+}

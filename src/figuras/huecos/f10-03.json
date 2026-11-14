@@ -1,0 +1,38 @@
+{
+ "figura": "f10-03",
+ "title": "Figura 3 · figura del apunte",
+ "width": 661,
+ "height": 284,
+ "order": 3,
+ "fuente": "Celina, pág. 36",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 269,
+   "y": 79,
+   "w": 140,
+   "h": 138,
+   "answer": "Tactics to Control Response",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 430,
+   "y": 154,
+   "w": 192,
+   "h": 124,
+   "answer": "Events processed within time and resource budgets",
+   "level": "extra"
+  },
+  {
+   "id": "b3",
+   "x": 57,
+   "y": 163,
+   "w": 128,
+   "h": 28,
+   "answer": "Events arrive",
+   "level": "clave"
+  }
+ ]
+}

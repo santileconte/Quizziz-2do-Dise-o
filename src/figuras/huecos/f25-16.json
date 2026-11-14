@@ -1,0 +1,74 @@
+{
+ "figura": "f25-16",
+ "title": "Figura 8.2. El análisis",
+ "width": 1201,
+ "height": 761,
+ "order": 16,
+ "fuente": "Celina, pág. 83",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 587,
+   "y": 4,
+   "w": 88,
+   "h": 29,
+   "answer": "Fases",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 54,
+   "y": 27,
+   "w": 250,
+   "h": 76,
+   "answer": "Flujos de trabajo fundamentales",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 662,
+   "y": 62,
+   "w": 151,
+   "h": 23,
+   "answer": "Construcción",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 355,
+   "y": 60,
+   "w": 62,
+   "h": 21,
+   "answer": "Inicio",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 891,
+   "y": 65,
+   "w": 120,
+   "h": 23,
+   "answer": "Transición",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 77,
+   "y": 217,
+   "w": 92,
+   "h": 23,
+   "answer": "Análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 530,
+   "y": 649,
+   "w": 161,
+   "h": 30,
+   "answer": "Iteraciones",
+   "level": "clave"
+  }
+ ]
+}

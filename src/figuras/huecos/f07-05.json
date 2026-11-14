@@ -1,0 +1,47 @@
+{
+ "figura": "f07-05",
+ "title": "Figura 5 · foto de diapositiva",
+ "width": 950,
+ "height": 731,
+ "order": 5,
+ "fuente": "PF, pág. 42",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 783,
+   "y": 126,
+   "w": 111,
+   "h": 20,
+   "answer": "User programs",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 761,
+   "y": 270,
+   "w": 155,
+   "h": 24,
+   "answer": "System call interface",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 571,
+   "y": 473,
+   "w": 106,
+   "h": 41,
+   "answer": "Character device drivers",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 787,
+   "y": 558,
+   "w": 127,
+   "h": 16,
+   "answer": "Hardware control",
+   "level": "clave"
+  }
+ ]
+}

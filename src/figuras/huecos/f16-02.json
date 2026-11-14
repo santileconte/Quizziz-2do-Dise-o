@@ -1,0 +1,56 @@
+{
+ "figura": "f16-02",
+ "title": "Figura 2 · figura del apunte",
+ "width": 573,
+ "height": 288,
+ "order": 2,
+ "fuente": "Celina, pág. 59",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 368,
+   "y": 198,
+   "w": 88,
+   "h": 59,
+   "answer": "Service provider",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 97,
+   "y": 103,
+   "w": 42,
+   "h": 21,
+   "answer": "Find",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 358,
+   "y": 103,
+   "w": 70,
+   "h": 21,
+   "answer": "Publish",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 181,
+   "y": 239,
+   "w": 120,
+   "h": 27,
+   "answer": "Bind (SOAP)",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 481,
+   "y": 257,
+   "w": 72,
+   "h": 25,
+   "answer": "(WSDL)",
+   "level": "clave"
+  }
+ ]
+}

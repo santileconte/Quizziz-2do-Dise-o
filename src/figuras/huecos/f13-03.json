@@ -1,0 +1,110 @@
+{
+ "figura": "f13-03",
+ "title": "Ejemplo: Visual Studio Code",
+ "width": 753,
+ "height": 409,
+ "order": 3,
+ "fuente": "PF, pág. 85 · Celina, pág. 50 · Copia, pág. 152",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 33,
+   "y": 68,
+   "w": 98,
+   "h": 33,
+   "answer": "Prettier",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 296,
+   "y": 91,
+   "w": 144,
+   "h": 33,
+   "answer": "Visual Studio Code",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 593,
+   "y": 66,
+   "w": 127,
+   "h": 33,
+   "answer": "Live Server",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 297,
+   "y": 154,
+   "w": 154,
+   "h": 31,
+   "answer": "Core functionality",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 31,
+   "y": 197,
+   "w": 100,
+   "h": 35,
+   "answer": "Stylelint",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 587,
+   "y": 193,
+   "w": 136,
+   "h": 32,
+   "answer": "REST Client",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 327,
+   "y": 195,
+   "w": 85,
+   "h": 22,
+   "answer": "Code Editor",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 609,
+   "y": 322,
+   "w": 92,
+   "h": 32,
+   "answer": "Peacock",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 317,
+   "y": 240,
+   "w": 115,
+   "h": 22,
+   "answer": "Syntax Highlighting",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 27,
+   "y": 335,
+   "w": 101,
+   "h": 21,
+   "answer": "SonarLint",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 339,
+   "y": 288,
+   "w": 60,
+   "h": 19,
+   "answer": "Debugging",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "figura": "f29-07",
+ "title": "Implementar subsistema",
+ "width": 926,
+ "height": 521,
+ "order": 7,
+ "fuente": "PF, pág. 267 · Celina, pág. 115 · Fidanza, pág. 159",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 394,
+   "y": 15,
+   "w": 177,
+   "h": 102,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 31,
+   "y": 49,
+   "w": 190,
+   "h": 50,
+   "answer": "Plan de integración de construcciones",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 670,
+   "y": 347,
+   "w": 235,
+   "h": 84,
+   "answer": "Interfaz (implementado para una construcción)",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 69,
+   "y": 457,
+   "w": 109,
+   "h": 53,
+   "answer": "Interfaz (diseñado)",
+   "level": "clave"
+  }
+ ]
+}

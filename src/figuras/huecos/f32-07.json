@@ -1,0 +1,65 @@
+{
+ "figura": "f32-07",
+ "title": "Figura 13 de la práctica de patrones GoF",
+ "width": 650,
+ "height": 495,
+ "order": 7,
+ "fuente": "Preguntas Patrones GOF.docx · figura 13",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 70,
+   "y": 6,
+   "w": 96,
+   "h": 27,
+   "answer": "Component",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 416,
+   "y": 52,
+   "w": 79,
+   "h": 28,
+   "answer": "Mediator",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 367,
+   "y": 243,
+   "w": 173,
+   "h": 28,
+   "answer": "AuthenticationDialog",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 128,
+   "y": 255,
+   "w": 60,
+   "h": 27,
+   "answer": "Button",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 123,
+   "y": 323,
+   "w": 70,
+   "h": 27,
+   "answer": "Textbox",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 116,
+   "y": 391,
+   "w": 83,
+   "h": 27,
+   "answer": "Checkbox",
+   "level": "clave"
+  }
+ ]
+}

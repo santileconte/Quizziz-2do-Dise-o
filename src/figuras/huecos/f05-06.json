@@ -1,0 +1,83 @@
+{
+ "figura": "f05-06",
+ "title": "Figura 6 · foto de diapositiva",
+ "width": 1600,
+ "height": 900,
+ "order": 6,
+ "fuente": "PF, pág. 33",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 952,
+   "y": 618,
+   "w": 128,
+   "h": 105,
+   "answer": "Despliegue, disponibilidad, escalabilidad, rendimiento",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 745,
+   "y": 356,
+   "w": 162,
+   "h": 51,
+   "answer": "Clases, objetos, categorías de clases",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 744,
+   "y": 543,
+   "w": 180,
+   "h": 51,
+   "answer": "Módulos, subsistemas, capas, dependencias",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 957,
+   "y": 734,
+   "w": 185,
+   "h": 51,
+   "answer": "Descubrimiento, ilustración y validación",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 321,
+   "y": 366,
+   "w": 52,
+   "h": 22,
+   "answer": "Lógica",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 961,
+   "y": 373,
+   "w": 108,
+   "h": 18,
+   "answer": "Funcionalidad",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 320,
+   "y": 454,
+   "w": 73,
+   "h": 18,
+   "answer": "Procesos",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 320,
+   "y": 554,
+   "w": 86,
+   "h": 18,
+   "answer": "Desarrollo",
+   "level": "clave"
+  }
+ ]
+}

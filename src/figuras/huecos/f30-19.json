@@ -1,0 +1,74 @@
+{
+ "figura": "f30-19",
+ "title": "Prueba - flujo de trabajo",
+ "width": 1280,
+ "height": 719,
+ "order": 19,
+ "fuente": "PF, pág. 240",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 142,
+   "y": 183,
+   "w": 91,
+   "h": 48,
+   "answer": "Test Engineer",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 1021,
+   "y": 207,
+   "w": 85,
+   "h": 42,
+   "answer": "Evaluate Test",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 147,
+   "y": 450,
+   "w": 83,
+   "h": 83,
+   "answer": "System Tester",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 136,
+   "y": 350,
+   "w": 105,
+   "h": 41,
+   "answer": "Integration Tester",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 450,
+   "y": 205,
+   "w": 106,
+   "h": 21,
+   "answer": "Design Test",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 295,
+   "y": 186,
+   "w": 83,
+   "h": 18,
+   "answer": "Plan Test",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 133,
+   "y": 642,
+   "w": 111,
+   "h": 43,
+   "answer": "Component Engineer",
+   "level": "clave"
+  }
+ ]
+}

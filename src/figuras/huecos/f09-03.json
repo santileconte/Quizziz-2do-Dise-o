@@ -1,0 +1,38 @@
+{
+ "figura": "f09-03",
+ "title": "Figura 3 · figura del apunte",
+ "width": 656,
+ "height": 284,
+ "order": 3,
+ "fuente": "Celina, pág. 32",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 247,
+   "y": 61,
+   "w": 158,
+   "h": 155,
+   "answer": "Tactics to Control Response",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 427,
+   "y": 145,
+   "w": 187,
+   "h": 138,
+   "answer": "Changes made within time and budget",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 23,
+   "y": 150,
+   "w": 98,
+   "h": 81,
+   "answer": "Change arrives",
+   "level": "clave"
+  }
+ ]
+}

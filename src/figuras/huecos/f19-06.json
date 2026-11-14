@@ -1,0 +1,74 @@
+{
+ "figura": "f19-06",
+ "title": "Figura 6 · figura del apunte",
+ "width": 495,
+ "height": 271,
+ "order": 6,
+ "fuente": "Fidanza, pág. 111",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 198,
+   "y": 16,
+   "w": 196,
+   "h": 18,
+   "answer": "Restricciones y posibilidades",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 33,
+   "y": 46,
+   "w": 92,
+   "h": 15,
+   "answer": "Casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 227,
+   "y": 49,
+   "w": 109,
+   "h": 13,
+   "answer": "Software del sistema",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 227,
+   "y": 84,
+   "w": 248,
+   "h": 14,
+   "answer": "Capa intermedia (incluyendo marcos de trabajo)",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 32,
+   "y": 132,
+   "w": 84,
+   "h": 18,
+   "answer": "Arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 227,
+   "y": 118,
+   "w": 107,
+   "h": 13,
+   "answer": "Sistemas heredados",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 227,
+   "y": 150,
+   "w": 115,
+   "h": 14,
+   "answer": "Estándares y políticas",
+   "level": "clave"
+  }
+ ]
+}

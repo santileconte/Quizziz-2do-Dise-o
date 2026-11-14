@@ -1,0 +1,38 @@
+{
+ "figura": "f32-18",
+ "title": "Figura 18 · figura del apunte",
+ "width": 674,
+ "height": 793,
+ "order": 18,
+ "fuente": "Copia, pág. 173",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 474,
+   "y": 529,
+   "w": 56,
+   "h": 18,
+   "answer": "often uses",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 259,
+   "y": 535,
+   "w": 108,
+   "h": 17,
+   "answer": "Template Method",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 329,
+   "y": 612,
+   "w": 86,
+   "h": 18,
+   "answer": "implement using",
+   "level": "clave"
+  }
+ ]
+}

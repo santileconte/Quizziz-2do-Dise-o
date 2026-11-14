@@ -1,0 +1,83 @@
+{
+ "figura": "f29-13",
+ "title": "Implementación: trabajadores y artefactos",
+ "width": 1197,
+ "height": 574,
+ "order": 13,
+ "fuente": "PF, pág. 215",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 23,
+   "y": 7,
+   "w": 549,
+   "h": 83,
+   "answer": "IMPLEMENTACIÓN",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 563,
+   "y": 249,
+   "w": 106,
+   "h": 50,
+   "answer": "System Integrator",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 896,
+   "y": 248,
+   "w": 126,
+   "h": 51,
+   "answer": "Component Engineer",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 880,
+   "y": 471,
+   "w": 163,
+   "h": 48,
+   "answer": "Implementation Subsystem",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 559,
+   "y": 472,
+   "w": 113,
+   "h": 42,
+   "answer": "Integration Build Plan",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 229,
+   "y": 252,
+   "w": 92,
+   "h": 20,
+   "answer": "Architect",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 740,
+   "y": 473,
+   "w": 117,
+   "h": 20,
+   "answer": "Component",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 1077,
+   "y": 474,
+   "w": 90,
+   "h": 17,
+   "answer": "Interface",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "figura": "f08-05",
+ "title": "Figura 5 · figura del apunte",
+ "width": 837,
+ "height": 695,
+ "order": 5,
+ "fuente": "Celina, pág. 28",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 16,
+   "y": 94,
+   "w": 53,
+   "h": 23,
+   "answer": "Source",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 16,
+   "y": 238,
+   "w": 67,
+   "h": 23,
+   "answer": "Stimulus",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 16,
+   "y": 447,
+   "w": 66,
+   "h": 24,
+   "answer": "Artifacts",
+   "level": "clave"
+  }
+ ]
+}

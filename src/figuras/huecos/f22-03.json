@@ -1,0 +1,65 @@
+{
+ "figura": "f22-03",
+ "title": "Captura de requisitos como casos de uso",
+ "width": 873,
+ "height": 698,
+ "order": 3,
+ "fuente": "PF, pág. 156",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 107,
+   "y": 351,
+   "w": 94,
+   "h": 58,
+   "answer": "System Analyst",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 476,
+   "y": 356,
+   "w": 112,
+   "h": 55,
+   "answer": "Use-Case Specifier",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 701,
+   "y": 358,
+   "w": 165,
+   "h": 58,
+   "answer": "User-Interface Designer",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 705,
+   "y": 463,
+   "w": 154,
+   "h": 21,
+   "answer": "responsible for",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 265,
+   "y": 610,
+   "w": 104,
+   "h": 27,
+   "answer": "Glossary",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 105,
+   "y": 612,
+   "w": 64,
+   "h": 19,
+   "answer": "Actor",
+   "level": "clave"
+  }
+ ]
+}

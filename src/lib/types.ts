@@ -23,6 +23,10 @@ export interface DiagramConfig {
   order?: number
   /** De qué figura, apunte o diapositiva sale el gráfico. */
   fuente?: string
+  /** Figura original (src/figuras) sobre la que están los huecos. */
+  figura?: string
+  /** Cómo se obtuvo el texto de los huecos: leído con OCR y revisado, o transcripto a mano. */
+  origen?: 'ocr' | 'manual'
   blanks: Blank[]
 }
 

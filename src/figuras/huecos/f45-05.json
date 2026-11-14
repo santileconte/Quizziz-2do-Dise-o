@@ -1,0 +1,47 @@
+{
+ "figura": "f45-05",
+ "title": "Figura 5 · figura del apunte",
+ "width": 790,
+ "height": 461,
+ "order": 5,
+ "fuente": "Copia, pág. 240",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 216,
+   "y": 222,
+   "w": 87,
+   "h": 16,
+   "answer": "Trazabilidad",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 218,
+   "y": 301,
+   "w": 179,
+   "h": 19,
+   "answer": "Integridad Arquitectónica",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 218,
+   "y": 262,
+   "w": 144,
+   "h": 15,
+   "answer": "Claridad del Modelo",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 216,
+   "y": 438,
+   "w": 64,
+   "h": 14,
+   "answer": "Patrones",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "figura": "f23-06",
+ "title": "Figura 7.13. Las entradas y los resultados de priorizar los casos de uso",
+ "width": 664,
+ "height": 405,
+ "order": 6,
+ "fuente": "PF, pág. 253 · Celina, pág. 78 · Copia, pág. 219 · Fidanza, pág. 123",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 96,
+   "y": 91,
+   "w": 114,
+   "h": 56,
+   "answer": "Modelo de casos de uso (esbozado)",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 469,
+   "y": 184,
+   "w": 127,
+   "h": 79,
+   "answer": "Descripción de la arquitectura (vista del modelo de casos de uso)",
+   "level": "extra"
+  },
+  {
+   "id": "b3",
+   "x": 306,
+   "y": 73,
+   "w": 72,
+   "h": 20,
+   "answer": "Arquitecto",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 298,
+   "y": 187,
+   "w": 94,
+   "h": 40,
+   "answer": "Priorizar casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 109,
+   "y": 190,
+   "w": 79,
+   "h": 32,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 118,
+   "y": 285,
+   "w": 58,
+   "h": 15,
+   "answer": "Glosario",
+   "level": "clave"
+  }
+ ]
+}

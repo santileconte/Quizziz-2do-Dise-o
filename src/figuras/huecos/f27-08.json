@@ -1,0 +1,83 @@
+{
+ "figura": "f27-08",
+ "title": "Figura 8 · figura del apunte",
+ "width": 891,
+ "height": 639,
+ "order": 8,
+ "fuente": "PF, pág. 260 · Copia, pág. 224",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 147,
+   "y": 17,
+   "w": 159,
+   "h": 18,
+   "answer": "Modelo de análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 592,
+   "y": 16,
+   "w": 151,
+   "h": 18,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 18,
+   "y": 224,
+   "w": 113,
+   "h": 17,
+   "answer": "Menos formal.",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 464,
+   "y": 221,
+   "w": 93,
+   "h": 17,
+   "answer": "Más formal.",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 464,
+   "y": 286,
+   "w": 91,
+   "h": 21,
+   "answer": "Más capas.",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 18,
+   "y": 289,
+   "w": 111,
+   "h": 20,
+   "answer": "Menos capas.",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 464,
+   "y": 319,
+   "w": 346,
+   "h": 22,
+   "answer": "Dinámico (muy centrado en las secuencias).",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 18,
+   "y": 321,
+   "w": 354,
+   "h": 21,
+   "answer": "Dinámico (no muy centrado en la secuencia).",
+   "level": "extra"
+  }
+ ]
+}

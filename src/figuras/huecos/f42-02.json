@@ -1,0 +1,38 @@
+{
+ "figura": "f42-02",
+ "title": "XP - principios centrales",
+ "width": 1280,
+ "height": 716,
+ "order": 2,
+ "fuente": "PF, pág. 331",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 789,
+   "y": 149,
+   "w": 192,
+   "h": 92,
+   "answer": "Suponga simplicidad",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 354,
+   "y": 329,
+   "w": 205,
+   "h": 82,
+   "answer": "Cambio incremental",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 348,
+   "y": 510,
+   "w": 188,
+   "h": 82,
+   "answer": "Trabajo de calidad",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "figura": "f32-08",
+ "title": "Figura 14 de la práctica de patrones GoF",
+ "width": 635,
+ "height": 628,
+ "order": 8,
+ "fuente": "Preguntas Patrones GOF.docx · figura 14",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 239,
+   "y": 15,
+   "w": 54,
+   "h": 24,
+   "answer": "Client",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 216,
+   "y": 117,
+   "w": 95,
+   "h": 24,
+   "answer": "DataSource",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 284,
+   "y": 462,
+   "w": 96,
+   "h": 54,
+   "answer": "Encryption Decorator",
+   "level": "clave",
+   "accept": [
+    "EncryptionDecorator"
+   ]
+  },
+  {
+   "id": "b4",
+   "x": 467,
+   "y": 462,
+   "w": 112,
+   "h": 54,
+   "answer": "Compression Decorator",
+   "level": "clave",
+   "accept": [
+    "CompressionDecorator"
+   ]
+  },
+  {
+   "id": "b5",
+   "x": 78,
+   "y": 262,
+   "w": 123,
+   "h": 25,
+   "answer": "FileDataSource",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 342,
+   "y": 262,
+   "w": 171,
+   "h": 25,
+   "answer": "DataSourceDecorator",
+   "level": "clave"
+  }
+ ]
+}

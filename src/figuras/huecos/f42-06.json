@@ -1,0 +1,110 @@
+{
+ "figura": "f42-06",
+ "title": "Figura 6 · figura del libro, proyectada en clase",
+ "width": 801,
+ "height": 392,
+ "order": 6,
+ "fuente": "PF, pág. 339",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 339,
+   "y": 38,
+   "w": 130,
+   "h": 33,
+   "answer": "Iteration",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 423,
+   "y": 90,
+   "w": 178,
+   "h": 61,
+   "answer": "New User Story, Project Velocity",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 17,
+   "y": 118,
+   "w": 88,
+   "h": 56,
+   "answer": "Release Plan",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 8,
+   "y": 236,
+   "w": 97,
+   "h": 54,
+   "answer": "Next Iteration",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 216,
+   "y": 235,
+   "w": 101,
+   "h": 62,
+   "answer": "Iteration Planning",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 513,
+   "y": 179,
+   "w": 101,
+   "h": 37,
+   "answer": "Learn and Communicate",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 119,
+   "y": 225,
+   "w": 60,
+   "h": 40,
+   "answer": "Project Velocity",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 9,
+   "y": 85,
+   "w": 139,
+   "h": 15,
+   "answer": "Extreme Programming",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 144,
+   "y": 169,
+   "w": 87,
+   "h": 16,
+   "answer": "User Stories",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 312,
+   "y": 177,
+   "w": 119,
+   "h": 16,
+   "answer": "Unfinished Tasks",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 24,
+   "y": 354,
+   "w": 56,
+   "h": 28,
+   "answer": "Bugs",
+   "level": "clave"
+  }
+ ]
+}

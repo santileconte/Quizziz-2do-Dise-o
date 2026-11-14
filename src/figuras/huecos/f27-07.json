@@ -1,0 +1,65 @@
+{
+ "figura": "f27-07",
+ "title": "Figura 9.11. El modelo de despliegue contiene nodos",
+ "width": 469,
+ "height": 470,
+ "order": 7,
+ "fuente": "PF, pág. 282 · Celina, pág. 99 · Fidanza, pág. 144",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 33,
+   "y": 250,
+   "w": 86,
+   "h": 43,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 347,
+   "y": 243,
+   "w": 121,
+   "h": 45,
+   "answer": "Modelo de despliegue",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 166,
+   "y": 130,
+   "w": 119,
+   "h": 21,
+   "answer": "responsable de",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 156,
+   "y": 421,
+   "w": 150,
+   "h": 48,
+   "answer": "Descripción de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 280,
+   "y": 343,
+   "w": 175,
+   "h": 21,
+   "answer": "vista de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 3,
+   "y": 349,
+   "w": 174,
+   "h": 20,
+   "answer": "vista de la arquitectura",
+   "level": "clave"
+  }
+ ]
+}

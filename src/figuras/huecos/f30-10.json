@@ -1,0 +1,56 @@
+{
+ "figura": "f30-10",
+ "title": "Figura 11.9. La entrada y el resultado de la planificación de la prueba",
+ "width": 622,
+ "height": 528,
+ "order": 10,
+ "fuente": "PF, pág. 270 · Fidanza, pág. 165",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 109,
+   "y": 57,
+   "w": 82,
+   "h": 35,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 94,
+   "y": 129,
+   "w": 115,
+   "h": 34,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 465,
+   "y": 212,
+   "w": 75,
+   "h": 39,
+   "answer": "Plan de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 89,
+   "y": 194,
+   "w": 128,
+   "h": 15,
+   "answer": "Modelo de análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 89,
+   "y": 253,
+   "w": 122,
+   "h": 15,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  }
+ ]
+}

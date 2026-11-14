@@ -1,0 +1,47 @@
+{
+ "figura": "f23-10",
+ "title": "Figura 7.2. El modelo de casos de uso y sus contenidos",
+ "width": 1289,
+ "height": 522,
+ "order": 10,
+ "fuente": "PF, pág. 251 · Celina, pág. 71 · Copia, pág. 214",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 253,
+   "y": 88,
+   "w": 222,
+   "h": 20,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 579,
+   "y": 89,
+   "w": 228,
+   "h": 19,
+   "answer": "Sistema de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 830,
+   "y": 400,
+   "w": 115,
+   "h": 19,
+   "answer": "Caso de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 450,
+   "y": 395,
+   "w": 53,
+   "h": 18,
+   "answer": "Actor",
+   "level": "clave"
+  }
+ ]
+}

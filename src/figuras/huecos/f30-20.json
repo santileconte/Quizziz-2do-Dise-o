@@ -1,0 +1,47 @@
+{
+ "figura": "f30-20",
+ "title": "Prueba - flujo de trabajo",
+ "width": 1280,
+ "height": 712,
+ "order": 20,
+ "fuente": "PF, pág. 241",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 720,
+   "y": 261,
+   "w": 129,
+   "h": 41,
+   "answer": "Supplementary Requirements",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 1013,
+   "y": 272,
+   "w": 76,
+   "h": 41,
+   "answer": "Test Engineer",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 718,
+   "y": 348,
+   "w": 133,
+   "h": 16,
+   "answer": "Use-Case Model",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 1169,
+   "y": 440,
+   "w": 74,
+   "h": 16,
+   "answer": "Test Plan",
+   "level": "clave"
+  }
+ ]
+}

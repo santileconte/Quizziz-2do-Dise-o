@@ -1,0 +1,110 @@
+{
+ "figura": "f29-04",
+ "title": "Figura 10.1. Los trabajadores y artefactos involucrados en la implementación",
+ "width": 1484,
+ "height": 463,
+ "order": 4,
+ "fuente": "PF, pág. 265 · Celina, pág. 108 · Fidanza, pág. 151",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 1094,
+   "y": 75,
+   "w": 224,
+   "h": 72,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 699,
+   "y": 77,
+   "w": 146,
+   "h": 65,
+   "answer": "Integrador de sistema",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 6,
+   "y": 384,
+   "w": 213,
+   "h": 70,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 239,
+   "y": 383,
+   "w": 202,
+   "h": 72,
+   "answer": "Descripción de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 487,
+   "y": 383,
+   "w": 151,
+   "h": 72,
+   "answer": "Modelo de despliegue",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 696,
+   "y": 384,
+   "w": 151,
+   "h": 65,
+   "answer": "Integración de sistema",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 1103,
+   "y": 382,
+   "w": 211,
+   "h": 66,
+   "answer": "Implementación de subsistema",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 249,
+   "y": 202,
+   "w": 184,
+   "h": 31,
+   "answer": "responsable de",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 680,
+   "y": 202,
+   "w": 185,
+   "h": 31,
+   "answer": "responsable de",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 896,
+   "y": 387,
+   "w": 167,
+   "h": 31,
+   "answer": "Componente",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 1360,
+   "y": 386,
+   "w": 97,
+   "h": 25,
+   "answer": "Interfaz",
+   "level": "clave"
+  }
+ ]
+}

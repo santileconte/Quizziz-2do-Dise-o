@@ -1,0 +1,65 @@
+{
+ "figura": "f23-01",
+ "title": "Figura 7.10. El flujo de trabajo para la captura de requisitos en forma de casos de uso, incluyendo trabajadores participantes y sus actividades",
+ "width": 848,
+ "height": 497,
+ "order": 1,
+ "fuente": "PF, pág. 252 · Celina, pág. 75 · Copia, pág. 216 · Fidanza, pág. 122",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 333,
+   "y": 72,
+   "w": 133,
+   "h": 39,
+   "answer": "Encontrar actores y casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 562,
+   "y": 68,
+   "w": 161,
+   "h": 38,
+   "answer": "Estructurar el modelo de casos de uso",
+   "level": "extra"
+  },
+  {
+   "id": "b3",
+   "x": 215,
+   "y": 78,
+   "w": 92,
+   "h": 37,
+   "answer": "Analista de sistemas",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 379,
+   "y": 169,
+   "w": 126,
+   "h": 38,
+   "answer": "Priorizar los casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 490,
+   "y": 266,
+   "w": 115,
+   "h": 38,
+   "answer": "Detallar un caso de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 167,
+   "y": 373,
+   "w": 175,
+   "h": 38,
+   "answer": "Diseñador de interfaces de usuario",
+   "level": "clave"
+  }
+ ]
+}

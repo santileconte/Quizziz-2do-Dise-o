@@ -1,0 +1,47 @@
+{
+ "figura": "f19-07",
+ "title": "Figura 7 · figura del apunte",
+ "width": 213,
+ "height": 121,
+ "order": 7,
+ "fuente": "Fidanza, pág. 112",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 51,
+   "y": 20,
+   "w": 90,
+   "h": 15,
+   "answer": "casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 3,
+   "y": 57,
+   "w": 25,
+   "h": 14,
+   "answer": "guía",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 164,
+   "y": 57,
+   "w": 47,
+   "h": 13,
+   "answer": "conduce",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 53,
+   "y": 97,
+   "w": 82,
+   "h": 17,
+   "answer": "arquitectura",
+   "level": "clave"
+  }
+ ]
+}

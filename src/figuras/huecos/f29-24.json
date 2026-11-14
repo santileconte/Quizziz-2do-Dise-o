@@ -1,0 +1,38 @@
+{
+ "figura": "f29-24",
+ "title": "Implementación - flujo de trabajo",
+ "width": 752,
+ "height": 394,
+ "order": 24,
+ "fuente": "PF, pág. 228",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 324,
+   "y": 156,
+   "w": 85,
+   "h": 33,
+   "answer": "Component Engineer",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 532,
+   "y": 272,
+   "w": 89,
+   "h": 34,
+   "answer": "Component [unit tested]",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 116,
+   "y": 350,
+   "w": 63,
+   "h": 13,
+   "answer": "Interface",
+   "level": "clave"
+  }
+ ]
+}

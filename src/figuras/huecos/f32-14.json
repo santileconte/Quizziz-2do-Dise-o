@@ -1,0 +1,146 @@
+{
+ "figura": "f32-14",
+ "title": "Forma de Alexander (canónica)",
+ "width": 1152,
+ "height": 638,
+ "order": 14,
+ "fuente": "PF, pág. 291",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 28,
+   "y": 2,
+   "w": 938,
+   "h": 79,
+   "answer": "FORMA DE ALEXANDER (CANÓNICA)",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 291,
+   "y": 146,
+   "w": 227,
+   "h": 32,
+   "answer": "nombre significativo",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 14,
+   "y": 148,
+   "w": 112,
+   "h": 23,
+   "answer": "Nombre",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 292,
+   "y": 195,
+   "w": 311,
+   "h": 30,
+   "answer": "la descripción del problema",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 15,
+   "y": 196,
+   "w": 130,
+   "h": 24,
+   "answer": "Problema",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 22,
+   "y": 520,
+   "w": 169,
+   "h": 59,
+   "answer": "Patrones relacionados",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 16,
+   "y": 244,
+   "w": 125,
+   "h": 23,
+   "answer": "Contexto",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 296,
+   "y": 341,
+   "w": 376,
+   "h": 29,
+   "answer": "una solución probada al problema",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 19,
+   "y": 295,
+   "w": 101,
+   "h": 22,
+   "answer": "Fuerzas",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 21,
+   "y": 390,
+   "w": 121,
+   "h": 30,
+   "answer": "Ejemplos",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 297,
+   "y": 390,
+   "w": 363,
+   "h": 28,
+   "answer": "ejemplo de aplicación del patrón",
+   "level": "clave"
+  },
+  {
+   "id": "b12",
+   "x": 19,
+   "y": 344,
+   "w": 112,
+   "h": 22,
+   "answer": "Solución",
+   "level": "clave"
+  },
+  {
+   "id": "b13",
+   "x": 25,
+   "y": 485,
+   "w": 162,
+   "h": 22,
+   "answer": "Racionalidad",
+   "level": "clave"
+  },
+  {
+   "id": "b14",
+   "x": 302,
+   "y": 540,
+   "w": 562,
+   "h": 22,
+   "answer": "relaciones estáticas y dinámicas con otros patrones",
+   "level": "extra"
+  },
+  {
+   "id": "b15",
+   "x": 29,
+   "y": 595,
+   "w": 197,
+   "h": 21,
+   "answer": "Usos conocidos",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "figura": "f28-07",
+ "title": "Figura 9.44. Las entradas y los resultados del diseño de un subsistema",
+ "width": 1032,
+ "height": 648,
+ "order": 7,
+ "fuente": "PF, pág. 264 · Celina, pág. 107 · Fidanza, pág. 150",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 26,
+   "y": 99,
+   "w": 250,
+   "h": 153,
+   "answer": "Descripción de la arquitectura (vista del modelo de diseño)",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 435,
+   "y": 76,
+   "w": 224,
+   "h": 72,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 819,
+   "y": 223,
+   "w": 161,
+   "h": 72,
+   "answer": "Subsistema (terminado)",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 71,
+   "y": 349,
+   "w": 161,
+   "h": 72,
+   "answer": "Subsistema (esbozado)",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 418,
+   "y": 333,
+   "w": 245,
+   "h": 70,
+   "answer": "Diseñar un subsistema",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 823,
+   "y": 464,
+   "w": 157,
+   "h": 71,
+   "answer": "Interfaz (terminada)",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 77,
+   "y": 577,
+   "w": 151,
+   "h": 71,
+   "answer": "Interfaz (esbozada)",
+   "level": "clave"
+  }
+ ]
+}

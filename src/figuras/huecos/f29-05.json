@@ -1,0 +1,74 @@
+{
+ "figura": "f29-05",
+ "title": "Figura 10.17. La entrada y el resultado de la implementación de la arquitectura",
+ "width": 842,
+ "height": 523,
+ "order": 5,
+ "fuente": "PF, pág. 266 · Celina, pág. 113 · Fidanza, pág. 157",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 617,
+   "y": 140,
+   "w": 197,
+   "h": 115,
+   "answer": "Componente (esbozado y, posiblemente, asignado a nodos)",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 94,
+   "y": 125,
+   "w": 102,
+   "h": 49,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 602,
+   "y": 376,
+   "w": 240,
+   "h": 145,
+   "answer": "Descripción de arquitectura (vistas de los modelos de implementación y de despliegue)",
+   "level": "extra"
+  },
+  {
+   "id": "b4",
+   "x": 2,
+   "y": 396,
+   "w": 276,
+   "h": 114,
+   "answer": "Descripción de arquitectura (vistas de los modelos de diseño y de despliegue)",
+   "level": "extra"
+  },
+  {
+   "id": "b5",
+   "x": 308,
+   "y": 249,
+   "w": 222,
+   "h": 73,
+   "answer": "Implementación de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 367,
+   "y": 89,
+   "w": 111,
+   "h": 30,
+   "answer": "Arquitecto",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 72,
+   "y": 252,
+   "w": 141,
+   "h": 54,
+   "answer": "Modelo de despliegue",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "figura": "f42-07",
+ "title": "Figura 7 · figura del libro, proyectada en clase",
+ "width": 830,
+ "height": 502,
+ "order": 7,
+ "fuente": "PF, pág. 340",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 254,
+   "y": 23,
+   "w": 328,
+   "h": 33,
+   "answer": "Crear una solución Spike",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 22,
+   "y": 74,
+   "w": 139,
+   "h": 14,
+   "answer": "Extreme Programming",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 495,
+   "y": 104,
+   "w": 206,
+   "h": 20,
+   "answer": "Extreme Programming Project",
+   "level": "clave"
+  }
+ ]
+}

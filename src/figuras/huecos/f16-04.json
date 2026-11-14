@@ -1,0 +1,65 @@
+{
+ "figura": "f16-04",
+ "title": "Figura 4 · figura del apunte",
+ "width": 489,
+ "height": 236,
+ "order": 4,
+ "fuente": "Copia, pág. 165 · Fidanza, pág. 96",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 174,
+   "y": 15,
+   "w": 85,
+   "h": 41,
+   "answer": "Registro de servicio",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 34,
+   "y": 162,
+   "w": 89,
+   "h": 42,
+   "answer": "Solicitante del servicio",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 311,
+   "y": 162,
+   "w": 90,
+   "h": 42,
+   "answer": "Proveedor del servicio",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 169,
+   "y": 191,
+   "w": 92,
+   "h": 22,
+   "answer": "Unir (SOAP)",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 410,
+   "y": 174,
+   "w": 59,
+   "h": 18,
+   "answer": "Servicio",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 413,
+   "y": 208,
+   "w": 58,
+   "h": 21,
+   "answer": "(WSDL)",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "figura": "f26-04",
+ "title": "Figura 8.26. Las entradas y los resultados del análisis de una clase",
+ "width": 749,
+ "height": 377,
+ "order": 4,
+ "fuente": "PF, pág. 259 · Celina, pág. 91 · Fidanza, pág. 135",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 305,
+   "y": 60,
+   "w": 155,
+   "h": 52,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 40,
+   "y": 113,
+   "w": 224,
+   "h": 59,
+   "answer": "Realización de caso de uso - análisis",
+   "level": "extra"
+  },
+  {
+   "id": "b3",
+   "x": 345,
+   "y": 216,
+   "w": 86,
+   "h": 44,
+   "answer": "Analizar una clase",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 558,
+   "y": 212,
+   "w": 156,
+   "h": 49,
+   "answer": "Clase del análisis (terminada)",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 52,
+   "y": 325,
+   "w": 156,
+   "h": 49,
+   "answer": "Clase del análisis (esbozo)",
+   "level": "clave"
+  }
+ ]
+}

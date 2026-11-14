@@ -1,0 +1,65 @@
+{
+ "figura": "f17-20",
+ "title": "Figura 20 · figura del apunte",
+ "width": 995,
+ "height": 757,
+ "order": 20,
+ "fuente": "Copia, pág. 169",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 27,
+   "y": 19,
+   "w": 81,
+   "h": 24,
+   "answer": "Aspecto",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 301,
+   "y": 19,
+   "w": 44,
+   "h": 19,
+   "answer": "SOA",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 296,
+   "y": 71,
+   "w": 299,
+   "h": 71,
+   "answer": "Servicios grandes, orientados a procesos completos.",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 651,
+   "y": 18,
+   "w": 140,
+   "h": 20,
+   "answer": "Microservicios",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 646,
+   "y": 277,
+   "w": 298,
+   "h": 71,
+   "answer": "Muy bajo. Servicios totalmente independientes.",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 296,
+   "y": 519,
+   "w": 291,
+   "h": 71,
+   "answer": "Granularidad gruesa (servicios amplios y críticos).",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "figura": "f37-01",
+ "title": "Figura 5 de la práctica de patrones GoF",
+ "width": 812,
+ "height": 574,
+ "order": 1,
+ "fuente": "Preguntas Patrones GOF.docx · figura 5",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 356,
+   "y": 24,
+   "w": 112,
+   "h": 27,
+   "answer": "WinFactory",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 52,
+   "y": 163,
+   "w": 86,
+   "h": 22,
+   "answer": "WinButton",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 160,
+   "y": 163,
+   "w": 104,
+   "h": 22,
+   "answer": "WinCheckbox",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 630,
+   "y": 189,
+   "w": 107,
+   "h": 25,
+   "answer": "Application",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 361,
+   "y": 247,
+   "w": 102,
+   "h": 25,
+   "answer": "GUIFactory",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 63,
+   "y": 264,
+   "w": 64,
+   "h": 24,
+   "answer": "Button",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 169,
+   "y": 264,
+   "w": 88,
+   "h": 24,
+   "answer": "Checkbox",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 52,
+   "y": 369,
+   "w": 86,
+   "h": 23,
+   "answer": "MacButton",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 159,
+   "y": 369,
+   "w": 105,
+   "h": 23,
+   "answer": "MacCheckbox",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 358,
+   "y": 390,
+   "w": 108,
+   "h": 25,
+   "answer": "MacFactory",
+   "level": "clave"
+  }
+ ]
+}

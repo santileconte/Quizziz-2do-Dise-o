@@ -1,0 +1,56 @@
+{
+ "figura": "f29-09",
+ "title": "Figura 10.26. La entrada y el resultado de la prueba de una unidad",
+ "width": 780,
+ "height": 387,
+ "order": 9,
+ "fuente": "PF, pág. 268 · Celina, pág. 118 · Fidanza, pág. 160",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 279,
+   "y": 17,
+   "w": 177,
+   "h": 103,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 3,
+   "y": 120,
+   "w": 157,
+   "h": 53,
+   "answer": "Componente (implementado)",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 288,
+   "y": 232,
+   "w": 174,
+   "h": 53,
+   "answer": "Realizar prueba de unidad",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 565,
+   "y": 234,
+   "w": 206,
+   "h": 53,
+   "answer": "Componente (unidades probadas)",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 51,
+   "y": 359,
+   "w": 73,
+   "h": 19,
+   "answer": "Interfaz",
+   "level": "clave"
+  }
+ ]
+}

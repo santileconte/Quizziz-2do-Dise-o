@@ -1,0 +1,47 @@
+{
+ "figura": "f24-17",
+ "title": "Figura 17 · figura del libro, proyectada en clase",
+ "width": 575,
+ "height": 343,
+ "order": 17,
+ "fuente": "PF, pág. 278",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 301,
+   "y": 6,
+   "w": 228,
+   "h": 23,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 21,
+   "y": 12,
+   "w": 151,
+   "h": 19,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 45,
+   "y": 292,
+   "w": 78,
+   "h": 34,
+   "answer": "Contador de Efectivo",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 175,
+   "y": 231,
+   "w": 49,
+   "h": 14,
+   "answer": "«trace»",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "figura": "f19-08",
+ "title": "Figura 8 · figura del apunte",
+ "width": 433,
+ "height": 275,
+ "order": 8,
+ "fuente": "Fidanza, pág. 113",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 254,
+   "y": 32,
+   "w": 167,
+   "h": 16,
+   "answer": "Capa específica de la aplicación",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 253,
+   "y": 170,
+   "w": 106,
+   "h": 14,
+   "answer": "Capa de middleware",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 252,
+   "y": 238,
+   "w": 153,
+   "h": 15,
+   "answer": "Capa de software del sistema",
+   "level": "clave"
+  }
+ ]
+}

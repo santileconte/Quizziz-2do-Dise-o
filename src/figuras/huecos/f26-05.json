@@ -1,0 +1,47 @@
+{
+ "figura": "f26-05",
+ "title": "Figura 8.29. Las entradas y los resultados del análisis de un paquete",
+ "width": 888,
+ "height": 502,
+ "order": 5,
+ "fuente": "PF, pág. 259 · Celina, pág. 92 · Fidanza, pág. 136",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 343,
+   "y": 92,
+   "w": 192,
+   "h": 63,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 381,
+   "y": 291,
+   "w": 131,
+   "h": 62,
+   "answer": "Analizar un paquete",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 654,
+   "y": 285,
+   "w": 230,
+   "h": 64,
+   "answer": "Paquete del análisis (terminado)",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 0,
+   "y": 430,
+   "w": 228,
+   "h": 63,
+   "answer": "Paquete del análisis (esbozo)",
+   "level": "clave"
+  }
+ ]
+}

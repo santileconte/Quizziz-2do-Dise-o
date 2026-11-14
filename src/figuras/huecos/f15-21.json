@@ -1,0 +1,47 @@
+{
+ "figura": "f15-21",
+ "title": "Figura 21 · figura del apunte",
+ "width": 247,
+ "height": 198,
+ "order": 21,
+ "fuente": "Fidanza, pág. 91",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 60,
+   "y": 22,
+   "w": 122,
+   "h": 17,
+   "answer": "Capa de presentación",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 50,
+   "y": 69,
+   "w": 142,
+   "h": 17,
+   "answer": "Capa de gestión de datos",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 17,
+   "y": 115,
+   "w": 208,
+   "h": 17,
+   "answer": "Capa de procesamiento de aplicación",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 57,
+   "y": 162,
+   "w": 128,
+   "h": 17,
+   "answer": "Capa de base de datos",
+   "level": "clave"
+  }
+ ]
+}

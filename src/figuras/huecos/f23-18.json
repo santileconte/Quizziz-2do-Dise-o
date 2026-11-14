@@ -1,0 +1,38 @@
+{
+ "figura": "f23-18",
+ "title": "Analista de sistemas",
+ "width": 392,
+ "height": 284,
+ "order": 18,
+ "fuente": "Celina, pág. 74 · Copia, pág. 215 · Fidanza, pág. 120",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 163,
+   "y": 48,
+   "w": 104,
+   "h": 41,
+   "answer": "Analista de sistemas",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 12,
+   "y": 241,
+   "w": 142,
+   "h": 41,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 192,
+   "y": 243,
+   "w": 48,
+   "h": 17,
+   "answer": "Actor",
+   "level": "clave"
+  }
+ ]
+}

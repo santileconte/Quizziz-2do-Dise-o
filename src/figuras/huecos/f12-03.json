@@ -1,0 +1,92 @@
+{
+ "figura": "f12-03",
+ "title": "Figura 3 · figura del apunte",
+ "width": 789,
+ "height": 442,
+ "order": 3,
+ "fuente": "Copia, pág. 146 · Fidanza, pág. 84",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 65,
+   "y": 299,
+   "w": 113,
+   "h": 55,
+   "answer": "Servidor de catálogo",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 448,
+   "y": 299,
+   "w": 104,
+   "h": 55,
+   "answer": "Servidor de imagen",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 253,
+   "y": 363,
+   "w": 116,
+   "h": 55,
+   "answer": "Almacén de películas",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 268,
+   "y": 299,
+   "w": 87,
+   "h": 50,
+   "answer": "Servidor de video",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 616,
+   "y": 363,
+   "w": 149,
+   "h": 55,
+   "answer": "Inf. de películas y fotos",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 649,
+   "y": 299,
+   "w": 82,
+   "h": 50,
+   "answer": "Servidor Web",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 59,
+   "y": 363,
+   "w": 125,
+   "h": 50,
+   "answer": "Catálogo de biblioteca",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 456,
+   "y": 363,
+   "w": 87,
+   "h": 50,
+   "answer": "Almacén de fotos",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 370,
+   "y": 173,
+   "w": 73,
+   "h": 19,
+   "answer": "Internet",
+   "level": "clave"
+  }
+ ]
+}

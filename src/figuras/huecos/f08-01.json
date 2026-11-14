@@ -1,0 +1,47 @@
+{
+ "figura": "f08-01",
+ "title": "Partes de un escenario de AC",
+ "width": 1084,
+ "height": 710,
+ "order": 1,
+ "fuente": "PF, pág. 49",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 26,
+   "y": 15,
+   "w": 1008,
+   "h": 86,
+   "answer": "ESCENARIOS ESPECIFICACIÓN DE AC",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 867,
+   "y": 604,
+   "w": 104,
+   "h": 49,
+   "answer": "Response Measure",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 47,
+   "y": 375,
+   "w": 208,
+   "h": 29,
+   "answer": "Response measure",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 473,
+   "y": 609,
+   "w": 122,
+   "h": 18,
+   "answer": "Environment",
+   "level": "clave"
+  }
+ ]
+}

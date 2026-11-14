@@ -1,0 +1,47 @@
+{
+ "figura": "f38-01",
+ "title": "Estructura Duck / FlyBehavior / QuackBehavior (Simulación B 2024)",
+ "width": 1372,
+ "height": 843,
+ "order": 1,
+ "fuente": "Copia de Simulación Parcial 2 ndfvjsnvk (IE3)_ Revisión del intento (1).pdf · pág. 4 · Pregunta 8",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 38,
+   "y": 182,
+   "w": 73,
+   "h": 23,
+   "answer": "Client",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 804,
+   "y": 345,
+   "w": 358,
+   "h": 29,
+   "answer": "Encapsulated quack behavior",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 945,
+   "y": 524,
+   "w": 44,
+   "h": 17,
+   "answer": "Squeak",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 787,
+   "y": 526,
+   "w": 38,
+   "h": 15,
+   "answer": "Quack",
+   "level": "clave"
+  }
+ ]
+}

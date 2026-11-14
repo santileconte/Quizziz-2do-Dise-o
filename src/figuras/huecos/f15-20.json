@@ -1,0 +1,92 @@
+{
+ "figura": "f15-20",
+ "title": "Figura 20 · figura del apunte",
+ "width": 715,
+ "height": 346,
+ "order": 20,
+ "fuente": "Copia, pág. 163",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 31,
+   "y": 65,
+   "w": 87,
+   "h": 49,
+   "answer": "Servicios comunes",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 220,
+   "y": 65,
+   "w": 87,
+   "h": 49,
+   "answer": "Servicios comunes",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 408,
+   "y": 65,
+   "w": 87,
+   "h": 49,
+   "answer": "Servicios comunes",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 597,
+   "y": 65,
+   "w": 87,
+   "h": 49,
+   "answer": "Servicios comunes",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 231,
+   "y": 180,
+   "w": 251,
+   "h": 20,
+   "answer": "Middleware de comunicación",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 34,
+   "y": 284,
+   "w": 62,
+   "h": 20,
+   "answer": "Cliente",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 229,
+   "y": 284,
+   "w": 61,
+   "h": 20,
+   "answer": "Cliente",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 424,
+   "y": 284,
+   "w": 62,
+   "h": 20,
+   "answer": "Cliente",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 618,
+   "y": 284,
+   "w": 62,
+   "h": 20,
+   "answer": "Cliente",
+   "level": "clave"
+  }
+ ]
+}

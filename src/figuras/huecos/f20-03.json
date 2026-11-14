@@ -1,0 +1,74 @@
+{
+ "figura": "f20-03",
+ "title": "Ciclo de vida, fases, hitos y artefactos · gráfico del profesor",
+ "width": 988,
+ "height": 359,
+ "order": 3,
+ "fuente": "PF, pág. 132 · Copia, pág. 204",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 6,
+   "y": 9,
+   "w": 177,
+   "h": 71,
+   "answer": "Ciclo de Vida SW",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 306,
+   "y": 23,
+   "w": 122,
+   "h": 42,
+   "answer": "Ciclos",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 558,
+   "y": 23,
+   "w": 121,
+   "h": 42,
+   "answer": "Fases",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 798,
+   "y": 23,
+   "w": 178,
+   "h": 42,
+   "answer": "Iteraciones",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 816,
+   "y": 173,
+   "w": 138,
+   "h": 94,
+   "answer": "Flujos de trabajos principales",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 559,
+   "y": 168,
+   "w": 118,
+   "h": 40,
+   "answer": "Hito",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 539,
+   "y": 312,
+   "w": 161,
+   "h": 42,
+   "answer": "Artefactos",
+   "level": "clave"
+  }
+ ]
+}

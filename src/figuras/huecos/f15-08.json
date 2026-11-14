@@ -1,0 +1,47 @@
+{
+ "figura": "f15-08",
+ "title": "Cliente-servidor",
+ "width": 1025,
+ "height": 629,
+ "order": 8,
+ "fuente": "PF, pág. 93",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 12,
+   "y": 32,
+   "w": 498,
+   "h": 76,
+   "answer": "CLIENTE-SERVIDOR",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 792,
+   "y": 124,
+   "w": 80,
+   "h": 20,
+   "answer": "Internet",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 698,
+   "y": 163,
+   "w": 70,
+   "h": 21,
+   "answer": "Clients",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 948,
+   "y": 202,
+   "w": 68,
+   "h": 21,
+   "answer": "Server",
+   "level": "clave"
+  }
+ ]
+}

@@ -23,6 +23,12 @@ const MODES: [Mode, string, string][] = [
 
 const storeKey = (key: string) => `repaso-dsi:serie:${key}`
 
+/** Las series de figuras originales vuelven a la página de figuras del tema; las demás, al inicio. */
+export function volver() {
+  const m = window.location.hash.match(/serie\/fig-(\w+)/)
+  return m ? { href: `#/figuras/${m[1]}`, label: '← Figuras del tema' } : { href: '#/', label: '← Gráficos' }
+}
+
 function loadRun(key: string): Run | null {
   try {
     const run = JSON.parse(localStorage.getItem(storeKey(key)) ?? 'null') as Run | null
@@ -191,8 +197,8 @@ function Setup(props: {
   return (
     <main className="page">
       <section className="series-hero">
-        <a href="#/" className="back">
-          ← Gráficos
+        <a href={volver().href} className="back">
+          {volver().label}
         </a>
         <p className="eyebrow">Serie · {group.diagrams.length} gráficos seguidos</p>
         <h1 className="display">
@@ -411,8 +417,8 @@ function Summary(props: {
   return (
     <main className="page">
       <section className="series-hero">
-        <a href="#/" className="back">
-          ← Gráficos
+        <a href={volver().href} className="back">
+          {volver().label}
         </a>
         <p className="eyebrow">
           {props.label} · {minutes} min
@@ -469,8 +475,8 @@ function Summary(props: {
               Repasar errores · {withErrors.length} gráficos →
             </button>
           ) : (
-            <a className="btn primary big" href="#/">
-              Volver al inicio
+            <a className="btn primary big" href={volver().href}>
+              {volver().href === '#/' ? 'Volver al inicio' : 'Volver a las figuras del tema'}
             </a>
           )}
         </div>

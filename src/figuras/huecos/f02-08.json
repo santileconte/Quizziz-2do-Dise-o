@@ -1,0 +1,74 @@
+{
+ "figura": "f02-08",
+ "title": "Figura 8 · figura del apunte",
+ "width": 517,
+ "height": 255,
+ "order": 8,
+ "fuente": "Fidanza, pág. 52",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 26,
+   "y": 9,
+   "w": 74,
+   "h": 13,
+   "answer": "estado inicial",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 150,
+   "y": 21,
+   "w": 53,
+   "h": 14,
+   "answer": "transición",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 246,
+   "y": 23,
+   "w": 65,
+   "h": 14,
+   "answer": "Recibiendo",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 393,
+   "y": 26,
+   "w": 87,
+   "h": 14,
+   "answer": "estado anidado",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 367,
+   "y": 234,
+   "w": 104,
+   "h": 16,
+   "answer": "estado compuesto",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 448,
+   "y": 174,
+   "w": 40,
+   "h": 13,
+   "answer": "evento",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 30,
+   "y": 228,
+   "w": 40,
+   "h": 13,
+   "answer": "estado",
+   "level": "clave"
+  }
+ ]
+}

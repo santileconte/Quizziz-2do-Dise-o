@@ -1,0 +1,47 @@
+{
+ "figura": "f29-28",
+ "title": "Figura 28 · figura del apunte",
+ "width": 464,
+ "height": 458,
+ "order": 28,
+ "fuente": "Celina, pág. 112 · Fidanza, pág. 155",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 37,
+   "y": 230,
+   "w": 123,
+   "h": 41,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 328,
+   "y": 236,
+   "w": 88,
+   "h": 42,
+   "answer": "Modelo de despliegue",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 181,
+   "y": 414,
+   "w": 118,
+   "h": 42,
+   "answer": "Descripción de arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 271,
+   "y": 349,
+   "w": 158,
+   "h": 20,
+   "answer": "vista de la arquitectura",
+   "level": "clave"
+  }
+ ]
+}

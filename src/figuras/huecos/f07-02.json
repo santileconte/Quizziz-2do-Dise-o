@@ -1,0 +1,56 @@
+{
+ "figura": "f07-02",
+ "title": "Figura 2 · figura del apunte",
+ "width": 1085,
+ "height": 647,
+ "order": 2,
+ "fuente": "PF, pág. 41 · Celina, pág. 21",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 819,
+   "y": 68,
+   "w": 184,
+   "h": 71,
+   "answer": "Abstract class (italics)",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 274,
+   "y": 369,
+   "w": 201,
+   "h": 153,
+   "answer": "Class showing attribute and operation compartments",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 825,
+   "y": 176,
+   "w": 245,
+   "h": 65,
+   "answer": "Class with provided interface",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 816,
+   "y": 398,
+   "w": 171,
+   "h": 112,
+   "answer": "Interface not shown as lollipop",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 288,
+   "y": 237,
+   "w": 69,
+   "h": 25,
+   "answer": "Class",
+   "level": "clave"
+  }
+ ]
+}

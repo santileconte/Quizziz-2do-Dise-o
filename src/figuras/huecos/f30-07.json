@@ -1,0 +1,47 @@
+{
+ "figura": "f30-07",
+ "title": "Figura 11.13. Entrada y resultado de las pruebas de integración",
+ "width": 798,
+ "height": 537,
+ "order": 7,
+ "fuente": "PF, pág. 272 · Celina, pág. 125 · Fidanza, pág. 166",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 82,
+   "y": 71,
+   "w": 160,
+   "h": 24,
+   "answer": "Caso de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 85,
+   "y": 193,
+   "w": 157,
+   "h": 58,
+   "answer": "Procedimiento de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 95,
+   "y": 336,
+   "w": 140,
+   "h": 58,
+   "answer": "Componente de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 714,
+   "y": 259,
+   "w": 79,
+   "h": 20,
+   "answer": "Defecto",
+   "level": "clave"
+  }
+ ]
+}

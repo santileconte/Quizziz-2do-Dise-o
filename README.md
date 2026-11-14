@@ -33,6 +33,13 @@ El progreso se guarda en el navegador (localStorage, claves `repaso-dsi:*`).
 
 `#/figuras` reúne las 479 figuras de los apuntes, las diapositivas, el Word de la cátedra y los exámenes, separadas por tema (`#/figuras/23`, por ejemplo). Cada figura distinta aparece una sola vez con todas sus páginas de origen; las versiones con diferencias relevantes van por separado. Dentro de cada tema el orden es: tomadas en parciales reales, usadas por la cátedra (simulaciones, cuestionarios, práctica), mostradas en clase, apunte base y complementarias. Se abren en un visor con zoom (rueda, pellizco, doble clic o botones) y se pueden abrir en tamaño original. El proceso de extracción está en `tools/figuras/`.
 
+#### Figuras para completar
+
+252 de las figuras originales también se pueden completar (1425 huecos): los huecos tapan el texto de la propia figura y se
+practican igual que los gráficos del inicio (Estudio, Práctica, Simulacro), una por una o en serie por tema
+(`#/serie/fig-<tema>`). Solo se taparon textos que se pudieron asegurar: leídos con OCR, confirmados por una segunda lectura
+o por otra versión de la figura y revisados uno por uno, o transcriptos a mano. Cómo se generan: `tools/figuras/huecos/`.
+
 ## Dónde está el contenido
 
 | Qué | Dónde |

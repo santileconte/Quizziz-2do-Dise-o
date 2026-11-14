@@ -1,0 +1,65 @@
+{
+ "figura": "f45-01",
+ "title": "Relación entre QA y QC",
+ "width": 1280,
+ "height": 715,
+ "order": 1,
+ "fuente": "PF, pág. 360 · Copia, pág. 239",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 62,
+   "y": 35,
+   "w": 701,
+   "h": 84,
+   "answer": "RELACIÓN ENTRE QA Y QC",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 60,
+   "y": 490,
+   "w": 161,
+   "h": 69,
+   "answer": "Ejemplos",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 251,
+   "y": 544,
+   "w": 239,
+   "h": 41,
+   "answer": "Pruebas (Testing)",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 701,
+   "y": 525,
+   "w": 358,
+   "h": 37,
+   "answer": "Definición de Estándares",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 701,
+   "y": 580,
+   "w": 283,
+   "h": 41,
+   "answer": "Educación y mejora",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 252,
+   "y": 490,
+   "w": 273,
+   "h": 32,
+   "answer": "Revisiones Técnicas",
+   "level": "clave"
+  }
+ ]
+}

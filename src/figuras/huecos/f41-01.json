@@ -1,0 +1,38 @@
+{
+ "figura": "f41-01",
+ "title": "Figura 1 · figura del libro, proyectada en clase",
+ "width": 1280,
+ "height": 823,
+ "order": 1,
+ "fuente": "PF, pág. 315 · Celina, pág. 146",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 164,
+   "y": 558,
+   "w": 357,
+   "h": 64,
+   "answer": "Poca comunicación con el cliente",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 180,
+   "y": 318,
+   "w": 154,
+   "h": 28,
+   "answer": "Predictivos",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 172,
+   "y": 485,
+   "w": 396,
+   "h": 35,
+   "answer": "Se concibe como un proyecto",
+   "level": "clave"
+  }
+ ]
+}

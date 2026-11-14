@@ -1,0 +1,38 @@
+{
+ "figura": "f36-05",
+ "title": "Figura 5 · figura del apunte",
+ "width": 1110,
+ "height": 420,
+ "order": 5,
+ "fuente": "Celina, pág. 143 · Copia, pág. 192",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 28,
+   "y": 22,
+   "w": 81,
+   "h": 25,
+   "answer": "Subject",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 214,
+   "y": 23,
+   "w": 96,
+   "h": 20,
+   "answer": "observers",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 512,
+   "y": 237,
+   "w": 71,
+   "h": 25,
+   "answer": "subject",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "figura": "f13-02",
+ "title": "Figura 2 · figura del apunte",
+ "width": 1298,
+ "height": 382,
+ "order": 2,
+ "fuente": "PF, pág. 81 · Copia, pág. 150 · Fidanza, pág. 86",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 373,
+   "y": 9,
+   "w": 68,
+   "h": 33,
+   "answer": "Task A",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 370,
+   "y": 124,
+   "w": 66,
+   "h": 22,
+   "answer": "Task A",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 366,
+   "y": 236,
+   "w": 70,
+   "h": 33,
+   "answer": "Task A",
+   "level": "clave"
+  }
+ ]
+}

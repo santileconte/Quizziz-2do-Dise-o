@@ -1,0 +1,47 @@
+{
+ "figura": "fP2-01",
+ "title": "Factura de ejemplo para el diagrama de Warnier (Recuperatorio 2024)",
+ "width": 640,
+ "height": 930,
+ "order": 1,
+ "fuente": "2do recu parcial Teoria 2024.docx · imagen 12–14 · Pregunta 9",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 230,
+   "y": 39,
+   "w": 32,
+   "h": 10,
+   "answer": "FECHA",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 15,
+   "y": 245,
+   "w": 49,
+   "h": 10,
+   "answer": "CANTIDAD",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 336,
+   "y": 398,
+   "w": 107,
+   "h": 13,
+   "answer": "TOTAL RETENCIÓN",
+   "level": "extra"
+  },
+  {
+   "id": "b4",
+   "x": 336,
+   "y": 432,
+   "w": 112,
+   "h": 14,
+   "answer": "TOTAL FACTURA",
+   "level": "extra"
+  }
+ ]
+}

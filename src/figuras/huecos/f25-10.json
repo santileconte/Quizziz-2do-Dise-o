@@ -1,0 +1,65 @@
+{
+ "figura": "f25-10",
+ "title": "Análisis - artefactos",
+ "width": 706,
+ "height": 374,
+ "order": 10,
+ "fuente": "PF, pág. 182",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 15,
+   "y": 0,
+   "w": 451,
+   "h": 68,
+   "answer": "ANÁLISIS - ARTEFACTOS",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 22,
+   "y": 70,
+   "w": 184,
+   "h": 21,
+   "answer": "Clase del análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 38,
+   "y": 209,
+   "w": 53,
+   "h": 19,
+   "answer": "Buyer",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 546,
+   "y": 214,
+   "w": 122,
+   "h": 18,
+   "answer": "change status",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 538,
+   "y": 171,
+   "w": 62,
+   "h": 15,
+   "answer": "Invoice",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 363,
+   "y": 205,
+   "w": 74,
+   "h": 16,
+   "answer": "browses",
+   "level": "clave"
+  }
+ ]
+}

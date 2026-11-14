@@ -1,0 +1,89 @@
+{
+ "figura": "f40-04",
+ "title": "Figura 15 de la práctica de patrones GoF",
+ "width": 588,
+ "height": 428,
+ "order": 4,
+ "fuente": "Preguntas Patrones GOF.docx · figura 15",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 262,
+   "y": 25,
+   "w": 126,
+   "h": 24,
+   "answer": "VideoConverter",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 43,
+   "y": 56,
+   "w": 97,
+   "h": 27,
+   "answer": "Application",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 183,
+   "y": 324,
+   "w": 143,
+   "h": 53,
+   "answer": "OggCompression Codec",
+   "level": "clave",
+   "accept": [
+    "OggCompressionCodec"
+   ]
+  },
+  {
+   "id": "b4",
+   "x": 339,
+   "y": 324,
+   "w": 156,
+   "h": 53,
+   "answer": "MPEG4 CompressionCodec",
+   "level": "clave",
+   "accept": [
+    "MPEG4CompressionCodec"
+   ]
+  },
+  {
+   "id": "b5",
+   "x": 178,
+   "y": 236,
+   "w": 98,
+   "h": 27,
+   "answer": "AudioMixer",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 298,
+   "y": 214,
+   "w": 80,
+   "h": 24,
+   "answer": "VideoFile",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 399,
+   "y": 236,
+   "w": 115,
+   "h": 27,
+   "answer": "BitrateReader",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 282,
+   "y": 281,
+   "w": 113,
+   "h": 27,
+   "answer": "CodecFactory",
+   "level": "clave"
+  }
+ ]
+}

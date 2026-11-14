@@ -1,0 +1,47 @@
+{
+ "figura": "f32-03",
+ "title": "Figura 4 de la práctica de patrones GoF",
+ "width": 625,
+ "height": 403,
+ "order": 3,
+ "fuente": "Preguntas Patrones GOF.docx · figura 4",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 464,
+   "y": 15,
+   "w": 57,
+   "h": 22,
+   "answer": "Forest",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 117,
+   "y": 38,
+   "w": 98,
+   "h": 22,
+   "answer": "TreeFactory",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 118,
+   "y": 217,
+   "w": 77,
+   "h": 22,
+   "answer": "TreeType",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 472,
+   "y": 229,
+   "w": 42,
+   "h": 22,
+   "answer": "Tree",
+   "level": "clave"
+  }
+ ]
+}

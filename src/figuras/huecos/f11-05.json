@@ -1,0 +1,65 @@
+{
+ "figura": "f11-05",
+ "title": "Figura 5 · figura del apunte",
+ "width": 648,
+ "height": 535,
+ "order": 5,
+ "fuente": "Celina, pág. 44",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 265,
+   "y": 163,
+   "w": 74,
+   "h": 49,
+   "answer": "Form to display",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 26,
+   "y": 357,
+   "w": 72,
+   "h": 50,
+   "answer": "Update request",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 295,
+   "y": 313,
+   "w": 100,
+   "h": 42,
+   "answer": "Change notification",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 378,
+   "y": 241,
+   "w": 172,
+   "h": 24,
+   "answer": "Forms management",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 254,
+   "y": 255,
+   "w": 101,
+   "h": 19,
+   "answer": "User events",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 490,
+   "y": 366,
+   "w": 135,
+   "h": 25,
+   "answer": "Refresh request",
+   "level": "clave"
+  }
+ ]
+}

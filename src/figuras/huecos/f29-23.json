@@ -1,0 +1,47 @@
+{
+ "figura": "f29-23",
+ "title": "Implementación - flujo de trabajo",
+ "width": 742,
+ "height": 401,
+ "order": 23,
+ "fuente": "PF, pág. 227",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 329,
+   "y": 174,
+   "w": 78,
+   "h": 30,
+   "answer": "Component Engineer",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 136,
+   "y": 210,
+   "w": 81,
+   "h": 31,
+   "answer": "Design Class [designed]",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 503,
+   "y": 268,
+   "w": 88,
+   "h": 31,
+   "answer": "Component [implemented]",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 334,
+   "y": 268,
+   "w": 70,
+   "h": 28,
+   "answer": "Implement a Class",
+   "level": "clave"
+  }
+ ]
+}

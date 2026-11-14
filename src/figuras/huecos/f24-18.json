@@ -1,0 +1,83 @@
+{
+ "figura": "f24-18",
+ "title": "Figura 18 · figura del apunte",
+ "width": 410,
+ "height": 323,
+ "order": 18,
+ "fuente": "Fidanza, pág. 37",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 13,
+   "y": 20,
+   "w": 71,
+   "h": 14,
+   "answer": "caso de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 124,
+   "y": 51,
+   "w": 76,
+   "h": 16,
+   "answer": "Hacer pedido",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 258,
+   "y": 54,
+   "w": 62,
+   "h": 14,
+   "answer": "realización",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 190,
+   "y": 265,
+   "w": 66,
+   "h": 31,
+   "answer": "Validación de pedidos",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 136,
+   "y": 131,
+   "w": 72,
+   "h": 14,
+   "answer": "colaboración",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 184,
+   "y": 205,
+   "w": 46,
+   "h": 14,
+   "answer": "«refine»",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 313,
+   "y": 227,
+   "w": 70,
+   "h": 14,
+   "answer": "refinamiento",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 74,
+   "y": 244,
+   "w": 72,
+   "h": 13,
+   "answer": "colaboración",
+   "level": "clave"
+  }
+ ]
+}

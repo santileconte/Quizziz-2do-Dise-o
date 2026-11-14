@@ -1,0 +1,65 @@
+{
+ "figura": "f27-02",
+ "title": "Figura 9.3. El modelo de diseño es un jerarquía de subsistemas de diseño que contienen clases del diseño",
+ "width": 1014,
+ "height": 519,
+ "order": 2,
+ "fuente": "PF, pág. 260 · Celina, pág. 95 · Fidanza, pág. 138",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 7,
+   "y": 164,
+   "w": 172,
+   "h": 20,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 339,
+   "y": 159,
+   "w": 177,
+   "h": 20,
+   "answer": "Sistema de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 654,
+   "y": 159,
+   "w": 213,
+   "h": 20,
+   "answer": "Subsistema de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 652,
+   "y": 474,
+   "w": 198,
+   "h": 45,
+   "answer": "Realización de caso de uso - diseño",
+   "level": "extra"
+  },
+  {
+   "id": "b5",
+   "x": 363,
+   "y": 478,
+   "w": 160,
+   "h": 20,
+   "answer": "Clase del diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 936,
+   "y": 476,
+   "w": 73,
+   "h": 19,
+   "answer": "Interfaz",
+   "level": "clave"
+  }
+ ]
+}

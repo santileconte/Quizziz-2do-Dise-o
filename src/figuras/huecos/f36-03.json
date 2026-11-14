@@ -1,0 +1,47 @@
+{
+ "figura": "f36-03",
+ "title": "Observer",
+ "width": 1296,
+ "height": 708,
+ "order": 3,
+ "fuente": "PF, pág. 302",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 137,
+   "y": 15,
+   "w": 277,
+   "h": 63,
+   "answer": "OBSERVER",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 597,
+   "y": 314,
+   "w": 64,
+   "h": 13,
+   "answer": "observers",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 607,
+   "y": 586,
+   "w": 47,
+   "h": 15,
+   "answer": "subject",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 824,
+   "y": 553,
+   "w": 135,
+   "h": 14,
+   "answer": "requests, modifications",
+   "level": "clave"
+  }
+ ]
+}

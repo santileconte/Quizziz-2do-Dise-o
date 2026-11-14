@@ -1,0 +1,47 @@
+{
+ "figura": "f20-06",
+ "title": "PUDS - ciclo de vida",
+ "width": 701,
+ "height": 390,
+ "order": 6,
+ "fuente": "PF, pág. 127",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 274,
+   "y": 223,
+   "w": 151,
+   "h": 16,
+   "answer": "Liberación del producto",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 575,
+   "y": 355,
+   "w": 51,
+   "h": 16,
+   "answer": "Tiempo",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 58,
+   "y": 291,
+   "w": 76,
+   "h": 13,
+   "answer": "Nacimiento",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 569,
+   "y": 293,
+   "w": 48,
+   "h": 13,
+   "answer": "Muerte",
+   "level": "clave"
+  }
+ ]
+}

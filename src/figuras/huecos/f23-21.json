@@ -1,0 +1,38 @@
+{
+ "figura": "f23-21",
+ "title": "Figura 21 · figura del apunte",
+ "width": 218,
+ "height": 353,
+ "order": 21,
+ "fuente": "Copia, pág. 216",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 25,
+   "y": 29,
+   "w": 182,
+   "h": 103,
+   "answer": "Especificador de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 44,
+   "y": 172,
+   "w": 146,
+   "h": 23,
+   "answer": "responsable de",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 53,
+   "y": 319,
+   "w": 128,
+   "h": 21,
+   "answer": "Caso de uso",
+   "level": "clave"
+  }
+ ]
+}

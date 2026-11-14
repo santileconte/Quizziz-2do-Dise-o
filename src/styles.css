@@ -3650,3 +3650,28 @@ h4.mm-x {
     grid-template-columns: 1fr;
   }
 }
+
+/* Figuras originales que se pueden completar */
+.fg-item {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-width: 0;
+}
+.fg-item > .fg-card {
+  flex: 1;
+}
+.fg-fill {
+  align-self: flex-start;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  padding: 2px 2px;
+}
+.fg-fill:hover {
+  text-decoration: underline;
+}
+.fg-serie {
+  font-weight: 600;
+}

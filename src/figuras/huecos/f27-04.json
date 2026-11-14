@@ -1,0 +1,38 @@
+{
+ "figura": "f27-04",
+ "title": "Figura 9.7. Los atributos clave y asociaciones de una realización de caso de uso-diseño",
+ "width": 681,
+ "height": 479,
+ "order": 4,
+ "fuente": "PF, pág. 280 · Celina, pág. 96 · Fidanza, pág. 140",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 259,
+   "y": 46,
+   "w": 135,
+   "h": 34,
+   "answer": "Realización de caso de uso - diseño",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 178,
+   "y": 387,
+   "w": 69,
+   "h": 34,
+   "answer": "Clase de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 379,
+   "y": 389,
+   "w": 82,
+   "h": 34,
+   "answer": "Subsistema de diseño",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "figura": "f26-03",
+ "title": "Figura 8.19. Las entradas y los resultados del análisis arquitectónico",
+ "width": 729,
+ "height": 548,
+ "order": 3,
+ "fuente": "PF, pág. 188 · PF, pág. 257 · Celina, pág. 88 · Fidanza, pág. 134",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 19,
+   "y": 69,
+   "w": 157,
+   "h": 49,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 583,
+   "y": 127,
+   "w": 117,
+   "h": 81,
+   "answer": "Paquete del análisis (esbozo)",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 41,
+   "y": 177,
+   "w": 113,
+   "h": 49,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 322,
+   "y": 93,
+   "w": 98,
+   "h": 22,
+   "answer": "Arquitecto",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 556,
+   "y": 254,
+   "w": 167,
+   "h": 53,
+   "answer": "Clase del análisis (esbozo)",
+   "level": "clave"
+  }
+ ]
+}

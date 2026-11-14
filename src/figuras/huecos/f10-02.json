@@ -1,0 +1,146 @@
+{
+ "figura": "f10-02",
+ "title": "Figura 2 · figura del apunte",
+ "width": 1016,
+ "height": 689,
+ "order": 2,
+ "fuente": "PF, pág. 66 · Celina, pág. 38",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 358,
+   "y": 46,
+   "w": 304,
+   "h": 35,
+   "answer": "Performance Tactics",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 606,
+   "y": 206,
+   "w": 232,
+   "h": 35,
+   "answer": "Manage Resources",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 86,
+   "y": 205,
+   "w": 314,
+   "h": 29,
+   "answer": "Control Resource Demand",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 53,
+   "y": 348,
+   "w": 285,
+   "h": 34,
+   "answer": "Manage Work Requests",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 53,
+   "y": 401,
+   "w": 258,
+   "h": 35,
+   "answer": "Limit Event Response",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 494,
+   "y": 401,
+   "w": 269,
+   "h": 35,
+   "answer": "Introduce Concurrency",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 493,
+   "y": 348,
+   "w": 237,
+   "h": 28,
+   "answer": "Increase Resources",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 493,
+   "y": 455,
+   "w": 488,
+   "h": 35,
+   "answer": "Maintain Multiple Copies of Computations",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 54,
+   "y": 510,
+   "w": 392,
+   "h": 34,
+   "answer": "Reduce Computational Overhead",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 493,
+   "y": 510,
+   "w": 381,
+   "h": 34,
+   "answer": "Maintain Multiple Copies of Data",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 54,
+   "y": 456,
+   "w": 192,
+   "h": 28,
+   "answer": "Prioritize Events",
+   "level": "clave"
+  },
+  {
+   "id": "b12",
+   "x": 54,
+   "y": 617,
+   "w": 224,
+   "h": 35,
+   "answer": "Increase Efficiency",
+   "level": "clave"
+  },
+  {
+   "id": "b13",
+   "x": 493,
+   "y": 563,
+   "w": 238,
+   "h": 30,
+   "answer": "Bound Queue Sizes",
+   "level": "clave"
+  },
+  {
+   "id": "b14",
+   "x": 53,
+   "y": 564,
+   "w": 281,
+   "h": 29,
+   "answer": "Bound Execution Times",
+   "level": "clave"
+  },
+  {
+   "id": "b15",
+   "x": 493,
+   "y": 617,
+   "w": 246,
+   "h": 29,
+   "answer": "Schedule Resources",
+   "level": "clave"
+  }
+ ]
+}

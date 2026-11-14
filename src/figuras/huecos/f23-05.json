@@ -1,0 +1,47 @@
+{
+ "figura": "f23-05",
+ "title": "Encontrar actores y casos de uso",
+ "width": 877,
+ "height": 456,
+ "order": 5,
+ "fuente": "PF, pág. 252 · Celina, pág. 76 · Copia, pág. 217 · Fidanza, pág. 122",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 391,
+   "y": 68,
+   "w": 128,
+   "h": 51,
+   "answer": "Analista de sistemas",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 95,
+   "y": 247,
+   "w": 123,
+   "h": 51,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 722,
+   "y": 365,
+   "w": 90,
+   "h": 28,
+   "answer": "Glosario",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 40,
+   "y": 395,
+   "w": 233,
+   "h": 22,
+   "answer": "Lista de características",
+   "level": "clave"
+  }
+ ]
+}

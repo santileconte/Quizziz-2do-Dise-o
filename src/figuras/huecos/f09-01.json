@@ -1,0 +1,110 @@
+{
+ "figura": "f09-01",
+ "title": "Escenario de modificabilidad",
+ "width": 828,
+ "height": 331,
+ "order": 1,
+ "fuente": "PF, pág. 53 · Celina, pág. 31 · Copia, pág. 122",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 36,
+   "y": 27,
+   "w": 63,
+   "h": 23,
+   "answer": "Source",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 350,
+   "y": 26,
+   "w": 66,
+   "h": 22,
+   "answer": "Artifact",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 530,
+   "y": 52,
+   "w": 90,
+   "h": 29,
+   "answer": "Response",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 334,
+   "y": 70,
+   "w": 99,
+   "h": 20,
+   "answer": "User interface",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 680,
+   "y": 173,
+   "w": 96,
+   "h": 59,
+   "answer": "Response Measure",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 135,
+   "y": 100,
+   "w": 78,
+   "h": 23,
+   "answer": "Stimulus",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 102,
+   "y": 240,
+   "w": 152,
+   "h": 51,
+   "answer": "Wants to change the user interface",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 334,
+   "y": 180,
+   "w": 110,
+   "h": 23,
+   "answer": "Environment",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 9,
+   "y": 243,
+   "w": 73,
+   "h": 24,
+   "answer": "Developer",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 346,
+   "y": 243,
+   "w": 85,
+   "h": 24,
+   "answer": "Design time",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 520,
+   "y": 243,
+   "w": 117,
+   "h": 24,
+   "answer": "Change is made",
+   "level": "clave"
+  }
+ ]
+}

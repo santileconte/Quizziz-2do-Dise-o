@@ -1,0 +1,65 @@
+{
+ "figura": "fP2-15",
+ "title": "Notación de los diagramas de estructura",
+ "width": 650,
+ "height": 507,
+ "order": 15,
+ "fuente": "Fidanza, pág. 219",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 3,
+   "y": 14,
+   "w": 389,
+   "h": 25,
+   "answer": "Notación de los Diagramas de Estructura",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 429,
+   "y": 157,
+   "w": 95,
+   "h": 41,
+   "answer": "Inclusión Lexicográfica",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 124,
+   "y": 344,
+   "w": 86,
+   "h": 37,
+   "answer": "Invocación Condicional",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 127,
+   "y": 253,
+   "w": 98,
+   "h": 18,
+   "answer": "Flujo de datos",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 431,
+   "y": 253,
+   "w": 139,
+   "h": 18,
+   "answer": "Módulo preexistente",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 127,
+   "y": 304,
+   "w": 109,
+   "h": 19,
+   "answer": "Flujo de Control",
+   "level": "clave"
+  }
+ ]
+}

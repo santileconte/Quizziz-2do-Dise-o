@@ -1,0 +1,110 @@
+{
+ "figura": "f24-01",
+ "title": "Figura 1 · figura del apunte",
+ "width": 963,
+ "height": 524,
+ "order": 1,
+ "fuente": "PF, pág. 276 · Copia, pág. 209 · Fidanza, pág. 109",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 156,
+   "y": 95,
+   "w": 86,
+   "h": 43,
+   "answer": "Interfaz del Cajero",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 523,
+   "y": 95,
+   "w": 160,
+   "h": 17,
+   "answer": "Retirada de Efectivo",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 378,
+   "y": 96,
+   "w": 51,
+   "h": 17,
+   "answer": "Salida",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 261,
+   "y": 301,
+   "w": 97,
+   "h": 41,
+   "answer": "Sensor de la Salida",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 537,
+   "y": 290,
+   "w": 95,
+   "h": 41,
+   "answer": "Retirada de Efectivo",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 766,
+   "y": 378,
+   "w": 95,
+   "h": 41,
+   "answer": "Clase Persistente",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 336,
+   "y": 380,
+   "w": 103,
+   "h": 40,
+   "answer": "Alimentador de la Salida",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 203,
+   "y": 458,
+   "w": 93,
+   "h": 43,
+   "answer": "Lector de Tarjetas",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 429,
+   "y": 456,
+   "w": 94,
+   "h": 40,
+   "answer": "Contador de Efectivo",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 724,
+   "y": 302,
+   "w": 58,
+   "h": 17,
+   "answer": "Cuenta",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 136,
+   "y": 392,
+   "w": 65,
+   "h": 16,
+   "answer": "Teclado",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "figura": "f45-03",
+ "title": "Objetivos y métricas del SQA",
+ "width": 1280,
+ "height": 747,
+ "order": 3,
+ "fuente": "PF, pág. 363 · Copia, pág. 240",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 385,
+   "y": 376,
+   "w": 133,
+   "h": 23,
+   "answer": "Trazabilidad",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 387,
+   "y": 497,
+   "w": 276,
+   "h": 28,
+   "answer": "Integridad Arquitectónica",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 388,
+   "y": 438,
+   "w": 221,
+   "h": 20,
+   "answer": "Claridad del Modelo",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 388,
+   "y": 651,
+   "w": 282,
+   "h": 24,
+   "answer": "Complejidad de la interfaz",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 386,
+   "y": 711,
+   "w": 96,
+   "h": 19,
+   "answer": "Patrones",
+   "level": "clave"
+  }
+ ]
+}

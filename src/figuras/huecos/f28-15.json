@@ -1,0 +1,47 @@
+{
+ "figura": "f28-15",
+ "title": "Diseño - flujo de trabajo",
+ "width": 756,
+ "height": 392,
+ "order": 15,
+ "fuente": "PF, pág. 208",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 14,
+   "y": 5,
+   "w": 532,
+   "h": 54,
+   "answer": "DISEÑO - FLUJO DE TRABAJO",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 60,
+   "y": 167,
+   "w": 83,
+   "h": 16,
+   "answer": "operaciones",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 59,
+   "y": 216,
+   "w": 69,
+   "h": 14,
+   "answer": "relaciones",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 57,
+   "y": 267,
+   "w": 228,
+   "h": 15,
+   "answer": "ciclo de vida (máquina de estados)",
+   "level": "clave"
+  }
+ ]
+}

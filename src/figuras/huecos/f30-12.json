@@ -1,0 +1,38 @@
+{
+ "figura": "f30-12",
+ "title": "Figura 11.5. Hay asociaciones muchos-a-muchos entre los procedimientos de prueba y los casos de prueba",
+ "width": 846,
+ "height": 174,
+ "order": 12,
+ "fuente": "PF, pág. 285 · Celina, pág. 121",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 335,
+   "y": 11,
+   "w": 210,
+   "h": 17,
+   "answer": "especifica cómo llevar a cabo",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 196,
+   "y": 91,
+   "w": 103,
+   "h": 38,
+   "answer": "Procedimiento de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 547,
+   "y": 93,
+   "w": 107,
+   "h": 18,
+   "answer": "Caso de prueba",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "figura": "f25-04",
+ "title": "Tabla 8.1. Breve comparación del modelo de casos de uso con el modelo de análisis",
+ "width": 847,
+ "height": 526,
+ "order": 4,
+ "fuente": "PF, pág. 177 · Copia, pág. 223",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 103,
+   "y": 19,
+   "w": 219,
+   "h": 19,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 554,
+   "y": 20,
+   "w": 169,
+   "h": 20,
+   "answer": "Modelo de análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 12,
+   "y": 57,
+   "w": 297,
+   "h": 23,
+   "answer": "Descrito con el lenguaje del cliente.",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 438,
+   "y": 59,
+   "w": 350,
+   "h": 23,
+   "answer": "Descrito con el lenguaje del desarrollador.",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 11,
+   "y": 92,
+   "w": 217,
+   "h": 19,
+   "answer": "Vista externa del sistema.",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 437,
+   "y": 93,
+   "w": 212,
+   "h": 19,
+   "answer": "Vista interna del sistema.",
+   "level": "clave"
+  }
+ ]
+}

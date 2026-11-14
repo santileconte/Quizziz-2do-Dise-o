@@ -1,0 +1,101 @@
+{
+ "figura": "f22-01",
+ "title": "Figura 1 · figura del apunte",
+ "width": 918,
+ "height": 286,
+ "order": 1,
+ "fuente": "PF, pág. 154 · Copia, pág. 212",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 98,
+   "y": 14,
+   "w": 179,
+   "h": 24,
+   "answer": "Trabajo a realizar",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 381,
+   "y": 11,
+   "w": 229,
+   "h": 21,
+   "answer": "Artefactos resultantes",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 22,
+   "y": 60,
+   "w": 257,
+   "h": 20,
+   "answer": "Enumerar requisitos candidatos",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 368,
+   "y": 59,
+   "w": 187,
+   "h": 17,
+   "answer": "Lista de características",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 683,
+   "y": 190,
+   "w": 222,
+   "h": 44,
+   "answer": "Definen una especificación de requisitos tradicional",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 368,
+   "y": 113,
+   "w": 271,
+   "h": 20,
+   "answer": "Modelo del dominio o del negocio",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 22,
+   "y": 113,
+   "w": 289,
+   "h": 19,
+   "answer": "Comprender el contexto del sistema",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 22,
+   "y": 166,
+   "w": 282,
+   "h": 20,
+   "answer": "Capturar los requisitos funcionales",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 23,
+   "y": 218,
+   "w": 307,
+   "h": 20,
+   "answer": "Capturar los requisitos no funcionales",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 368,
+   "y": 166,
+   "w": 189,
+   "h": 16,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  }
+ ]
+}

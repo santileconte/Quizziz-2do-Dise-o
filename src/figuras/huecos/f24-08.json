@@ -1,0 +1,47 @@
+{
+ "figura": "f24-08",
+ "title": "Pasos para la realización de un CU",
+ "width": 918,
+ "height": 698,
+ "order": 8,
+ "fuente": "PF, pág. 168",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 607,
+   "y": 55,
+   "w": 305,
+   "h": 185,
+   "answer": "PASOS PARA LA REALIZACIÓN DE CU",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 118,
+   "y": 311,
+   "w": 397,
+   "h": 27,
+   "answer": "Describir las responsabilidades de las clases",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 114,
+   "y": 471,
+   "w": 395,
+   "h": 23,
+   "answer": "Distribuir el comportamiento entre las clases",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 209,
+   "y": 392,
+   "w": 301,
+   "h": 20,
+   "answer": "Establecer relaciones entre clases",
+   "level": "clave"
+  }
+ ]
+}

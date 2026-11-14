@@ -1,0 +1,164 @@
+f02-01 XX
+f02-02 XX
+f04-01 XX
+f05-03#1 =ACTIVIDADES DE DISEÑO
+f05-05#1 X
+f05-06#7 X
+f05-06#8 =Descubrimiento, ilustración y validación
+f05-06#9 X
+f07-04 XX
+f07-05#1 =System call interface
+f07-05#2 X
+f07-05#3 X
+f07-05#6 X
+f07-05#7 X
+f07-05#8 X
+f07-06#2 X
+f08-06 XX
+f11-02#1 X
+f13-03#1 X
+f13-03#2 =REST Client
+f13-04 XX
+f15-08#4 X
+f15-11#3 X
+f15-11#4 X
+f15-11#6 X
+f15-14#2 X
+f15-14#3 X
+f15-14#4 X
+f17-02 XX
+f17-03 XX
+f17-04 XX
+f17-08 XX
+f17-09 XX
+f17-10 XX
+f17-11 XX
+f17-12 XX
+f17-13 XX
+f17-14 XX
+f17-15 XX
+f19-03#1 X
+f19-03#2 =Sistema SW
+f20-06#0 X
+f20-06#1 X
+f20-09#1 X
+f20-09#5 =Implementation
+f20-12#0 X
+f20-12#1 X
+f20-12#2 X
+f20-12#3 X
+f20-12#4 X
+f20-12#5 X
+f20-13#2 =Ingeniero de casos de uso
+f20-14#0 =Modelo de casos de uso
+f20-15#1 X
+f20-15#2 X
+f20-15#3 =Modelo de Casos de Uso
+f20-15#4 X
+f20-15#5 X
+f20-16#1 X
+f20-19 XX
+f22-03#0 X
+f22-04#1 X
+f22-04#2 X
+f23-03#0 X
+f23-03#2 X
+f23-06#1 X
+f23-15#0 X
+f23-15#1 X
+f23-15#3 X
+f23-15#4 =User-Interface Prototype
+f23-16#0 X
+f23-16#1 X
+f23-16#4 X
+f24-08#1 X
+f24-10#0 X
+f24-10#2 X
+f24-12#2 X
+f25-06#1 =Modelo de Análisis
+f25-06#3 X
+f25-06#4 X
+f25-06#5 X
+f25-06#6 X
+f25-06#7 X
+f25-06#8 X
+f25-09#2 X
+f25-09#3 X
+f25-09#4 X
+f25-09#5 X
+f25-12#3 X
+f25-12#4 X
+f25-18#0 X
+f25-18#3 X
+f25-18#4 X
+f25-18#5 X
+f26-04#0 X
+f26-04#2 =Clase del análisis (esbozo)
+f26-11#2 X
+f26-11#3 X
+f26-11#4 X
+f26-11#5 =Business Model [or domain model]
+f27-09#2 X
+f27-11#5 =Interface
+f27-13#1 X
+f27-13#3 X
+f27-14#1 X
+f28-10#3 =Design a Use Case
+f28-13#1 X
+f28-13#2 X
+f28-15#4 X
+f28-15#5 X
+f29-05#2 X
+f29-13#5 =Integration Build Plan
+f29-13#6 =Implementation Subsystem
+f29-13#7 =Interface
+f29-13#8 X
+f29-14#1 =Implementation Subsystem
+f29-14#3 X
+f29-14#4 X
+f29-15#2 X
+f29-15#3 X
+f29-15#5 =Implementation Model
+f29-15#6 X
+f29-19#2 =System Integrator
+f29-19#3 X
+f29-20#3 X
+f29-21 XX
+f29-23#1 =Design Class [designed]
+f29-23#3 =Implement a Class
+f30-14#1 X
+f30-16#1 =«trace»
+f30-16#2 X
+f30-16#4 =«trace»
+f30-16#5 X
+f30-17#1 X
+f30-17#2 X
+f30-18#2 X
+f30-18#3 X
+f30-19#0 =Test Engineer
+f30-19#1 =Plan Test
+f30-19#4 =Integration Tester
+f30-19#5 X
+f30-19#6 =System Tester
+f30-19#7 X
+f30-20#2 =Use-Case Model
+f30-24#2 X
+f30-26 XX
+f32-04 XX
+f32-16 XX
+f32-17#2 X
+f37-02 XX
+f39-03 XX
+f41-09 XX
+f38-01#1 X
+f43-02#1 X
+f43-02#2 X
+f44-02 XX
+f45-05#0 X
+fP1-05 XX
+fP1-06 XX
+fP1-07 XX
+fP1-14 XX
+fP2-17#0 X
+fP2-17#1 X
+fP2-17#2 X

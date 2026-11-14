@@ -1,0 +1,47 @@
+{
+ "figura": "f23-20",
+ "title": "Figura 20 · figura del apunte",
+ "width": 528,
+ "height": 185,
+ "order": 20,
+ "fuente": "Celina, pág. 80 · Copia, pág. 220",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 10,
+   "y": 50,
+   "w": 75,
+   "h": 17,
+   "answer": "Comprador",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 224,
+   "y": 55,
+   "w": 88,
+   "h": 17,
+   "answer": "Pagar factura",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 452,
+   "y": 50,
+   "w": 65,
+   "h": 14,
+   "answer": "Vendedor",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 97,
+   "y": 171,
+   "w": 134,
+   "h": 14,
+   "answer": "Ejecutar transacción",
+   "level": "clave"
+  }
+ ]
+}

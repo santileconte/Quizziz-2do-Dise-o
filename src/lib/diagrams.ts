@@ -1,4 +1,6 @@
 import type { Diagram, DiagramConfig } from './types'
+import { figuras, imagenDe } from './figuras'
+import { temario } from '../temario'
 
 const images = import.meta.glob('../graficos/*.{png,jpg,jpeg,webp,PNG,JPG,JPEG,WEBP}', {
   eager: true,
@@ -47,7 +49,28 @@ export const diagrams: Diagram[] = Object.entries(images)
       a.title.localeCompare(b.title, 'es'),
   )
 
-export const findDiagram = (id: string) => diagrams.find((d) => d.id === id)
+/**
+ * Figuras originales que se pueden completar (src/figuras/huecos/<figura>.json).
+ * Los huecos tapan el texto que se leyó en la figura y se verificó a mano; no se mezclan con los gráficos
+ * redibujados del inicio: tienen sus propias series por tema (#/serie/fig-<tema>).
+ */
+const figConfigs = import.meta.glob('../figuras/huecos/*.json', { eager: true, import: 'default' }) as Record<string, DiagramConfig>
+const figPorId = new Map(figuras.map((f) => [f.id, f]))
+
+export const figureDiagrams: Diagram[] = Object.values(figConfigs)
+  .filter((c) => c.figura && figPorId.has(c.figura) && c.blanks.length > 0)
+  .map((c) => {
+    const f = figPorId.get(c.figura!)!
+    const tema = temario.find((t) => t.n === f.tema)
+    const config: DiagramConfig = { ...c, topic: tema ? `Tema ${tema.n} · ${tema.titulo}` : c.topic }
+    return { id: `fig-${f.id}`, file: f.id, image: imagenDe(f), title: c.title || f.id, config, configured: true }
+  })
+  .sort((a, b) => a.file.localeCompare(b.file, 'es', { numeric: true }))
+
+/** Versión para completar de una figura original, si la tiene. */
+export const practicaDeFigura = (figuraId: string) => figureDiagrams.find((d) => d.config.figura === figuraId)
+
+export const findDiagram = (id: string) => diagrams.find((d) => d.id === id) ?? figureDiagrams.find((d) => d.id === id)
 
 export const levelOf = (b: { level?: string }) => (b.level === 'extra' ? 'extra' : 'clave')
 
@@ -73,4 +96,17 @@ export const groups: Group[] = (() => {
 
 export const allGroup: Group = { key: 'todo', unit: '', name: 'Todos los gráficos', diagrams: groups.flatMap((g) => g.diagrams) }
 
-export const findGroup = (key: string) => (key === allGroup.key ? allGroup : groups.find((g) => g.key === key))
+/** Series de figuras originales: una por tema, en el orden de prioridad de las figuras. */
+export const figureGroups: Group[] = temario
+  .map((t) => {
+    const items = figuras
+      .filter((f) => f.tema === t.n)
+      .sort((a, b) => a.orden - b.orden)
+      .map((f) => practicaDeFigura(f.id))
+      .filter((d): d is Diagram => !!d)
+    return { key: `fig-${t.n}`, unit: `Tema ${t.n}`, name: `Figuras originales · ${t.titulo}`, diagrams: items }
+  })
+  .filter((g) => g.diagrams.length > 0)
+
+export const findGroup = (key: string) =>
+  key === allGroup.key ? allGroup : (groups.find((g) => g.key === key) ?? figureGroups.find((g) => g.key === key))

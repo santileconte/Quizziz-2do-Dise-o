@@ -1,0 +1,92 @@
+{
+ "figura": "f07-03",
+ "title": "Figura 3 · figura del apunte",
+ "width": 587,
+ "height": 588,
+ "order": 3,
+ "fuente": "PF, pág. 43 · Copia, pág. 113",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 228,
+   "y": 22,
+   "w": 128,
+   "h": 27,
+   "answer": "User programs",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 398,
+   "y": 93,
+   "w": 77,
+   "h": 24,
+   "answer": "Libraries",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 314,
+   "y": 229,
+   "w": 258,
+   "h": 49,
+   "answer": "Process control subsystem (IPC, scheduler, memory mgmt)",
+   "level": "extra"
+  },
+  {
+   "id": "b4",
+   "x": 164,
+   "y": 295,
+   "w": 104,
+   "h": 52,
+   "answer": "Buffering mechanism",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 207,
+   "y": 166,
+   "w": 170,
+   "h": 27,
+   "answer": "System call interface",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 12,
+   "y": 365,
+   "w": 120,
+   "h": 52,
+   "answer": "Character device drivers",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 155,
+   "y": 365,
+   "w": 120,
+   "h": 52,
+   "answer": "Block I/O device drivers",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 81,
+   "y": 235,
+   "w": 126,
+   "h": 27,
+   "answer": "File subsystem",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 234,
+   "y": 450,
+   "w": 142,
+   "h": 27,
+   "answer": "Hardware control",
+   "level": "clave"
+  }
+ ]
+}

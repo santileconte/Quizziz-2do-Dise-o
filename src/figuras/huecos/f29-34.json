@@ -1,0 +1,38 @@
+{
+ "figura": "f29-34",
+ "title": "Figura 34 · figura del apunte",
+ "width": 191,
+ "height": 216,
+ "order": 34,
+ "fuente": "Fidanza, pág. 154",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 25,
+   "y": 31,
+   "w": 83,
+   "h": 30,
+   "answer": "Descripción de arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 69,
+   "y": 69,
+   "w": 111,
+   "h": 15,
+   "answer": "vista de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 13,
+   "y": 179,
+   "w": 102,
+   "h": 30,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  }
+ ]
+}

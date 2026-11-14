@@ -1,0 +1,38 @@
+{
+ "figura": "f29-32",
+ "title": "Figura 32 · figura del apunte",
+ "width": 539,
+ "height": 206,
+ "order": 32,
+ "fuente": "Celina, pág. 114",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 29,
+   "y": 13,
+   "w": 140,
+   "h": 18,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 28,
+   "y": 138,
+   "w": 211,
+   "h": 21,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 378,
+   "y": 97,
+   "w": 46,
+   "h": 13,
+   "answer": "«trace»",
+   "level": "clave"
+  }
+ ]
+}

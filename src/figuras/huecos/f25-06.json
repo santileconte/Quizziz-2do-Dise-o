@@ -1,0 +1,38 @@
+{
+ "figura": "f25-06",
+ "title": "Análisis - comparativa",
+ "width": 732,
+ "height": 408,
+ "order": 6,
+ "fuente": "PF, pág. 177",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 15,
+   "y": 11,
+   "w": 479,
+   "h": 50,
+   "answer": "ANÁLISIS - COMPARATIVA",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 20,
+   "y": 85,
+   "w": 165,
+   "h": 14,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 368,
+   "y": 84,
+   "w": 127,
+   "h": 14,
+   "answer": "Modelo de Análisis",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "figura": "f28-12",
+ "title": "Figura 12 · foto de diapositiva",
+ "width": 574,
+ "height": 449,
+ "order": 12,
+ "fuente": "PF, pág. 205",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 0,
+   "y": 330,
+   "w": 121,
+   "h": 73,
+   "answer": "Architecture Description [view of the analysis model]",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 4,
+   "y": 163,
+   "w": 115,
+   "h": 37,
+   "answer": "Supplementary Requirements",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 448,
+   "y": 280,
+   "w": 96,
+   "h": 55,
+   "answer": "Deployment Model [outlined]",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 250,
+   "y": 83,
+   "w": 68,
+   "h": 16,
+   "answer": "Architect",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 445,
+   "y": 211,
+   "w": 101,
+   "h": 35,
+   "answer": "Design Class [outlined]",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 27,
+   "y": 250,
+   "w": 66,
+   "h": 32,
+   "answer": "Analysis Model",
+   "level": "clave"
+  }
+ ]
+}

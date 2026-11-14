@@ -1,0 +1,47 @@
+{
+ "figura": "f29-15",
+ "title": "Implementación - artefactos",
+ "width": 724,
+ "height": 412,
+ "order": 15,
+ "fuente": "PF, pág. 217",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 21,
+   "y": 0,
+   "w": 633,
+   "h": 51,
+   "answer": "IMPLEMENTACIÓN - ARTEFACTOS",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 71,
+   "y": 198,
+   "w": 86,
+   "h": 14,
+   "answer": "«document»",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 159,
+   "y": 302,
+   "w": 88,
+   "h": 15,
+   "answer": "Design Model",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 439,
+   "y": 302,
+   "w": 143,
+   "h": 14,
+   "answer": "Implementation Model",
+   "level": "clave"
+  }
+ ]
+}

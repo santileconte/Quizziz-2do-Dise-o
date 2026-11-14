@@ -1,0 +1,65 @@
+{
+ "figura": "f33-01",
+ "title": "Factory Method",
+ "width": 1302,
+ "height": 709,
+ "order": 1,
+ "fuente": "PF, pág. 296",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 198,
+   "y": 333,
+   "w": 115,
+   "h": 34,
+   "answer": "Document",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 480,
+   "y": 333,
+   "w": 122,
+   "h": 34,
+   "answer": "Application",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 193,
+   "y": 575,
+   "w": 139,
+   "h": 34,
+   "answer": "MyDocument",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 478,
+   "y": 572,
+   "w": 150,
+   "h": 34,
+   "answer": "MyApplication",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 478,
+   "y": 622,
+   "w": 176,
+   "h": 34,
+   "answer": "CreateDocument()",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 811,
+   "y": 622,
+   "w": 229,
+   "h": 34,
+   "answer": "return new MyDocument",
+   "level": "clave"
+  }
+ ]
+}

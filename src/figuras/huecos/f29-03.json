@@ -1,0 +1,47 @@
+{
+ "figura": "f29-03",
+ "title": "Figura 10.3. El modelo de implementación es una jerarquía de subsistemas de implementación que contiene componentes e interfaces",
+ "width": 876,
+ "height": 439,
+ "order": 3,
+ "fuente": "PF, pág. 265 · Celina, pág. 109 · Fidanza, pág. 151",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 250,
+   "y": 139,
+   "w": 232,
+   "h": 22,
+   "answer": "Sistema de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 524,
+   "y": 141,
+   "w": 264,
+   "h": 22,
+   "answer": "Subsistema de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 376,
+   "y": 418,
+   "w": 109,
+   "h": 21,
+   "answer": "Componente",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 804,
+   "y": 420,
+   "w": 65,
+   "h": 18,
+   "answer": "Interfaz",
+   "level": "clave"
+  }
+ ]
+}

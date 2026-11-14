@@ -1,0 +1,56 @@
+{
+ "figura": "f05-09",
+ "title": "Vistas 4+1 de Kruchten",
+ "width": 537,
+ "height": 438,
+ "order": 9,
+ "fuente": "Copia, pág. 157",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 343,
+   "y": 14,
+   "w": 172,
+   "h": 50,
+   "answer": "Programmers Software management",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 314,
+   "y": 98,
+   "w": 150,
+   "h": 59,
+   "answer": "Development View",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 84,
+   "y": 114,
+   "w": 138,
+   "h": 31,
+   "answer": "Logical View",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 27,
+   "y": 353,
+   "w": 102,
+   "h": 71,
+   "answer": "Integrators Performance Scalability",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 363,
+   "y": 359,
+   "w": 138,
+   "h": 69,
+   "answer": "System engineers Topology Communications",
+   "level": "clave"
+  }
+ ]
+}

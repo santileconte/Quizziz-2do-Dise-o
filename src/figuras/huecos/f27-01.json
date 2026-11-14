@@ -1,0 +1,92 @@
+{
+ "figura": "f27-01",
+ "title": "Figura 9.1. Trabajadores y artefactos involucrados en el diseño",
+ "width": 1398,
+ "height": 497,
+ "order": 1,
+ "fuente": "PF, pág. 194 · Celina, pág. 93 · Fidanza, pág. 138",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 198,
+   "y": 23,
+   "w": 149,
+   "h": 95,
+   "answer": "Arquitecto",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 606,
+   "y": 23,
+   "w": 232,
+   "h": 134,
+   "answer": "Ingeniero de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 1024,
+   "y": 26,
+   "w": 234,
+   "h": 132,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 387,
+   "y": 378,
+   "w": 174,
+   "h": 113,
+   "answer": "Descripción de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 603,
+   "y": 382,
+   "w": 225,
+   "h": 107,
+   "answer": "Realización de casos de uso - análisis",
+   "level": "extra"
+  },
+  {
+   "id": "b6",
+   "x": 1,
+   "y": 378,
+   "w": 134,
+   "h": 64,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 868,
+   "y": 386,
+   "w": 142,
+   "h": 66,
+   "answer": "Clases del diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 1066,
+   "y": 388,
+   "w": 159,
+   "h": 66,
+   "answer": "Subsistema de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 630,
+   "y": 207,
+   "w": 184,
+   "h": 30,
+   "answer": "responsable de",
+   "level": "clave"
+  }
+ ]
+}

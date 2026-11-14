@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { bloques, prioridadLabel, temario, type Tema } from '../temario'
-import { diagrams } from '../lib/diagrams'
+import { diagrams, figureDiagrams, figureGroups, practicaDeFigura } from '../lib/diagrams'
 import {
   archivos,
   consignasReales,
@@ -71,6 +71,10 @@ export function FigurasIndice({ compacto = false }: { compacto?: boolean }) {
                     {figs.length ? `${figs.length} ${figs.length === 1 ? 'figura' : 'figuras'}` : `${rel.length} figuras de otros temas`}
                     {examen > 0 && ` · ${examen} de examen o de la cátedra`}
                     {reales > 0 && ` · ${reales} ${reales === 1 ? 'consigna real' : 'consignas reales'} en 2024`}
+                    {(() => {
+                      const n = figs.filter((f) => practicaDeFigura(f.id)).length
+                      return n > 0 ? ` · ${n} para completar` : ''
+                    })()}
                   </span>
                 </a>
               </li>
@@ -109,6 +113,11 @@ export function FigurasIndice({ compacto = false }: { compacto?: boolean }) {
             Las {total} figuras distintas de los apuntes, las diapositivas de clase, el Word de la cátedra y los exámenes,
             ordenadas por tema. En cada bloque van primero los temas de prioridad más alta y los que más se tomaron. Dentro
             de cada tema, primero las figuras que se tomaron en parciales reales y las que usó la cátedra.
+          </p>
+          <p className="lede">
+            {figureDiagrams.length} figuras se pueden completar: sus textos se taparon con huecos (
+            {figureDiagrams.reduce((n, d) => n + d.config.blanks.length, 0)} en total) y se practican igual que los
+            gráficos del inicio, una por una o en serie por tema.
           </p>
         </div>
       </section>
@@ -152,8 +161,24 @@ export function FigurasTema({ tema }: { tema: Tema }) {
   const ant = temario.slice(0, i).reverse().find((t) => figurasDe(t.n).length + relacionadasDe(t.n).length)
   const sig = temario.slice(i + 1).find((t) => figurasDe(t.n).length + relacionadasDe(t.n).length)
 
-  const tarjeta = (f: Figura) => (
-    <button key={f.id} className="fg-card" onClick={() => setAbierta(todas.indexOf(f))}>
+  const serie = figureGroups.find((g) => g.key === `fig-${tema.n}`)
+
+  const tarjeta = (f: Figura) => {
+    const p = practicaDeFigura(f.id)
+    return (
+      <div key={f.id} className="fg-item">
+        {carta(f)}
+        {p && (
+          <a className="fg-fill" href={`#/g/${p.id}`}>
+            Completar · {p.config.blanks.length} huecos
+          </a>
+        )}
+      </div>
+    )
+  }
+
+  const carta = (f: Figura) => (
+    <button className="fg-card" onClick={() => setAbierta(todas.indexOf(f))}>
       <span className="fg-thumb">
         <img src={miniaturaDe(f)} alt={tituloDe(f)} loading="lazy" width={f.w} height={f.h} />
       </span>
@@ -198,8 +223,13 @@ export function FigurasTema({ tema }: { tema: Tema }) {
           {reales ? `${reales} ${reales === 1 ? 'consigna real' : 'consignas reales'} en 2024` : 'sin consignas reales en 2024'} · Apunte: {tema.apunte} · PF:{' '}
           {tema.pf}
         </p>
-        {(practicar.length > 0 || tema.mapa) && (
+        {(practicar.length > 0 || tema.mapa || serie) && (
           <p className="fg-links small">
+            {serie && (
+              <a className="link-quiet fg-serie" href={`#/serie/${serie.key}`}>
+                Completar las figuras en serie · {serie.diagrams.length} {serie.diagrams.length === 1 ? 'figura' : 'figuras'}
+              </a>
+            )}
             {practicar.map((d) => (
               <a key={d!.id} className="link-quiet" href={`#/g/${d!.id}`}>
                 Completar: {d!.title}
@@ -384,6 +414,11 @@ function Visor({
           >
             Tamaño real
           </button>
+          {practicaDeFigura(f.id) && (
+            <a className="btn" href={`#/g/${practicaDeFigura(f.id)!.id}`}>
+              Completar
+            </a>
+          )}
           <a className="btn" href={imagenDe(f)} target="_blank" rel="noreferrer">
             Abrir original
           </a>

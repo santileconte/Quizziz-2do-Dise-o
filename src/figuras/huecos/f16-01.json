@@ -1,0 +1,92 @@
+{
+ "figura": "f16-01",
+ "title": "Orientada a servicios (SOA)",
+ "width": 845,
+ "height": 425,
+ "order": 1,
+ "fuente": "PF, pág. 108",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 17,
+   "y": 11,
+   "w": 599,
+   "h": 48,
+   "answer": "ORIENTADA A SERVICIOS (SOA)",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 278,
+   "y": 288,
+   "w": 60,
+   "h": 40,
+   "answer": "Service provider",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 575,
+   "y": 228,
+   "w": 135,
+   "h": 20,
+   "answer": "Process (WS-BPEL)",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 528,
+   "y": 279,
+   "w": 226,
+   "h": 20,
+   "answer": "Service definition (UDDI, WSDL)",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 94,
+   "y": 223,
+   "w": 29,
+   "h": 15,
+   "answer": "Find",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 271,
+   "y": 223,
+   "w": 49,
+   "h": 15,
+   "answer": "Publish",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 573,
+   "y": 331,
+   "w": 131,
+   "h": 20,
+   "answer": "Messaging (SOAP)",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 151,
+   "y": 316,
+   "w": 81,
+   "h": 18,
+   "answer": "Bind (SOAP)",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 354,
+   "y": 328,
+   "w": 50,
+   "h": 18,
+   "answer": "(WSDL)",
+   "level": "clave"
+  }
+ ]
+}

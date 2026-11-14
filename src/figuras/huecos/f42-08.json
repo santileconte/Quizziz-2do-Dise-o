@@ -1,0 +1,137 @@
+{
+ "figura": "f42-08",
+ "title": "El proyecto XP",
+ "width": 934,
+ "height": 412,
+ "order": 8,
+ "fuente": "Celina, pág. 153 · Fidanza, pág. 172",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 208,
+   "y": 38,
+   "w": 504,
+   "h": 44,
+   "answer": "Extreme Programming Project",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 2,
+   "y": 240,
+   "w": 151,
+   "h": 68,
+   "answer": "Architectural Spike",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 824,
+   "y": 244,
+   "w": 103,
+   "h": 61,
+   "answer": "Small Releases",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 146,
+   "y": 236,
+   "w": 83,
+   "h": 45,
+   "answer": "System Metaphor",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 6,
+   "y": 90,
+   "w": 161,
+   "h": 17,
+   "answer": "Extreme Programming",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 353,
+   "y": 231,
+   "w": 72,
+   "h": 42,
+   "answer": "Release Plan",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 405,
+   "y": 110,
+   "w": 121,
+   "h": 18,
+   "answer": "Test Scenarios",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 13,
+   "y": 168,
+   "w": 131,
+   "h": 22,
+   "answer": "User Stories",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 170,
+   "y": 319,
+   "w": 84,
+   "h": 42,
+   "answer": "Uncertain Estimates",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 342,
+   "y": 321,
+   "w": 84,
+   "h": 42,
+   "answer": "Confident Estimates",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 553,
+   "y": 185,
+   "w": 44,
+   "h": 20,
+   "answer": "Bugs",
+   "level": "clave"
+  },
+  {
+   "id": "b12",
+   "x": 177,
+   "y": 188,
+   "w": 115,
+   "h": 20,
+   "answer": "Requirements",
+   "level": "clave"
+  },
+  {
+   "id": "b13",
+   "x": 270,
+   "y": 377,
+   "w": 63,
+   "h": 31,
+   "answer": "Spike",
+   "level": "clave"
+  },
+  {
+   "id": "b14",
+   "x": 524,
+   "y": 322,
+   "w": 106,
+   "h": 18,
+   "answer": "Next Iteration",
+   "level": "clave"
+  }
+ ]
+}

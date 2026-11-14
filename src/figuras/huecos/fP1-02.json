@@ -1,0 +1,47 @@
+{
+ "figura": "fP1-02",
+ "title": "Elementos del diseño visual: distribución, tipografía, jerarquía, legibilidad, estética",
+ "width": 680,
+ "height": 309,
+ "order": 2,
+ "fuente": "Copia, pág. 16 · Fidanza, pág. 204",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 534,
+   "y": 35,
+   "w": 144,
+   "h": 24,
+   "answer": "Distribución",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 531,
+   "y": 92,
+   "w": 120,
+   "h": 33,
+   "answer": "Tipografía",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 533,
+   "y": 206,
+   "w": 123,
+   "h": 32,
+   "answer": "Legibilidad",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 534,
+   "y": 264,
+   "w": 91,
+   "h": 24,
+   "answer": "Estética",
+   "level": "clave"
+  }
+ ]
+}

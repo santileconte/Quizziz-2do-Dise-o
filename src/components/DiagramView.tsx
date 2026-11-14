@@ -4,6 +4,7 @@ import { grade, hintMask } from '../lib/match'
 import { failedIds, mastery, recordAttempt, recordSession, resetProgress, useProgress } from '../lib/storage'
 import type { Blank, Diagram, Grade } from '../lib/types'
 import { Board } from './Board'
+import { volver } from './Series'
 import { Ring } from './Ring'
 
 export type Mode = 'study' | 'practice' | 'exam'
@@ -265,28 +266,41 @@ export function DiagramView({
       {series && <SeriesBar series={series} />}
       <section className="view-head">
         <div>
-          {!series && (
-            <a href="#/" className="back">
-              ← Gráficos
-            </a>
-          )}
+          {!series &&
+            (diagram.config.figura ? (
+              <a href={`#/figuras/${diagram.config.figura.slice(1, 3)}`} className="back">
+                ← Figuras del tema
+              </a>
+            ) : (
+              <a href="#/" className="back">
+                ← Gráficos
+              </a>
+            ))}
           <h1 className="title">{diagram.title}</h1>
           <div className="view-meta">
             {diagram.config.topic && <span>{diagram.config.topic}</span>}
             {diagram.config.fuente && (
               <>
                 <span className="sep" />
-                <span title="Gráfico redibujado para este repaso a partir de estas fuentes">Basado en: {diagram.config.fuente}</span>
+                {diagram.config.figura ? (
+                  <span title="Figura original de los materiales; los huecos tapan su propio texto">Figura original: {diagram.config.fuente}</span>
+                ) : (
+                  <span title="Gráfico redibujado para este repaso a partir de estas fuentes">Basado en: {diagram.config.fuente}</span>
+                )}
               </>
             )}
             <span className="sep" />
             <span className="meta-ring">
               <Ring value={m} size={22} stroke={2.5} /> dominio
             </span>
-            <span className="sep" />
-            <a href={`#/g/${diagram.id}/editar`} className="link-quiet">
-              Editar huecos
-            </a>
+            {!diagram.config.figura && (
+              <>
+                <span className="sep" />
+                <a href={`#/g/${diagram.id}/editar`} className="link-quiet">
+                  Editar huecos
+                </a>
+              </>
+            )}
           </div>
         </div>
         <div className="segmented big" role="tablist" aria-label="Modo">
@@ -591,7 +605,7 @@ function SeriesBar({ series }: { series: SeriesNav }) {
   return (
     <div className="series-bar">
       <div className="series-top">
-        <a href="#/" className="back">
+        <a href={volver().href} className="back">
           ← Salir
         </a>
         <span className="series-label">{label}</span>

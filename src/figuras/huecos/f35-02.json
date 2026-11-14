@@ -1,0 +1,74 @@
+{
+ "figura": "f35-02",
+ "title": "Adapter",
+ "width": 1296,
+ "height": 708,
+ "order": 2,
+ "fuente": "PF, pág. 300",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 177,
+   "y": 315,
+   "w": 145,
+   "h": 39,
+   "answer": "DrawingEditor",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 451,
+   "y": 315,
+   "w": 74,
+   "h": 39,
+   "answer": "Shape",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 917,
+   "y": 315,
+   "w": 100,
+   "h": 39,
+   "answer": "TextView",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 307,
+   "y": 507,
+   "w": 57,
+   "h": 37,
+   "answer": "Line",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 585,
+   "y": 507,
+   "w": 112,
+   "h": 37,
+   "answer": "TextShape",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 915,
+   "y": 552,
+   "w": 222,
+   "h": 37,
+   "answer": "return text->GetExtent()",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 920,
+   "y": 626,
+   "w": 241,
+   "h": 37,
+   "answer": "return new TextManipulator",
+   "level": "clave"
+  }
+ ]
+}

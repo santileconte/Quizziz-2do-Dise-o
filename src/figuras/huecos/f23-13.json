@@ -1,0 +1,47 @@
+{
+ "figura": "f23-13",
+ "title": "2. Priorizar CU",
+ "width": 1144,
+ "height": 721,
+ "order": 13,
+ "fuente": "PF, pág. 162",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 175,
+   "y": 238,
+   "w": 140,
+   "h": 101,
+   "answer": "Use-Case Model [outlined]",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 908,
+   "y": 409,
+   "w": 235,
+   "h": 135,
+   "answer": "Architecture Description [view of the use-case model]",
+   "level": "extra"
+  },
+  {
+   "id": "b3",
+   "x": 143,
+   "y": 419,
+   "w": 204,
+   "h": 63,
+   "answer": "Supplementary Requirements",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 581,
+   "y": 210,
+   "w": 116,
+   "h": 22,
+   "answer": "Architect",
+   "level": "clave"
+  }
+ ]
+}

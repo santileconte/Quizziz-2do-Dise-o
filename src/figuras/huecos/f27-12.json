@@ -1,0 +1,38 @@
+{
+ "figura": "f27-12",
+ "title": "Diseño - artefactos",
+ "width": 724,
+ "height": 350,
+ "order": 12,
+ "fuente": "PF, pág. 199",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 12,
+   "y": 6,
+   "w": 406,
+   "h": 51,
+   "answer": "DISEÑO - ARTEFACTOS",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 487,
+   "y": 130,
+   "w": 68,
+   "h": 34,
+   "answer": "Design Subsystem",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 356,
+   "y": 308,
+   "w": 41,
+   "h": 24,
+   "answer": "Design Class",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "figura": "f20-02",
+ "title": "Figura 1.4. Modelo del Proceso Unificado",
+ "width": 981,
+ "height": 586,
+ "order": 2,
+ "fuente": "PF, pág. 128 · PF, pág. 249 · Celina, pág. 64 · Copia, pág. 203",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 12,
+   "y": 99,
+   "w": 148,
+   "h": 41,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 194,
+   "y": 214,
+   "w": 97,
+   "h": 42,
+   "answer": "Modelo de análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 341,
+   "y": 149,
+   "w": 90,
+   "h": 19,
+   "answer": "realizado por",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 354,
+   "y": 307,
+   "w": 90,
+   "h": 40,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 652,
+   "y": 433,
+   "w": 168,
+   "h": 45,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  }
+ ]
+}

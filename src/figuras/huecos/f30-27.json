@@ -1,0 +1,74 @@
+{
+ "figura": "f30-27",
+ "title": "Figura 27 · figura del apunte",
+ "width": 1063,
+ "height": 610,
+ "order": 27,
+ "fuente": "Celina, pág. 119",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 541,
+   "y": 7,
+   "w": 81,
+   "h": 25,
+   "answer": "Fases",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 30,
+   "y": 32,
+   "w": 239,
+   "h": 70,
+   "answer": "Flujos de trabajo fundamentales",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 318,
+   "y": 60,
+   "w": 61,
+   "h": 22,
+   "answer": "Inicio",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 611,
+   "y": 60,
+   "w": 145,
+   "h": 22,
+   "answer": "Construcción",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 830,
+   "y": 60,
+   "w": 115,
+   "h": 22,
+   "answer": "Transición",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 53,
+   "y": 307,
+   "w": 75,
+   "h": 20,
+   "answer": "Diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 52,
+   "y": 400,
+   "w": 170,
+   "h": 24,
+   "answer": "Implementación",
+   "level": "clave"
+  }
+ ]
+}

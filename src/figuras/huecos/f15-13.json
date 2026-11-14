@@ -1,0 +1,65 @@
+{
+ "figura": "f15-13",
+ "title": "Diferencias entre cliente-servidor y componentes distribuidos",
+ "width": 742,
+ "height": 513,
+ "order": 13,
+ "fuente": "PF, pág. 102",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 29,
+   "y": 23,
+   "w": 93,
+   "h": 16,
+   "answer": "Característica",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 150,
+   "y": 23,
+   "w": 191,
+   "h": 18,
+   "answer": "Arquitectura Cliente-Servidor",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 30,
+   "y": 80,
+   "w": 76,
+   "h": 14,
+   "answer": "Estructura",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 29,
+   "y": 175,
+   "w": 101,
+   "h": 16,
+   "answer": "Comunicación",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 29,
+   "y": 271,
+   "w": 98,
+   "h": 18,
+   "answer": "Acoplamiento",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 29,
+   "y": 367,
+   "w": 89,
+   "h": 18,
+   "answer": "Complejidad",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "figura": "f29-29",
+ "title": "Figura 29 · figura del apunte",
+ "width": 547,
+ "height": 355,
+ "order": 29,
+ "fuente": "Celina, pág. 112 · Fidanza, pág. 156",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 219,
+   "y": 68,
+   "w": 166,
+   "h": 54,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 211,
+   "y": 301,
+   "w": 189,
+   "h": 53,
+   "answer": "Subsistema de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 34,
+   "y": 305,
+   "w": 124,
+   "h": 22,
+   "answer": "Componente",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 420,
+   "y": 303,
+   "w": 74,
+   "h": 19,
+   "answer": "Interfaz",
+   "level": "clave"
+  }
+ ]
+}

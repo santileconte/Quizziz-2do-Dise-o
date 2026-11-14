@@ -1,0 +1,38 @@
+{
+ "figura": "f29-14",
+ "title": "Implementación - artefactos",
+ "width": 1226,
+ "height": 670,
+ "order": 14,
+ "fuente": "PF, pág. 216",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 20,
+   "y": 5,
+   "w": 1008,
+   "h": 86,
+   "answer": "IMPLEMENTACIÓN - ARTEFACTOS",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 105,
+   "y": 301,
+   "w": 172,
+   "h": 45,
+   "answer": "Implementation Model",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 848,
+   "y": 298,
+   "w": 172,
+   "h": 50,
+   "answer": "Implementation Subsystem",
+   "level": "clave"
+  }
+ ]
+}

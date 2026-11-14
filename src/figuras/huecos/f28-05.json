@@ -1,0 +1,74 @@
+{
+ "figura": "f28-05",
+ "title": "Figura 9.39. La entrada y los resultados del diseño de una clase",
+ "width": 771,
+ "height": 533,
+ "order": 5,
+ "fuente": "PF, pág. 208 · Celina, pág. 105 · Fidanza, pág. 149",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 322,
+   "y": 63,
+   "w": 156,
+   "h": 53,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 20,
+   "y": 107,
+   "w": 225,
+   "h": 54,
+   "answer": "Realización de casos de uso - diseño",
+   "level": "extra"
+  },
+  {
+   "id": "b3",
+   "x": 42,
+   "y": 231,
+   "w": 166,
+   "h": 54,
+   "answer": "Clase del diseño (esquematizada)",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 313,
+   "y": 264,
+   "w": 145,
+   "h": 59,
+   "answer": "Diseñar una clase",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 581,
+   "y": 261,
+   "w": 167,
+   "h": 55,
+   "answer": "Clase del diseño (completa)",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 39,
+   "y": 337,
+   "w": 175,
+   "h": 58,
+   "answer": "Interfaz (esquematizada)",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 41,
+   "y": 463,
+   "w": 173,
+   "h": 54,
+   "answer": "Clase del análisis (completa)",
+   "level": "clave"
+  }
+ ]
+}

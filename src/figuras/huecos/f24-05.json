@@ -1,0 +1,101 @@
+{
+ "figura": "f24-05",
+ "title": "Figura 3.6. Un diagrama de colaboración para la realización del caso de uso Sacar Dinero en el modelo de análisis",
+ "width": 735,
+ "height": 347,
+ "order": 5,
+ "fuente": "PF, pág. 275 · Fidanza, pág. 108",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 232,
+   "y": 57,
+   "w": 79,
+   "h": 40,
+   "answer": ":Interfaz del Cajero",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 85,
+   "y": 41,
+   "w": 114,
+   "h": 16,
+   "answer": "1: identificación",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 332,
+   "y": 41,
+   "w": 135,
+   "h": 15,
+   "answer": "2: solicitar retirada",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 43,
+   "y": 143,
+   "w": 71,
+   "h": 35,
+   "answer": ":Cliente de Banco",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 484,
+   "y": 106,
+   "w": 128,
+   "h": 18,
+   "answer": "3: validar y retirar",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 415,
+   "y": 150,
+   "w": 148,
+   "h": 15,
+   "answer": ":Retirada de Efectivo",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 657,
+   "y": 158,
+   "w": 57,
+   "h": 15,
+   "answer": ":Cuenta",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 62,
+   "y": 203,
+   "w": 145,
+   "h": 18,
+   "answer": "5: entrega de dinero",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 333,
+   "y": 205,
+   "w": 140,
+   "h": 18,
+   "answer": "4: autorizar entrega",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 246,
+   "y": 249,
+   "w": 50,
+   "h": 15,
+   "answer": ":Salida",
+   "level": "clave"
+  }
+ ]
+}

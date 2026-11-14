@@ -1,0 +1,110 @@
+{
+ "figura": "f04-05",
+ "title": "Figura 5 · figura del apunte",
+ "width": 411,
+ "height": 342,
+ "order": 5,
+ "fuente": "Fidanza, pág. 50",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 1,
+   "y": 129,
+   "w": 57,
+   "h": 32,
+   "answer": "región ortogonal",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 280,
+   "y": 44,
+   "w": 32,
+   "h": 14,
+   "answer": "unión",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 187,
+   "y": 52,
+   "w": 45,
+   "h": 14,
+   "answer": "Inactivo",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 48,
+   "y": 69,
+   "w": 44,
+   "h": 14,
+   "answer": "división",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 293,
+   "y": 95,
+   "w": 103,
+   "h": 16,
+   "answer": "estado compuesto",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 112,
+   "y": 113,
+   "w": 55,
+   "h": 13,
+   "answer": "mantener",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 107,
+   "y": 145,
+   "w": 84,
+   "h": 14,
+   "answer": "Mantenimiento",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 104,
+   "y": 164,
+   "w": 49,
+   "h": 14,
+   "answer": "Pruebas",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 296,
+   "y": 279,
+   "w": 77,
+   "h": 17,
+   "answer": "[no continuar]",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 257,
+   "y": 252,
+   "w": 37,
+   "h": 14,
+   "answer": "Orden",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 47,
+   "y": 323,
+   "w": 87,
+   "h": 13,
+   "answer": "estado anidado",
+   "level": "clave"
+  }
+ ]
+}

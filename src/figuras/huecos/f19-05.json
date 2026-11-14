@@ -1,0 +1,38 @@
+{
+ "figura": "f19-05",
+ "title": "Figura 1.1. Un proceso de desarrollo de software",
+ "width": 554,
+ "height": 114,
+ "order": 5,
+ "fuente": "Copia, pág. 200",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 197,
+   "y": 26,
+   "w": 154,
+   "h": 34,
+   "answer": "Proceso de desarrollo de Software",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 11,
+   "y": 41,
+   "w": 64,
+   "h": 29,
+   "answer": "Requisitos del usuario",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 498,
+   "y": 48,
+   "w": 51,
+   "h": 29,
+   "answer": "Sistema software",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "figura": "f20-13",
+ "title": "PUDS - conceptos clave",
+ "width": 1296,
+ "height": 685,
+ "order": 13,
+ "fuente": "PF, pág. 137",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 36,
+   "y": 390,
+   "w": 134,
+   "h": 52,
+   "answer": "Ingeniero de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 48,
+   "y": 241,
+   "w": 109,
+   "h": 25,
+   "answer": "Arquitecto",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 340,
+   "y": 238,
+   "w": 205,
+   "h": 25,
+   "answer": "Diseño arquitectural",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 380,
+   "y": 568,
+   "w": 172,
+   "h": 19,
+   "answer": "Diseñar una clase",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "figura": "fP2-13",
+ "title": "Notación de los diagramas de flujo de control",
+ "width": 637,
+ "height": 460,
+ "order": 13,
+ "fuente": "Fidanza, pág. 219",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 241,
+   "y": 338,
+   "w": 83,
+   "h": 34,
+   "answer": "Proceso Predefinido",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 242,
+   "y": 160,
+   "w": 60,
+   "h": 15,
+   "answer": "Proceso",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 242,
+   "y": 297,
+   "w": 108,
+   "h": 18,
+   "answer": "Flujo de control",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 242,
+   "y": 410,
+   "w": 67,
+   "h": 15,
+   "answer": "Conector",
+   "level": "clave"
+  }
+ ]
+}

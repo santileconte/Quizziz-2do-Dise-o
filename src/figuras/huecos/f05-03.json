@@ -1,0 +1,65 @@
+{
+ "figura": "f05-03",
+ "title": "Figura 3 · foto de diapositiva",
+ "width": 1600,
+ "height": 900,
+ "order": 3,
+ "fuente": "PF, pág. 26",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 178,
+   "y": 205,
+   "w": 332,
+   "h": 135,
+   "answer": "ACTIVIDADES DE DISEÑO",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 902,
+   "y": 499,
+   "w": 105,
+   "h": 72,
+   "answer": "Component selection and design",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 1004,
+   "y": 160,
+   "w": 107,
+   "h": 19,
+   "answer": "Design inputs",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 713,
+   "y": 509,
+   "w": 80,
+   "h": 48,
+   "answer": "Database design",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 972,
+   "y": 311,
+   "w": 136,
+   "h": 29,
+   "answer": "Design activities",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 1088,
+   "y": 644,
+   "w": 120,
+   "h": 20,
+   "answer": "Design outputs",
+   "level": "clave"
+  }
+ ]
+}

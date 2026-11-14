@@ -1,0 +1,47 @@
+{
+ "figura": "f20-12",
+ "title": "Figura 2.2. Trabajadores y recursos que los realizan",
+ "width": 568,
+ "height": 376,
+ "order": 12,
+ "fuente": "PF, pág. 137",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 29,
+   "y": 91,
+   "w": 111,
+   "h": 20,
+   "answer": "Trabajadores",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 29,
+   "y": 274,
+   "w": 81,
+   "h": 17,
+   "answer": "Recursos",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 227,
+   "y": 301,
+   "w": 38,
+   "h": 15,
+   "answer": "María",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 360,
+   "y": 301,
+   "w": 45,
+   "h": 14,
+   "answer": "Carlos",
+   "level": "clave"
+  }
+ ]
+}

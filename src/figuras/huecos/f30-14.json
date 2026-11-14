@@ -1,0 +1,92 @@
+{
+ "figura": "f30-14",
+ "title": "Figura 14 · foto de diapositiva",
+ "width": 1280,
+ "height": 715,
+ "order": 14,
+ "fuente": "PF, pág. 231",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 63,
+   "y": 47,
+   "w": 251,
+   "h": 74,
+   "answer": "PRUEBA",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 756,
+   "y": 303,
+   "w": 137,
+   "h": 55,
+   "answer": "Component Engineer",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 764,
+   "y": 531,
+   "w": 135,
+   "h": 53,
+   "answer": "Test Component",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 317,
+   "y": 531,
+   "w": 119,
+   "h": 50,
+   "answer": "Test Procedure",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 460,
+   "y": 531,
+   "w": 122,
+   "h": 48,
+   "answer": "Test Evaluation",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 754,
+   "y": 377,
+   "w": 152,
+   "h": 21,
+   "answer": "responsible for",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 38,
+   "y": 536,
+   "w": 119,
+   "h": 19,
+   "answer": "Test Model",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 183,
+   "y": 535,
+   "w": 108,
+   "h": 19,
+   "answer": "Test Case",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 596,
+   "y": 534,
+   "w": 101,
+   "h": 19,
+   "answer": "Test Plan",
+   "level": "clave"
+  }
+ ]
+}

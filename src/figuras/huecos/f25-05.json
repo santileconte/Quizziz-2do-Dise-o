@@ -1,0 +1,38 @@
+{
+ "figura": "f25-05",
+ "title": "Figura 8.4. Los atributos esenciales y los subtipos (es decir, estereotipos) de una clase del análisis",
+ "width": 769,
+ "height": 471,
+ "order": 5,
+ "fuente": "PF, pág. 279 · Celina, pág. 84",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 342,
+   "y": 53,
+   "w": 80,
+   "h": 34,
+   "answer": "Clase del análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 347,
+   "y": 383,
+   "w": 72,
+   "h": 34,
+   "answer": "Clase de control",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 450,
+   "y": 382,
+   "w": 75,
+   "h": 34,
+   "answer": "Clase de entidad",
+   "level": "clave"
+  }
+ ]
+}

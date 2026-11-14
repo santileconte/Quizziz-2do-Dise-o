@@ -1,0 +1,47 @@
+{
+ "figura": "f30-03",
+ "title": "Figura 3 · figura del apunte",
+ "width": 787,
+ "height": 487,
+ "order": 3,
+ "fuente": "PF, pág. 285 · Celina, pág. 120 · Copia, pág. 221 · Fidanza, pág. 161",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 423,
+   "y": 8,
+   "w": 262,
+   "h": 33,
+   "answer": "Modelo de pruebas",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 516,
+   "y": 180,
+   "w": 248,
+   "h": 62,
+   "answer": "Caso de prueba (prueba de caja negra)",
+   "level": "extra"
+  },
+  {
+   "id": "b3",
+   "x": 511,
+   "y": 393,
+   "w": 257,
+   "h": 61,
+   "answer": "Caso de prueba (prueba de caja blanca)",
+   "level": "extra"
+  },
+  {
+   "id": "b4",
+   "x": 404,
+   "y": 332,
+   "w": 78,
+   "h": 19,
+   "answer": "«trace»",
+   "level": "clave"
+  }
+ ]
+}

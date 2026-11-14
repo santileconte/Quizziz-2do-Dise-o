@@ -1,0 +1,47 @@
+{
+ "figura": "f32-09",
+ "title": "Figura 16 de la práctica de patrones GoF",
+ "width": 479,
+ "height": 490,
+ "order": 9,
+ "fuente": "Preguntas Patrones GOF.docx · figura 16",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 210,
+   "y": 14,
+   "w": 64,
+   "h": 23,
+   "answer": "GameAI",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 149,
+   "y": 86,
+   "w": 85,
+   "h": 22,
+   "answer": "takeTurn()",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 83,
+   "y": 295,
+   "w": 57,
+   "h": 23,
+   "answer": "OrcsAI",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 324,
+   "y": 295,
+   "w": 93,
+   "h": 23,
+   "answer": "MonstersAI",
+   "level": "clave"
+  }
+ ]
+}

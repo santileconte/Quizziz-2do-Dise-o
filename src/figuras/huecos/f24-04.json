@@ -1,0 +1,119 @@
+{
+ "figura": "f24-04",
+ "title": "Figura 3.5. El diagrama muestra cómo cada caso de uso (izquierda) se realiza como una estructura de clases del análisis (derecha), Por ejemplo",
+ "width": 791,
+ "height": 530,
+ "order": 4,
+ "fuente": "PF, pág. 275 · Fidanza, pág. 107",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 113,
+   "y": 20,
+   "w": 123,
+   "h": 45,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 482,
+   "y": 22,
+   "w": 166,
+   "h": 18,
+   "answer": "Modelo de análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 589,
+   "y": 123,
+   "w": 82,
+   "h": 34,
+   "answer": "Retirada de Efectivo",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 59,
+   "y": 230,
+   "w": 70,
+   "h": 34,
+   "answer": "Cliente de Banco",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 191,
+   "y": 219,
+   "w": 101,
+   "h": 34,
+   "answer": "Transferencia entre Cuentas",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 324,
+   "y": 231,
+   "w": 70,
+   "h": 34,
+   "answer": "Cliente de Banco",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 211,
+   "y": 324,
+   "w": 62,
+   "h": 34,
+   "answer": "Ingresar Dinero",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 482,
+   "y": 118,
+   "w": 45,
+   "h": 15,
+   "answer": "Salida",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 195,
+   "y": 133,
+   "w": 91,
+   "h": 15,
+   "answer": "Sacar Dinero",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 476,
+   "y": 225,
+   "w": 53,
+   "h": 15,
+   "answer": "Interfaz",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 716,
+   "y": 225,
+   "w": 51,
+   "h": 15,
+   "answer": "Cuenta",
+   "level": "clave"
+  },
+  {
+   "id": "b12",
+   "x": 602,
+   "y": 333,
+   "w": 55,
+   "h": 18,
+   "answer": "Ingreso",
+   "level": "clave"
+  }
+ ]
+}

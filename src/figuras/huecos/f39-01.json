@@ -1,0 +1,56 @@
+{
+ "figura": "f39-01",
+ "title": "Figura 8 de la práctica de patrones GoF",
+ "width": 436,
+ "height": 536,
+ "order": 1,
+ "fuente": "Preguntas Patrones GOF.docx · figura 8",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 276,
+   "y": 52,
+   "w": 98,
+   "h": 22,
+   "answer": "ImageEditor",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 72,
+   "y": 75,
+   "w": 63,
+   "h": 21,
+   "answer": "Graphic",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 88,
+   "y": 221,
+   "w": 32,
+   "h": 21,
+   "answer": "Dot",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 240,
+   "y": 221,
+   "w": 146,
+   "h": 21,
+   "answer": "CompoundGraphic",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 81,
+   "y": 401,
+   "w": 48,
+   "h": 22,
+   "answer": "Circle",
+   "level": "clave"
+  }
+ ]
+}

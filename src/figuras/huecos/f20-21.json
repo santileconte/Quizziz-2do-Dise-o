@@ -1,0 +1,56 @@
+{
+ "figura": "f20-21",
+ "title": "Figura 21 · figura del apunte",
+ "width": 520,
+ "height": 290,
+ "order": 21,
+ "fuente": "Fidanza, pág. 116",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 0,
+   "y": 147,
+   "w": 64,
+   "h": 30,
+   "answer": "Importancia del riesgo",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 91,
+   "y": 60,
+   "w": 31,
+   "h": 12,
+   "answer": "Inicio",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 170,
+   "y": 88,
+   "w": 63,
+   "h": 12,
+   "answer": "Elaboración",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 250,
+   "y": 161,
+   "w": 72,
+   "h": 13,
+   "answer": "Construcción",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 412,
+   "y": 223,
+   "w": 57,
+   "h": 13,
+   "answer": "Transición",
+   "level": "clave"
+  }
+ ]
+}

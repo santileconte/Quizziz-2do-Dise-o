@@ -1,0 +1,38 @@
+{
+ "figura": "f23-19",
+ "title": "Figura 7.5. La descripción de la arquitectura",
+ "width": 543,
+ "height": 464,
+ "order": 19,
+ "fuente": "Celina, pág. 73 · Copia, pág. 215",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 183,
+   "y": 67,
+   "w": 179,
+   "h": 54,
+   "answer": "Descripción de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 280,
+   "y": 147,
+   "w": 208,
+   "h": 24,
+   "answer": "vista de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 184,
+   "y": 339,
+   "w": 172,
+   "h": 51,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  }
+ ]
+}

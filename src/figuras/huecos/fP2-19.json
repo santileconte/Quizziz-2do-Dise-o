@@ -1,0 +1,47 @@
+{
+ "figura": "fP2-19",
+ "title": "Flujo aferente, eferente, de transformación y de coordinación",
+ "width": 730,
+ "height": 228,
+ "order": 19,
+ "fuente": "Fidanza, pág. 222",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 6,
+   "y": 5,
+   "w": 107,
+   "h": 20,
+   "answer": "Flujo Aferente",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 171,
+   "y": 4,
+   "w": 103,
+   "h": 20,
+   "answer": "Flujo Eferente",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 314,
+   "y": 5,
+   "w": 177,
+   "h": 20,
+   "answer": "Flujo de Transformación",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 533,
+   "y": 4,
+   "w": 162,
+   "h": 20,
+   "answer": "Flujo de Coordinación",
+   "level": "clave"
+  }
+ ]
+}

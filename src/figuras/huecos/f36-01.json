@@ -1,0 +1,56 @@
+{
+ "figura": "f36-01",
+ "title": "Figura 18 de la práctica de patrones GoF",
+ "width": 597,
+ "height": 483,
+ "order": 1,
+ "fuente": "Preguntas Patrones GOF.docx · figura 18",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 94,
+   "y": 20,
+   "w": 53,
+   "h": 25,
+   "answer": "Editor",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 361,
+   "y": 20,
+   "w": 117,
+   "h": 25,
+   "answer": "EventManager",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 318,
+   "y": 243,
+   "w": 122,
+   "h": 28,
+   "answer": "EventListeners",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 199,
+   "y": 368,
+   "w": 159,
+   "h": 25,
+   "answer": "EmailAlertsListener",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 415,
+   "y": 368,
+   "w": 131,
+   "h": 25,
+   "answer": "LoggingListener",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "figura": "f25-11",
+ "title": "Análisis - artefactos",
+ "width": 732,
+ "height": 407,
+ "order": 11,
+ "fuente": "PF, pág. 182",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 11,
+   "y": 9,
+   "w": 444,
+   "h": 51,
+   "answer": "ANÁLISIS - ARTEFACTOS",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 613,
+   "y": 339,
+   "w": 58,
+   "h": 28,
+   "answer": "Analysis Class",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 651,
+   "y": 284,
+   "w": 71,
+   "h": 14,
+   "answer": "participant",
+   "level": "clave"
+  }
+ ]
+}

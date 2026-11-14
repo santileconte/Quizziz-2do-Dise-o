@@ -1,0 +1,110 @@
+{
+ "figura": "f14-01",
+ "title": "Figura 1 · figura del apunte",
+ "width": 671,
+ "height": 332,
+ "order": 1,
+ "fuente": "Copia, pág. 159 · Fidanza, pág. 89",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 295,
+   "y": 32,
+   "w": 85,
+   "h": 39,
+   "answer": "Operación coordinada",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 262,
+   "y": 89,
+   "w": 151,
+   "h": 66,
+   "answer": "Intercambio de información y servicios comunes",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 35,
+   "y": 42,
+   "w": 197,
+   "h": 21,
+   "answer": "Componentes de aplicación",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 440,
+   "y": 42,
+   "w": 196,
+   "h": 21,
+   "answer": "Componentes de aplicación",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 296,
+   "y": 169,
+   "w": 82,
+   "h": 44,
+   "answer": "Interacción lógica",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 97,
+   "y": 111,
+   "w": 85,
+   "h": 17,
+   "answer": "Middleware",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 490,
+   "y": 111,
+   "w": 85,
+   "h": 17,
+   "answer": "Middleware",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 76,
+   "y": 180,
+   "w": 127,
+   "h": 21,
+   "answer": "Sistema operativo",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 469,
+   "y": 180,
+   "w": 127,
+   "h": 21,
+   "answer": "Sistema operativo",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 124,
+   "y": 250,
+   "w": 30,
+   "h": 17,
+   "answer": "Red",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 517,
+   "y": 250,
+   "w": 29,
+   "h": 17,
+   "answer": "Red",
+   "level": "clave"
+  }
+ ]
+}

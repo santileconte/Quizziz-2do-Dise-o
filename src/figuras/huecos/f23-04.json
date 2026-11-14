@@ -1,0 +1,119 @@
+{
+ "figura": "f23-04",
+ "title": "Figura 7.1. Los trabajadores y artefactos implicados durante la captura de los requisitos mediante casos de uso",
+ "width": 1015,
+ "height": 452,
+ "order": 4,
+ "fuente": "PF, pág. 156 · PF, pág. 251 · Celina, pág. 71 · Copia, pág. 213 · Fidanza, pág. 119",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 152,
+   "y": 92,
+   "w": 106,
+   "h": 43,
+   "answer": "Analista de sistemas",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 417,
+   "y": 90,
+   "w": 142,
+   "h": 43,
+   "answer": "Especificador de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 583,
+   "y": 89,
+   "w": 187,
+   "h": 43,
+   "answer": "Diseñador de interfaz de usuario",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 29,
+   "y": 290,
+   "w": 87,
+   "h": 69,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 627,
+   "y": 287,
+   "w": 101,
+   "h": 69,
+   "answer": "Prototipo de interfaz de usuario",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 784,
+   "y": 286,
+   "w": 154,
+   "h": 49,
+   "answer": "Descripción de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 617,
+   "y": 169,
+   "w": 121,
+   "h": 21,
+   "answer": "responsable de",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 796,
+   "y": 168,
+   "w": 120,
+   "h": 21,
+   "answer": "responsable de",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 428,
+   "y": 170,
+   "w": 122,
+   "h": 20,
+   "answer": "responsable de",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 181,
+   "y": 293,
+   "w": 48,
+   "h": 18,
+   "answer": "Actor",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 304,
+   "y": 292,
+   "w": 74,
+   "h": 17,
+   "answer": "Glosario",
+   "level": "clave"
+  },
+  {
+   "id": "b12",
+   "x": 434,
+   "y": 293,
+   "w": 107,
+   "h": 17,
+   "answer": "Caso de uso",
+   "level": "clave"
+  }
+ ]
+}

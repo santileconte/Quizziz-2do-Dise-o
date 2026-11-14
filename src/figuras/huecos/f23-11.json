@@ -1,0 +1,56 @@
+{
+ "figura": "f23-11",
+ "title": "Requisitos - flujo de trabajo",
+ "width": 1085,
+ "height": 692,
+ "order": 11,
+ "fuente": "PF, pág. 160",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 20,
+   "y": 26,
+   "w": 1010,
+   "h": 81,
+   "answer": "REQUISITOS - FLUJO DE TRABAJO",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 414,
+   "y": 214,
+   "w": 163,
+   "h": 48,
+   "answer": "Find Actors and Use Cases",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 747,
+   "y": 217,
+   "w": 162,
+   "h": 45,
+   "answer": "Structure the Use-Case Model",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 496,
+   "y": 345,
+   "w": 108,
+   "h": 44,
+   "answer": "Prioritize Use Cases",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 648,
+   "y": 470,
+   "w": 95,
+   "h": 43,
+   "answer": "Detail a Use Case",
+   "level": "clave"
+  }
+ ]
+}

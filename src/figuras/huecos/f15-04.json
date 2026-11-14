@@ -1,0 +1,38 @@
+{
+ "figura": "f15-04",
+ "title": "C/S multinivel (multi-tier)",
+ "width": 874,
+ "height": 439,
+ "order": 4,
+ "fuente": "PF, pág. 99 · Celina, pág. 55",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 139,
+   "y": 43,
+   "w": 182,
+   "h": 22,
+   "answer": "HTTPS interaction",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 723,
+   "y": 167,
+   "w": 114,
+   "h": 79,
+   "answer": "Customer account database",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 308,
+   "y": 178,
+   "w": 170,
+   "h": 59,
+   "answer": "Account service provision",
+   "level": "clave"
+  }
+ ]
+}

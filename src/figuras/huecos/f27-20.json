@@ -1,0 +1,38 @@
+{
+ "figura": "f27-20",
+ "title": "Figura 20 · figura del apunte",
+ "width": 183,
+ "height": 191,
+ "order": 20,
+ "fuente": "Fidanza, pág. 142",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 14,
+   "y": 28,
+   "w": 94,
+   "h": 29,
+   "answer": "Descripción de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 32,
+   "y": 154,
+   "w": 55,
+   "h": 28,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 63,
+   "y": 66,
+   "w": 110,
+   "h": 14,
+   "answer": "vista de la arquitectura",
+   "level": "clave"
+  }
+ ]
+}

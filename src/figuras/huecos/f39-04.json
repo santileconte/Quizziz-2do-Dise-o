@@ -1,0 +1,65 @@
+{
+ "figura": "f39-04",
+ "title": "Composite",
+ "width": 1296,
+ "height": 734,
+ "order": 4,
+ "fuente": "PF, pág. 311",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 554,
+   "y": 565,
+   "w": 94,
+   "h": 41,
+   "answer": "Composite",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 388,
+   "y": 566,
+   "w": 48,
+   "h": 40,
+   "answer": "Leaf",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 830,
+   "y": 596,
+   "w": 131,
+   "h": 39,
+   "answer": "forall g in children g.Operation();",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 309,
+   "y": 392,
+   "w": 82,
+   "h": 23,
+   "answer": "Client",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 469,
+   "y": 390,
+   "w": 94,
+   "h": 23,
+   "answer": "Component",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 737,
+   "y": 563,
+   "w": 54,
+   "h": 14,
+   "answer": "children",
+   "level": "clave"
+  }
+ ]
+}

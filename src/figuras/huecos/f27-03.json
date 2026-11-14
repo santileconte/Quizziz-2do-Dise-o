@@ -1,0 +1,56 @@
+{
+ "figura": "f27-03",
+ "title": "Figura 9.6. Trazas existentes entre realizaciones de caso de uso en diferentes modelos",
+ "width": 614,
+ "height": 206,
+ "order": 3,
+ "fuente": "PF, pág. 280 · Celina, pág. 96 · Fidanza, pág. 140",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 22,
+   "y": 11,
+   "w": 237,
+   "h": 31,
+   "answer": "Modelo de análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 343,
+   "y": 11,
+   "w": 225,
+   "h": 31,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 426,
+   "y": 141,
+   "w": 174,
+   "h": 55,
+   "answer": "Realización caso de uso - diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 16,
+   "y": 143,
+   "w": 169,
+   "h": 50,
+   "answer": "Realización caso de uso - análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 308,
+   "y": 93,
+   "w": 71,
+   "h": 19,
+   "answer": "«trace»",
+   "level": "clave"
+  }
+ ]
+}

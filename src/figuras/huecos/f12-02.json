@@ -1,0 +1,92 @@
+{
+ "figura": "f12-02",
+ "title": "Figura 2 · figura del apunte",
+ "width": 884,
+ "height": 462,
+ "order": 2,
+ "fuente": "PF, pág. 77 · Celina, pág. 48",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 76,
+   "y": 308,
+   "w": 100,
+   "h": 70,
+   "answer": "Catalog server",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 297,
+   "y": 308,
+   "w": 86,
+   "h": 70,
+   "answer": "Video server",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 508,
+   "y": 308,
+   "w": 93,
+   "h": 70,
+   "answer": "Picture server",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 729,
+   "y": 308,
+   "w": 82,
+   "h": 70,
+   "answer": "Web server",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 62,
+   "y": 383,
+   "w": 122,
+   "h": 70,
+   "answer": "Library catalogue",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 703,
+   "y": 383,
+   "w": 134,
+   "h": 70,
+   "answer": "Film and photo info.",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 406,
+   "y": 172,
+   "w": 82,
+   "h": 22,
+   "answer": "Internet",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 489,
+   "y": 396,
+   "w": 132,
+   "h": 39,
+   "answer": "Photo store",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 289,
+   "y": 401,
+   "w": 111,
+   "h": 35,
+   "answer": "Film store",
+   "level": "clave"
+  }
+ ]
+}

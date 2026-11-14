@@ -1,0 +1,38 @@
+{
+ "figura": "f23-15",
+ "title": "4. Prototipar UI",
+ "width": 955,
+ "height": 670,
+ "order": 15,
+ "fuente": "PF, pág. 164",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 35,
+   "y": 329,
+   "w": 192,
+   "h": 61,
+   "answer": "Supplementary Requirements",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 774,
+   "y": 400,
+   "w": 181,
+   "h": 62,
+   "answer": "User-Interface Prototype",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 58,
+   "y": 477,
+   "w": 144,
+   "h": 59,
+   "answer": "Use Case [described]",
+   "level": "clave"
+  }
+ ]
+}

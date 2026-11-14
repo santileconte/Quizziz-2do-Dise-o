@@ -1,0 +1,56 @@
+{
+ "figura": "f27-05",
+ "title": "Figura 9.8. Los contenidos de un subsistema y sus asociaciones fundamentales",
+ "width": 587,
+ "height": 481,
+ "order": 5,
+ "fuente": "PF, pág. 281 · Celina, pág. 97 · Fidanza, pág. 141",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 240,
+   "y": 131,
+   "w": 105,
+   "h": 44,
+   "answer": "Subsistema de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 10,
+   "y": 422,
+   "w": 90,
+   "h": 43,
+   "answer": "Clase de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 209,
+   "y": 422,
+   "w": 173,
+   "h": 44,
+   "answer": "Realización de caso de uso - diseño",
+   "level": "extra"
+  },
+  {
+   "id": "b4",
+   "x": 513,
+   "y": 195,
+   "w": 68,
+   "h": 17,
+   "answer": "realiza",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 464,
+   "y": 423,
+   "w": 66,
+   "h": 18,
+   "answer": "Interfaz",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "figura": "f23-14",
+ "title": "3. Detallar CU",
+ "width": 1010,
+ "height": 610,
+ "order": 14,
+ "fuente": "PF, pág. 163",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 458,
+   "y": 130,
+   "w": 134,
+   "h": 66,
+   "answer": "Use-Case Specifier",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 858,
+   "y": 357,
+   "w": 144,
+   "h": 71,
+   "answer": "Use Case [detailed]",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 20,
+   "y": 341,
+   "w": 203,
+   "h": 64,
+   "answer": "Supplementary Requirements",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 460,
+   "y": 353,
+   "w": 134,
+   "h": 61,
+   "answer": "Detail a Use Case",
+   "level": "clave"
+  }
+ ]
+}

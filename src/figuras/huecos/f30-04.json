@@ -1,0 +1,56 @@
+{
+ "figura": "f30-04",
+ "title": "Figura 11.1. Los trabajadores y artefactos involucrados en las pruebas",
+ "width": 1332,
+ "height": 360,
+ "order": 4,
+ "fuente": "PF, pág. 269 · Celina, pág. 119 · Fidanza, pág. 160",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 858,
+   "y": 65,
+   "w": 234,
+   "h": 61,
+   "answer": "Ingeniero de pruebas de integración",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 1082,
+   "y": 65,
+   "w": 248,
+   "h": 61,
+   "answer": "Ingeniero de pruebas de sistema",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 690,
+   "y": 304,
+   "w": 145,
+   "h": 56,
+   "answer": "Componente de pruebas",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 1025,
+   "y": 144,
+   "w": 157,
+   "h": 27,
+   "answer": "responsable de",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 1061,
+   "y": 308,
+   "w": 85,
+   "h": 21,
+   "answer": "Defecto",
+   "level": "clave"
+  }
+ ]
+}

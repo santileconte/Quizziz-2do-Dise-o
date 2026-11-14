@@ -1,0 +1,38 @@
+{
+ "figura": "fP2-18",
+ "title": "Determinación del nivel de cohesión",
+ "width": 812,
+ "height": 490,
+ "order": 18,
+ "fuente": "Fidanza, pág. 222",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 31,
+   "y": 12,
+   "w": 252,
+   "h": 15,
+   "answer": "Determinación del nivel de cohesión",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 395,
+   "y": 214,
+   "w": 29,
+   "h": 11,
+   "answer": "Datos",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 396,
+   "y": 343,
+   "w": 26,
+   "h": 11,
+   "answer": "Nada",
+   "level": "clave"
+  }
+ ]
+}

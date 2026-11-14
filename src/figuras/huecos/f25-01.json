@@ -1,0 +1,74 @@
+{
+ "figura": "f25-01",
+ "title": "Figura 8.1. Los trabajadores y artefactos implicados en el análisis",
+ "width": 947,
+ "height": 362,
+ "order": 1,
+ "fuente": "PF, pág. 186 · Celina, pág. 82 · Fidanza, pág. 127",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 687,
+   "y": 56,
+   "w": 153,
+   "h": 49,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 23,
+   "y": 255,
+   "w": 100,
+   "h": 44,
+   "answer": "Modelo de análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 606,
+   "y": 260,
+   "w": 105,
+   "h": 44,
+   "answer": "Clase del análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 815,
+   "y": 260,
+   "w": 106,
+   "h": 44,
+   "answer": "Paquete del análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 406,
+   "y": 140,
+   "w": 124,
+   "h": 21,
+   "answer": "responsable de",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 702,
+   "y": 142,
+   "w": 126,
+   "h": 21,
+   "answer": "responsable de",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 113,
+   "y": 140,
+   "w": 126,
+   "h": 21,
+   "answer": "responsable de",
+   "level": "clave"
+  }
+ ]
+}

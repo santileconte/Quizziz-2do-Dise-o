@@ -1,0 +1,83 @@
+{
+ "figura": "f12-01",
+ "title": "Figura 1 · figura del apunte",
+ "width": 712,
+ "height": 317,
+ "order": 1,
+ "fuente": "PF, pág. 76 · Celina, pág. 47",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 210,
+   "y": 4,
+   "w": 84,
+   "h": 60,
+   "answer": "UML editors",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 386,
+   "y": 4,
+   "w": 107,
+   "h": 60,
+   "answer": "Code generators",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 591,
+   "y": 67,
+   "w": 84,
+   "h": 60,
+   "answer": "Java editor",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 15,
+   "y": 122,
+   "w": 95,
+   "h": 59,
+   "answer": "Design translator",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 292,
+   "y": 124,
+   "w": 105,
+   "h": 60,
+   "answer": "Project repository",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 598,
+   "y": 182,
+   "w": 76,
+   "h": 60,
+   "answer": "Python editor",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 208,
+   "y": 246,
+   "w": 84,
+   "h": 59,
+   "answer": "Design analyzer",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 391,
+   "y": 246,
+   "w": 99,
+   "h": 59,
+   "answer": "Report generator",
+   "level": "clave"
+  }
+ ]
+}

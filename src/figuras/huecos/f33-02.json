@@ -1,0 +1,38 @@
+{
+ "figura": "f33-02",
+ "title": "Figura 2 · figura del libro, proyectada en clase",
+ "width": 730,
+ "height": 425,
+ "order": 2,
+ "fuente": "PF, pág. 297",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 11,
+   "y": 10,
+   "w": 311,
+   "h": 42,
+   "answer": "FACTORY METHOD",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 287,
+   "y": 243,
+   "w": 50,
+   "h": 13,
+   "answer": "Creator",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 286,
+   "y": 358,
+   "w": 105,
+   "h": 12,
+   "answer": "ConcreteCreator",
+   "level": "clave"
+  }
+ ]
+}

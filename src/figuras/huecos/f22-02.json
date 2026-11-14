@@ -1,0 +1,92 @@
+{
+ "figura": "f22-02",
+ "title": "Especificación de flujos de trabajo principales",
+ "width": 1189,
+ "height": 612,
+ "order": 2,
+ "fuente": "PF, pág. 155 · Copia, pág. 213",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 946,
+   "y": 99,
+   "w": 138,
+   "h": 31,
+   "answer": "Actividad",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 531,
+   "y": 385,
+   "w": 179,
+   "h": 70,
+   "answer": "Trabajador",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 61,
+   "y": 379,
+   "w": 353,
+   "h": 39,
+   "answer": "Flujo de trabajo principal",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 778,
+   "y": 218,
+   "w": 72,
+   "h": 22,
+   "answer": "realiza",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 1055,
+   "y": 327,
+   "w": 48,
+   "h": 31,
+   "answer": "sale",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 330,
+   "y": 274,
+   "w": 183,
+   "h": 22,
+   "answer": "expresado como",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 721,
+   "y": 473,
+   "w": 172,
+   "h": 32,
+   "answer": "responsable de",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 934,
+   "y": 541,
+   "w": 136,
+   "h": 28,
+   "answer": "Artefacto",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 915,
+   "y": 334,
+   "w": 59,
+   "h": 17,
+   "answer": "entra",
+   "level": "clave"
+  }
+ ]
+}

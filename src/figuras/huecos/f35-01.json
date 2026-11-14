@@ -1,0 +1,47 @@
+{
+ "figura": "f35-01",
+ "title": "Figura 11 de la práctica de patrones GoF",
+ "width": 751,
+ "height": 448,
+ "order": 1,
+ "fuente": "Preguntas Patrones GOF.docx · figura 11",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 170,
+   "y": 30,
+   "w": 95,
+   "h": 28,
+   "answer": "RoundHole",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 517,
+   "y": 41,
+   "w": 88,
+   "h": 28,
+   "answer": "RoundPeg",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 172,
+   "y": 233,
+   "w": 92,
+   "h": 28,
+   "answer": "SquarePeg",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 484,
+   "y": 233,
+   "w": 153,
+   "h": 28,
+   "answer": "SquarePegAdapter",
+   "level": "clave"
+  }
+ ]
+}

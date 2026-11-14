@@ -1,0 +1,38 @@
+{
+ "figura": "f13-06",
+ "title": "Figura 6 · figura del apunte",
+ "width": 778,
+ "height": 230,
+ "order": 6,
+ "fuente": "Copia, pág. 149 · Fidanza, pág. 85",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 25,
+   "y": 78,
+   "w": 85,
+   "h": 34,
+   "answer": "Leer facturas emitidas",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 198,
+   "y": 189,
+   "w": 41,
+   "h": 18,
+   "answer": "Pagos",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 40,
+   "y": 189,
+   "w": 55,
+   "h": 15,
+   "answer": "Facturas",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "figura": "f19-04",
+ "title": "Figura 4.4. La línea base de la arquitectura es una versión interna del sistema, que está centrada en la descripción de la arquitectura",
+ "width": 972,
+ "height": 376,
+ "order": 4,
+ "fuente": "Copia, pág. 210 · Fidanza, pág. 112",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 45,
+   "y": 57,
+   "w": 142,
+   "h": 41,
+   "answer": "Modelo de Casos de Uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 219,
+   "y": 58,
+   "w": 94,
+   "h": 41,
+   "answer": "Modelo de Análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 817,
+   "y": 61,
+   "w": 86,
+   "h": 41,
+   "answer": "Modelo de Prueba",
+   "level": "clave"
+  }
+ ]
+}

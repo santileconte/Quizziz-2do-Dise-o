@@ -1,0 +1,83 @@
+{
+ "figura": "f11-06",
+ "title": "Figura 6 · figura del apunte",
+ "width": 571,
+ "height": 530,
+ "order": 6,
+ "fuente": "Celina, pág. 46",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 39,
+   "y": 138,
+   "w": 121,
+   "h": 53,
+   "answer": "Group management",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 235,
+   "y": 137,
+   "w": 121,
+   "h": 54,
+   "answer": "Application management",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 398,
+   "y": 141,
+   "w": 122,
+   "h": 54,
+   "answer": "Identity management",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 14,
+   "y": 103,
+   "w": 188,
+   "h": 25,
+   "answer": "Configuration services",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 14,
+   "y": 228,
+   "w": 169,
+   "h": 24,
+   "answer": "Application services",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 15,
+   "y": 401,
+   "w": 121,
+   "h": 24,
+   "answer": "Utility services",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 37,
+   "y": 476,
+   "w": 108,
+   "h": 24,
+   "answer": "User storage",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 409,
+   "y": 475,
+   "w": 59,
+   "h": 20,
+   "answer": "Search",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "figura": "f28-06",
+ "title": "Figura 9.17. Las entradas y los resultados del diseño de la arquitectura",
+ "width": 799,
+ "height": 599,
+ "order": 6,
+ "fuente": "PF, pág. 262 · Celina, pág. 100 · Fidanza, pág. 146",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 22,
+   "y": 56,
+   "w": 165,
+   "h": 49,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 338,
+   "y": 78,
+   "w": 103,
+   "h": 23,
+   "answer": "Arquitecto",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 47,
+   "y": 194,
+   "w": 117,
+   "h": 50,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 49,
+   "y": 322,
+   "w": 110,
+   "h": 49,
+   "answer": "Modelo de análisis",
+   "level": "clave"
+  }
+ ]
+}

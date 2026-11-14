@@ -1,0 +1,47 @@
+{
+ "figura": "f11-03",
+ "title": "Figura 3 · foto de diapositiva",
+ "width": 1015,
+ "height": 680,
+ "order": 3,
+ "fuente": "PF, pág. 74 · Copia, pág. 148",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 0,
+   "y": 2,
+   "w": 526,
+   "h": 73,
+   "answer": "EN CAPAS (LAYERED)",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 659,
+   "y": 145,
+   "w": 145,
+   "h": 22,
+   "answer": "User Interface",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 664,
+   "y": 216,
+   "w": 134,
+   "h": 24,
+   "answer": "Presentation",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 115,
+   "y": 371,
+   "w": 96,
+   "h": 24,
+   "answer": "User interface",
+   "level": "clave"
+  }
+ ]
+}

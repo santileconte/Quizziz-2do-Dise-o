@@ -1,0 +1,38 @@
+{
+ "figura": "f19-03",
+ "title": "Figura 3 · foto de diapositiva",
+ "width": 710,
+ "height": 404,
+ "order": 3,
+ "fuente": "PF, pág. 118",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 13,
+   "y": 4,
+   "w": 685,
+   "h": 44,
+   "answer": "UN PROCESO DE DESARROLLO DE SW",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 93,
+   "y": 319,
+   "w": 97,
+   "h": 42,
+   "answer": "Requisitos de usuario",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 559,
+   "y": 319,
+   "w": 72,
+   "h": 42,
+   "answer": "Sistema SW",
+   "level": "clave"
+  }
+ ]
+}

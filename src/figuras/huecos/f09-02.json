@@ -1,0 +1,164 @@
+{
+ "figura": "f09-02",
+ "title": "Figura 2 · foto de diapositiva",
+ "width": 508,
+ "height": 420,
+ "order": 2,
+ "fuente": "PF, pág. 55",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 177,
+   "y": 22,
+   "w": 128,
+   "h": 22,
+   "answer": "Modifiability Tactics",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 200,
+   "y": 101,
+   "w": 91,
+   "h": 19,
+   "answer": "Reduce Coupling",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 370,
+   "y": 102,
+   "w": 73,
+   "h": 19,
+   "answer": "Defer Binding",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 40,
+   "y": 101,
+   "w": 99,
+   "h": 16,
+   "answer": "Increase Cohesion",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 15,
+   "y": 172,
+   "w": 66,
+   "h": 19,
+   "answer": "Split Module",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 178,
+   "y": 172,
+   "w": 67,
+   "h": 18,
+   "answer": "Encapsulate",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 332,
+   "y": 172,
+   "w": 134,
+   "h": 19,
+   "answer": "Component Replacement",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 15,
+   "y": 199,
+   "w": 148,
+   "h": 18,
+   "answer": "Redistribute Responsibilities",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 178,
+   "y": 199,
+   "w": 107,
+   "h": 18,
+   "answer": "Use an Intermediary",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 332,
+   "y": 226,
+   "w": 45,
+   "h": 18,
+   "answer": "Aspects",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 332,
+   "y": 253,
+   "w": 143,
+   "h": 19,
+   "answer": "Configuration-Time Binding",
+   "level": "clave"
+  },
+  {
+   "id": "b12",
+   "x": 177,
+   "y": 226,
+   "w": 143,
+   "h": 16,
+   "answer": "Abstract Common Services",
+   "level": "clave"
+  },
+  {
+   "id": "b13",
+   "x": 333,
+   "y": 307,
+   "w": 54,
+   "h": 19,
+   "answer": "Discovery",
+   "level": "clave"
+  },
+  {
+   "id": "b14",
+   "x": 333,
+   "y": 334,
+   "w": 109,
+   "h": 18,
+   "answer": "Interpret Parameters",
+   "level": "clave"
+  },
+  {
+   "id": "b15",
+   "x": 333,
+   "y": 280,
+   "w": 80,
+   "h": 16,
+   "answer": "Resource Files",
+   "level": "clave"
+  },
+  {
+   "id": "b16",
+   "x": 333,
+   "y": 361,
+   "w": 108,
+   "h": 18,
+   "answer": "Shared Repositories",
+   "level": "clave"
+  },
+  {
+   "id": "b17",
+   "x": 333,
+   "y": 388,
+   "w": 76,
+   "h": 19,
+   "answer": "Polymorphism",
+   "level": "clave"
+  }
+ ]
+}

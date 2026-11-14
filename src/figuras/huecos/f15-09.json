@@ -1,0 +1,83 @@
+{
+ "figura": "f15-09",
+ "title": "Cliente-servidor",
+ "width": 860,
+ "height": 526,
+ "order": 9,
+ "fuente": "PF, pág. 94",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 26,
+   "y": 23,
+   "w": 407,
+   "h": 52,
+   "answer": "CLIENTE-SERVIDOR",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 417,
+   "y": 145,
+   "w": 65,
+   "h": 13,
+   "answer": "Server process",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 431,
+   "y": 384,
+   "w": 54,
+   "h": 28,
+   "answer": "Server computer",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 430,
+   "y": 469,
+   "w": 54,
+   "h": 29,
+   "answer": "Client computer",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 417,
+   "y": 214,
+   "w": 63,
+   "h": 13,
+   "answer": "Client process",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 551,
+   "y": 335,
+   "w": 64,
+   "h": 18,
+   "answer": "Clients",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 781,
+   "y": 366,
+   "w": 62,
+   "h": 18,
+   "answer": "Server",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 156,
+   "y": 416,
+   "w": 45,
+   "h": 13,
+   "answer": "Network",
+   "level": "clave"
+  }
+ ]
+}

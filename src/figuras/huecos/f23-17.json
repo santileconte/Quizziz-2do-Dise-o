@@ -1,0 +1,47 @@
+{
+ "figura": "f23-17",
+ "title": "Figura 17 · figura del apunte",
+ "width": 546,
+ "height": 370,
+ "order": 17,
+ "fuente": "Celina, pág. 74 · Copia, pág. 216 · Fidanza, pág. 121",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 0,
+   "y": 312,
+   "w": 193,
+   "h": 58,
+   "answer": "Descripción de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 16,
+   "y": 139,
+   "w": 157,
+   "h": 27,
+   "answer": "responsable de",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 351,
+   "y": 311,
+   "w": 189,
+   "h": 54,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 118,
+   "y": 251,
+   "w": 250,
+   "h": 27,
+   "answer": "vista de la arquitectura",
+   "level": "clave"
+  }
+ ]
+}

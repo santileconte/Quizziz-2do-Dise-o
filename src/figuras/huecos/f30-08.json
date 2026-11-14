@@ -1,0 +1,47 @@
+{
+ "figura": "f30-08",
+ "title": "Figura 11.14. Entrada y resultado de la prueba de sistema",
+ "width": 813,
+ "height": 536,
+ "order": 8,
+ "fuente": "PF, pág. 273 · Celina, pág. 126 · Fidanza, pág. 167",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 89,
+   "y": 190,
+   "w": 155,
+   "h": 58,
+   "answer": "Procedimiento de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 97,
+   "y": 334,
+   "w": 137,
+   "h": 56,
+   "answer": "Componente de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 23,
+   "y": 472,
+   "w": 278,
+   "h": 60,
+   "answer": "Modelo de implementación (construcción a probar)",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 731,
+   "y": 256,
+   "w": 79,
+   "h": 21,
+   "answer": "Defecto",
+   "level": "clave"
+  }
+ ]
+}

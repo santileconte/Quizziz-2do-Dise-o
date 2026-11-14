@@ -1,0 +1,38 @@
+{
+ "figura": "f29-20",
+ "title": "Implementación - flujo de trabajo",
+ "width": 753,
+ "height": 422,
+ "order": 20,
+ "fuente": "PF, pág. 224",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 498,
+   "y": 188,
+   "w": 157,
+   "h": 51,
+   "answer": "Component [outlined and possibly mapped onto nodes]",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 340,
+   "y": 155,
+   "w": 63,
+   "h": 14,
+   "answer": "Architect",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 103,
+   "y": 258,
+   "w": 127,
+   "h": 16,
+   "answer": "Deployment Model",
+   "level": "clave"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "figura": "f40-03",
+ "title": "Figura 9 de la práctica de patrones GoF",
+ "width": 688,
+ "height": 729,
+ "order": 3,
+ "fuente": "Preguntas Patrones GOF.docx · figura 9",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 47,
+   "y": 25,
+   "w": 130,
+   "h": 28,
+   "answer": "SocialSpammer",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 424,
+   "y": 25,
+   "w": 97,
+   "h": 28,
+   "answer": "Application",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 206,
+   "y": 172,
+   "w": 60,
+   "h": 27,
+   "answer": "Profile",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 58,
+   "y": 355,
+   "w": 119,
+   "h": 29,
+   "answer": "ProfileIterator",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 389,
+   "y": 354,
+   "w": 121,
+   "h": 29,
+   "answer": "SocialNetwork",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 47,
+   "y": 486,
+   "w": 141,
+   "h": 29,
+   "answer": "FacebookIterator",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 409,
+   "y": 488,
+   "w": 82,
+   "h": 29,
+   "answer": "Facebook",
+   "level": "clave"
+  }
+ ]
+}

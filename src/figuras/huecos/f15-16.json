@@ -1,0 +1,74 @@
+{
+ "figura": "f15-16",
+ "title": "Ejemplo Clásico: La Arquitectura de 3 Niveles (3-Tier)",
+ "width": 774,
+ "height": 378,
+ "order": 16,
+ "fuente": "Copia, pág. 162 · Fidanza, pág. 93",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 586,
+   "y": 167,
+   "w": 149,
+   "h": 71,
+   "answer": "Base de datos de cuentas de clientes",
+   "level": "extra"
+  },
+  {
+   "id": "b2",
+   "x": 57,
+   "y": 61,
+   "w": 59,
+   "h": 19,
+   "answer": "Cliente",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 136,
+   "y": 69,
+   "w": 145,
+   "h": 19,
+   "answer": "Interacción HTTPS",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 241,
+   "y": 174,
+   "w": 150,
+   "h": 45,
+   "answer": "Provisión de servicio de cuenta",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 262,
+   "y": 138,
+   "w": 108,
+   "h": 19,
+   "answer": "Servidor Web",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 536,
+   "y": 138,
+   "w": 209,
+   "h": 19,
+   "answer": "Servidor de base de datos",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 57,
+   "y": 321,
+   "w": 59,
+   "h": 19,
+   "answer": "Cliente",
+   "level": "clave"
+  }
+ ]
+}

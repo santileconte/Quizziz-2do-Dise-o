@@ -1,0 +1,74 @@
+{
+ "figura": "f07-08",
+ "title": "Figura 8 · figura del apunte",
+ "width": 664,
+ "height": 371,
+ "order": 8,
+ "fuente": "Celina, pág. 20 · Copia, pág. 112",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 457,
+   "y": 36,
+   "w": 84,
+   "h": 21,
+   "answer": "Interface",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 141,
+   "y": 73,
+   "w": 57,
+   "h": 21,
+   "answer": "Client",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 136,
+   "y": 287,
+   "w": 112,
+   "h": 58,
+   "answer": "Database application",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 457,
+   "y": 91,
+   "w": 168,
+   "h": 20,
+   "answer": "Publish-subscribe",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 141,
+   "y": 145,
+   "w": 65,
+   "h": 21,
+   "answer": "Server",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 141,
+   "y": 226,
+   "w": 92,
+   "h": 21,
+   "answer": "Database",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 457,
+   "y": 291,
+   "w": 92,
+   "h": 21,
+   "answer": "Database",
+   "level": "clave"
+  }
+ ]
+}

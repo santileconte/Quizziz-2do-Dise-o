@@ -1,0 +1,56 @@
+{
+ "figura": "fP2-14",
+ "title": "Construcciones estructuradas",
+ "width": 690,
+ "height": 668,
+ "order": 14,
+ "fuente": "Fidanza, pág. 219",
+ "origen": "ocr",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 9,
+   "y": 1,
+   "w": 331,
+   "h": 22,
+   "answer": "Construcciones Estructuradas",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 38,
+   "y": 45,
+   "w": 92,
+   "h": 18,
+   "answer": "Secuencia",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 507,
+   "y": 45,
+   "w": 85,
+   "h": 18,
+   "answer": "Selección",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 68,
+   "y": 418,
+   "w": 154,
+   "h": 22,
+   "answer": "Iteración Superior",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 312,
+   "y": 418,
+   "w": 140,
+   "h": 18,
+   "answer": "Iteración Inferior",
+   "level": "clave"
+  }
+ ]
+}

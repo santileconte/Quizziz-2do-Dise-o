@@ -1,0 +1,65 @@
+{
+ "figura": "f23-07",
+ "title": "Figura 7.14. Las entradas y los resultados de detallar cada caso de uso",
+ "width": 711,
+ "height": 389,
+ "order": 7,
+ "fuente": "PF, pág. 253 · Celina, pág. 78 · Copia, pág. 218 · Fidanza, pág. 124",
+ "origen": "manual",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 24,
+   "y": 92,
+   "w": 154,
+   "h": 76,
+   "answer": "Modelo de casos de uso (esbozado)",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 284,
+   "y": 70,
+   "w": 144,
+   "h": 45,
+   "answer": "Especificador de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 46,
+   "y": 224,
+   "w": 105,
+   "h": 45,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 261,
+   "y": 221,
+   "w": 172,
+   "h": 51,
+   "answer": "Detallar un caso de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 560,
+   "y": 223,
+   "w": 116,
+   "h": 50,
+   "answer": "Caso de uso (detallado)",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 62,
+   "y": 355,
+   "w": 76,
+   "h": 17,
+   "answer": "Glosario",
+   "level": "clave"
+  }
+ ]
+}
