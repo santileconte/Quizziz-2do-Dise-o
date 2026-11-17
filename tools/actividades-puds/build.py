@@ -42,7 +42,7 @@ for fid,r in R.items():
     name=f"b3b-{n:02d}-{slug(r['act'])}"
     img=im if fid not in crop else im.crop((0,0,W,crop[fid]))
     img.save(f'{G}/{name}.webp',lossless=True)
-    cfg={'title':f"{r['flow']} · {r['act']}: entradas y resultados",'topic':'B3b · PUDS: entradas y resultados de cada actividad','order':n,
+    cfg={'title':f"{r['flow']} · {r['act']}: entradas y resultados",'topic':'B3 · PUDS','order':100+n,
          'width':img.size[0],'height':img.size[1],'fuente':fuente,'blanks':bl}
     json.dump(cfg,open(f'{G}/{name}.json','w'),ensure_ascii=False,indent=1)
     # figura original: misma versión completa (coordenadas iguales; la imagen original no se recorta)

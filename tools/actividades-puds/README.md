@@ -1,6 +1,6 @@
 # Entradas y resultados de las actividades del PUDS
 
-Serie B3b de Gráficos: las figuras originales del libro (las que muestran, para cada actividad, el trabajador,
+Bloque B3 de Gráficos (después de los flujos): las figuras originales del libro (las que muestran, para cada actividad, el trabajador,
 los artefactos de entrada y los de resultado) con todo su texto tapado.
 
 1. `labels.txt`: el texto de cada figura, transcripto a mano mirando la imagen (una etiqueta por línea).
