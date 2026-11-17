@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState, type CSSProperties } from 'react'
 import type { CrosswordUnit } from '../crucigramas'
-import { buildPuzzle, cellsOf, normalize, type Dir, type Entry, type PuzzleDef } from '../lib/crossword'
+import { buildPuzzle, cellsOf, newVariant, normalize, type Dir, type Entry, type Puzzle, type PuzzleDef } from '../lib/crossword'
 import { formatTime, getCrossword, saveCrossword } from '../lib/crosswordProgress'
 
 interface Cursor {
@@ -10,8 +10,46 @@ interface Cursor {
 
 const other = (d: Dir): Dir => (d === 'H' ? 'V' : 'H')
 
-export function Crossword({ def, unit, index }: { def: PuzzleDef; unit: CrosswordUnit; index: number }) {
-  const puzzle = useMemo(() => buildPuzzle(def), [def])
+interface Props {
+  def: PuzzleDef
+  unit: CrosswordUnit
+  index: number
+}
+
+/**
+ * Cada vez que se arranca de cero (primera vez o Reiniciar) se sortea un armado nuevo de la grilla: otra forma y
+ * otra numeración, y las palabras cambian de lugar y de dirección. Así no se memoriza la posición sino el concepto.
+ * El armado en curso se guarda con el progreso, de modo que recargar la página no lo cambia.
+ */
+export function Crossword(props: Props) {
+  const [layout, setLayout] = useState(() => {
+    const saved = getCrossword(props.def.id)
+    return { variant: saved ? (saved.variant ?? 0) : newVariant(props.def), fresh: false }
+  })
+  const relayout = (current: Puzzle) => {
+    saveCrossword(props.def.id, null)
+    setLayout({ variant: newVariant(props.def, current), fresh: true })
+  }
+  return (
+    <CrosswordBoard
+      key={`${props.def.id}:${layout.variant}`}
+      {...props}
+      variant={layout.variant}
+      fresh={layout.fresh}
+      onRelayout={relayout}
+    />
+  )
+}
+
+function CrosswordBoard({
+  def,
+  unit,
+  index,
+  variant,
+  fresh,
+  onRelayout,
+}: Props & { variant: number; fresh: boolean; onRelayout: (current: Puzzle) => void }) {
+  const puzzle = useMemo(() => buildPuzzle(def, variant), [def, variant])
   const { rows, cols, solution, numbers, entries } = puzzle
   const flat = useMemo(() => solution.flat(), [solution])
   const sig = useMemo(() => flat.map((ch) => ch ?? '#').join(''), [flat])
@@ -39,7 +77,7 @@ export function Crossword({ def, unit, index }: { def: PuzzleDef; unit: Crosswor
     const first = entries.find((e) => e.dir === 'H') ?? entries[0]
     return { idx: first.row * cols + first.col, dir: first.dir }
   })
-  const [note, setNote] = useState<string | null>(null)
+  const [note, setNote] = useState<string | null>(fresh ? 'Grilla nueva: cambiaron la forma y la numeración.' : null)
   const [confirmReset, setConfirmReset] = useState(false)
   const [showDone, setShowDone] = useState(false)
   const inputRef = useRef<HTMLInputElement>(null)
@@ -59,6 +97,7 @@ export function Crossword({ def, unit, index }: { def: PuzzleDef; unit: Crosswor
     const best = solved && revealed.size === 0 ? Math.min(prev?.best ?? Infinity, elapsed) : prev?.best
     saveCrossword(def.id, {
       sig,
+      variant,
       fills: fills.join(''),
       revealed: [...revealed],
       done: doneCount,
@@ -239,13 +278,8 @@ export function Crossword({ def, unit, index }: { def: PuzzleDef; unit: Crosswor
   const reset = () => {
     if (!confirmReset) return setConfirmReset(true)
     setConfirmReset(false)
-    setFills(flat.map(() => ' '))
-    setRevealed(new Set())
-    setWrong(new Set())
-    setElapsed(0)
-    setShowDone(false)
-    saveCrossword(def.id, null)
-    goToEntry(entryOrder[0])
+    // Se borra el progreso y se arma otra grilla con las mismas palabras.
+    onRelayout(puzzle)
   }
 
   const prev = unit.puzzles[index - 1]
@@ -356,7 +390,7 @@ export function Crossword({ def, unit, index }: { def: PuzzleDef; unit: Crosswor
               Revelar palabra
             </button>
             <button className={`btn ${confirmReset ? 'danger' : ''}`} onClick={reset} onBlur={() => setConfirmReset(false)}>
-              {confirmReset ? '¿Seguro? Borrar todo' : 'Reiniciar'}
+              {confirmReset ? '¿Seguro? Borra todo y arma otra grilla' : 'Reiniciar'}
             </button>
           </div>
           <p className="cw-hints muted small">

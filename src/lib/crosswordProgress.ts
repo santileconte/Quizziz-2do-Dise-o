@@ -3,6 +3,8 @@ import { useSyncExternalStore } from 'react'
 export interface CrosswordState {
   /** Huella de la solución: si la grilla cambia, el progreso viejo se descarta. */
   sig: string
+  /** Armado de la grilla que se está resolviendo (ver buildPuzzle); sin dato es el armado original. */
+  variant?: number
   /** Letras escritas, fila por fila; un espacio es una celda vacía. */
   fills: string
   /** Índices (fila * columnas + columna) de las celdas que se revelaron con ayuda. */

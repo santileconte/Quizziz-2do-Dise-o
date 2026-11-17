@@ -162,23 +162,32 @@ function attempt(words: { word: string; clue: string }[], rand: () => number) {
   return { placed, missing: pending.length }
 }
 
-const cache = new Map<string, Puzzle>()
+const cache = new Map<string, Puzzle & { missing: number }>()
 
-export function buildPuzzle(def: PuzzleDef, tries = 200): Puzzle {
-  const hit = cache.get(def.id)
+/**
+ * Arma la grilla de un crucigrama. Cada `variant` es un armado distinto de las mismas palabras (otra forma,
+ * otra numeración, palabras que pasan de horizontal a vertical); el mismo variant da siempre la misma grilla,
+ * así el progreso guardado sigue coincidiendo con las celdas. El variant 0 es el armado original.
+ */
+export function buildPuzzle(def: PuzzleDef, variant = 0): Puzzle & { missing: number } {
+  // La cantidad de intentos es fija por variant: cambiarla daría otra grilla para el mismo variant.
+  const tries = variant === 0 ? 200 : 100
+  const ck = `${def.id}#${variant}`
+  const hit = cache.get(ck)
   if (hit) return hit
 
   const words = def.words.map(([answer, clue]) => ({ word: normalize(answer), clue }))
-  const rand = rng([...def.id].reduce((h, ch) => (h * 31 + ch.charCodeAt(0)) | 0, 7))
-  let best: { placed: Placed[]; score: number } | null = null
+  const base = [...def.id].reduce((h, ch) => (h * 31 + ch.charCodeAt(0)) | 0, 7)
+  const rand = rng(base ^ Math.imul(variant, 0x9e3779b1))
+  let best: { placed: Placed[]; missing: number; score: number } | null = null
   for (let t = 0; t < tries; t++) {
     const { placed, missing } = attempt(words, rand)
     const b = bounds(placed)
     const score = missing * 1000 + b.rows * b.cols + Math.abs(b.rows - b.cols) * 6
-    if (!best || score < best.score) best = { placed, score }
+    if (!best || score < best.score) best = { placed, missing, score }
   }
 
-  const { placed } = best!
+  const { placed, missing } = best!
   const { minR, minC, rows, cols } = bounds(placed)
   const solution: (string | null)[][] = Array.from({ length: rows }, () => Array(cols).fill(null))
   const numbers: (number | null)[][] = Array.from({ length: rows }, () => Array(cols).fill(null))
@@ -197,9 +206,45 @@ export function buildPuzzle(def: PuzzleDef, tries = 200): Puzzle {
     return { key: `${num}${p.dir}`, num, dir: p.dir, row: p.row, col: p.col, answer: p.word, clue: p.clue }
   })
 
-  const puzzle = { id: def.id, title: def.title, rows, cols, solution, numbers, entries }
-  cache.set(def.id, puzzle)
+  const puzzle = { id: def.id, title: def.title, rows, cols, solution, numbers, entries, missing }
+  cache.set(ck, puzzle)
   return puzzle
+}
+
+/** Huella de la grilla: letras y casilleros negros, fila por fila. */
+export const signature = (p: Puzzle) => p.solution.flat().map((ch) => ch ?? '#').join('') + `/${p.cols}`
+
+/** Qué tan distinto es un armado de otro: parte de las palabras que cambiaron de número o de dirección (0 a 1). */
+export function difference(a: Puzzle, b: Puzzle) {
+  const pos = new Map(a.entries.map((e) => [e.clue, e.key]))
+  const changed = b.entries.filter((e) => pos.get(e.clue) !== e.key).length
+  return changed / Math.max(1, b.entries.length)
+}
+
+const randomVariant = () => 1 + Math.floor(Math.random() * 0x7ffffffe)
+
+/** Cuánto ocupa la grilla: área más un castigo si queda muy alargada (menos es mejor). */
+const bulk = (p: Puzzle) => p.rows * p.cols + Math.abs(p.rows - p.cols) * 6
+
+/**
+ * Sortea un armado nuevo con todas las palabras ubicadas. Entre varios candidatos se queda con el más compacto;
+ * si se pasa el armado actual, solo cuentan los que se ven distintos: otra forma de grilla y la mayoría de las
+ * palabras con otro número o dirección.
+ */
+export function newVariant(def: PuzzleDef, current?: Puzzle): number {
+  let best: { v: number; score: number } | null = null
+  let fallback: { v: number; d: number } | null = null
+  for (let k = 0, ok = 0; k < 24 && ok < 5; k++) {
+    const v = randomVariant()
+    const p = buildPuzzle(def, v)
+    if (p.missing > 0) continue
+    const d = current ? (signature(p) === signature(current) ? -1 : difference(current, p)) : 1
+    if (!fallback || d > fallback.d) fallback = { v, d }
+    if (d < 0.6) continue
+    ok++
+    if (!best || bulk(p) < best.score) best = { v, score: bulk(p) }
+  }
+  return best?.v ?? (fallback && fallback.d >= 0 ? fallback.v : 0)
 }
 
 /** Celdas [fila, columna] que ocupa una palabra. */
