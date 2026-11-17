@@ -5,52 +5,70 @@
  "height": 387,
  "order": 9,
  "fuente": "PF, pág. 268 · Celina, pág. 118 · Fidanza, pág. 160",
- "origen": "ocr",
+ "origen": "manual",
  "blanks": [
   {
    "id": "b1",
-   "x": 279,
-   "y": 17,
-   "w": 177,
-   "h": 103,
+   "x": 286,
+   "y": 64,
+   "w": 163,
+   "h": 50,
    "answer": "Ingeniero de componentes",
    "level": "clave"
   },
   {
    "id": "b2",
-   "x": 3,
-   "y": 120,
-   "w": 157,
-   "h": 53,
-   "answer": "Componente (implementado)",
+   "x": 18,
+   "y": 122,
+   "w": 127,
+   "h": 25,
+   "answer": "Componente",
    "level": "clave"
   },
   {
    "id": "b3",
-   "x": 288,
-   "y": 232,
-   "w": 174,
-   "h": 53,
-   "answer": "Realizar prueba de unidad",
-   "level": "clave"
+   "x": 5,
+   "y": 146,
+   "w": 153,
+   "h": 26,
+   "answer": "implementado",
+   "level": "extra"
   },
   {
    "id": "b4",
-   "x": 565,
-   "y": 234,
-   "w": 206,
-   "h": 53,
-   "answer": "Componente (unidades probadas)",
+   "x": 50,
+   "y": 358,
+   "w": 75,
+   "h": 21,
+   "answer": "Interfaz",
    "level": "clave"
   },
   {
    "id": "b5",
-   "x": 51,
-   "y": 359,
-   "w": 73,
-   "h": 19,
-   "answer": "Interfaz",
+   "x": 267,
+   "y": 236,
+   "w": 192,
+   "h": 47,
+   "answer": "Realizar prueba de unidad",
    "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 601,
+   "y": 234,
+   "w": 133,
+   "h": 30,
+   "answer": "Componente",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 564,
+   "y": 259,
+   "w": 208,
+   "h": 29,
+   "answer": "unidades probadas",
+   "level": "extra"
   }
  ]
 }

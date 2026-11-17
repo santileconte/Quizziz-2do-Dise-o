@@ -1,0 +1,109 @@
+{
+ "title": "Diseño · Diseñar una clase: entradas y resultados",
+ "topic": "B3b · PUDS: entradas y resultados de cada actividad",
+ "order": 33,
+ "width": 771,
+ "height": 533,
+ "fuente": "PUDS, fig. 9.39 · PF, pág. 208 · Celina, pág. 105 · Fidanza, pág. 149",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 324,
+   "y": 66,
+   "w": 151,
+   "h": 49,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 22,
+   "y": 109,
+   "w": 221,
+   "h": 50,
+   "answer": "Realización de casos de uso - diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 44,
+   "y": 233,
+   "w": 162,
+   "h": 22,
+   "answer": "Clase del diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 45,
+   "y": 257,
+   "w": 160,
+   "h": 26,
+   "answer": "esquematizada",
+   "level": "extra"
+  },
+  {
+   "id": "b5",
+   "x": 89,
+   "y": 341,
+   "w": 75,
+   "h": 21,
+   "answer": "Interfaz",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 46,
+   "y": 361,
+   "w": 205,
+   "h": 42,
+   "answer": "esquematizada",
+   "level": "extra"
+  },
+  {
+   "id": "b7",
+   "x": 43,
+   "y": 466,
+   "w": 169,
+   "h": 23,
+   "answer": "Clase del análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 75,
+   "y": 490,
+   "w": 106,
+   "h": 26,
+   "answer": "completa",
+   "level": "extra"
+  },
+  {
+   "id": "b9",
+   "x": 316,
+   "y": 267,
+   "w": 139,
+   "h": 54,
+   "answer": "Diseñar una clase",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 583,
+   "y": 263,
+   "w": 162,
+   "h": 23,
+   "answer": "Clase del diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 612,
+   "y": 288,
+   "w": 106,
+   "h": 26,
+   "answer": "completa",
+   "level": "extra"
+  }
+ ]
+}

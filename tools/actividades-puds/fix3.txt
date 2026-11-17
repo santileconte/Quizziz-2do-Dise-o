@@ -1,0 +1,5 @@
+setp('f29-05',0,'Arquitecto',[366,88,108,28])
+setp('f29-07',8,'Implementar un subsistema',[414,248,144,52])
+setp('f29-09',5,'Componente',[604,237,127,24])
+R['f29-09']['parts'].insert(6,{'answer':'unidades probadas','accept':[],'box':[567,262,202,23],'score':1.0})
+setp('f30-10',5,'Modelo de implementación',[94,316,130,36])

@@ -1,0 +1,73 @@
+{
+ "title": "Implementación · Realizar prueba de unidad: entradas y resultados",
+ "topic": "B3b · PUDS: entradas y resultados de cada actividad",
+ "order": 45,
+ "width": 780,
+ "height": 387,
+ "fuente": "PUDS, fig. 10.26 · PF, pág. 268 · Celina, pág. 118 · Fidanza, pág. 160",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 286,
+   "y": 64,
+   "w": 163,
+   "h": 50,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 18,
+   "y": 122,
+   "w": 127,
+   "h": 25,
+   "answer": "Componente",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 5,
+   "y": 146,
+   "w": 153,
+   "h": 26,
+   "answer": "implementado",
+   "level": "extra"
+  },
+  {
+   "id": "b4",
+   "x": 50,
+   "y": 358,
+   "w": 75,
+   "h": 21,
+   "answer": "Interfaz",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 267,
+   "y": 236,
+   "w": 192,
+   "h": 47,
+   "answer": "Realizar prueba de unidad",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 601,
+   "y": 234,
+   "w": 133,
+   "h": 30,
+   "answer": "Componente",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 564,
+   "y": 259,
+   "w": 208,
+   "h": 29,
+   "answer": "unidades probadas",
+   "level": "extra"
+  }
+ ]
+}

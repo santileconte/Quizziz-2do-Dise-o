@@ -1,0 +1,130 @@
+{
+ "title": "Prueba · Diseñar prueba: entradas y resultados",
+ "topic": "B3b · PUDS: entradas y resultados de cada actividad",
+ "order": 52,
+ "width": 706,
+ "height": 657,
+ "fuente": "PUDS, fig. 11.10 · PF, pág. 271 · Celina, pág. 124 · Fidanza, pág. 165",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 96,
+   "y": 52,
+   "w": 108,
+   "h": 44,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 393,
+   "y": 93,
+   "w": 105,
+   "h": 47,
+   "answer": "Ingeniero de pruebas",
+   "level": "clave",
+   "accept": [
+    "Diseñador de pruebas"
+   ]
+  },
+  {
+   "id": "b3",
+   "x": 38,
+   "y": 144,
+   "w": 223,
+   "h": 33,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 55,
+   "y": 216,
+   "w": 194,
+   "h": 31,
+   "answer": "Modelo de análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 63,
+   "y": 300,
+   "w": 164,
+   "h": 21,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 25,
+   "y": 379,
+   "w": 245,
+   "h": 25,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 22,
+   "y": 457,
+   "w": 253,
+   "h": 25,
+   "answer": "Descripción de arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 43,
+   "y": 479,
+   "w": 210,
+   "h": 48,
+   "answer": "vistas arquitectónicas de los modelos",
+   "level": "extra"
+  },
+  {
+   "id": "b9",
+   "x": 81,
+   "y": 572,
+   "w": 139,
+   "h": 38,
+   "answer": "Plan de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 52,
+   "y": 606,
+   "w": 196,
+   "h": 48,
+   "answer": "estrategia de prueba y planificación",
+   "level": "extra"
+  },
+  {
+   "id": "b11",
+   "x": 412,
+   "y": 325,
+   "w": 74,
+   "h": 46,
+   "answer": "Diseñar prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b12",
+   "x": 578,
+   "y": 261,
+   "w": 95,
+   "h": 47,
+   "answer": "Caso de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b13",
+   "x": 563,
+   "y": 403,
+   "w": 136,
+   "h": 47,
+   "answer": "Procedimiento de prueba",
+   "level": "clave"
+  }
+ ]
+}

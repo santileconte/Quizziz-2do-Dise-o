@@ -5,34 +5,79 @@
  "height": 407,
  "order": 8,
  "fuente": "PF, pág. 268 · Celina, pág. 117 · Fidanza, pág. 159",
- "origen": "ocr",
+ "origen": "manual",
  "blanks": [
   {
    "id": "b1",
-   "x": 1,
-   "y": 326,
-   "w": 229,
-   "h": 81,
-   "answer": "Interfaz (proporcionada por la clase de diseño)",
-   "level": "extra"
+   "x": 317,
+   "y": 73,
+   "w": 163,
+   "h": 48,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
   },
   {
    "id": "b2",
-   "x": 347,
-   "y": 229,
-   "w": 127,
-   "h": 50,
-   "answer": "Implementar una clase",
+   "x": 38,
+   "y": 132,
+   "w": 156,
+   "h": 32,
+   "answer": "Clase de diseño",
    "level": "clave"
   },
   {
    "id": "b3",
-   "x": 592,
-   "y": 238,
-   "w": 157,
-   "h": 52,
-   "answer": "Componente (implementado)",
+   "x": 64,
+   "y": 167,
+   "w": 104,
+   "h": 26,
+   "answer": "diseñada",
+   "level": "extra"
+  },
+  {
+   "id": "b4",
+   "x": 78,
+   "y": 331,
+   "w": 75,
+   "h": 21,
+   "answer": "Interfaz",
    "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 6,
+   "y": 355,
+   "w": 219,
+   "h": 49,
+   "answer": "proporcionada por la clase de diseño",
+   "level": "extra"
+  },
+  {
+   "id": "b6",
+   "x": 332,
+   "y": 216,
+   "w": 140,
+   "h": 61,
+   "answer": "Implementar una clase",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 607,
+   "y": 240,
+   "w": 127,
+   "h": 25,
+   "answer": "Componente",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 594,
+   "y": 264,
+   "w": 153,
+   "h": 25,
+   "answer": "implementado",
+   "level": "extra"
   }
  ]
 }

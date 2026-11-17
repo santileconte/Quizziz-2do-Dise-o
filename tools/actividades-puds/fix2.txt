@@ -1,0 +1,6 @@
+setp('f26-06',8,'Realización de caso de uso - análisis',[672,164,168,52])
+setp('f26-04',1,'Realización de caso de uso - análisis',[44,117,206,50])
+setp('f28-06',13,'Modelo de despliegue',[588,368,152,54])
+R['f28-06']['parts'].insert(14,{'answer':'esbozado','accept':[],'box':[608,417,118,23],'score':1.0})
+setp('f28-06',15,'Descripción de la arquitectura',[589,497,167,48])
+R['f28-06']['parts'].insert(16,{'answer':'vistas de los modelos de diseño y distribución','accept':[],'box':[552,546,239,48],'score':1.0})

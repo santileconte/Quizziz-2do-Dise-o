@@ -9,57 +9,75 @@
  "blanks": [
   {
    "id": "b1",
-   "x": 24,
-   "y": 92,
-   "w": 154,
-   "h": 76,
-   "answer": "Modelo de casos de uso (esbozado)",
-   "level": "clave"
-  },
-  {
-   "id": "b2",
-   "x": 284,
-   "y": 70,
-   "w": 144,
-   "h": 45,
+   "x": 285,
+   "y": 72,
+   "w": 142,
+   "h": 42,
    "answer": "Especificador de casos de uso",
    "level": "clave"
   },
   {
+   "id": "b2",
+   "x": 28,
+   "y": 96,
+   "w": 146,
+   "h": 43,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
    "id": "b3",
-   "x": 46,
+   "x": 51,
+   "y": 140,
+   "w": 100,
+   "h": 24,
+   "answer": "esbozado",
+   "level": "extra"
+  },
+  {
+   "id": "b4",
+   "x": 47,
    "y": 224,
-   "w": 105,
-   "h": 45,
+   "w": 104,
+   "h": 43,
    "answer": "Requisitos adicionales",
    "level": "clave"
   },
   {
-   "id": "b4",
-   "x": 261,
-   "y": 221,
-   "w": 172,
-   "h": 51,
-   "answer": "Detallar un caso de uso",
-   "level": "clave"
-  },
-  {
    "id": "b5",
-   "x": 560,
-   "y": 223,
-   "w": 116,
-   "h": 50,
-   "answer": "Caso de uso (detallado)",
+   "x": 61,
+   "y": 354,
+   "w": 78,
+   "h": 19,
+   "answer": "Glosario",
    "level": "clave"
   },
   {
    "id": "b6",
-   "x": 62,
-   "y": 355,
-   "w": 76,
-   "h": 17,
-   "answer": "Glosario",
+   "x": 254,
+   "y": 223,
+   "w": 177,
+   "h": 47,
+   "answer": "Detallar un caso de uso",
    "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 562,
+   "y": 225,
+   "w": 112,
+   "h": 20,
+   "answer": "Caso de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 570,
+   "y": 248,
+   "w": 97,
+   "h": 23,
+   "answer": "detallado",
+   "level": "extra"
   }
  ]
 }

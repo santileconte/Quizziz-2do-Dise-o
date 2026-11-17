@@ -1,0 +1,73 @@
+{
+ "title": "Prueba · Implementar prueba: entradas y resultados",
+ "topic": "B3b · PUDS: entradas y resultados de cada actividad",
+ "order": 53,
+ "width": 587,
+ "height": 356,
+ "fuente": "PUDS, fig. 11.12 · PF, pág. 271 · Fidanza, pág. 166",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 76,
+   "y": 71,
+   "w": 119,
+   "h": 28,
+   "answer": "Caso de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 278,
+   "y": 61,
+   "w": 118,
+   "h": 37,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 82,
+   "y": 167,
+   "w": 102,
+   "h": 37,
+   "answer": "Procedimiento de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 27,
+   "y": 264,
+   "w": 185,
+   "h": 20,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 17,
+   "y": 281,
+   "w": 205,
+   "h": 21,
+   "answer": "construida para ser probada",
+   "level": "extra"
+  },
+  {
+   "id": "b6",
+   "x": 295,
+   "y": 174,
+   "w": 90,
+   "h": 38,
+   "answer": "Implementar prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 479,
+   "y": 173,
+   "w": 92,
+   "h": 37,
+   "answer": "Componente de prueba",
+   "level": "clave"
+  }
+ ]
+}

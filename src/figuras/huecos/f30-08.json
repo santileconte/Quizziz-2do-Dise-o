@@ -5,41 +5,77 @@
  "height": 536,
  "order": 8,
  "fuente": "PF, pág. 273 · Celina, pág. 126 · Fidanza, pág. 167",
- "origen": "ocr",
+ "origen": "manual",
  "blanks": [
   {
    "id": "b1",
-   "x": 89,
-   "y": 190,
-   "w": 155,
-   "h": 58,
-   "answer": "Procedimiento de prueba",
+   "x": 88,
+   "y": 68,
+   "w": 176,
+   "h": 31,
+   "answer": "Caso de prueba",
    "level": "clave"
   },
   {
    "id": "b2",
-   "x": 97,
-   "y": 334,
-   "w": 137,
-   "h": 56,
-   "answer": "Componente de prueba",
+   "x": 362,
+   "y": 63,
+   "w": 216,
+   "h": 49,
+   "answer": "Ingeniero de pruebas de sistema",
    "level": "clave"
   },
   {
    "id": "b3",
-   "x": 23,
-   "y": 472,
-   "w": 278,
-   "h": 60,
-   "answer": "Modelo de implementación (construcción a probar)",
+   "x": 89,
+   "y": 190,
+   "w": 146,
+   "h": 57,
+   "answer": "Procedimiento de prueba",
    "level": "clave"
   },
   {
    "id": "b4",
-   "x": 731,
-   "y": 256,
-   "w": 79,
-   "h": 21,
+   "x": 99,
+   "y": 336,
+   "w": 133,
+   "h": 51,
+   "answer": "Componente de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 26,
+   "y": 475,
+   "w": 272,
+   "h": 27,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 42,
+   "y": 501,
+   "w": 240,
+   "h": 28,
+   "answer": "construcción a probar",
+   "level": "extra"
+  },
+  {
+   "id": "b7",
+   "x": 361,
+   "y": 249,
+   "w": 218,
+   "h": 60,
+   "answer": "Realizar prueba de sistema",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 730,
+   "y": 255,
+   "w": 81,
+   "h": 23,
    "answer": "Defecto",
    "level": "clave"
   }

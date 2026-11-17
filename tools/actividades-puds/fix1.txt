@@ -1,0 +1,6 @@
+setp('f23-09',0,'Modelo de casos de uso',[22,69,164,44])
+R['f23-09']['parts'].insert(1,{'answer':'esbozado','accept':[],'box':[48,121,111,21],'score':1.0})
+setp('f23-09',7,'Estructura del modelo de casos de uso',[328,270,174,80],['Estructurar el modelo de casos de uso'])
+setp('f26-03',6,'vista del modelo de análisis',[562,432,154,42])
+setp('f26-03',13,'vista del modelo de casos de uso',[22,493,155,41])
+setp('f26-03',7,'Análisis de la arquitectura',[330,258,110,66])

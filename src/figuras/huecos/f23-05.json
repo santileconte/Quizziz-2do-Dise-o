@@ -5,42 +5,87 @@
  "height": 456,
  "order": 5,
  "fuente": "PF, pág. 252 · Celina, pág. 76 · Copia, pág. 217 · Fidanza, pág. 122",
- "origen": "ocr",
+ "origen": "manual",
  "blanks": [
   {
    "id": "b1",
-   "x": 391,
-   "y": 68,
-   "w": 128,
-   "h": 51,
+   "x": 392,
+   "y": 70,
+   "w": 124,
+   "h": 47,
    "answer": "Analista de sistemas",
    "level": "clave"
   },
   {
    "id": "b2",
-   "x": 95,
-   "y": 247,
-   "w": 123,
-   "h": 51,
-   "answer": "Requisitos adicionales",
+   "x": 50,
+   "y": 95,
+   "w": 220,
+   "h": 35,
+   "answer": "Modelo del negocio",
    "level": "clave"
   },
   {
    "id": "b3",
-   "x": 722,
-   "y": 365,
-   "w": 90,
-   "h": 28,
-   "answer": "Glosario",
-   "level": "clave"
+   "x": 35,
+   "y": 129,
+   "w": 230,
+   "h": 27,
+   "answer": "o modelo de dominio",
+   "level": "extra"
   },
   {
    "id": "b4",
-   "x": 40,
+   "x": 96,
+   "y": 249,
+   "w": 119,
+   "h": 47,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 39,
    "y": 395,
-   "w": 233,
-   "h": 22,
+   "w": 236,
+   "h": 24,
    "answer": "Lista de características",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 311,
+   "y": 250,
+   "w": 260,
+   "h": 68,
+   "answer": "Encontrar actores y casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 682,
+   "y": 127,
+   "w": 168,
+   "h": 48,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 708,
+   "y": 178,
+   "w": 115,
+   "h": 27,
+   "answer": "esbozado",
+   "level": "extra"
+  },
+  {
+   "id": "b9",
+   "x": 722,
+   "y": 366,
+   "w": 89,
+   "h": 28,
+   "answer": "Glosario",
    "level": "clave"
   }
  ]

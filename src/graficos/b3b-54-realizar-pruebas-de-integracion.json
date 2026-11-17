@@ -1,0 +1,85 @@
+{
+ "title": "Prueba · Realizar pruebas de integración: entradas y resultados",
+ "topic": "B3b · PUDS: entradas y resultados de cada actividad",
+ "order": 54,
+ "width": 798,
+ "height": 537,
+ "fuente": "PUDS, fig. 11.13 · PF, pág. 272 · Celina, pág. 125 · Fidanza, pág. 166",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 81,
+   "y": 70,
+   "w": 161,
+   "h": 26,
+   "answer": "Caso de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 357,
+   "y": 62,
+   "w": 217,
+   "h": 52,
+   "answer": "Ingeniero de pruebas de integración",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 85,
+   "y": 192,
+   "w": 146,
+   "h": 59,
+   "answer": "Procedimiento de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 98,
+   "y": 340,
+   "w": 134,
+   "h": 52,
+   "answer": "Componente de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 24,
+   "y": 480,
+   "w": 274,
+   "h": 26,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 9,
+   "y": 505,
+   "w": 320,
+   "h": 32,
+   "answer": "construida para ser probada",
+   "level": "extra"
+  },
+  {
+   "id": "b7",
+   "x": 363,
+   "y": 249,
+   "w": 234,
+   "h": 66,
+   "answer": "Realizar pruebas de integración",
+   "level": "clave",
+   "accept": [
+    "Realizar prueba de integración"
+   ]
+  },
+  {
+   "id": "b8",
+   "x": 713,
+   "y": 258,
+   "w": 81,
+   "h": 21,
+   "answer": "Defecto",
+   "level": "clave"
+  }
+ ]
+}

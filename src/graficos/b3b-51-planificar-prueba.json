@@ -1,0 +1,103 @@
+{
+ "title": "Prueba · Planificar prueba: entradas y resultados",
+ "topic": "B3b · PUDS: entradas y resultados de cada actividad",
+ "order": 51,
+ "width": 622,
+ "height": 485,
+ "fuente": "PUDS, fig. 11.9 · PF, pág. 270 · Fidanza, pág. 165",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 109,
+   "y": 57,
+   "w": 82,
+   "h": 35,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 327,
+   "y": 65,
+   "w": 80,
+   "h": 37,
+   "answer": "Ingeniero de pruebas",
+   "level": "clave",
+   "accept": [
+    "Diseñador de pruebas"
+   ]
+  },
+  {
+   "id": "b3",
+   "x": 94,
+   "y": 129,
+   "w": 115,
+   "h": 34,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 88,
+   "y": 193,
+   "w": 130,
+   "h": 17,
+   "answer": "Modelo de análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 88,
+   "y": 252,
+   "w": 124,
+   "h": 17,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 91,
+   "y": 313,
+   "w": 136,
+   "h": 42,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 97,
+   "y": 396,
+   "w": 107,
+   "h": 37,
+   "answer": "Descripción de arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 71,
+   "y": 430,
+   "w": 158,
+   "h": 37,
+   "answer": "vistas arquitectónicas de los modelos",
+   "level": "extra"
+  },
+  {
+   "id": "b9",
+   "x": 310,
+   "y": 214,
+   "w": 96,
+   "h": 38,
+   "answer": "Planificar prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 466,
+   "y": 213,
+   "w": 73,
+   "h": 37,
+   "answer": "Plan de prueba",
+   "level": "clave"
+  }
+ ]
+}

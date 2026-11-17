@@ -5,52 +5,73 @@
  "height": 453,
  "order": 9,
  "fuente": "PF, pág. 273 · Celina, pág. 126 · Fidanza, pág. 168",
- "origen": "ocr",
+ "origen": "manual",
  "blanks": [
   {
    "id": "b1",
-   "x": 352,
-   "y": 73,
-   "w": 128,
-   "h": 60,
+   "x": 355,
+   "y": 76,
+   "w": 122,
+   "h": 54,
    "answer": "Ingeniero de pruebas",
-   "level": "clave"
+   "level": "clave",
+   "accept": [
+    "Diseñador de pruebas"
+   ]
   },
   {
    "id": "b2",
-   "x": 374,
-   "y": 274,
-   "w": 90,
-   "h": 61,
-   "answer": "Evaluar prueba",
+   "x": 42,
+   "y": 132,
+   "w": 210,
+   "h": 36,
+   "answer": "Plan de prueba",
    "level": "clave"
   },
   {
    "id": "b3",
-   "x": 575,
-   "y": 272,
-   "w": 240,
-   "h": 62,
-   "answer": "Evaluación de prueba (para una iteración)",
-   "level": "clave"
-  },
-  {
-   "id": "b4",
-   "x": 24,
-   "y": 284,
-   "w": 192,
-   "h": 25,
+   "x": 23,
+   "y": 283,
+   "w": 194,
+   "h": 27,
    "answer": "Modelo de prueba",
    "level": "clave"
   },
   {
-   "id": "b5",
-   "x": 62,
-   "y": 420,
-   "w": 83,
-   "h": 20,
+   "id": "b4",
+   "x": 61,
+   "y": 419,
+   "w": 85,
+   "h": 22,
    "answer": "Defecto",
    "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 373,
+   "y": 265,
+   "w": 94,
+   "h": 70,
+   "answer": "Evaluar prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 578,
+   "y": 275,
+   "w": 234,
+   "h": 27,
+   "answer": "Evaluación de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 589,
+   "y": 301,
+   "w": 211,
+   "h": 29,
+   "answer": "para una iteración",
+   "level": "extra"
   }
  ]
 }

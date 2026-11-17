@@ -9,42 +9,33 @@
  "blanks": [
   {
    "id": "b1",
-   "x": 96,
-   "y": 91,
-   "w": 114,
-   "h": 56,
-   "answer": "Modelo de casos de uso (esbozado)",
-   "level": "clave"
-  },
-  {
-   "id": "b2",
-   "x": 469,
-   "y": 184,
-   "w": 127,
-   "h": 79,
-   "answer": "Descripción de la arquitectura (vista del modelo de casos de uso)",
-   "level": "extra"
-  },
-  {
-   "id": "b3",
-   "x": 306,
-   "y": 73,
+   "x": 305,
+   "y": 75,
    "w": 72,
-   "h": 20,
+   "h": 19,
    "answer": "Arquitecto",
    "level": "clave"
   },
   {
-   "id": "b4",
-   "x": 298,
-   "y": 187,
-   "w": 94,
-   "h": 40,
-   "answer": "Priorizar casos de uso",
+   "id": "b2",
+   "x": 98,
+   "y": 93,
+   "w": 110,
+   "h": 33,
+   "answer": "Modelo de casos de uso",
    "level": "clave"
   },
   {
-   "id": "b5",
+   "id": "b3",
+   "x": 113,
+   "y": 126,
+   "w": 76,
+   "h": 19,
+   "answer": "esbozado",
+   "level": "extra"
+  },
+  {
+   "id": "b4",
    "x": 109,
    "y": 190,
    "w": 79,
@@ -53,13 +44,40 @@
    "level": "clave"
   },
   {
-   "id": "b6",
-   "x": 118,
-   "y": 285,
-   "w": 58,
-   "h": 15,
+   "id": "b5",
+   "x": 117,
+   "y": 284,
+   "w": 60,
+   "h": 17,
    "answer": "Glosario",
    "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 263,
+   "y": 188,
+   "w": 127,
+   "h": 37,
+   "answer": "Priorizar casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 474,
+   "y": 189,
+   "w": 117,
+   "h": 36,
+   "answer": "Descripción de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 475,
+   "y": 222,
+   "w": 115,
+   "h": 36,
+   "answer": "vista del modelo de casos de uso",
+   "level": "extra"
   }
  ]
 }

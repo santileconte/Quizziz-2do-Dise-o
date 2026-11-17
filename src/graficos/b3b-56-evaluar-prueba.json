@@ -1,0 +1,76 @@
+{
+ "title": "Prueba · Evaluar prueba: entradas y resultados",
+ "topic": "B3b · PUDS: entradas y resultados de cada actividad",
+ "order": 56,
+ "width": 826,
+ "height": 453,
+ "fuente": "PUDS, fig. 11.15 · PF, pág. 273 · Celina, pág. 126 · Fidanza, pág. 168",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 355,
+   "y": 76,
+   "w": 122,
+   "h": 54,
+   "answer": "Ingeniero de pruebas",
+   "level": "clave",
+   "accept": [
+    "Diseñador de pruebas"
+   ]
+  },
+  {
+   "id": "b2",
+   "x": 42,
+   "y": 132,
+   "w": 210,
+   "h": 36,
+   "answer": "Plan de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 23,
+   "y": 283,
+   "w": 194,
+   "h": 27,
+   "answer": "Modelo de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 61,
+   "y": 419,
+   "w": 85,
+   "h": 22,
+   "answer": "Defecto",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 373,
+   "y": 265,
+   "w": 94,
+   "h": 70,
+   "answer": "Evaluar prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 578,
+   "y": 275,
+   "w": 234,
+   "h": 27,
+   "answer": "Evaluación de prueba",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 589,
+   "y": 301,
+   "w": 211,
+   "h": 29,
+   "answer": "para una iteración",
+   "level": "extra"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "title": "Requisitos · Prototipar la interfaz de usuario: entradas y resultados",
+ "topic": "B3b · PUDS: entradas y resultados de cada actividad",
+ "order": 14,
+ "width": 863,
+ "height": 556,
+ "fuente": "PUDS, fig. 7.17 · PF, pág. 254 · Celina, pág. 79 · Copia, pág. 219 · Fidanza, pág. 125",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 16,
+   "y": 67,
+   "w": 186,
+   "h": 51,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 325,
+   "y": 88,
+   "w": 246,
+   "h": 52,
+   "answer": "Diseñador de interfaz de usuario",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 46,
+   "y": 230,
+   "w": 132,
+   "h": 52,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 37,
+   "y": 374,
+   "w": 143,
+   "h": 25,
+   "answer": "Caso de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 54,
+   "y": 403,
+   "w": 110,
+   "h": 28,
+   "answer": "descrito",
+   "level": "extra"
+  },
+  {
+   "id": "b6",
+   "x": 64,
+   "y": 521,
+   "w": 99,
+   "h": 24,
+   "answer": "Glosario",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 274,
+   "y": 284,
+   "w": 240,
+   "h": 84,
+   "answer": "Prototipar la interfaz de usuario",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 718,
+   "y": 290,
+   "w": 123,
+   "h": 80,
+   "answer": "Prototipo de interfaz de usuario",
+   "level": "clave"
+  }
+ ]
+}

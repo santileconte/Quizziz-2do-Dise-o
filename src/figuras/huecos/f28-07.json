@@ -9,66 +9,111 @@
  "blanks": [
   {
    "id": "b1",
-   "x": 26,
-   "y": 99,
-   "w": 250,
-   "h": 153,
-   "answer": "Descripción de la arquitectura (vista del modelo de diseño)",
-   "level": "extra"
+   "x": 38,
+   "y": 111,
+   "w": 226,
+   "h": 65,
+   "answer": "Descripción de la arquitectura",
+   "level": "clave"
   },
   {
    "id": "b2",
-   "x": 435,
-   "y": 76,
-   "w": 224,
-   "h": 72,
+   "x": 41,
+   "y": 177,
+   "w": 221,
+   "h": 64,
+   "answer": "vista del modelo de diseño",
+   "level": "extra"
+  },
+  {
+   "id": "b3",
+   "x": 440,
+   "y": 81,
+   "w": 214,
+   "h": 64,
    "answer": "Ingeniero de componentes",
    "level": "clave"
   },
   {
-   "id": "b3",
-   "x": 819,
-   "y": 223,
-   "w": 161,
-   "h": 72,
-   "answer": "Subsistema (terminado)",
-   "level": "clave"
-  },
-  {
    "id": "b4",
-   "x": 71,
-   "y": 349,
-   "w": 161,
-   "h": 72,
-   "answer": "Subsistema (esbozado)",
+   "x": 75,
+   "y": 353,
+   "w": 153,
+   "h": 27,
+   "answer": "Subsistema",
    "level": "clave"
   },
   {
    "id": "b5",
-   "x": 418,
-   "y": 333,
-   "w": 245,
-   "h": 70,
-   "answer": "Diseñar un subsistema",
-   "level": "clave"
+   "x": 79,
+   "y": 386,
+   "w": 145,
+   "h": 31,
+   "answer": "esbozado",
+   "level": "extra"
   },
   {
    "id": "b6",
-   "x": 823,
-   "y": 464,
-   "w": 157,
-   "h": 71,
-   "answer": "Interfaz (terminada)",
+   "x": 104,
+   "y": 581,
+   "w": 98,
+   "h": 27,
+   "answer": "Interfaz",
    "level": "clave"
   },
   {
    "id": "b7",
-   "x": 77,
-   "y": 577,
-   "w": 151,
-   "h": 71,
-   "answer": "Interfaz (esbozada)",
+   "x": 81,
+   "y": 614,
+   "w": 143,
+   "h": 31,
+   "answer": "esbozada",
+   "level": "extra"
+  },
+  {
+   "id": "b8",
+   "x": 422,
+   "y": 337,
+   "w": 236,
+   "h": 64,
+   "answer": "Diseñar un subsistema",
    "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 823,
+   "y": 227,
+   "w": 153,
+   "h": 27,
+   "answer": "Subsistema",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 825,
+   "y": 260,
+   "w": 150,
+   "h": 31,
+   "answer": "terminado",
+   "level": "extra"
+  },
+  {
+   "id": "b11",
+   "x": 854,
+   "y": 469,
+   "w": 98,
+   "h": 25,
+   "answer": "Interfaz",
+   "level": "clave"
+  },
+  {
+   "id": "b12",
+   "x": 827,
+   "y": 500,
+   "w": 149,
+   "h": 31,
+   "answer": "terminada",
+   "level": "extra"
   }
  ]
 }

@@ -9,66 +9,93 @@
  "blanks": [
   {
    "id": "b1",
-   "x": 617,
-   "y": 140,
-   "w": 197,
-   "h": 115,
-   "answer": "Componente (esbozado y, posiblemente, asignado a nodos)",
-   "level": "extra"
+   "x": 363,
+   "y": 85,
+   "w": 114,
+   "h": 34,
+   "answer": "Arquitecto",
+   "level": "clave"
   },
   {
    "id": "b2",
-   "x": 94,
-   "y": 125,
-   "w": 102,
-   "h": 49,
+   "x": 96,
+   "y": 127,
+   "w": 98,
+   "h": 45,
    "answer": "Modelo de diseño",
    "level": "clave"
   },
   {
    "id": "b3",
-   "x": 602,
-   "y": 376,
-   "w": 240,
-   "h": 145,
-   "answer": "Descripción de arquitectura (vistas de los modelos de implementación y de despliegue)",
-   "level": "extra"
+   "x": 73,
+   "y": 254,
+   "w": 138,
+   "h": 50,
+   "answer": "Modelo de despliegue",
+   "level": "clave"
   },
   {
    "id": "b4",
-   "x": 2,
-   "y": 396,
-   "w": 276,
-   "h": 114,
-   "answer": "Descripción de arquitectura (vistas de los modelos de diseño y de despliegue)",
-   "level": "extra"
+   "x": 65,
+   "y": 404,
+   "w": 148,
+   "h": 50,
+   "answer": "Descripción de arquitectura",
+   "level": "clave"
   },
   {
    "id": "b5",
-   "x": 308,
-   "y": 249,
-   "w": 222,
-   "h": 73,
+   "x": 10,
+   "y": 453,
+   "w": 260,
+   "h": 49,
+   "answer": "vistas de los modelos de diseño y de despliegue",
+   "level": "extra"
+  },
+  {
+   "id": "b6",
+   "x": 312,
+   "y": 253,
+   "w": 253,
+   "h": 64,
    "answer": "Implementación de la arquitectura",
    "level": "clave"
   },
   {
-   "id": "b6",
-   "x": 367,
-   "y": 89,
-   "w": 111,
-   "h": 30,
-   "answer": "Arquitecto",
+   "id": "b7",
+   "x": 652,
+   "y": 148,
+   "w": 126,
+   "h": 25,
+   "answer": "Componente",
    "level": "clave"
   },
   {
-   "id": "b7",
-   "x": 72,
-   "y": 252,
-   "w": 141,
-   "h": 54,
-   "answer": "Modelo de despliegue",
+   "id": "b8",
+   "x": 625,
+   "y": 172,
+   "w": 181,
+   "h": 74,
+   "answer": "esbozado y, posiblemente, asignado a nodos",
+   "level": "extra"
+  },
+  {
+   "id": "b9",
+   "x": 648,
+   "y": 387,
+   "w": 149,
+   "h": 50,
+   "answer": "Descripción de arquitectura",
    "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 613,
+   "y": 436,
+   "w": 219,
+   "h": 74,
+   "answer": "vistas de los modelos de implementación y de despliegue",
+   "level": "extra"
   }
  ]
 }

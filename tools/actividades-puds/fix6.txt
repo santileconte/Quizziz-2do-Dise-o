@@ -1,0 +1,1 @@
+setp('f26-03',7,'Análisis de la arquitectura',[322,258,122,66])

@@ -9,48 +9,66 @@
  "blanks": [
   {
    "id": "b1",
-   "x": 305,
-   "y": 60,
-   "w": 155,
-   "h": 52,
+   "x": 309,
+   "y": 66,
+   "w": 146,
+   "h": 45,
    "answer": "Ingeniero de componentes",
    "level": "clave"
   },
   {
    "id": "b2",
-   "x": 40,
-   "y": 113,
-   "w": 224,
-   "h": 59,
+   "x": 41,
+   "y": 114,
+   "w": 212,
+   "h": 56,
    "answer": "Realización de caso de uso - análisis",
-   "level": "extra"
+   "level": "clave"
   },
   {
    "id": "b3",
-   "x": 345,
-   "y": 216,
-   "w": 86,
-   "h": 44,
-   "answer": "Analizar una clase",
+   "x": 54,
+   "y": 327,
+   "w": 152,
+   "h": 20,
+   "answer": "Clase del análisis",
    "level": "clave"
   },
   {
    "id": "b4",
-   "x": 558,
-   "y": 212,
-   "w": 156,
-   "h": 49,
-   "answer": "Clase del análisis (terminada)",
-   "level": "clave"
+   "x": 92,
+   "y": 348,
+   "w": 77,
+   "h": 24,
+   "answer": "esbozo",
+   "level": "extra"
   },
   {
    "id": "b5",
-   "x": 52,
-   "y": 325,
-   "w": 156,
-   "h": 49,
-   "answer": "Clase del análisis (esbozo)",
+   "x": 346,
+   "y": 217,
+   "w": 84,
+   "h": 42,
+   "answer": "Analizar una clase",
    "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 560,
+   "y": 214,
+   "w": 152,
+   "h": 20,
+   "answer": "Clase del análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 586,
+   "y": 235,
+   "w": 102,
+   "h": 24,
+   "answer": "terminada",
+   "level": "extra"
   }
  ]
 }

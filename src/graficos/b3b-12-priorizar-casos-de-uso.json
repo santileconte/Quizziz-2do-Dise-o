@@ -1,0 +1,82 @@
+{
+ "title": "Requisitos · Priorizar casos de uso: entradas y resultados",
+ "topic": "B3b · PUDS: entradas y resultados de cada actividad",
+ "order": 12,
+ "width": 664,
+ "height": 368,
+ "fuente": "PUDS, fig. 7.13 · PF, pág. 253 · Celina, pág. 78 · Copia, pág. 219 · Fidanza, pág. 123",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 305,
+   "y": 75,
+   "w": 72,
+   "h": 19,
+   "answer": "Arquitecto",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 98,
+   "y": 93,
+   "w": 110,
+   "h": 33,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 113,
+   "y": 126,
+   "w": 76,
+   "h": 19,
+   "answer": "esbozado",
+   "level": "extra"
+  },
+  {
+   "id": "b4",
+   "x": 109,
+   "y": 190,
+   "w": 79,
+   "h": 32,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 117,
+   "y": 284,
+   "w": 60,
+   "h": 17,
+   "answer": "Glosario",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 263,
+   "y": 188,
+   "w": 127,
+   "h": 37,
+   "answer": "Priorizar casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 474,
+   "y": 189,
+   "w": 117,
+   "h": 36,
+   "answer": "Descripción de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 475,
+   "y": 222,
+   "w": 115,
+   "h": 36,
+   "answer": "vista del modelo de casos de uso",
+   "level": "extra"
+  }
+ ]
+}

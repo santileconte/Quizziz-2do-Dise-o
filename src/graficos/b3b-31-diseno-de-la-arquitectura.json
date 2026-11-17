@@ -1,0 +1,166 @@
+{
+ "title": "Diseño · Diseño de la arquitectura: entradas y resultados",
+ "topic": "B3b · PUDS: entradas y resultados de cada actividad",
+ "order": 31,
+ "width": 799,
+ "height": 599,
+ "fuente": "PUDS, fig. 9.17 · PF, pág. 262 · Celina, pág. 100 · Fidanza, pág. 146",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 24,
+   "y": 58,
+   "w": 160,
+   "h": 45,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 337,
+   "y": 77,
+   "w": 105,
+   "h": 25,
+   "answer": "Arquitecto",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 49,
+   "y": 196,
+   "w": 113,
+   "h": 46,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 51,
+   "y": 324,
+   "w": 106,
+   "h": 45,
+   "answer": "Modelo de análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 18,
+   "y": 446,
+   "w": 171,
+   "h": 49,
+   "answer": "Descripción de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 19,
+   "y": 494,
+   "w": 168,
+   "h": 49,
+   "answer": "vista del modelo de análisis",
+   "level": "extra"
+  },
+  {
+   "id": "b7",
+   "x": 336,
+   "y": 250,
+   "w": 119,
+   "h": 73,
+   "answer": "Diseño de la arquitectura",
+   "level": "clave",
+   "accept": [
+    "Diseñar la arquitectura"
+   ]
+  },
+  {
+   "id": "b8",
+   "x": 617,
+   "y": 58,
+   "w": 117,
+   "h": 22,
+   "answer": "Subsistema",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 620,
+   "y": 81,
+   "w": 111,
+   "h": 26,
+   "answer": "esbozado",
+   "level": "extra"
+  },
+  {
+   "id": "b10",
+   "x": 634,
+   "y": 160,
+   "w": 75,
+   "h": 21,
+   "answer": "Interfaz",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 617,
+   "y": 184,
+   "w": 109,
+   "h": 26,
+   "answer": "esbozada",
+   "level": "extra"
+  },
+  {
+   "id": "b12",
+   "x": 595,
+   "y": 263,
+   "w": 157,
+   "h": 22,
+   "answer": "Clase de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b13",
+   "x": 619,
+   "y": 287,
+   "w": 110,
+   "h": 26,
+   "answer": "esbozada",
+   "level": "extra"
+  },
+  {
+   "id": "b14",
+   "x": 585,
+   "y": 365,
+   "w": 158,
+   "h": 60,
+   "answer": "Modelo de despliegue",
+   "level": "clave"
+  },
+  {
+   "id": "b15",
+   "x": 605,
+   "y": 414,
+   "w": 124,
+   "h": 29,
+   "answer": "esbozado",
+   "level": "extra"
+  },
+  {
+   "id": "b16",
+   "x": 586,
+   "y": 494,
+   "w": 173,
+   "h": 54,
+   "answer": "Descripción de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b17",
+   "x": 549,
+   "y": 543,
+   "w": 245,
+   "h": 54,
+   "answer": "vistas de los modelos de diseño y distribución",
+   "level": "extra"
+  }
+ ]
+}

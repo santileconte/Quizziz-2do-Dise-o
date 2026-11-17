@@ -1,0 +1,7 @@
+setp('f30-06',3,'Modelo de análisis',[64,204,178,26])
+setp('f30-11',0,'Caso de prueba',[79,74,113,22])
+setp('f30-07',2,'Procedimiento de prueba',[88,195,140,53])
+setp('f30-07',6,'Realizar pruebas de integración',[372,252,198,60])
+setp('f30-08',2,'Procedimiento de prueba',[92,193,140,51])
+setp('f30-08',6,'Realizar prueba de sistema',[370,252,186,54])
+setp('f30-09',4,'Evaluar prueba',[376,268,88,64])

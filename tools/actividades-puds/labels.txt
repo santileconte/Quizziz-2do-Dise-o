@@ -1,0 +1,209 @@
+f23-05|Encontrar actores y casos de uso|Requisitos|1
+Analista de sistemas
+Modelo del negocio (o modelo de dominio)
+Requisitos adicionales
+Lista de características
+Encontrar actores y casos de uso
+Modelo de casos de uso (esbozado)
+Glosario
+
+f23-06|Priorizar casos de uso|Requisitos|2
+Arquitecto
+Modelo de casos de uso (esbozado)
+Requisitos adicionales
+Glosario
+Priorizar casos de uso
+Descripción de la arquitectura (vista del modelo de casos de uso)
+
+f23-07|Detallar un caso de uso|Requisitos|3
+Especificador de casos de uso
+Modelo de casos de uso (esbozado)
+Requisitos adicionales
+Glosario
+Detallar un caso de uso
+Caso de uso (detallado)
+
+f23-08|Prototipar la interfaz de usuario|Requisitos|4
+Modelo de casos de uso
+Diseñador de interfaz de usuario
+Requisitos adicionales
+Caso de uso (descrito)
+Glosario
+Prototipar la interfaz de usuario
+Prototipo de interfaz de usuario
+
+f23-09|Estructurar el modelo de casos de uso|Requisitos|5
+Modelo de casos de uso (esbozado)
+Analista de sistemas
+Requisitos adicionales
+Caso de uso (descrito)
+Glosario
+Estructura del modelo de casos de uso|Estructurar el modelo de casos de uso
+Modelo de casos de uso (estructurado)
+
+f26-03|Análisis de la arquitectura|Análisis|1
+Modelo de casos de uso
+Arquitecto
+Requisitos adicionales
+Modelo del negocio (o modelo del dominio)
+Descripción de la arquitectura (vista del modelo de casos de uso)
+Análisis de la arquitectura
+Paquete del análisis (esbozo)
+Clase del análisis (esbozo)
+Descripción de la arquitectura (vista del modelo de análisis)
+
+f26-06|Analizar un caso de uso|Análisis|2
+Modelo de casos de uso
+Ingeniero de casos de uso
+Requisitos adicionales
+Modelo del negocio (o modelo del dominio)
+Descripción de la arquitectura (vista del modelo de análisis)
+Analizar un caso de uso
+Realización de caso de uso - análisis
+Clase del análisis (esbozo)
+
+f26-04|Analizar una clase|Análisis|3
+Ingeniero de componentes
+Realización de caso de uso - análisis
+Clase del análisis (esbozo)
+Analizar una clase
+Clase del análisis (terminada)
+
+f26-05|Analizar un paquete|Análisis|4
+Ingeniero de componentes
+Descripción de la arquitectura (vista del modelo de análisis)
+Paquete del análisis (esbozo)
+Analizar un paquete
+Paquete del análisis (terminado)
+
+f28-06|Diseño de la arquitectura|Diseño|1
+Modelo de casos de uso
+Arquitecto
+Requisitos adicionales
+Modelo de análisis
+Descripción de la arquitectura (vista del modelo de análisis)
+Diseño de la arquitectura
+Subsistema (esbozado)
+Interfaz (esbozada)
+Clase de diseño (esbozada)
+Modelo de despliegue (esbozado)
+Descripción de la arquitectura (vistas de los modelos de diseño y distribución)
+
+f28-05|Diseñar una clase|Diseño|3
+Ingeniero de componentes
+Realización de casos de uso - diseño
+Clase del diseño (esquematizada)
+Interfaz (esquematizada)
+Clase del análisis (completa)
+Diseñar una clase
+Clase del diseño (completa)
+
+f28-07|Diseñar un subsistema|Diseño|4
+Descripción de la arquitectura (vista del modelo de diseño)
+Ingeniero de componentes
+Subsistema (esbozado)
+Interfaz (esbozada)
+Diseñar un subsistema
+Subsistema (terminado)
+Interfaz (terminada)
+
+f29-05|Implementación de la arquitectura|Implementación|1
+Arquitecto
+Modelo de diseño
+Modelo de despliegue
+Descripción de arquitectura (vistas de los modelos de diseño y de despliegue)
+Implementación de la arquitectura
+Componente (esbozado y, posiblemente, asignado a nodos)
+Descripción de arquitectura (vistas de los modelos de implementación y de despliegue)
+
+f29-06|Integrar sistema|Implementación|2
+Requisitos adicionales
+Integrador de sistemas
+Modelo de casos de uso
+Modelo de diseño
+Modelo de implementación (construcciones anteriores)
+Integrar sistema
+Plan de integración de construcciones
+Modelo de implementación (construcciones anteriores)
+
+f29-07|Implementar un subsistema|Implementación|3
+Plan de integración de construcciones
+Ingeniero de componentes
+Descripción de arquitectura (vista del modelo de implementación)
+Subsistema de diseño (diseñado)
+Interfaz (diseñado)
+Implementar un subsistema
+Subsistema de implementación (implementado para una construcción)
+Interfaz (implementado para una construcción)
+
+f29-08|Implementar una clase|Implementación|4
+Ingeniero de componentes
+Clase de diseño (diseñada)
+Interfaz (proporcionada por la clase de diseño)
+Implementar una clase
+Componente (implementado)
+
+f29-09|Realizar prueba de unidad|Implementación|5
+Ingeniero de componentes
+Componente (implementado)
+Interfaz
+Realizar prueba de unidad
+Componente (unidades probadas)
+
+f30-10|Planificar prueba|Prueba|1
+Requisitos adicionales
+Ingeniero de pruebas
+Modelo de casos de uso
+Modelo de análisis
+Modelo de diseño
+Modelo de implementación
+Descripción de arquitectura (vistas arquitectónicas de los modelos)
+Planificar prueba
+Plan de prueba
+
+f30-06|Diseñar prueba|Prueba|2
+Requisitos adicionales
+Ingeniero de pruebas
+Modelo de casos de uso
+Modelo de análisis
+Modelo de diseño
+Modelo de implementación
+Descripción de arquitectura (vistas arquitectónicas de los modelos)
+Plan de prueba (estrategia de prueba y planificación)
+Diseñar prueba
+Caso de prueba
+Procedimiento de prueba
+
+f30-11|Implementar prueba|Prueba|3
+Caso de prueba
+Ingeniero de componentes
+Procedimiento de prueba
+Modelo de implementación (construida para ser probada)
+Implementar prueba
+Componente de prueba
+
+f30-07|Realizar pruebas de integración|Prueba|4
+Caso de prueba
+Ingeniero de pruebas de integración
+Procedimiento de prueba
+Componente de prueba
+Modelo de implementación (construida para ser probada)
+Realizar pruebas de integración
+Defecto
+
+f30-08|Realizar prueba de sistema|Prueba|5
+Caso de prueba
+Ingeniero de pruebas de sistema
+Procedimiento de prueba
+Componente de prueba
+Modelo de implementación (construcción a probar)
+Realizar prueba de sistema
+Defecto
+
+f30-09|Evaluar prueba|Prueba|6
+Ingeniero de pruebas
+Plan de prueba
+Modelo de prueba
+Defecto
+Evaluar prueba
+Evaluación de prueba (para una iteración)

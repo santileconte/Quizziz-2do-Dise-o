@@ -1,0 +1,103 @@
+{
+ "title": "Requisitos · Estructurar el modelo de casos de uso: entradas y resultados",
+ "topic": "B3b · PUDS: entradas y resultados de cada actividad",
+ "order": 15,
+ "width": 808,
+ "height": 513,
+ "fuente": "PUDS, fig. 7.20 · PF, pág. 254 · Celina, pág. 80 · Copia, pág. 220 · Fidanza, pág. 126",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 19,
+   "y": 66,
+   "w": 170,
+   "h": 50,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 45,
+   "y": 118,
+   "w": 117,
+   "h": 27,
+   "answer": "esbozado",
+   "level": "extra"
+  },
+  {
+   "id": "b3",
+   "x": 348,
+   "y": 90,
+   "w": 126,
+   "h": 49,
+   "answer": "Analista de sistemas",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 44,
+   "y": 216,
+   "w": 121,
+   "h": 49,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 35,
+   "y": 349,
+   "w": 132,
+   "h": 24,
+   "answer": "Caso de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 50,
+   "y": 376,
+   "w": 102,
+   "h": 27,
+   "answer": "descrito",
+   "level": "extra"
+  },
+  {
+   "id": "b7",
+   "x": 53,
+   "y": 484,
+   "w": 92,
+   "h": 24,
+   "answer": "Glosario",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 325,
+   "y": 267,
+   "w": 180,
+   "h": 86,
+   "answer": "Estructura del modelo de casos de uso",
+   "level": "clave",
+   "accept": [
+    "Estructurar el modelo de casos de uso"
+   ]
+  },
+  {
+   "id": "b9",
+   "x": 630,
+   "y": 277,
+   "w": 171,
+   "h": 49,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 638,
+   "y": 328,
+   "w": 149,
+   "h": 28,
+   "answer": "estructurado",
+   "level": "extra"
+  }
+ ]
+}

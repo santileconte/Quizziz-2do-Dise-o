@@ -13,7 +13,7 @@ El progreso se guarda en el navegador (localStorage, claves `repaso-dsi:*`).
 
 ## Secciones
 
-1. **Gráficos.** 33 gráficos para completar: los cinco flujos de trabajo del PUDS, el ciclo de vida, las estructuras de Bass, el escenario de calidad, las tácticas, los estilos y las estructuras de los patrones GoF.
+1. **Gráficos.** 56 gráficos para completar: los cinco flujos de trabajo del PUDS, las entradas y resultados de 23 actividades del PUDS (figuras originales del libro con el texto tapado), el ciclo de vida, las estructuras de Bass, el escenario de calidad, las tácticas, los estilos y las estructuras de los patrones GoF.
    - **Estudio**, **Práctica** (corrección al instante, segunda oportunidad, pistas) y **Simulacro** (sin ayudas, con cronómetro).
    - Filtros **Clave**, **Todo** y **Mis errores**. Un concepto queda dominado al acertarlo 2 veces seguidas.
    - **Practicar en serie:** un bloque entero o todo junto.

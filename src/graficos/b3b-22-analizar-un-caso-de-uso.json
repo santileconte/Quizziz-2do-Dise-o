@@ -1,0 +1,109 @@
+{
+ "title": "Análisis · Analizar un caso de uso: entradas y resultados",
+ "topic": "B3b · PUDS: entradas y resultados de cada actividad",
+ "order": 22,
+ "width": 888,
+ "height": 562,
+ "fuente": "PUDS, fig. 8.25 · PF, pág. 258 · Celina, pág. 89",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 61,
+   "y": 67,
+   "w": 194,
+   "h": 48,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 356,
+   "y": 99,
+   "w": 165,
+   "h": 48,
+   "answer": "Ingeniero de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 87,
+   "y": 183,
+   "w": 117,
+   "h": 48,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 43,
+   "y": 305,
+   "w": 198,
+   "h": 27,
+   "answer": "Modelo del negocio",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 25,
+   "y": 331,
+   "w": 232,
+   "h": 27,
+   "answer": "o modelo del dominio",
+   "level": "extra"
+  },
+  {
+   "id": "b6",
+   "x": 52,
+   "y": 444,
+   "w": 177,
+   "h": 51,
+   "answer": "Descripción de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 53,
+   "y": 494,
+   "w": 174,
+   "h": 52,
+   "answer": "vista del modelo de análisis",
+   "level": "extra"
+  },
+  {
+   "id": "b8",
+   "x": 358,
+   "y": 276,
+   "w": 215,
+   "h": 55,
+   "answer": "Analizar un caso de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 669,
+   "y": 161,
+   "w": 174,
+   "h": 58,
+   "answer": "Realización de caso de uso - análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 658,
+   "y": 401,
+   "w": 177,
+   "h": 23,
+   "answer": "Clase del análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 701,
+   "y": 426,
+   "w": 91,
+   "h": 26,
+   "answer": "esbozo",
+   "level": "extra"
+  }
+ ]
+}

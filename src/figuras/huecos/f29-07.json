@@ -5,43 +5,124 @@
  "height": 521,
  "order": 7,
  "fuente": "PF, pág. 267 · Celina, pág. 115 · Fidanza, pág. 159",
- "origen": "ocr",
+ "origen": "manual",
  "blanks": [
   {
    "id": "b1",
-   "x": 394,
-   "y": 15,
-   "w": 177,
-   "h": 102,
-   "answer": "Ingeniero de componentes",
-   "level": "clave"
-  },
-  {
-   "id": "b2",
-   "x": 31,
-   "y": 49,
-   "w": 190,
-   "h": 50,
+   "x": 33,
+   "y": 51,
+   "w": 186,
+   "h": 46,
    "answer": "Plan de integración de construcciones",
    "level": "clave"
   },
   {
+   "id": "b2",
+   "x": 401,
+   "y": 61,
+   "w": 163,
+   "h": 49,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  },
+  {
    "id": "b3",
-   "x": 670,
-   "y": 347,
-   "w": 235,
-   "h": 84,
-   "answer": "Interfaz (implementado para una construcción)",
+   "x": 50,
+   "y": 165,
+   "w": 149,
+   "h": 49,
+   "answer": "Descripción de arquitectura",
    "level": "clave"
   },
   {
    "id": "b4",
-   "x": 69,
-   "y": 457,
-   "w": 109,
-   "h": 53,
-   "answer": "Interfaz (diseñado)",
+   "x": 29,
+   "y": 213,
+   "w": 192,
+   "h": 50,
+   "answer": "vista del modelo de implementación",
+   "level": "extra"
+  },
+  {
+   "id": "b5",
+   "x": 16,
+   "y": 353,
+   "w": 215,
+   "h": 22,
+   "answer": "Subsistema de diseño",
    "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 71,
+   "y": 377,
+   "w": 106,
+   "h": 25,
+   "answer": "diseñado",
+   "level": "extra"
+  },
+  {
+   "id": "b7",
+   "x": 86,
+   "y": 459,
+   "w": 75,
+   "h": 20,
+   "answer": "Interfaz",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 71,
+   "y": 482,
+   "w": 105,
+   "h": 26,
+   "answer": "diseñado",
+   "level": "extra"
+  },
+  {
+   "id": "b9",
+   "x": 411,
+   "y": 245,
+   "w": 150,
+   "h": 58,
+   "answer": "Implementar un subsistema",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 703,
+   "y": 150,
+   "w": 185,
+   "h": 49,
+   "answer": "Subsistema de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b11",
+   "x": 683,
+   "y": 199,
+   "w": 225,
+   "h": 50,
+   "answer": "implementado para una construcción",
+   "level": "extra"
+  },
+  {
+   "id": "b12",
+   "x": 750,
+   "y": 352,
+   "w": 76,
+   "h": 21,
+   "answer": "Interfaz",
+   "level": "clave"
+  },
+  {
+   "id": "b13",
+   "x": 675,
+   "y": 375,
+   "w": 225,
+   "h": 51,
+   "answer": "implementado para una construcción",
+   "level": "extra"
   }
  ]
 }

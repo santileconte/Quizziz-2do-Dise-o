@@ -1,0 +1,73 @@
+{
+ "title": "Análisis · Analizar una clase: entradas y resultados",
+ "topic": "B3b · PUDS: entradas y resultados de cada actividad",
+ "order": 23,
+ "width": 749,
+ "height": 377,
+ "fuente": "PUDS, fig. 8.26 · PF, pág. 259 · Celina, pág. 91 · Fidanza, pág. 135",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 309,
+   "y": 66,
+   "w": 146,
+   "h": 45,
+   "answer": "Ingeniero de componentes",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 41,
+   "y": 114,
+   "w": 212,
+   "h": 56,
+   "answer": "Realización de caso de uso - análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 54,
+   "y": 327,
+   "w": 152,
+   "h": 20,
+   "answer": "Clase del análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 92,
+   "y": 348,
+   "w": 77,
+   "h": 24,
+   "answer": "esbozo",
+   "level": "extra"
+  },
+  {
+   "id": "b5",
+   "x": 346,
+   "y": 217,
+   "w": 84,
+   "h": 42,
+   "answer": "Analizar una clase",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 560,
+   "y": 214,
+   "w": 152,
+   "h": 20,
+   "answer": "Clase del análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 586,
+   "y": 235,
+   "w": 102,
+   "h": 24,
+   "answer": "terminada",
+   "level": "extra"
+  }
+ ]
+}

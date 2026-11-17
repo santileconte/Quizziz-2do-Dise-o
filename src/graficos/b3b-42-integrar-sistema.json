@@ -1,0 +1,103 @@
+{
+ "title": "Implementación · Integrar sistema: entradas y resultados",
+ "topic": "B3b · PUDS: entradas y resultados de cada actividad",
+ "order": 42,
+ "width": 936,
+ "height": 589,
+ "fuente": "PUDS, fig. 10.20 · PF, pág. 267 · Celina, pág. 114 · Fidanza, pág. 158",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 77,
+   "y": 81,
+   "w": 125,
+   "h": 49,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 390,
+   "y": 66,
+   "w": 130,
+   "h": 50,
+   "answer": "Integrador de sistemas",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 56,
+   "y": 254,
+   "w": 175,
+   "h": 50,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 48,
+   "y": 395,
+   "w": 189,
+   "h": 23,
+   "answer": "Modelo de diseño",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 644,
+   "y": 455,
+   "w": 286,
+   "h": 28,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b6",
+   "x": 640,
+   "y": 481,
+   "w": 294,
+   "h": 29,
+   "answer": "construcciones anteriores",
+   "level": "extra"
+  },
+  {
+   "id": "b7",
+   "x": 422,
+   "y": 318,
+   "w": 86,
+   "h": 48,
+   "answer": "Integrar sistema",
+   "level": "clave",
+   "accept": [
+    "Integrar el sistema"
+   ]
+  },
+  {
+   "id": "b8",
+   "x": 661,
+   "y": 196,
+   "w": 220,
+   "h": 59,
+   "answer": "Plan de integración de construcciones",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 3,
+   "y": 526,
+   "w": 286,
+   "h": 28,
+   "answer": "Modelo de implementación",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 0,
+   "y": 553,
+   "w": 293,
+   "h": 28,
+   "answer": "construcciones anteriores",
+   "level": "extra"
+  }
+ ]
+}

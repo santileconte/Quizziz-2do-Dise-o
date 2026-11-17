@@ -1,0 +1,136 @@
+{
+ "title": "Análisis · Análisis de la arquitectura: entradas y resultados",
+ "topic": "B3b · PUDS: entradas y resultados de cada actividad",
+ "order": 21,
+ "width": 729,
+ "height": 548,
+ "fuente": "PUDS, fig. 8.19 · PF, pág. 188 · PF, pág. 257 · Celina, pág. 88 · Fidanza, pág. 134",
+ "blanks": [
+  {
+   "id": "b1",
+   "x": 21,
+   "y": 71,
+   "w": 153,
+   "h": 45,
+   "answer": "Modelo de casos de uso",
+   "level": "clave"
+  },
+  {
+   "id": "b2",
+   "x": 321,
+   "y": 92,
+   "w": 100,
+   "h": 24,
+   "answer": "Arquitecto",
+   "level": "clave"
+  },
+  {
+   "id": "b3",
+   "x": 43,
+   "y": 179,
+   "w": 109,
+   "h": 45,
+   "answer": "Requisitos adicionales",
+   "level": "clave"
+  },
+  {
+   "id": "b4",
+   "x": 9,
+   "y": 288,
+   "w": 182,
+   "h": 24,
+   "answer": "Modelo del negocio",
+   "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 0,
+   "y": 310,
+   "w": 207,
+   "h": 24,
+   "answer": "o modelo del dominio",
+   "level": "extra"
+  },
+  {
+   "id": "b6",
+   "x": 557,
+   "y": 383,
+   "w": 163,
+   "h": 47,
+   "answer": "Descripción de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 559,
+   "y": 429,
+   "w": 160,
+   "h": 48,
+   "answer": "vista del modelo de análisis",
+   "level": "extra"
+  },
+  {
+   "id": "b8",
+   "x": 319,
+   "y": 255,
+   "w": 128,
+   "h": 72,
+   "answer": "Análisis de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b9",
+   "x": 588,
+   "y": 132,
+   "w": 107,
+   "h": 44,
+   "answer": "Paquete del análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b10",
+   "x": 600,
+   "y": 178,
+   "w": 84,
+   "h": 25,
+   "answer": "esbozo",
+   "level": "extra"
+  },
+  {
+   "id": "b11",
+   "x": 558,
+   "y": 256,
+   "w": 163,
+   "h": 21,
+   "answer": "Clase del análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b12",
+   "x": 598,
+   "y": 280,
+   "w": 83,
+   "h": 25,
+   "answer": "esbozo",
+   "level": "extra"
+  },
+  {
+   "id": "b13",
+   "x": 18,
+   "y": 445,
+   "w": 163,
+   "h": 46,
+   "answer": "Descripción de la arquitectura",
+   "level": "clave"
+  },
+  {
+   "id": "b14",
+   "x": 19,
+   "y": 490,
+   "w": 161,
+   "h": 47,
+   "answer": "vista del modelo de casos de uso",
+   "level": "extra"
+  }
+ ]
+}

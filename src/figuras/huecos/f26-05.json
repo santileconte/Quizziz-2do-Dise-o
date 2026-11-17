@@ -5,43 +5,79 @@
  "height": 502,
  "order": 5,
  "fuente": "PF, pág. 259 · Celina, pág. 92 · Fidanza, pág. 136",
- "origen": "ocr",
+ "origen": "manual",
  "blanks": [
   {
    "id": "b1",
-   "x": 343,
-   "y": 92,
-   "w": 192,
-   "h": 63,
+   "x": 346,
+   "y": 95,
+   "w": 186,
+   "h": 57,
    "answer": "Ingeniero de componentes",
    "level": "clave"
   },
   {
    "id": "b2",
-   "x": 381,
-   "y": 291,
-   "w": 131,
-   "h": 62,
-   "answer": "Analizar un paquete",
+   "x": 11,
+   "y": 168,
+   "w": 196,
+   "h": 56,
+   "answer": "Descripción de la arquitectura",
    "level": "clave"
   },
   {
    "id": "b3",
-   "x": 654,
-   "y": 285,
-   "w": 230,
-   "h": 64,
-   "answer": "Paquete del análisis (terminado)",
-   "level": "clave"
+   "x": 14,
+   "y": 224,
+   "w": 191,
+   "h": 56,
+   "answer": "vista del modelo de análisis",
+   "level": "extra"
   },
   {
    "id": "b4",
-   "x": 0,
-   "y": 430,
-   "w": 228,
-   "h": 63,
-   "answer": "Paquete del análisis (esbozo)",
+   "x": 2,
+   "y": 433,
+   "w": 223,
+   "h": 29,
+   "answer": "Paquete del análisis",
    "level": "clave"
+  },
+  {
+   "id": "b5",
+   "x": 65,
+   "y": 462,
+   "w": 99,
+   "h": 28,
+   "answer": "esbozo",
+   "level": "extra"
+  },
+  {
+   "id": "b6",
+   "x": 384,
+   "y": 294,
+   "w": 125,
+   "h": 56,
+   "answer": "Analizar un paquete",
+   "level": "clave"
+  },
+  {
+   "id": "b7",
+   "x": 657,
+   "y": 288,
+   "w": 224,
+   "h": 30,
+   "answer": "Paquete del análisis",
+   "level": "clave"
+  },
+  {
+   "id": "b8",
+   "x": 703,
+   "y": 317,
+   "w": 132,
+   "h": 29,
+   "answer": "terminado",
+   "level": "extra"
   }
  ]
 }
